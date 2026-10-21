@@ -1,4 +1,6 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Lendo o Livro dos Heróis	
+PRESENCE_ADVENTURE_MODE_BOM	Lendo o Livro dos Mercenários	
 PRESENCE_ADVENTURE_MODE_BOT	Olhando o Laboratório do Dr. Cabum	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Desafio de Classe da Montanha Rocha Negra	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Montanha Rocha Negra (Heroica)	
@@ -21,8 +23,189 @@ PRESENCE_ADVENTURE_MODE_NAXX_CLASS_CHALLENGE	Desafio de classe de Naxxramas
 PRESENCE_ADVENTURE_MODE_NAXX_HEROIC	Naxxramas (Heroico)	
 PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	Naxxramas	
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	Fazendo um retorno bem-vindo!	
+PRESENCE_ADVENTURE_MODE_RLK	Presenciando o Passado de Arthas!	
 PRESENCE_ADVENTURE_MODE_TRL	Entrando no ringue...	
 PRESENCE_ADVENTURE_MODE_ULD	Planejando uma expedição	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Convencendo o Arquimago Antônidas	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Educando o Príncipe Kael'thas	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Discutindo com o Príncipe Arthas	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Acalmando Grommash Grito Infernal	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Superando Arquimonde	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Defendendo Theramore	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Cobrando de Thrall	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Expulsando os Fendessol	
+PRESENCE_SCENARIO_BOH10_FIGHT_01	Conhecendo um príncipe	
+PRESENCE_SCENARIO_BOH10_FIGHT_02	Roubando de Taecondrius	
+PRESENCE_SCENARIO_BOH10_FIGHT_03	Saqueando a Tumba de Sargeras	
+PRESENCE_SCENARIO_BOH10_FIGHT_04	Tretando com Malfurion	
+PRESENCE_SCENARIO_BOH10_FIGHT_05	Resgatando Terralém	
+PRESENCE_SCENARIO_BOH10_FIGHT_06	Insultando Anub'arak	
+PRESENCE_SCENARIO_BOH10_FIGHT_07	Duelando com Arthas	
+PRESENCE_SCENARIO_BOH10_FIGHT_08	Sendo traído por Akama	
+PRESENCE_SCENARIO_BOH11_FIGHT_01	Começando a viagem	
+PRESENCE_SCENARIO_BOH11_FIGHT_02	Rechaçando piratas	
+PRESENCE_SCENARIO_BOH11_FIGHT_03	Negociando com Presagancho	
+PRESENCE_SCENARIO_BOH11_FIGHT_04	Consertando o Leviatã	
+PRESENCE_SCENARIO_BOH11_FIGHT_05A	Suportando uma tempestade	
+PRESENCE_SCENARIO_BOH11_FIGHT_05B	Retomando o Vespertino	
+PRESENCE_SCENARIO_BOH11_FIGHT_06	Salvando Capitã Maya	
+PRESENCE_SCENARIO_BOH11_FIGHT_07	Acorrentando o kraken	
+PRESENCE_SCENARIO_BOH11_FIGHT_08	Consertando o Leviatã DE NOVO	
+PRESENCE_SCENARIO_BOH11_FIGHT_09A	Ameaçado murlocs	
+PRESENCE_SCENARIO_BOH11_FIGHT_09B	Numa reunião de família	
+PRESENCE_SCENARIO_BOH11_FIGHT_10A	Discutindo com nagas	
+PRESENCE_SCENARIO_BOH11_FIGHT_10B	Provando seu valor	
+PRESENCE_SCENARIO_BOH11_FIGHT_11	Revivendo o passado	
+PRESENCE_SCENARIO_BOH11_FIGHT_12	Confrontando o presente	
+PRESENCE_SCENARIO_BOH11_FIGHT_13	Aprisionado no Palácio Eterno	
+PRESENCE_SCENARIO_BOH11_FIGHT_14	Consertando o Leviatã FINALMENTE	
+PRESENCE_SCENARIO_BOH11_FIGHT_15	Resistindo contra Zainra	
+PRESENCE_SCENARIO_BOH11_FIGHT_16	Entretendo a Rainha Azshara	
+PRESENCE_SCENARIO_BOH11_PROLOGUE	Recrutando tripulantes	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Cobrando ação	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Convencendo o Chefe Guerreiro	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Fazendo amizade com Misha	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Restaurando a honra de Mogrin	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Investigando com Jaina	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Resgatando Baine Casco Sangrento	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Rechaçando a invasão de Daelin	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Salvando os Mok'Nathal	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Encontrando com a avó	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Debatendo com Rehgar	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Conquistando Nortúndria	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Apagando incêndios em Orgrimmar	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Lutando a Mak'gora	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Atacando Theramore	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Tocando o Sino Divino	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Sitiado em Orgrimmar	
+PRESENCE_SCENARIO_BOH4_FIGHT_01	Impressionando o Arcebispo Faol	
+PRESENCE_SCENARIO_BOH4_FIGHT_02	Defendendo Lordaeron	
+PRESENCE_SCENARIO_BOH4_FIGHT_03	Duelando com Varok Saurfang	
+PRESENCE_SCENARIO_BOH4_FIGHT_04	Destruindo o Portal Negro	
+PRESENCE_SCENARIO_BOH4_FIGHT_05	Salvando aldeões do Mestre de Espadas	
+PRESENCE_SCENARIO_BOH4_FIGHT_06	Resgatando Amparo	
+PRESENCE_SCENARIO_BOH4_FIGHT_07	Andando na Longa Estrada para Stratholme	
+PRESENCE_SCENARIO_BOH4_FIGHT_08	Confrontando Arthas	
+PRESENCE_SCENARIO_BOH5_FIGHT_01	Decepcionando Varian	
+PRESENCE_SCENARIO_BOH5_FIGHT_02	Persuadindo Jaina	
+PRESENCE_SCENARIO_BOH5_FIGHT_03	Negociando a paz com Moira	
+PRESENCE_SCENARIO_BOH5_FIGHT_04	Aprendendo com Velen	
+PRESENCE_SCENARIO_BOH5_FIGHT_05	Escapando das garras de Nazgrim	
+PRESENCE_SCENARIO_BOH5_FIGHT_06	Resolvendo charadas do Rei Macaco	
+PRESENCE_SCENARIO_BOH5_FIGHT_07	Empunhando a Marreta Harmônica	
+PRESENCE_SCENARIO_BOH5_FIGHT_08	Lutando por Lordaeron	
+PRESENCE_SCENARIO_BOH6_FIGHT_01	Treinando para a Arena	
+PRESENCE_SCENARIO_BOH6_FIGHT_02	Exibindo-se para Helka	
+PRESENCE_SCENARIO_BOH6_FIGHT_03	Confrontando assassinos	
+PRESENCE_SCENARIO_BOH6_FIGHT_04	Sendo possuído por um demônio	
+PRESENCE_SCENARIO_BOH6_FIGHT_05	Em negociações diplomáticas	
+PRESENCE_SCENARIO_BOH6_FIGHT_06	Interrogando Garona	
+PRESENCE_SCENARIO_BOH6_FIGHT_07	Enfrentando o Martelo do Crepúsculo	
+PRESENCE_SCENARIO_BOH6_FIGHT_08	Aprendendo segredos na Mansão de Corvoforte	
+PRESENCE_SCENARIO_BOH7_FIGHT_01	Enriquecendo Pantanegro	
+PRESENCE_SCENARIO_BOH7_FIGHT_02	Tornando-se xamã	
+PRESENCE_SCENARIO_BOH7_FIGHT_03	Conversando com um desconhecido	
+PRESENCE_SCENARIO_BOH7_FIGHT_04	Enfrentando Mannoroth	
+PRESENCE_SCENARIO_BOH7_FIGHT_05	Superando Arquimonde	
+PRESENCE_SCENARIO_BOH7_FIGHT_06	Dando cabo do Asa da Morte	
+PRESENCE_SCENARIO_BOH7_FIGHT_07	Detendo Jaina	
+PRESENCE_SCENARIO_BOH7_FIGHT_08	Rebaixando Garrosh	
+PRESENCE_SCENARIO_BOH8_FIGHT_01	Recebendo instrução	
+PRESENCE_SCENARIO_BOH8_FIGHT_02	Enfrentando a Legião Ardente	
+PRESENCE_SCENARIO_BOH8_FIGHT_03	Em uma disputa fraternal	
+PRESENCE_SCENARIO_BOH8_FIGHT_04	Salvando Nordrassil	
+PRESENCE_SCENARIO_BOH8_FIGHT_05	Em outra disputa fraternal	
+PRESENCE_SCENARIO_BOH8_FIGHT_06	Encarando o Pesadelo Esmeralda	
+PRESENCE_SCENARIO_BOH8_FIGHT_07	Protegendo o Monte Hyjal	
+PRESENCE_SCENARIO_BOH8_FIGHT_08	Defendendo Teldrassil	
+PRESENCE_SCENARIO_BOH9_FIGHT_01	Sendo expulso do clã	
+PRESENCE_SCENARIO_BOH9_FIGHT_02	Rogando ao Trono dos Elementos	
+PRESENCE_SCENARIO_BOH9_FIGHT_03	Encontrando Ner'zhul	
+PRESENCE_SCENARIO_BOH9_FIGHT_04	Corrompendo a Horda	
+PRESENCE_SCENARIO_BOH9_FIGHT_05	Sendo recrutado por Medivh	
+PRESENCE_SCENARIO_BOH9_FIGHT_06	Sobrevivendo à ira de Orgrim	
+PRESENCE_SCENARIO_BOH9_FIGHT_07	Reunindo-se com Teron'gor	
+PRESENCE_SCENARIO_BOH9_FIGHT_08	Vasculhando a Tumba de Sargeras	
+PRESENCE_SCENARIO_BOM_FIGHT_01	Lutando com Bru'kan	
+PRESENCE_SCENARIO_BOM_FIGHT_02	Passando com Guff	
+PRESENCE_SCENARIO_BOM_FIGHT_03	Domando um trambolho necrosado	
+PRESENCE_SCENARIO_BOM_FIGHT_04	Caçando um monstro raro	
+PRESENCE_SCENARIO_BOM_FIGHT_05	Juntando estilhaços	
+PRESENCE_SCENARIO_BOM_FIGHT_06	Encarando Duas-tranças	
+PRESENCE_SCENARIO_BOM_FIGHT_07	Procurando Feegly	
+PRESENCE_SCENARIO_BOM_FIGHT_08	Enfrentando Garrosh	
+PRESENCE_SCENARIO_BOM10_FIGHT_01	De luto por um Mercenário	
+PRESENCE_SCENARIO_BOM10_FIGHT_02	Aprendendo com Lor'themar	
+PRESENCE_SCENARIO_BOM10_FIGHT_03	Acompanhando Rei Varian	
+PRESENCE_SCENARIO_BOM10_FIGHT_04	Entrando no Covil de Onyxia	
+PRESENCE_SCENARIO_BOM10_FIGHT_05	Num grupo de Dragonetes	
+PRESENCE_SCENARIO_BOM10_FIGHT_06	Enfrentando a Prolemadre	
+PRESENCE_SCENARIO_BOM10_FIGHT_07	Fugindo de um adversário	
+PRESENCE_SCENARIO_BOM10_FIGHT_08	Negociando com um Naaru	
+PRESENCE_SCENARIO_BOM2_FIGHT_01	Vigiando postos de vigia	
+PRESENCE_SCENARIO_BOM2_FIGHT_02	Ludibriando Serena	
+PRESENCE_SCENARIO_BOM2_FIGHT_03	Conhecendo os nativos	
+PRESENCE_SCENARIO_BOM2_FIGHT_04	Alcançando a cota de hoje	
+PRESENCE_SCENARIO_BOM2_FIGHT_05	Roubando um Retalhador	
+PRESENCE_SCENARIO_BOM2_FIGHT_06	Arrombamento e invasão	
+PRESENCE_SCENARIO_BOM2_FIGHT_07	Trabalhando a oito mãos	
+PRESENCE_SCENARIO_BOM2_FIGHT_08	Segurando um estilhaço de luz	
+PRESENCE_SCENARIO_BOM3_FIGHT_01	Ajudando Hamuul	
+PRESENCE_SCENARIO_BOM3_FIGHT_02	Encontrando uma fenda	
+PRESENCE_SCENARIO_BOM3_FIGHT_03	Combatendo Kolkar	
+PRESENCE_SCENARIO_BOM3_FIGHT_04	Salvando mordeliscas	
+PRESENCE_SCENARIO_BOM3_FIGHT_05	Procurando grupo	
+PRESENCE_SCENARIO_BOM3_FIGHT_06	Enfrentando Mestres da Presa	
+PRESENCE_SCENARIO_BOM3_FIGHT_07	Encontrando Mutanus	
+PRESENCE_SCENARIO_BOM3_FIGHT_08	Negociando com Naralex	
+PRESENCE_SCENARIO_BOM4_FIGHT_01	Protegendo uma paladina	
+PRESENCE_SCENARIO_BOM4_FIGHT_02	Superando exilados	
+PRESENCE_SCENARIO_BOM4_FIGHT_03	Ensaiando uma revanche	
+PRESENCE_SCENARIO_BOM4_FIGHT_04	Montando o grupo	
+PRESENCE_SCENARIO_BOM4_FIGHT_05	Enfrentando a Lâmina Ardente	
+PRESENCE_SCENARIO_BOM4_FIGHT_06	Acampando com Kazakus	
+PRESENCE_SCENARIO_BOM4_FIGHT_07	Lutando contra Cortafogo	
+PRESENCE_SCENARIO_BOM4_FIGHT_08	Enrolado com Tamsin	
+PRESENCE_SCENARIO_BOM5_FIGHT_01	Recapitulando com Kurtrus	
+PRESENCE_SCENARIO_BOM5_FIGHT_02	Pechinchando com Presagancho	
+PRESENCE_SCENARIO_BOM5_FIGHT_03	Atacando Ventobravo	
+PRESENCE_SCENARIO_BOM5_FIGHT_04	Enfrentando amigos	
+PRESENCE_SCENARIO_BOM5_FIGHT_05	Desafiando um Mestre-Queijeiro	
+PRESENCE_SCENARIO_BOM5_FIGHT_06	Chispando Xyrella	
+PRESENCE_SCENARIO_BOM5_FIGHT_07	Apresentando Anetheron	
+PRESENCE_SCENARIO_BOM5_FIGHT_08	Corrompendo Cornélio	
+PRESENCE_SCENARIO_BOM6_FIGHT_01	Treinando com a irmã	
+PRESENCE_SCENARIO_BOM6_FIGHT_02	Duelando com um Caçador de Demônios	
+PRESENCE_SCENARIO_BOM6_FIGHT_03	De volta pra casa	
+PRESENCE_SCENARIO_BOM6_FIGHT_04	Defendendo o Distrito dos Anões	
+PRESENCE_SCENARIO_BOM6_FIGHT_05	Libertando um amigo	
+PRESENCE_SCENARIO_BOM6_FIGHT_06	Atacando Anetheron	
+PRESENCE_SCENARIO_BOM6_FIGHT_07	Misturando com uma Monstruosidade	
+PRESENCE_SCENARIO_BOM6_FIGHT_08	Cuidando da Tamsin	
+PRESENCE_SCENARIO_BOM7_FIGHT_01	Enfrentando Bob	
+PRESENCE_SCENARIO_BOM7_FIGHT_02	Desmascarando o Traidor	
+PRESENCE_SCENARIO_BOM7_FIGHT_03	Lidando com Hogger	
+PRESENCE_SCENARIO_BOM7_FIGHT_04	Escapando	
+PRESENCE_SCENARIO_BOM7_FIGHT_05	Mergulhando nas Minas Mortas	
+PRESENCE_SCENARIO_BOM7_FIGHT_06	Castigando o Sr. Castiga	
+PRESENCE_SCENARIO_BOM7_FIGHT_07	Cozinhando com Cozito	
+PRESENCE_SCENARIO_BOM7_FIGHT_08	Eliminando Edwin	
+PRESENCE_SCENARIO_BOM8_FIGHT_01	Varrendo Vanndar	
+PRESENCE_SCENARIO_BOM8_FIGHT_02	Fuçando Ferrofundo	
+PRESENCE_SCENARIO_BOM8_FIGHT_03	Cuidando da Horda	
+PRESENCE_SCENARIO_BOM8_FIGHT_04	Cozinhando na fogueira	
+PRESENCE_SCENARIO_BOM8_FIGHT_05	No Campo de Disputa	
+PRESENCE_SCENARIO_BOM8_FIGHT_06	Barricando a ponte	
+PRESENCE_SCENARIO_BOM8_FIGHT_07	Descongelando Mercenários	
+PRESENCE_SCENARIO_BOM8_FIGHT_08	Aprendendo o óbvio	
+PRESENCE_SCENARIO_BOM9_FIGHT_01	Lidando com uma Terrolich	
+PRESENCE_SCENARIO_BOM9_FIGHT_02	Limpando fogueiras	
+PRESENCE_SCENARIO_BOM9_FIGHT_03	Encontrando Ichman	
+PRESENCE_SCENARIO_BOM9_FIGHT_04	Pegando velas	
+PRESENCE_SCENARIO_BOM9_FIGHT_05	Ponderando o passado	
+PRESENCE_SCENARIO_BOM9_FIGHT_06	Amordaçando Lokholar	
+PRESENCE_SCENARIO_BOM9_FIGHT_07	Cancelando um conflito	
+PRESENCE_SCENARIO_BOM9_FIGHT_08	Finalizando tudo	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Desvendando um enigma	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Desvendando um enigma	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Desvendando um enigma	
@@ -299,6 +482,10 @@ PRESENCE_SCENARIO_NAXX_NORMAL_SCENARIO_THADDIUS	Enfrentando Thaddius
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_1	Fazendo um retorno bem-vindo!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_2	Fazendo um retorno bem-vindo!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_3	Fazendo um retorno bem-vindo!	
+PRESENCE_SCENARIO_RLK_FIGHT_01	Empunhando Gélido Lamento	
+PRESENCE_SCENARIO_RLK_FIGHT_02	Encontrando o Mentor	
+PRESENCE_SCENARIO_RLK_FIGHT_03	Invadindo Luaprata	
+PRESENCE_SCENARIO_RLK_FIGHT_04	Tomando o Trono de Gelo	
 PRESENCE_SCENARIO_TRL_DUNGEON	Lutando na Arena Gurubashi	
 PRESENCE_SCENARIO_ULD_01_CITY	Explorando a Cidade Perdida	
 PRESENCE_SCENARIO_ULD_01_CITY_HEROIC	Explorando a Cidade Perdida	
@@ -315,7 +502,7 @@ PRESENCE_SCENARIO_ULD_TAVERN_HEROIC	Fazendo compras no Bazar
 PRESENCE_STATUS_ADVENTURE_CHOOSING_MODE	Procurando uma aventura individual	
 PRESENCE_STATUS_ADVENTURE_SCENARIO_PLAYING_GAME	{0}	{0} replaced with the specific scenario string, via PRESENCE_SCENARIO_NAXX_*
 PRESENCE_STATUS_ADVENTURE_SCENARIO_SELECT	{0}	{0} replaced with the adventure mode, via PRESENCE_ADVENTURE_MODE_*, e.g. Naxxramas (Heroic) -- (originally i wanted it to say "Mission Select: Naxxramas Class Challenge" but this got too long for the UI element.)
-PRESENCE_STATUS_ARENA_FORGE	Forjando um Deck da Arena	
+PRESENCE_STATUS_ARENA_FORGE	Montando um Deck da Arena	
 PRESENCE_STATUS_ARENA_GAME	Batalhando na Arena	
 PRESENCE_STATUS_ARENA_IDLE	Passando um tempo na Arena	
 PRESENCE_STATUS_ARENA_PURCHASE	Considerando entrar na Arena	
@@ -327,15 +514,40 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	De bobeira nos Campos de Batalha
 PRESENCE_STATUS_COLLECTION	Dando uma olhada na coleção	
 PRESENCE_STATUS_CRAFTING	Criando alguns cards	
 PRESENCE_STATUS_DECKEDITOR	Criando um deck	
+PRESENCE_STATUS_DUELS_PURCHASE	Pensando em começar uma sessão de Duelos	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Indo para uma Contenda Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Preparando-se para enfrentar um amigo	
 PRESENCE_STATUS_FRIENDLY_GAME	Enfrentando um amigo	
 PRESENCE_STATUS_HUB	Passando um tempo no menu principal	
 PRESENCE_STATUS_LOGIN	Iniciando o jogo	
+PRESENCE_STATUS_MERCENARIES_COLLECTION	Dando uma olhada na coleção de Mercenários	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_GAME	Enfrentando um amigo em Mercenários	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_LOBBY	Preparando-se para enfrentar um amigo	
+PRESENCE_STATUS_MERCENARIES_GAME	Disputando uma partida de Mercenários	
+PRESENCE_STATUS_MERCENARIES_MAP	Explorando um mapa de Mercenários	
+PRESENCE_STATUS_MERCENARIES_PLAY_SCREEN	Escolhendo uma equipe de Mercenários	
+PRESENCE_STATUS_MERCENARIES_QUEUE	Procurando um oponente em Mercenários	
+PRESENCE_STATUS_MERCENARIES_TEAM_EDITOR	Formando uma equipe de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE	De bobeira na Aldeia de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_BUILDING_MANAGER	Na Oficina de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_MAILBOX	No Correio de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_BOUNTIES	Na Mural de Contratos de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_ZONES	No Ponto de Partida de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVP	No Ringue de Luta de Mercenários	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_TASKBOARD	No Quadro de Tarefas de Mercenários	
 PRESENCE_STATUS_PACKOPENING	Abrindo pacotes de cards!!!!	
-PRESENCE_STATUS_PLAY_DECKPICKER	Entrando no Modo Jogo	
-PRESENCE_STATUS_PLAY_GAME	Batalhando no Modo Jogo!	
+PRESENCE_STATUS_PLAY_BATTLEGROUNDS_DUOS	Competir em Dupla de Campos de Batalha!	
+PRESENCE_STATUS_PLAY_CASUAL_CLASSIC	Batalhando no Casual Clássico!	
+PRESENCE_STATUS_PLAY_CASUAL_STANDARD	Batalhando no Casual Padrão!	
+PRESENCE_STATUS_PLAY_CASUAL_TWIST	Batalhando no Casual Imprevisível!	
+PRESENCE_STATUS_PLAY_CASUAL_WILD	Batalhando no Casual Livre!	
+PRESENCE_STATUS_PLAY_DECKPICKER	Entrando no Hearthstone Tradicional	
+PRESENCE_STATUS_PLAY_GAME	Batalhando no Hearthstone Tradicional!	
 PRESENCE_STATUS_PLAY_QUEUE	Procurando um oponente	
+PRESENCE_STATUS_PLAY_RANKED_CLASSIC	Batalhando no Ranqueado Clássico!	
+PRESENCE_STATUS_PLAY_RANKED_STANDARD	Batalhando no Ranqueado Padrão!	
+PRESENCE_STATUS_PLAY_RANKED_TWIST	Batalhando no Ranqueado do Imprevisível!	
+PRESENCE_STATUS_PLAY_RANKED_WILD	Batalhando no Ranqueado Livre!	
 PRESENCE_STATUS_PRACTICE_DECKPICKER	Entrando no Modo de Treinamento	
 PRESENCE_STATUS_PRACTICE_GAME	Treinando contra o Estalajadeiro	
 PRESENCE_STATUS_QUESTLOG	Dando uma olhada no Registro de missões	
@@ -354,6 +566,8 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	Assistindo a uma partida d
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	Assistindo a uma batalha de Naxxramas!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Assistindo a uma batalha de Arena	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Observando os Campos de Batalha	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Testemunhando o Livro dos Heróis	
+PRESENCE_STATUS_SPECTATING_GAME_BOM	Testemunhando o Livro dos Mercenários	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Sendo Parceiro de Laboratório	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Assistindo a uma Prova de Fogovil	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Assistindo a um Desafio de Fogovil	
@@ -366,9 +580,19 @@ PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Assistindo a uma batalha amistosa
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Assistindo a uma Caça aos Monstros	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Assistindo a uma luta contra Hagatha	
 PRESENCE_STATUS_SPECTATING_GAME_LOOT	Assistindo sessão de masmorra	
-PRESENCE_STATUS_SPECTATING_GAME_PLAY	Assistindo a uma batalha no Modo Jogo	
+PRESENCE_STATUS_SPECTATING_GAME_MERCENARIES	Assistindo a uma partida de Mercenários	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY	Assistindo a uma batalha de Hearthstone Tradicional	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_CLASSIC	Assistindo a uma batalha do Casual Clássico	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_STANDARD	Assistindo a uma batalha do Casual Padrão	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_TWIST	Assistindo a uma batalha do Casual Imprevisível	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_WILD	Assistindo a uma batalha do Casual Livre	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_CLASSIC	Assistindo a uma batalha do Ranqueado Clássico	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_STANDARD	Assistindo a uma batalha do Ranqueado Padrão	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_TWIST	Assistindo a uma batalha do Ranqueado do Imprevisível	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_WILD	Assistindo a uma batalha do Ranqueado Livre	
 PRESENCE_STATUS_SPECTATING_GAME_PRACTICE	Assistindo a uma partida de treinamento	
 PRESENCE_STATUS_SPECTATING_GAME_RETURNING_PLAYER_CHALLENGE	Assistindo ao retorno de um amigo!	
+PRESENCE_STATUS_SPECTATING_GAME_RLK	Observando o Prólogo	
 PRESENCE_STATUS_SPECTATING_GAME_TAVERN_BRAWL	Assistindo a uma Contenda de Taverna	
 PRESENCE_STATUS_SPECTATING_GAME_TRL	Assistindo à luta no ringue	
 PRESENCE_STATUS_SPECTATING_GAME_TUTORIAL	Assistindo a uma partida de tutorial	
@@ -383,11 +607,9 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Procurando um oponente para uma Contenda
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Indo para uma Contenda de Taverna	
 PRESENCE_STATUS_TUTORIAL_GAME	Tentando derrotar {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Jogando pela primeira vez	
+PRESENCE_STATUS_VIEWING_JOURNAL	Vendo o diário	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	Aguardando o oponente se reconectar	
 PRESENCE_STATUS_WELCOMEQUESTS	Considerando novas missões!	
-PRESENCE_TUTORIAL_CHO	Andarilho das Lendas Cho	
-PRESENCE_TUTORIAL_HEMET	Rosarães Guima	
-PRESENCE_TUTORIAL_HOGGER	Hogger	
-PRESENCE_TUTORIAL_ILLIDAN	Illidan Tempesfúria	
-PRESENCE_TUTORIAL_MILLHOUSE	Millhouse Manavento	
-PRESENCE_TUTORIAL_MUKLA	Rei Mukla	
+PRESENCE_TUTORIAL_GARROSH	Garrosh Grito Infernal	
+PRESENCE_TUTORIAL_LICH_KING	O Lich Rei	
+PRESENCE_TUTORIAL_REXXAR	Rexxar	

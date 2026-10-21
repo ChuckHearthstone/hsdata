@@ -1,4 +1,6 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Читает «Книгу героев»	
+PRESENCE_ADVENTURE_MODE_BOM	Читает «Книгу наемников»	
 PRESENCE_ADVENTURE_MODE_BOT	Изучает лабораторию	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Классовые испытания Черной горы	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Черная гора (героич.)	
@@ -21,8 +23,189 @@ PRESENCE_ADVENTURE_MODE_NAXX_CLASS_CHALLENGE	Классовые испытани
 PRESENCE_ADVENTURE_MODE_NAXX_HEROIC	Наксрамас (героич.)	
 PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	Наксрамас	
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	Снова гостит в таверне!	
+PRESENCE_ADVENTURE_MODE_RLK	Знакомится с прошлым Артаса!	
 PRESENCE_ADVENTURE_MODE_TRL	Готовится к игрищам...	
 PRESENCE_ADVENTURE_MODE_ULD	Планирует экспедицию	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Уговаривает Антонидаса	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Превосходит принца Кель'таса	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Спорит с принцем Артасом	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Успокаивает Громмаша	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Пробует обхитрить Архимонда	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Защищает Терамор	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Упрекает Тралла	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Изгоняет Похитителей Солнца	
+PRESENCE_SCENARIO_BOH10_FIGHT_01	Встречает принца	
+PRESENCE_SCENARIO_BOH10_FIGHT_02	Обворовывает Тихондрия	
+PRESENCE_SCENARIO_BOH10_FIGHT_03	Грабит гробницу Саргераса	
+PRESENCE_SCENARIO_BOH10_FIGHT_04	Препирается с Малфурионом	
+PRESENCE_SCENARIO_BOH10_FIGHT_05	Спасает Запределье	
+PRESENCE_SCENARIO_BOH10_FIGHT_06	Оскорбляет Ануб'арака	
+PRESENCE_SCENARIO_BOH10_FIGHT_07	Сражается с Артасом	
+PRESENCE_SCENARIO_BOH10_FIGHT_08	Познает вероломство Акамы	
+PRESENCE_SCENARIO_BOH11_FIGHT_01	Отправляется в плавание	
+PRESENCE_SCENARIO_BOH11_FIGHT_02	Отбивается от пиратов	
+PRESENCE_SCENARIO_BOH11_FIGHT_03	Договаривается с Кривоклык	
+PRESENCE_SCENARIO_BOH11_FIGHT_04	Чинит «Левиафан»	
+PRESENCE_SCENARIO_BOH11_FIGHT_05A	Выдерживает бурю	
+PRESENCE_SCENARIO_BOH11_FIGHT_05B	Возвращает «Колокол»	
+PRESENCE_SCENARIO_BOH11_FIGHT_06	Спасает капитана Майю	
+PRESENCE_SCENARIO_BOH11_FIGHT_07	Бичует кракена	
+PRESENCE_SCENARIO_BOH11_FIGHT_08	Чинит «Левиафан»... опять	
+PRESENCE_SCENARIO_BOH11_FIGHT_09A	Угрожает мурлокам	
+PRESENCE_SCENARIO_BOH11_FIGHT_09B	Присутствует на встрече семьи	
+PRESENCE_SCENARIO_BOH11_FIGHT_10A	Спорит с нагами	
+PRESENCE_SCENARIO_BOH11_FIGHT_10B	Доказывает свое мастерство	
+PRESENCE_SCENARIO_BOH11_FIGHT_11	Вспоминает прошлое	
+PRESENCE_SCENARIO_BOH11_FIGHT_12	Сталкивается с настоящим	
+PRESENCE_SCENARIO_BOH11_FIGHT_13	В плену в Вечном дворце	
+PRESENCE_SCENARIO_BOH11_FIGHT_14	Чинит «Левиафан» в последний раз	
+PRESENCE_SCENARIO_BOH11_FIGHT_15	Держится против Зайнры	
+PRESENCE_SCENARIO_BOH11_FIGHT_16	Развлекает королеву Азшару	
+PRESENCE_SCENARIO_BOH11_PROLOGUE	Вербует команду	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Призывает к действию	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Убеждает вождя	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Знакомится с Мишей	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Спасает честь Могрина	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Расследует вместе с Джайной	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Спасает Бейна	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Дает отпор Дэлину	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Спасает Мок'Натал	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Беседует с Великой Матерью	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Спорит с Регаром	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Покоряет Нордскол	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Тушит пожары в Оргриммаре	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Сражается на мак'гора	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Атакует Терамор	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Звонит в Божественный колокол	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Противостоит осаде Оргриммара	
+PRESENCE_SCENARIO_BOH4_FIGHT_01	Впечатляет архиепископа Фаола	
+PRESENCE_SCENARIO_BOH4_FIGHT_02	Защищает Лордерон	
+PRESENCE_SCENARIO_BOH4_FIGHT_03	Сражается с Вароком Саурфангом	
+PRESENCE_SCENARIO_BOH4_FIGHT_04	Уничтожает Темный портал	
+PRESENCE_SCENARIO_BOH4_FIGHT_05	Спасает людей от мастера клинка	
+PRESENCE_SCENARIO_BOH4_FIGHT_06	Спасает Дольный Очаг	
+PRESENCE_SCENARIO_BOH4_FIGHT_07	Идет длинной дорогой в Стратхольм	
+PRESENCE_SCENARIO_BOH4_FIGHT_08	Противостоит Артасу	
+PRESENCE_SCENARIO_BOH5_FIGHT_01	Разочаровывает Вариана	
+PRESENCE_SCENARIO_BOH5_FIGHT_02	Уговаривает Джайну	
+PRESENCE_SCENARIO_BOH5_FIGHT_03	Пытается договориться с Мойрой	
+PRESENCE_SCENARIO_BOH5_FIGHT_04	Обучается у Велена	
+PRESENCE_SCENARIO_BOH5_FIGHT_05	Пытается сбежать от Назгрима	
+PRESENCE_SCENARIO_BOH5_FIGHT_06	Разгадывает загадки Короля обезьян	
+PRESENCE_SCENARIO_BOH5_FIGHT_07	Использует Молот Гармонии	
+PRESENCE_SCENARIO_BOH5_FIGHT_08	Сражается за Лордерон	
+PRESENCE_SCENARIO_BOH6_FIGHT_01	Готовится к бою на Арене	
+PRESENCE_SCENARIO_BOH6_FIGHT_02	Красуется перед Хелькой	
+PRESENCE_SCENARIO_BOH6_FIGHT_03	Противостоит убийцам	
+PRESENCE_SCENARIO_BOH6_FIGHT_04	Попадает под влияние демона	
+PRESENCE_SCENARIO_BOH6_FIGHT_05	Ведет дипломатические переговоры	
+PRESENCE_SCENARIO_BOH6_FIGHT_06	Допрашивает Гарону	
+PRESENCE_SCENARIO_BOH6_FIGHT_07	Сталкивается с Сумеречным Молотом	
+PRESENCE_SCENARIO_BOH6_FIGHT_08	Узнает тайны в поместье Черного Ворона	
+PRESENCE_SCENARIO_BOH7_FIGHT_01	Обогащает Блэкмура	
+PRESENCE_SCENARIO_BOH7_FIGHT_02	Становится шаманом	
+PRESENCE_SCENARIO_BOH7_FIGHT_03	Разговаривает с незнакомцем	
+PRESENCE_SCENARIO_BOH7_FIGHT_04	Бьется с Манноротом	
+PRESENCE_SCENARIO_BOH7_FIGHT_05	Побеждает Архимонда	
+PRESENCE_SCENARIO_BOH7_FIGHT_06	Разбирается со Смертокрылом	
+PRESENCE_SCENARIO_BOH7_FIGHT_07	Останавливает Джайну	
+PRESENCE_SCENARIO_BOH7_FIGHT_08	Свергает Гарроша	
+PRESENCE_SCENARIO_BOH8_FIGHT_01	Получает указания	
+PRESENCE_SCENARIO_BOH8_FIGHT_02	Сражается с Пылающим Легионом	
+PRESENCE_SCENARIO_BOH8_FIGHT_03	Спорит с братом	
+PRESENCE_SCENARIO_BOH8_FIGHT_04	Спасает Нордрассил	
+PRESENCE_SCENARIO_BOH8_FIGHT_05	Снова спорит с братом	
+PRESENCE_SCENARIO_BOH8_FIGHT_06	Борется с Изумрудным Кошмаром	
+PRESENCE_SCENARIO_BOH8_FIGHT_07	Охраняет гору Хиджал	
+PRESENCE_SCENARIO_BOH8_FIGHT_08	Защищает Тельдрассил	
+PRESENCE_SCENARIO_BOH9_FIGHT_01	Вылетает из клана	
+PRESENCE_SCENARIO_BOH9_FIGHT_02	Обращается к Трону Стихий	
+PRESENCE_SCENARIO_BOH9_FIGHT_03	Встречается с Нер'зулом	
+PRESENCE_SCENARIO_BOH9_FIGHT_04	Оскверняет Орду	
+PRESENCE_SCENARIO_BOH9_FIGHT_05	Спасается благодаря Медиву	
+PRESENCE_SCENARIO_BOH9_FIGHT_06	Испытывает гнев Оргрима	
+PRESENCE_SCENARIO_BOH9_FIGHT_07	Воссоединяется с Терон'кровом	
+PRESENCE_SCENARIO_BOH9_FIGHT_08	Ищет гробницу Саргераса	
+PRESENCE_SCENARIO_BOM_FIGHT_01	Сражается с Бру'каном	
+PRESENCE_SCENARIO_BOM_FIGHT_02	Бродит с Гаффом	
+PRESENCE_SCENARIO_BOM_FIGHT_03	Приручает дохлую дубину	
+PRESENCE_SCENARIO_BOM_FIGHT_04	Выслеживает редкого монстра	
+PRESENCE_SCENARIO_BOM_FIGHT_05	Добывает осколки	
+PRESENCE_SCENARIO_BOM_FIGHT_06	Обороняется от Двукоссы	
+PRESENCE_SCENARIO_BOM_FIGHT_07	Ищет Фиглая	
+PRESENCE_SCENARIO_BOM_FIGHT_08	Бьется с Гаррошем	
+PRESENCE_SCENARIO_BOM10_FIGHT_01	Скорбит по союзнику	
+PRESENCE_SCENARIO_BOM10_FIGHT_02	Учится у Лор'темара	
+PRESENCE_SCENARIO_BOM10_FIGHT_03	Беседует с королем Варианом	
+PRESENCE_SCENARIO_BOM10_FIGHT_04	Пробирается в логово Ониксии	
+PRESENCE_SCENARIO_BOM10_FIGHT_05	Берет на себя дракончиков	
+PRESENCE_SCENARIO_BOM10_FIGHT_06	Сражается с Матерью Драконов	
+PRESENCE_SCENARIO_BOM10_FIGHT_07	Убегает от угрозы	
+PRESENCE_SCENARIO_BOM10_FIGHT_08	Налаживает контакт с наару	
+PRESENCE_SCENARIO_BOM2_FIGHT_01	Остерегается дозорных	
+PRESENCE_SCENARIO_BOM2_FIGHT_02	Обманывает Серену	
+PRESENCE_SCENARIO_BOM2_FIGHT_03	Знакомится с местными	
+PRESENCE_SCENARIO_BOM2_FIGHT_04	Выполняет квоту	
+PRESENCE_SCENARIO_BOM2_FIGHT_05	Угоняет крошшер	
+PRESENCE_SCENARIO_BOM2_FIGHT_06	Совершает проникновение со взломом	
+PRESENCE_SCENARIO_BOM2_FIGHT_07	Устраняет восьминогую угрозу	
+PRESENCE_SCENARIO_BOM2_FIGHT_08	Держит осколок Света	
+PRESENCE_SCENARIO_BOM3_FIGHT_01	Помогает Хамуулу	
+PRESENCE_SCENARIO_BOM3_FIGHT_02	Разыскивает расщелину	
+PRESENCE_SCENARIO_BOM3_FIGHT_03	Сражается с кланом Колкар	
+PRESENCE_SCENARIO_BOM3_FIGHT_04	Спасает хрустогрызов	
+PRESENCE_SCENARIO_BOM3_FIGHT_05	Ищет группу	
+PRESENCE_SCENARIO_BOM3_FIGHT_06	Сражается с Повелителями змей	
+PRESENCE_SCENARIO_BOM3_FIGHT_07	Мается с Мутанусом	
+PRESENCE_SCENARIO_BOM3_FIGHT_08	Урезонивает Наралекса	
+PRESENCE_SCENARIO_BOM4_FIGHT_01	Покровительствует паладину	
+PRESENCE_SCENARIO_BOM4_FIGHT_02	Изживает изгоев	
+PRESENCE_SCENARIO_BOM4_FIGHT_03	Репетирует расплату	
+PRESENCE_SCENARIO_BOM4_FIGHT_04	Собирает сообщество	
+PRESENCE_SCENARIO_BOM4_FIGHT_05	Побеждает Пылающий Клинок	
+PRESENCE_SCENARIO_BOM4_FIGHT_06	Куролесит с Казакусом	
+PRESENCE_SCENARIO_BOM4_FIGHT_07	Одолевает Огненный Клинок	
+PRESENCE_SCENARIO_BOM4_FIGHT_08	Тягается силами с Тамсин	
+PRESENCE_SCENARIO_BOM5_FIGHT_01	Координируется с Куртрусом	
+PRESENCE_SCENARIO_BOM5_FIGHT_02	Конкурирует с Кривоклыком	
+PRESENCE_SCENARIO_BOM5_FIGHT_03	Штурмует Штормград	
+PRESENCE_SCENARIO_BOM5_FIGHT_04	Участвует в дружеской драке	
+PRESENCE_SCENARIO_BOM5_FIGHT_05	Состязается с Сыроваром	
+PRESENCE_SCENARIO_BOM5_FIGHT_06	Замахивается на Зиреллу	
+PRESENCE_SCENARIO_BOM5_FIGHT_07	Представляет Анетерона	
+PRESENCE_SCENARIO_BOM5_FIGHT_08	Коверкает Корнелиуса	
+PRESENCE_SCENARIO_BOM6_FIGHT_01	Тренируется с сестрой	
+PRESENCE_SCENARIO_BOM6_FIGHT_02	Сражается с охотником на демонов	
+PRESENCE_SCENARIO_BOM6_FIGHT_03	Возвращается домой	
+PRESENCE_SCENARIO_BOM6_FIGHT_04	Защищает квартал дворфов	
+PRESENCE_SCENARIO_BOM6_FIGHT_05	Освобождает друга	
+PRESENCE_SCENARIO_BOM6_FIGHT_06	Атакует Анетерона	
+PRESENCE_SCENARIO_BOM6_FIGHT_07	Защищается от чудовища	
+PRESENCE_SCENARIO_BOM6_FIGHT_08	Противостоит Тамсин	
+PRESENCE_SCENARIO_BOM7_FIGHT_01	Бьется с Бобом	
+PRESENCE_SCENARIO_BOM7_FIGHT_02	Раскрывает предателя	
+PRESENCE_SCENARIO_BOM7_FIGHT_03	Разбирается с Дробителем	
+PRESENCE_SCENARIO_BOM7_FIGHT_04	Совершает побег	
+PRESENCE_SCENARIO_BOM7_FIGHT_05	Спускается в Мертвые копи	
+PRESENCE_SCENARIO_BOM7_FIGHT_06	Кромсает мистера Каюка	
+PRESENCE_SCENARIO_BOM7_FIGHT_07	Приготавливает пищу с Пирожком	
+PRESENCE_SCENARIO_BOM7_FIGHT_08	Элиминирует Эдвина	
+PRESENCE_SCENARIO_BOM8_FIGHT_01	Воюет с Вандаром	
+PRESENCE_SCENARIO_BOM8_FIGHT_02	Рубится в руднике	
+PRESENCE_SCENARIO_BOM8_FIGHT_03	Орет на ордынцев	
+PRESENCE_SCENARIO_BOM8_FIGHT_04	Колдует у костра	
+PRESENCE_SCENARIO_BOM8_FIGHT_05	На поле брани	
+PRESENCE_SCENARIO_BOM8_FIGHT_06	Марширует по мосту	
+PRESENCE_SCENARIO_BOM8_FIGHT_07	Размораживает наемников	
+PRESENCE_SCENARIO_BOM8_FIGHT_08	Узнает очевидное	
+PRESENCE_SCENARIO_BOM9_FIGHT_01	Противостоит личу ужаса	
+PRESENCE_SCENARIO_BOM9_FIGHT_02	Присматривает за кострами	
+PRESENCE_SCENARIO_BOM9_FIGHT_03	Сражается с Ромеоном	
+PRESENCE_SCENARIO_BOM9_FIGHT_04	Трогает свечи	
+PRESENCE_SCENARIO_BOM9_FIGHT_05	Размышляет о прошлом	
+PRESENCE_SCENARIO_BOM9_FIGHT_06	Укрощает Локолара	
+PRESENCE_SCENARIO_BOM9_FIGHT_07	Останавливает конфликт	
+PRESENCE_SCENARIO_BOM9_FIGHT_08	Завершает начатое	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Решает головоломку	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Решает головоломку	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Решает головоломку	
@@ -299,6 +482,10 @@ PRESENCE_SCENARIO_NAXX_NORMAL_SCENARIO_THADDIUS	Сражается с Тадди
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_1	Снова гостит в таверне!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_2	Снова гостит в таверне!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_3	Снова гостит в таверне!	
+PRESENCE_SCENARIO_RLK_FIGHT_01	Использует Ледяную Скорбь	
+PRESENCE_SCENARIO_RLK_FIGHT_02	Встречается с учителем	
+PRESENCE_SCENARIO_RLK_FIGHT_03	Штурмует Луносвет	
+PRESENCE_SCENARIO_RLK_FIGHT_04	Занимает Ледяной Трон	
 PRESENCE_SCENARIO_TRL_DUNGEON	Бьется на арене Гурубаши	
 PRESENCE_SCENARIO_ULD_01_CITY	Исследует Затерянный город	
 PRESENCE_SCENARIO_ULD_01_CITY_HEROIC	Исследует Затерянный город	
@@ -327,15 +514,40 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	Прогуливается по полям 
 PRESENCE_STATUS_COLLECTION	Просматривает коллекцию	
 PRESENCE_STATUS_CRAFTING	Создает карты	
 PRESENCE_STATUS_DECKEDITOR	Составляет колоду	
+PRESENCE_STATUS_DUELS_PURCHASE	Хочет устроить дуэль	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Находится в режиме Fireside-потасовки	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Готовится сразиться с другом	
 PRESENCE_STATUS_FRIENDLY_GAME	Играет дружеский матч	
 PRESENCE_STATUS_HUB	Находится в главном меню	
 PRESENCE_STATUS_LOGIN	Запускает игру	
+PRESENCE_STATUS_MERCENARIES_COLLECTION	Просматривает коллекцию наемников	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_GAME	Сражается с другом в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_LOBBY	Готовится сразиться с другом	
+PRESENCE_STATUS_MERCENARIES_GAME	Участвует в матче в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_MAP	Исследует карту в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_PLAY_SCREEN	Выбирает команду наемников	
+PRESENCE_STATUS_MERCENARIES_QUEUE	Ищет противника в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_TEAM_EDITOR	Создает команду наемников	
+PRESENCE_STATUS_MERCENARIES_VILLAGE	В лагере наемников	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_BUILDING_MANAGER	В мастерской лагеря наемников	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_MAILBOX	У почтового ящика наемников	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_BOUNTIES	Выбирает поручение в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_ZONES	У точки перехода в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVP	На арене в режиме «Наемники»	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_TASKBOARD	У доски поручений наемников	
 PRESENCE_STATUS_PACKOPENING	Открывает комплекты карт!!!	
-PRESENCE_STATUS_PLAY_DECKPICKER	Находится в режиме игры	
-PRESENCE_STATUS_PLAY_GAME	Сражается в режиме игры!	
+PRESENCE_STATUS_PLAY_BATTLEGROUNDS_DUOS	Соревнуется в «Дуэтах» на полях сражений!	
+PRESENCE_STATUS_PLAY_CASUAL_CLASSIC	Сражается в обычном классическом формате!	
+PRESENCE_STATUS_PLAY_CASUAL_STANDARD	Сражается в обычном стандартном формате!	
+PRESENCE_STATUS_PLAY_CASUAL_TWIST	Сражается в обычном режиме «Твист»!	
+PRESENCE_STATUS_PLAY_CASUAL_WILD	Сражается в обычном вольном формате!	
+PRESENCE_STATUS_PLAY_DECKPICKER	Переходит в традиционный режим	
+PRESENCE_STATUS_PLAY_GAME	Сражается в традиционном режиме!	
 PRESENCE_STATUS_PLAY_QUEUE	В поиске противника	
+PRESENCE_STATUS_PLAY_RANKED_CLASSIC	Сражается в рейтинговом классическом формате!	
+PRESENCE_STATUS_PLAY_RANKED_STANDARD	Сражается в рейтинговом стандартном формате!	
+PRESENCE_STATUS_PLAY_RANKED_TWIST	Сражается в рейтинговом режиме «Твист»!	
+PRESENCE_STATUS_PLAY_RANKED_WILD	Сражается в рейтинговом вольном формате!	
 PRESENCE_STATUS_PRACTICE_DECKPICKER	Находится в режиме тренировки	
 PRESENCE_STATUS_PRACTICE_GAME	Играет против хозяина таверны	
 PRESENCE_STATUS_QUESTLOG	Просматривает журнал заданий	
@@ -354,6 +566,8 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	Наблюдает за м
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	Наблюдает за матчем в Наксрамасе!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Наблюдает за матчем на Арене	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Наблюдает за битвой на полях сражений	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Следит за «Книгой героев»	
+PRESENCE_STATUS_SPECTATING_GAME_BOM	Просматривает «Книгу наемников»	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Помогает в опытах	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Наблюдает за «Испытанием Скверной»	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Наблюдает за испытанием в Запределье	
@@ -366,9 +580,19 @@ PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Наблюдает за дружеск�
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Следит за охотой на монстров	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Следит за боем с Хагатой	
 PRESENCE_STATUS_SPECTATING_GAME_LOOT	Наблюдает за походом в подземелье	
-PRESENCE_STATUS_SPECTATING_GAME_PLAY	Наблюдает за матчем в режиме игры	
+PRESENCE_STATUS_SPECTATING_GAME_MERCENARIES	Наблюдает за игрой в режиме «Наемники»	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY	Наблюдает за матчем в традиционном режиме	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_CLASSIC	Смотрит обычный классический матч	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_STANDARD	Смотрит обычный стандартный матч	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_TWIST	Смотрит обычный матч в режиме «Твист»	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_WILD	Смотрит обычный вольный матч	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_CLASSIC	Смотрит рейтинговый классический матч	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_STANDARD	Смотрит рейтинговый стандартный матч	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_TWIST	Смотрит рейтинговый матч в режиме «Твист»	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_WILD	Смотрит рейтинговый вольный матч	
 PRESENCE_STATUS_SPECTATING_GAME_PRACTICE	Наблюдает за трен. матчем	
 PRESENCE_STATUS_SPECTATING_GAME_RETURNING_PLAYER_CHALLENGE	Наблюдает за матчем вернувшегося друга	
+PRESENCE_STATUS_SPECTATING_GAME_RLK	Смотрит пролог	
 PRESENCE_STATUS_SPECTATING_GAME_TAVERN_BRAWL	Наблюдает за потасовкой	
 PRESENCE_STATUS_SPECTATING_GAME_TRL	Наблюдает за игрищами	
 PRESENCE_STATUS_SPECTATING_GAME_TUTORIAL	Наблюдает за обучающим матчем	
@@ -383,11 +607,9 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Ищет противника для пота
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Находится в режиме потасовки	
 PRESENCE_STATUS_TUTORIAL_GAME	Сражается с {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Впервые запускает игру	
+PRESENCE_STATUS_VIEWING_JOURNAL	Просматривает журнал	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	Ожидает подключения противника	
 PRESENCE_STATUS_WELCOMEQUESTS	Получает новые задания!	
-PRESENCE_TUTORIAL_CHO	Хранителем истории	
-PRESENCE_TUTORIAL_HEMET	Эрнестуэем	
-PRESENCE_TUTORIAL_HOGGER	Дробителем	
-PRESENCE_TUTORIAL_ILLIDAN	Иллиданом	
-PRESENCE_TUTORIAL_MILLHOUSE	Миллхаусом	
-PRESENCE_TUTORIAL_MUKLA	королем Муклой	
+PRESENCE_TUTORIAL_GARROSH	Гаррош Адский Крик	
+PRESENCE_TUTORIAL_LICH_KING	Король-лич	
+PRESENCE_TUTORIAL_REXXAR	Рексар	

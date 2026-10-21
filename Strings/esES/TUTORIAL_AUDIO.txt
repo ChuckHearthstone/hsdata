@@ -128,6 +128,42 @@ VO_BRANN_OPEN_WING_2_03	¡Saludos! ¡Soy Brann Barbabronce, el fundador de la Li
 VO_BRANN_SCARVASH_PREGAME_ALT_06	¡Uldaman está infestada de troggs! ¡Tendremos que abrirnos paso para llegar hasta la cabeza del bastón!	
 VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02	El demonio Pezuña Enferma. Nuestro espécimen más peligroso. Precaución.	
 VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02	Este Curator pide disculpas. Necesita ayuda para recuperar las criaturas.	
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	Me aseguraré de que sigan aquí para la próxima.	
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	Un esbirro menos y una de oro más.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	¡Bien! Hay que mejorar la selección de esbirros.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	¡Eso es! ¡Vamos a subir el nivel!	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	¡Genial! Ahora puedo traer esbirros más potentes.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	¡Esto sí que marcha!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	¡Jo, jo! ¡Vas por la vida triunfando!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	Justo lo que buscabas.	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	Muy buena jugada. Estoy deseando ver cómo acaba esto.	
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	¡Estás haciendo un gran trabajo! Sigue así.	
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	¡A pelear! Tus esbirros atacarán solos, de izquierda a derecha.	
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	¡Así se hace! ¡Eres una auténtica inspiración!	
+VO_DALA_BOSS_99h_Male_Human_General_02	¡Tengo nuevos reclutas para ti!	
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	Tus esbirros lucharán por ti, pero necesitan buen liderazgo.	
+VO_DALA_BOSS_99h_Male_Human_Hire_01	Venga, contrata a uno de estos reclutas.	
+VO_DALA_BOSS_99h_Male_Human_Hire_02	Contrata a un recluta mientras puedas.	
+VO_DALA_BOSS_99h_Male_Human_Idle_02	Gasta con cabeza, ¡pero gasta!	
+VO_DALA_BOSS_99h_Male_Human_Idle_03	Qué delicia es verte trabajar.	
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	¡Esto es «Campos de batalla»! De ocho contendientes, solo uno saldrá triunfante.	
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	Me gusta lo que estás haciendo.	
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	Es bueno tener esbirros en juego.	
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	Y ahora, que empiece a trabajar.	
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	Aquí puedes reclutar nuevos esbirros para la batalla. ¡Elige bien!	
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	Puedes mejorar la taberna para tener acceso a esbirros más poderosos.	
+VO_DALA_BOSS_99h_Male_Human_Triple_01	Si pillas a ese esbirro, tendrás un triple.	
+VO_DALA_BOSS_99h_Male_Human_Triple_02	Parece que puedes conseguir un triple.	
+VO_DALA_BOSS_99h_Male_Human_Triple_03	¡Oye, un triple! Toma tu recompensa.	
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	Deberías mejorar la taberna ahora para no quedarte atrás respecto a tus rivales.	
+VO_DEATH_KNIGHT_DECK_BUILDING_CAN_ADD_ANY_RUNE	Ahora puedes añadir runas de cualquier tipo a tu mazo.	
+VO_DEATH_KNIGHT_DECK_BUILDING_CANNOT_ADD_RUNES	Puedes añadir cartas de runas incompatibles al crear un mazo, pero solo es válido para jugar si cumple todos los requisitos de runas.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_1	Todo lo que soy: ira, crueldad, venganza… Te lo confiero a ti, caballero de la Muerte elegido.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_2	¡Como mi adalid inmortal, anunciarás una nueva era oscura para la PLAGA!	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_3	Y empezarás creando tu primer mazo de caballero de la Muerte.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_4	La mayoría de las cartas de caballero de la Muerte tienen una runa asociada: de sangre, de escarcha o profana.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_5	Tu mazo tiene tres espacios disponibles para runas. Puedes usar runas de un mismo tipo, una de cada o cualquier combinación.	
+VO_DEATH_KNIGHT_DECK_BUILDING_TRIPLE_RUNES	Las cartas con tres runas iguales son extremadamente poderosas, pero no puedes añadir cartas con otro tipo de runa a tu mazo.	
 VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04	¡Los naga tienen a Finley! ¡Aprisa, debemos salvarlo!	
 VO_ELISE_STAFF_CLICK_DONE_65	¡El Bastón de los Orígenes! ¡Gracias a tu heroísmo, el bastón al completo descansa en la Sala de los Expedicionarios.	
 VO_ELISE_STAFF_CLICK_EARLY_64	¡Por fin tenemos una pista sobre el Bastón de los Orígenes! ¡Sería una pieza clave para el museo!	
@@ -137,17 +173,23 @@ VO_ELISE_WING_4_OPEN_08	Rafaam ha robado el bastón y ahora controla el museo. �
 VO_ILLIDAN_RETURNING_PLAYER_MISSION_INTRO	Fue hace 10 000 años, más o menos…	
 VO_ILLIDAN_RETURNING_PLAYER_QUEST1	Explora mis recuerdos de tres combates y recibirás una recompensa.	
 VO_INNKEEPER_1ST_HUB_06	Puedes desbloquear héroes en el modo Práctica.	
+VO_INNKEEPER_2v2_ALLY_DEFEATED	Tu aliado ha sufrido una derrota.	
+VO_INNKEEPER_2v2_ALLY_OPPONENT_DEFEATED	¡El oponente de tu aliado ha sufrido una derrota!	
+VO_INNKEEPER_2v2_PORTAL_PASS_TUTORIAL	¡Usa el portal para Pasar cartas a tu aliado!	
 VO_INNKEEPER_ARENA_1ST_REWARD	¡Buen trabajo! Si has ahorrado suficiente oro, vuelve a probar suerte en la Arena.	
 VO_INNKEEPER_ARENA_3RD_LOSS	Esta es tu tercera derrota. Usa tu llave de premio para ver qué has ganado.	
 VO_INNKEEPER_BASIC_DONE1_11	¡Has conseguido todas las cartas básicas de esta clase!	
 VO_INNKEEPER_BASIC_DONE2_12	¡Ahora te harán falta sobres de cartas para mejorar tu mazo!	
+VO_INNKEEPER_CLASSIC_DECK_WARNING	Ese mazo solo sirve para partidas clásicas.	
+VO_INNKEEPER_CLASSIC_PLAY_CLASSIC_MODE_ONLY	Si creas un mazo clásico, ¡solo podrás usarlo en el modo clásico!	
+VO_INNKEEPER_CLASSIC_TAKES_YOU_BACK_ORIGINAL_HEARTHSTONE	El modo clásico te lleva al Hearthstone original.	
 VO_INNKEEPER_CM_DECK_FINISH_30	Ese mazo tiene buena pinta. ¡Ponlo a prueba!	
 VO_INNKEEPER_CM_LCLICK	Haz clic derecho en una carta para verla de cerca.	
 VO_INNKEEPER_CM_LCLICK_HERO	Haz clic derecho en un héroe para verlo mejor.	
 VO_INNKEEPER_CM_NEW_INNKEEPER_DECK	Toma, ¡he creado un mazo, por si quieres probarlo!	
 VO_INNKEEPER_CM_PAGEFLIP_28	Toca el borde de una página para hojear tu colección.	
 VO_INNKEEPER_CM_UNOWNED_29	Estas son las cartas que todavía no tienes. Para conseguirlas, ¡juega contra jugadores reales!	
-VO_INNKEEPER_CM_WELCOME	¡Te doy la bienvenida al Gestor de colecciones! Aquí puedes editar tu mazo para añadir tus nuevas cartas.	
+VO_INNKEEPER_CM_WELCOME	¡Te doy la bienvenida al Gestor de la colección! Aquí puedes editar tu mazo para añadir tus nuevas cartas.	
 VO_INNKEEPER_COIN_INTRO	Juegas en segundo lugar, así que tienes la moneda. ¡Úsala bien!	
 VO_INNKEEPER_DISENCHANT_31	¡Puedes desencantar cartas que no te hacen falta para crear otras que sí!	
 VO_INNKEEPER_EXPERT_AI_10	¡Has desbloqueado oponentes de nivel experto! No tendrán piedad de ti...	
@@ -172,6 +214,7 @@ VO_INNKEEPER_PRACTICE_INST1_07	Para desbloquear héroes, primero tienes que derr
 VO_INNKEEPER_PRACTICE_INST2_08	Yo, personalmente, elegiría a Uther, el paladín.	
 VO_INNKEEPER_RETURNING_PLAYER_INNKEEPER_CHALLENGE_INTRO	¡Hay tres contendientes que te están esperando!	
 VO_INNKEEPER_RETURNING_PLAYER_QUEST1	He preparado tres misiones para que te pongas en marcha. ¡Aquí tienes la primera!	
+VO_INNKEEPER_STANDARD_DECK_WARNING	Ese mazo solo sirve para partidas estándares.	
 VO_INNKEEPER_STEALTH_TAUNT3_22	Mientras están en sigilo, los esbirros no pueden Provocar.	
 VO_INNKEEPER_TAVERNBRAWL_DESC1_29	¡Hay nuevas reglas cada semana!	
 VO_INNKEEPER_TAVERNBRAWL_DESC2_30	¡Hay nuevas reglas disparatadas cada semana!	
@@ -179,6 +222,7 @@ VO_INNKEEPER_TAVERNBRAWL_PUSH_32	Tú, ¿has probado ya la pelea de taberna?
 VO_INNKEEPER_TAVERNBRAWL_WELCOME1_27	¡Estás en la pelea de taberna!	
 VO_INNKEEPER_TOURNY_END_15	¡El torneo semanal ha terminado!	
 VO_INNKEEPER_TOURNY_END1_27	Tu medallero se ha reiniciado, así que esta semana puedes volver a ganar medallas y sobres.	
+VO_INNKEEPER_TWIST_DECK_WARNING	Ese mazo solo sirve para partidas de Giro.	
 VO_INNKEEPER_UNLOCKED_ALL_HEROES	¡Bien hecho! ¡Has desbloqueado a los nueve héroes!	
 VO_INNKEEPER_UNRANKED_16	Las partidas sin rango no afectan a tu clasificación, pero tampoco ganarás premios.	
 VO_INNKEEPER_WILD_DECK_WARNING	Ese mazo solo sirve para partidas salvajes.	
@@ -280,3 +324,83 @@ VO_TUTORIAL_01_ANNOUNCER_02	¿Quién aceptará este desafío?
 VO_TUTORIAL_01_ANNOUNCER_03	¡Oh! ¡El azote de Elwynn! ¡Hogger, el gnoll!	
 VO_TUTORIAL_01_ANNOUNCER_04	¡Acercaos, venid a ver!	
 VO_TUTORIAL_01_ANNOUNCER_05	¡Que empiece el combate!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_01	Gánatelo, humana enclenque.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_02	¡Demostraré que soy el mejor acabando CONTIGO!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnArmorUp_01	¡Ja! Tus hechizos no son rivales para mis armas y armadura.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnFieryWarAxePlayed_01	Saluda a mi amigote.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnSpellPlayed_01	Mi armadura puede resistir cualquier hechizo.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_01	¡No tardaré en terminar con esto!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_02	¡Soy imparable!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_03	¡Guerreros! ¡A por ella!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_04	¡Siente mi FURIA!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_05	¡POR LA HORDA!	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_FULL_MINIONS_01	Mi tablero está lleno. No puedo jugar más esbirros.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_GENERIC_01	No puedo hacerlo.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_HEROPOWER_01	Solo puedo usar mi poder de héroe una vez por turno.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NEEDMANA_01	No tengo suficiente maná.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NOMANA_01	Mis cristales de maná se recuperarán en el siguiente turno. Entonces podré jugar más cartas.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_PLAY_01	Todavía no puedo jugar esa carta.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_SUMMON_SICKNESS_01	Ese esbirro necesita un turno para prepararse.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TARGET_01	Para jugar esa carta necesito un objetivo.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TAUNT_01	Primero tengo que atacar a los esbirros con Provocar.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD_01	Necesito jugar algunos esbirros.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD2_01	¡Estoy indefensa!	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_FULLBOARD_01	¡Hay muchos esbirros! Tengo que ocuparme de ellos primero.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_SPECIALMINION_01	Tengo que encontrar la forma de neutralizar ese esbirro.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_GARROSH_01	¡Garrosh está expuesto! Debería derribarlo primero.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_LICHKING_01	El Rey Exánime es fuerte, debería centrarme en derrotarlo.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_REXXAR_01	Debería centrarme en acabar con Rexxar...	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SECOND_MINION_01	¡Otro esbirro! Justo lo que necesitaba.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SPELL_01	¡Una carta de hechizo! Solo puede usarse una vez, así que tengo que usarla bien...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_01	Tienes las cartas que busco, Rexxar.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_02	Las necesito para derrotar al Rey Exánime.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_03	Rexxar, necesito tus cartas para derrotar al Rey Exánime.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_04	El poder del Rey Exánime no para de crecer. Préstame tu fuerza.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_05	Garrosh, no puedo perder más tiempo.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_06	¡Tu reino del miedo termina aquí, Rey Exánime!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_07	Pero yo recibo una carta adicional.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawAOESpell_01	Esa carta será perfecta para lidiar con sus esbirros.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawFireball_01	Un hechizo de Fuego, justo lo que necesitaba.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawLegendary_01	¡Es una carta legendaria! Qué fuerte es...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyFullBoard_01	Con un hechizo puedo limpiar el tablero.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyMinionsFrozen_01	Ahora sus esbirros no pueden atacar.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnNoTauntMinions_01	Necesito otro esbirro con Provocar para defenderme de sus ataques.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedHuffer_01	Es grande, será mejor que me encargue de él.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedKingKrush_01	Podría ser un problema.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayToMySide_01	¿Más esbirros? Pero ¿cuántas bestias tiene...?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_01	¡Un esbirro! Debería jugarlo y poner esto en marcha.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_02	La salud de Rexxar es baja. ¡Puedo acabar con él!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_03	Te tengo justo donde quería. 	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_04	¡Sus esbirros son demasiado rápidos!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_05	Tengo algunos trucos bajo la manga.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_06	Necesito frenarlo...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_07	¡Ya es hora de acabar con esto!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_08	¡Un esbirro con Provocar! Eso debería tenerlo un rato bloqueado.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_09	¡Purgaré tus esbirros con fuego!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_10	Esta vez no.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_11	¿Cómo está invocando tantos esbirros?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_12	Solo necesito aguantar un poco más...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_01	¡Gané! Ahora vamos a por la siguiente batalla.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_02	Ahora comienza la batalla final.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_03	Se acabó, pero hay muchas más batallas que librar...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_04	¡Lo he conseguido! Por fin puedo jugar al juego en serio.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_01	Ese mazo es débil; fracasarás.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_02	El frío se te mete en el alma. Empiezo yo primero.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostmournePlayed_01	La Agonía de Escarcha está hambrienta.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostwyrmsFuryPlayed_01	Yo también domino el poder de la Escarcha.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_01	Has aprendido algunos trucos nuevos, pero no te servirán de nada.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_02	El final es inevitable.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_03	Has congelado a mis guerreros. ¡Qué frialdad!	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_04	¡ALZAOS, MIS ESBIRROS!	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_FirstHeroPower_01	La Plaga se alza.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_01	Esos pertenecen al modo salvaje.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_02	<_Gruñido_> ¡Pues que comience la cacería!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_03	<_Gruñido_> ¡Que comience la caza!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_04	Soy Rexxar, el cazador.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_05	Uso bestias y hechizos para atacar de forma agresiva.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCharge_01	Ese esbirro tiene Cargar. Puede atacar a cualquier enemigo en el turno que se juegue.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCompanion_01	Misha, Leokk, Bufar, ¡venid conmigo!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedArcaneShot_01	Te tengo en el punto de mira.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedStonetuskBoar_01	Mis compañeros los jabalíes pondrán fin a esta lucha rápidamente.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayRush_01	Ese esbirro tiene Embestir. Puede atacar a un esbirro en el turno que se juegue.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayUnleash_01	¡Soltad a los perros!	

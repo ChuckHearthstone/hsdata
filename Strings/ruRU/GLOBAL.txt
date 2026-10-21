@@ -1,16 +1,70 @@
 TAG	TEXT	COMMENT
+BATTLEGROUNDS_PROGRESSION_QUEST_TIME_UNTIL_NEXT	Новое задание через\n{0}	
+GLOBAL_AADC_BUTTON_PRIVACY	Конфиденциальность	
+GLOBAL_AADC_BUTTON_PRIVACYSETTINGS	Настройки конфиденциальности	
+GLOBAL_AADC_CHATSETTINGS_DISABLEDESCRIPTION	Отключив чат, вы потеряете возможность обмениваться сообщениями с друзьями.	
+GLOBAL_AADC_CHATSETTINGS_DISABLEHEADER	Отключить чат?	
+GLOBAL_AADC_CHATSETTINGS_ENABLEDESCRIPTION	Включив чат, вы сможете обмениваться сообщениями с друзьями. Ведите себя осмотрительно и не делитесь личной информацией.	
+GLOBAL_AADC_CHATSETTINGS_ENABLEHEADER	Включить чат?	
+GLOBAL_AADC_CHATSETTINGS_SETTINGSUPDATED	Настройки чата изменены	
+GLOBAL_AADC_CHATSETTINGS_TITLE	Настройки чата	
+GLOBAL_AADC_CHATSETTINGS_UPDATINGSETTINGS	Изменение настроек чата	
+GLOBAL_AADC_CHATWARNING	Старайтесь вести себя осмотрительно и не упоминать личную информацию в сообщениях.	
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEDESCRIPTION	Если отключить этот параметр, игроки рядом с вами не будут видеть ваши действия в вашем списке друзей.	
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEHEADER	Отключить отслеживание игроков поблизости?	
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEDESCRIPTION	Если вы включите отслеживание игроков поблизости, игроки рядом с вами будут видеть ваши действия в списке друзей.	
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEHEADER	Включить отслеживание игроков поблизости?	
+GLOBAL_AADC_FRIENDSETTINGS_SETTINGSUPDATED	Список игроков поблизости обновлен	
+GLOBAL_AADC_FRIENDSETTINGS_TITLE	Параметры друзей	
+GLOBAL_AADC_FRIENDSETTINGS_TURN_OFF_BUTTON	Отключить	
+GLOBAL_AADC_FRIENDSETTINGS_TURN_ON_BUTTON	Включить	
+GLOBAL_AADC_FRIENDSETTINGS_UPDATINGSETTINGS	Обновление списка игроков поблизости	
+GLOBAL_AADC_NEARBY_PLAYER_SETTINGS_TITLE	Ближайшие игроки	
+GLOBAL_AADC_PARENTALLOCK_DESCRIPTION	Прежде чем вы сможете изменить настройки, ваш родитель или опекун должен изменить ваши настройки конфиденциальности в Battle.net.	
+GLOBAL_AADC_PRIVACYSETTINGSMENU_PRIVACYRIGHTS	Права доступа	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_LOCATIONSETTINGS	Включение настройки геоданных	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_PUSHNOTIFICATIONS	Включение Push-уведомлений	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_OFFERS_ROW	Управление настройками	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_DEVICE	Настройки устройства	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_OFFERS	Персональные предложения	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_SOCIAL	Настройки социальных возможностей	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_CHATMESSAGES	Включение сообщений чата	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_NEARBYFRIENDS	Отслеживать игроков поблизости	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_SPECIALOFFERS	Включить индивидуальные предложения в магазине	
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEDESCRIPTION	Отключив Push-уведомления, вы не будете получать уведомления Hearthstone на вашем устройстве.	
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEHEADER	Отключить Push-уведомления	
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEDESCRIPTION	Включив Push-уведомления, вы будете получать уведомления Hearthstone на вашем устройстве.	
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEHEADER	Включить Push-уведомления	
+GLOBAL_AADC_PUSHNOTIFICATIONS_SETTINGSUPDATED	Настройки уведомлений изменены	
+GLOBAL_AADC_PUSHNOTIFICATIONS_TITLE	Настройки уведомлений	
+GLOBAL_AADC_PUSHNOTIFICATIONS_UPDATINGSETTINGS	Изменение настроек уведомлений	
+GLOBAL_AADC_SHOPSETTINGS_DISABLEDESCRIPTION	В случае отключения индивидуальных предложений в магазине вам больше не будут предлагаться товары, специально подобранные с учетом ваших действий в игре.	
+GLOBAL_AADC_SHOPSETTINGS_DISABLEHEADER	Отключить индивидуальные предложения	
+GLOBAL_AADC_SHOPSETTINGS_ENABLEDESCRIPTION	Если включить индивидуальные предложения в магазине, вам будут предлагаться товары, специально подобранные с учетом ваших действий в игре.	
+GLOBAL_AADC_SHOPSETTINGS_ENABLEHEADER	Включить индивидуальные предложения	
+GLOBAL_AADC_SHOPSETTINGS_SETTINGSUPDATED	Настройки магазина изменены	
+GLOBAL_AADC_SHOPSETTINGS_TITLE	Настройки магазина	
+GLOBAL_AADC_SHOPSETTINGS_UPDATINGSETTINGS	Изменение настроек магазина	
+GLOBAL_AADC_UPDATESETTINGSPOPUP_DESCRIPTION	Вам доступна возможность изменения всех настроек устройства, включая настройки чата, магазина и индивидуальных предложений.	
+GLOBAL_AADC_UPDATESETTINGSPOPUP_TITLE	Настройки изменены	
 GLOBAL_ACCOUNT	Учетная запись	
+GLOBAL_ACCOUNT_LINKING_CONFIRM_LINKED	Учетная запись привязана!	
+GLOBAL_ACCOUNT_LINKING_CONFIRM_WAITING	Скоро будет готово...	
 GLOBAL_ADDFRIEND_BUTTON	Добавить друга	
 GLOBAL_ADDFRIEND_ERROR_ALREADY_FRIEND	Этот игрок уже находится в вашем списке друзей.	
 GLOBAL_ADDFRIEND_ERROR_MALFORMED	Введите электронный адрес или Battle Tag.	
-GLOBAL_ADDFRIEND_HEADER	Добавить друга	
+GLOBAL_ADDFRIEND_ERROR_MALFORMED_CN	Необходимо ввести BattleTag.	
+GLOBAL_ADDFRIEND_HEADER	Добавить друга в <color=#5ecaf0ff>Battle.net</color>	
 GLOBAL_ADDFRIEND_INSTRUCTION	Укажите BattleTag или адрес электронной почты.	
+GLOBAL_ADDFRIEND_INSTRUCTION_CN	Введите BattleTag.	
 GLOBAL_ADDFRIEND_SENT_CONFIRMATION	Запрос на добавление в друзья отправлен.	
 GLOBAL_ADVENTURE_CHOOSE_BUTTON_TEXT	Выбрать	
 GLOBAL_ADVENTURE_DESC_HEADER	Приключения	
 GLOBAL_ADVENTURE_TRAY_HEADER	Выберите приключение	
 GLOBAL_APPROXIMATE_DATETIME	~{0}	0=time string
 GLOBAL_APPROXIMATE_DATETIME_RANGE	~{0} – {1}	0=min seconds 1=max seconds string
+GLOBAL_ARENA	Арена	
+GLOBAL_ARENA_ERROR_NOT_ENOUGH_CLASSES	Чтобы участвовать в матчах на Арене, нужно открыть хотя бы три класса.	
 GLOBAL_ARENA_MEDAL_0	Ключ новичка	
 GLOBAL_ARENA_MEDAL_1	Ключ ученика	
 GLOBAL_ARENA_MEDAL_10	Ледяной ключ	
@@ -25,6 +79,9 @@ GLOBAL_ARENA_MEDAL_7	Алмазный ключ
 GLOBAL_ARENA_MEDAL_8	Ключ чемпиона	
 GLOBAL_ARENA_MEDAL_9	Рубиновый ключ	
 GLOBAL_ARENA_SEASON_ERROR_NOT_ACTIVE	Данный режим Арены более недоступен. Пожалуйста, повторите попытку через несколько минут.	
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC	Одержите {0} |4(победу,победы,побед), чтобы получить шанс выиграть эти награды!	
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC_WITH_LOSSES	Одержите {0} |4(победу,победы,побед) при максимум {1} поражениях, чтобы получить шанс выиграть эти награды!	
+GLOBAL_ASSEMBLE_UI_HEADER	Выберите одну замену                                                                                                                                                                                                                                        	
 GLOBAL_ASSET_DOWNLOAD	Загрузка данных	
 GLOBAL_ASSET_DOWNLOAD_ALERT	Загрузка данных во время игры отключена.	
 GLOBAL_ASSET_DOWNLOAD_AWAITING_FETCH	Идет поиск обновлений...	
@@ -47,6 +104,7 @@ GLOBAL_ASSET_DOWNLOAD_ERROR_AGENT_IMPEDED	Медленное подключен�
 GLOBAL_ASSET_DOWNLOAD_ERROR_CELLULAR_DISABLED	Загрузка данных по мобильной связи отключена	
 GLOBAL_ASSET_DOWNLOAD_ERROR_DOWNLOAD_DISABLED	Загрузка отключена	
 GLOBAL_ASSET_DOWNLOAD_ERROR_OUT_OF_STORAGE	Недостаточно места	
+GLOBAL_ASSET_DOWNLOAD_FIRST_DOWNLOAD_BODY	Требуется загрузка данных — {0}\n\nHearthstone необходимо загрузить дополнительные материалы, чтобы вам были доступны все возможности игры.	
 GLOBAL_ASSET_DOWNLOAD_GIGABYTE_SYMBOL	ГБ	
 GLOBAL_ASSET_DOWNLOAD_INTENTION_PAUSED	{0} (пауза)	
 GLOBAL_ASSET_DOWNLOAD_IOS_REQ_POPUP_BODY	Доступно обновление. Загрузить оставшиеся данные ({0})?	
@@ -61,6 +119,7 @@ GLOBAL_ASSET_DOWNLOAD_STATUS_SHORT	{0} (скорость: {1}/сек.)
 GLOBAL_ASSET_INTENTION_DONE	Готово	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_EXPANSION_MUSIC	Доп. звуки (2/3)	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_FONTS	Шрифты	
+GLOBAL_ASSET_INTENTION_DOWNLOADING_HERO_MUSIC	Геройская музыка	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_HIGH_RES_PORTRAITS	Карты в HD	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_LEGEND_STINGERS	Доп. звуки (1/3)	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_MINION_PLAY_SOUNDS	Звуковые эффекты существ	
@@ -80,16 +139,32 @@ GLOBAL_BUTTON_AWESOME	Ура!
 GLOBAL_BUTTON_BUY	КУПИТЬ	
 GLOBAL_BUTTON_CLOSE	Закрыть	
 GLOBAL_BUTTON_CONVERT	Преобразовать	
+GLOBAL_BUTTON_DOWNLOAD	Загрузка	
 GLOBAL_BUTTON_GO	Вперед!	
+GLOBAL_BUTTON_GOT_IT	Понятно!	
 GLOBAL_BUTTON_INFO_LETTER	i	
+GLOBAL_BUTTON_LATER	Пока!	
+GLOBAL_BUTTON_MORE_INFO	Подробнее	
 GLOBAL_BUTTON_NEXT	Далее	
 GLOBAL_BUTTON_NO	Нет	
 GLOBAL_BUTTON_NOT_NOW	Позже	
 GLOBAL_BUTTON_OK	ОК	
 GLOBAL_BUTTON_OR	ИЛИ	
 GLOBAL_BUTTON_OWNED	В коллекции	
+GLOBAL_BUTTON_SUBMIT	Отправить	
 GLOBAL_BUTTON_YES	Да	
 GLOBAL_CANCEL	Отмена	
+GLOBAL_CANCEL_MODULE_POPUP_PROMPT	Отменить загрузку «{0}»?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_CARD_SET_AV	Разделенные Альтераком	
+GLOBAL_CARD_SET_AV_SEARCHABLE_SHORTHAND_NAMES	А РА	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_AV_SHORT	Альтеракская долина	
+GLOBAL_CARD_SET_BAR	Закаленные Степями	
+GLOBAL_CARD_SET_BAR_SEARCHABLE_SHORTHAND_NAMES	bar зс зак степ	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BAR_SHORT	Степи	
+GLOBAL_CARD_SET_BASIC	Базовый набор	
+GLOBAL_CARD_SET_BE	Власть Темной Империи	
+GLOBAL_CARD_SET_BE_SEARCHABLE_SHORTHAND_NAMES	пак поб	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BE_SHORT	Темная Империя	
 GLOBAL_CARD_SET_BOOMSDAY	Проект Бумного дня	
 GLOBAL_CARD_SET_BOOMSDAY_SEARCHABLE_SHORTHAND_NAMES	bd tbp bdp tbdp bp бд пбд	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_BOOMSDAY_SHORT	Бумный день	
@@ -98,7 +173,13 @@ GLOBAL_CARD_SET_BRM_SEARCHABLE_SHORTHAND_NAMES	ЧГ	This is a space-separated li
 GLOBAL_CARD_SET_BT	Руины Запределья	
 GLOBAL_CARD_SET_BT_SEARCHABLE_SHORTHAND_NAMES	рз руины	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_BT_SHORT	Запределье	
-GLOBAL_CARD_SET_CORE	Базовый набор	
+GLOBAL_CARD_SET_CATA	КАТАКЛИЗМ	
+GLOBAL_CARD_SET_CATA_SEARCHABLE_SHORTHAND_NAMES	ката	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CATA_SHORT	Катаклизм	
+GLOBAL_CARD_SET_CORE	Основной набор	
+GLOBAL_CARD_SET_CORE_HIDDEN	Основной набор (недопустим)	
+GLOBAL_CARD_SET_CORE_SEARCHABLE_SHORTHAND_NAMES	основной	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CORE_SHORT	Основной	
 GLOBAL_CARD_SET_DALARAN	Возмездие теней	
 GLOBAL_CARD_SET_DALARAN_SEARCHABLE_SHORTHAND_NAMES	вт	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DALARAN_SHORT	Возмездие теней	
@@ -106,14 +187,29 @@ GLOBAL_CARD_SET_DEBUG	Жижа
 GLOBAL_CARD_SET_DHI	Иллидари-посвященный	
 GLOBAL_CARD_SET_DHI_SEARCHABLE_SHORTHAND_NAMES	од онд дх	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DHI_SHORT	Посвященный	
+GLOBAL_CARD_SET_DMF	Ярмарка безумия	
+GLOBAL_CARD_SET_DMF_SEARCHABLE_SHORTHAND_NAMES	яб dmf ярмарка новолуния	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_DMF_SHORT	Ярмарка	
 GLOBAL_CARD_SET_DRG	Натиск драконов	
 GLOBAL_CARD_SET_DRG_SEARCHABLE_SHORTHAND_NAMES	dod dd нд	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DRG_SHORT	Драконы	
+GLOBAL_CARD_SET_EDR	Объятия Изумрудного Сна	
+GLOBAL_CARD_SET_EDR_SEARCHABLE_SHORTHAND_NAMES	ИС Сон	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EDR_SHORT	Изумрудный Сон	
+GLOBAL_CARD_SET_ETC	Фестиваль легенд	
+GLOBAL_CARD_SET_ETC_SEARCHABLE_SHORTHAND_NAMES	фл	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_ETC_SHORT	Фестиваль	
+GLOBAL_CARD_SET_EVE	Событие	
+GLOBAL_CARD_SET_EVE_SEARCHABLE_SHORTHAND_NAMES	соб	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EVE_SHORT	Событие	
 GLOBAL_CARD_SET_EXPERT1	Классический набор	
 GLOBAL_CARD_SET_GANGS	Злачный город Прибамбасск	
 GLOBAL_CARD_SET_GANGS_RESERVE	В банде	
 GLOBAL_CARD_SET_GANGS_SEARCHABLE_SHORTHAND_NAMES	прибамбасск гаджетзан гаджезан мсг мсог	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_GANGS_SHORT	Прибамбасск	
+GLOBAL_CARD_SET_GDB	Великая Запредельная Тьма	
+GLOBAL_CARD_SET_GDB_SEARCHABLE_SHORTHAND_NAMES	взт	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_GDB_SHORT	Запредельная Тьма	
 GLOBAL_CARD_SET_GILNEAS	Ведьмин лес	
 GLOBAL_CARD_SET_GILNEAS_SEARCHABLE_SHORTHAND_NAMES	вл	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_GILNEAS_SHORT	Ведьмин лес	
@@ -122,9 +218,18 @@ GLOBAL_CARD_SET_GVG_SEARCHABLE_SHORTHAND_NAMES	ГиГ	This is a space-separated 
 GLOBAL_CARD_SET_HOF	Зал славы	
 GLOBAL_CARD_SET_ICECROWN	Рыцари Ледяного Трона	
 GLOBAL_CARD_SET_ICECROWN_SHORT	Ледяной Трон	
+GLOBAL_CARD_SET_JAIL	Побег из Аметистовой крепости	
+GLOBAL_CARD_SET_JAIL_SEARCHABLE_SHORTHAND_NAMES	пак поб	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_JAIL_SHORT	Аметистовая крепость	
 GLOBAL_CARD_SET_KARA	Вечеринка в Каражане	
 GLOBAL_CARD_SET_KARA_RESERVE	Запасник Каражана	
 GLOBAL_CARD_SET_KARA_SHORT	Каражан	
+GLOBAL_CARD_SET_LEGACY	Старые карты	
+GLOBAL_CARD_SET_LEGACY_SEARCHABLE_SHORTHAND_NAMES	старые	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LEGACY_SHORT	Старые карты	
+GLOBAL_CARD_SET_LETL		Lettuce
+GLOBAL_CARD_SET_LETL_SEARCHABLE_SHORTHAND_NAMES	сал	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LETL_SHORT	Салат	
 GLOBAL_CARD_SET_LOE	Лига исследователей	
 GLOBAL_CARD_SET_LOE_SEARCHABLE_SHORTHAND_NAMES	ЛИ лига исследователи loe	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_LOE_SHORT	Лига исследователей	
@@ -137,39 +242,98 @@ GLOBAL_CARD_SET_OG	Пробуждение древних богов
 GLOBAL_CARD_SET_OG_RESERVE	Old Gods Reserve	
 GLOBAL_CARD_SET_OG_SEARCHABLE_SHORTHAND_NAMES	tog пдб дб	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.  For Whispers of the Old Gods, 'tog' should be available in all locales; wotog and wog are additional English shorthands, which should be replaced by locale specific variants.
 GLOBAL_CARD_SET_OG_SHORT	Древние боги	
+GLOBAL_CARD_SET_PA	Путь Артаса	
+GLOBAL_CARD_SET_PA_SEARCHABLE_SHORTHAND_NAMES	pa	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PA_SHORT	Путь Артаса	
+GLOBAL_CARD_SET_PET	Питомец	
+GLOBAL_CARD_SET_PET_SEARCHABLE_SHORTHAND_NAMES	питомец пет	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PET_SHORT	Питомец	
 GLOBAL_CARD_SET_PROMO	Промо-карты	
+GLOBAL_CARD_SET_REV	Убийство в замке Нафрия	
+GLOBAL_CARD_SET_REV_SEARCHABLE_SHORTHAND_NAMES	mcn cn rev	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_REV_SHORT	Замок Нафрия	
+GLOBAL_CARD_SET_RLK	Марш Короля-лича	
+GLOBAL_CARD_SET_RLK_SEARCHABLE_SHORTHAND_NAMES	мкл	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_RLK_SHORT	Король-лич	
 GLOBAL_CARD_SET_SCH	Некроситет	
 GLOBAL_CARD_SET_SCH_SEARCHABLE_SHORTHAND_NAMES	некро	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_SCH_SHORT	Некроситет	
+GLOBAL_CARD_SET_SW	Сплоченные Штормградом	
+GLOBAL_CARD_SET_SW_SEARCHABLE_SHORTHAND_NAMES	шг	uis
+GLOBAL_CARD_SET_SW_SHORT	Штормград	
 GLOBAL_CARD_SET_TGT	Большой турнир	
 GLOBAL_CARD_SET_TGT_SEARCHABLE_SHORTHAND_NAMES	tgt тгт турнир	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_TGT_SHORT	Большой турнир	
+GLOBAL_CARD_SET_TIME	Сквозь потоки времени	
+GLOBAL_CARD_SET_TIME_SEARCHABLE_SHORTHAND_NAMES	время	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TIME_SHORT	Потоки времени	
+GLOBAL_CARD_SET_TLC	Затерянный город Ун'Горо	
+GLOBAL_CARD_SET_TLC_SEARCHABLE_SHORTHAND_NAMES	згу унгоро затерянный город	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TLC_SHORT	Затерянный город	
+GLOBAL_CARD_SET_TOY	Мастерская Чудастера	
+GLOBAL_CARD_SET_TOY_SEARCHABLE_SHORTHAND_NAMES	игр	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TOY_SHORT	Мастерская Чудастера	
 GLOBAL_CARD_SET_TROLL	Растахановы игрища	
 GLOBAL_CARD_SET_TROLL_SEARCHABLE_SHORTHAND_NAMES	rr	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_TROLL_SHORT	Игрища	
+GLOBAL_CARD_SET_TSC	Путешествие в Затонувший город	
+GLOBAL_CARD_SET_TSC_SEARCHABLE_SHORTHAND_NAMES	Зг пвзг tsc vttsc vtsc sc	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TSC_SHORT	Затонувший город	
+GLOBAL_CARD_SET_TTN	ТИТАНЫ	
+GLOBAL_CARD_SET_TTN_SEARCHABLE_SHORTHAND_NAMES	титаны	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TTN_SHORT	Титаны	
+GLOBAL_CARD_SET_TUT	Обучение	
+GLOBAL_CARD_SET_TUT_SEARCHABLE_SHORTHAND_NAMES	об	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TUT_SHORT	Обучение	
 GLOBAL_CARD_SET_ULDUM	Спасители Ульдума	
 GLOBAL_CARD_SET_ULDUM_SEARCHABLE_SHORTHAND_NAMES	sou su су ульдум спа	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_ULDUM_SHORT	Ульдум	
 GLOBAL_CARD_SET_UNGORO	Экспедиция в Ун'Горо	
 GLOBAL_CARD_SET_UNGORO_SHORT	Ун'Горо	
+GLOBAL_CARD_SET_VAC	Раздор в тропиках	
+GLOBAL_CARD_SET_VAC_SEARCHABLE_SHORTHAND_NAMES	отпуск	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VAC_SHORT	Раздор	
+GLOBAL_CARD_SET_VANILLA	Классический набор	
+GLOBAL_CARD_SET_VANILLA_FORMAT_SEARCHABLE_SHORTHAND_NAMES	классика	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VANILLA_FORMAT_SHORT	Классический	
+GLOBAL_CARD_SET_VANILLA_SHORT	Классика	
 GLOBAL_CARD_SET_WILD_EVENT	Событие в вольном формате	
 GLOBAL_CARD_SET_WILD_EVENT_SHORT	Событие в вольном формате	
+GLOBAL_CARD_SET_WON	Пещеры Времени	
+GLOBAL_CARD_SET_WON_SEARCHABLE_SHORTHAND_NAMES	пещеры пв	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WON_SHORT	Пещеры	
+GLOBAL_CARD_SET_WST	Битва в Бесплодных землях	
+GLOBAL_CARD_SET_WST_SEARCHABLE_SHORTHAND_NAMES	бесплодныеземли бесплодные бз	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WST_SHORT	Бесплодные земли	
 GLOBAL_CARD_SET_YOD	Пробуждение Галакронда	
 GLOBAL_CARD_SET_YOD_SHORT	Пробуждение Галакронда	
+GLOBAL_CARDTYPE_ANOMALY	Аномалия	
+GLOBAL_CARDTYPE_BACONHEROBUDDY	Компаньон героя	
+GLOBAL_CARDTYPE_BACONQUESTREWARD	Награда	
 GLOBAL_CARDTYPE_ENCHANTMENT	Чары	
 GLOBAL_CARDTYPE_HERO	Герой	
 GLOBAL_CARDTYPE_HEROPOWER	Сила героя	
 GLOBAL_CARDTYPE_ITEM	Предмет	
+GLOBAL_CARDTYPE_LOCATION	Область	
 GLOBAL_CARDTYPE_MINION	Существо	
 GLOBAL_CARDTYPE_SPELL	Заклинание	
 GLOBAL_CARDTYPE_TOKEN	Жетон	
+GLOBAL_CARDTYPE_TRINKET	Аксессуар	
 GLOBAL_CARDTYPE_WEAPON	Оружие	
 GLOBAL_CHAT_BUBBLE_RECEIVER_NAME	Для: {0}	0=player name
 GLOBAL_CHAT_CHALLENGE	Вызов	
+GLOBAL_CHAT_DECK_CODE_HINT	\nЩелкните, чтобы скопировать	
+GLOBAL_CHAT_DECK_CODE_HINT_TOUCH	\nКоснитесь, чтобы скопировать	
+GLOBAL_CHAT_DECK_CODE_MESSAGE	Колода: {0}, {1}	0=class name,1=copy hint
+GLOBAL_CHAT_DECK_CODE_WITH_NAME_MESSAGE	Колода: {0}, {1} {2}	0=class name,1=deck name,2=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_MESSAGE	Отряд наемников{0}	0=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_WITH_NAME_MESSAGE	Отряд наемников «{0}»{1}	0=deck name,1=copy hint
 GLOBAL_CHAT_NO_FRIENDS_ONLINE	В данный момент никто из ваших друзей не находится в сети.	
 GLOBAL_CHAT_NO_RECENT_CONVERSATIONS	Откройте список друзей, чтобы начать разговор с другом.	
 GLOBAL_CHAT_RECEIVER_OFFLINE	{0} сейчас не в сети.	0=player name
 GLOBAL_CHAT_RECEIVER_ONLINE	{0} входит в сеть.	0=player name
+GLOBAL_CHAT_SEND_DECK_MESSAGE	Отправить новое сообщение с колодой, которая находится в буфере обмена?	
+GLOBAL_CHAT_SEND_DECK_TITLE	Отправить сообщение с колодой	
 GLOBAL_CHAT_SENDER_APPEAR_OFFLINE	Вы не можете отправлять сообщения в чат, пока ваш статус отображается как «Не в сети».	
 GLOBAL_CHAT_SENDER_OFFLINE	Ваш статус отображается как «Не в сети».	
 GLOBAL_CHOOSE_PAYMENT	Выбрать метод оплаты	
@@ -185,9 +349,14 @@ GLOBAL_CLASS_ROGUE	Разбойник
 GLOBAL_CLASS_SHAMAN	Шаман	
 GLOBAL_CLASS_WARLOCK	Чернокнижник	
 GLOBAL_CLASS_WARRIOR	Воин	
+GLOBAL_CLASSIC	Классика	
 GLOBAL_CLICK_TO_CONTINUE	Щелкните, чтобы продолжить.	
 GLOBAL_CLICK_TO_CONTINUE_TOUCH	Нажмите, чтобы продолжить.	
-GLOBAL_COLLECTION_GOLDEN	Золотая карта	
+GLOBAL_COLLECTION_DIAMOND	Алмазная	
+GLOBAL_COLLECTION_GOLDEN	Золотая	
+GLOBAL_COLLECTION_NORMAL	Обычная	
+GLOBAL_COLLECTION_SIGNATURE	Особая	
+GLOBAL_COMMA_SEPARATOR	,	
 GLOBAL_CONCEDE	Сдаться	
 GLOBAL_CONFIRM	ОК	
 GLOBAL_CONTINUE	Продолжить	
@@ -195,7 +364,9 @@ GLOBAL_COST	Стоимость
 GLOBAL_CREATE	Создать	
 GLOBAL_CURRENT_DATE	{0:dd.MM.yyyy}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
 GLOBAL_CURRENT_TIME	{0:HH:mm}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
+GLOBAL_CURRENT_TIME_AM	утра	
 GLOBAL_CURRENT_TIME_AND_DATE_DEV	{0} ({1} - {2})	
+GLOBAL_CURRENT_TIME_PM	вечера	
 GLOBAL_DATETIME_AFK_DAY	Отсутствует больше дня	
 GLOBAL_DATETIME_AFK_DAYS	Отсутствует {0} дн.	
 GLOBAL_DATETIME_AFK_HOURS	Отсутствует {0} ч.	
@@ -237,7 +408,17 @@ GLOBAL_DATETIME_SPLASHSCREEN_MINUTES	{0} мин.
 GLOBAL_DATETIME_SPLASHSCREEN_MONTH	> 1 мес.	
 GLOBAL_DATETIME_SPLASHSCREEN_SECONDS	< 1 мин.	
 GLOBAL_DATETIME_SPLASHSCREEN_WEEKS	{0} нед.	
+GLOBAL_DATETIME_TIMER_DAYS_HOURS	{0}дн. {1}ч.	0=days 1=hours
+GLOBAL_DATETIME_TIMER_HOURS_MINUTES	{0}ч. {1}мин.	0=hours 1=minutes
+GLOBAL_DATETIME_TIMER_LESS_THAN_X_MINUTES	< {0}мин.	0=minutes
+GLOBAL_DATETIME_TIMER_MINUTES	{0}мин.	0=minutes
+GLOBAL_DATETIME_TIMER_SECONDS	{0} сек.	0=seconds
+GLOBAL_DATETIME_TRIAL_PERIOD_MONTH	Более 30 дней	
 GLOBAL_DATETIME_UNLOCKS_SOON_WEEKS	Станет доступным через {0} |4(неделю,недели,недель)	
+GLOBAL_DEATHKNIGHT_RUNE_BLOOD	Рыцарь смерти: кровь	
+GLOBAL_DEATHKNIGHT_RUNE_FROST	Рыцарь смерти: лед	
+GLOBAL_DEATHKNIGHT_RUNE_LOCKED	Показать все руны	
+GLOBAL_DEATHKNIGHT_RUNE_UNHOLY	Рыцарь смерти: нечестивость	
 GLOBAL_DECK_SHARE_ACCEPT_REQUEST	Поделиться	
 GLOBAL_DECK_SHARE_DECLINE_REQUEST	Ни за что!	
 GLOBAL_DECK_SHARE_ERROR	Произошла ошибка при попытке поделиться колодами.	
@@ -251,8 +432,47 @@ GLOBAL_DEMO_COMPLETE_BODY	Спасибо за использование дем�
 GLOBAL_DEMO_COMPLETE_HEADER	Поздравляем!	
 GLOBAL_DEMO_DISCLAIMER	Эта версия игры Hearthstone предназначена исключительно для ознакомления.	
 GLOBAL_DEMO_LEARN_MORE	Подробнее	
+GLOBAL_DEVICE_TYPE_CONSOLE	Консоль	The type of device is a game console
+GLOBAL_DEVICE_TYPE_DESKTOP	Компьютер	The type of device is a desktop computer
+GLOBAL_DEVICE_TYPE_HANDHELD	Портативная консоль	The type of device is a handheld device like a phone or tablet
 GLOBAL_DISABLE	Отключить	
 GLOBAL_DONE	Готово	
+GLOBAL_DOWNLOAD_MANAGER	Загрузки	Label for the Download Manager menu
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_CANCEL	Отмена	
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_DOWNLOAD	Загрузить	
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_UNINSTALL	Удалить	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_CANCEL_MESSAGE	Загрузка отменена	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_LOADING_MESSAGE	Отмена...	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_PROMPT	Отменить загрузку «{0}»?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_TITLE	Отменить загрузку	
+GLOBAL_DOWNLOAD_MANAGER_DISMISS_BUTTON	Готово	
+GLOBAL_DOWNLOAD_MANAGER_ENABLE_OPTIONAL_ASSETS_DOWNLOAD	Включить	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_FREE_SPACE	Свободное место: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MANAGER_GAME_MODES	Режимы	Label for the Download Manager - Game modes section
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_DESC	Разрешить Hearthstone загрузку по мобильной сети.	
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_LABEL	Мобильная связь	
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS	Высокое качество	Name for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS_DESCRIPTION	Включает и отключает высокое качество графики и звука	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_PAUSE_DOWNLOADS	Приостановить все загрузки	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_CANCELLING	Отмена...	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_DOWNLOADING	{0} / {1}	{0}=Downloaded size (e.g. 23 MB) {1}=Total size to download (e.g. 128 MB)
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_INSTALLED	Установка завершена!	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_PAUSED	Пауза	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_QUEUED	В очереди	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_REMAINING	Оставшееся время: {0}	0=Time remaining. (e.g. 21:30)
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_UNINSTALLING	Удаление...	
+GLOBAL_DOWNLOAD_MANAGER_RESUME_DOWNLOADS	Возобновить все загрузки	
+GLOBAL_DOWNLOAD_MANAGER_SETTINGS	Параметры	Label for the Download Manager - Settings section
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_COMPLETE_MESSAGE	Удаление завершено	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_LOADING_MESSAGE	Удаление...	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_BODY_FORMAT	{0}\n\n{1}\n{2}	{0}=Prompt string, {1}=Module size, {2}=Device size available
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_PROMPT	Удалить «{0}»?	{0}=Module name to uninstall (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_TITLE	Удалить	Popup title for removing a module
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_PROMPT	Удалить режим высокого качества?\nЧтобы снова его включить, вам придется еще раз загрузить данные.	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_TITLE	Высокое качество	
+GLOBAL_DOWNLOAD_MODULE_POPUP_FILE_SIZE	Размер файла: {0}	{0}=File size to download (e.g. 1.8GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_FREE_SPACE	Свободное место: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_PROMPT	Загрузить «{0}»?	{0}=Module name to download (e.g. Battlegrounds)
 GLOBAL_ENABLE	Включить	
 GLOBAL_END_GAME	Конец игры	
 GLOBAL_ENTER	Войти	
@@ -273,6 +493,9 @@ GLOBAL_ERROR_GAME_OPPONENT_TIMEOUT	Игра не может быть начат�
 GLOBAL_ERROR_GENERIC_HEADER	Ошибка	
 GLOBAL_ERROR_INACTIVITY_KICK	Вы давно не совершали никаких действий в игре, поэтому ваше соединение с сервером было разорвано. Пожалуйста, перезапустите игру!	
 GLOBAL_ERROR_NETWORK_ACCOUNT_BANNED	Ваша учетная запись заблокирована.	
+GLOBAL_ERROR_NETWORK_ACCOUNT_CURFEW_REACHED	Вы не можете войти в игру в связи с ограничениями для несовершеннолетних игроков. Мы рекомендуем сохранять разумный баланс между видеоиграми и другими занятиями в течение дня. Подробности: https://support.battlenet.com.cn/w/article/101015	
+GLOBAL_ERROR_NETWORK_ACCOUNT_INVALID_NID	Вы не сможете продолжить, пока не пройдете проверку по настоящему имени. Подробности: https://support.battlenet.com.cn/w/article/101015	
+GLOBAL_ERROR_NETWORK_ACCOUNT_PLAYTIME_EXCEEDED	Вы не можете войти в игру в связи с ограничениями для несовершеннолетних игроков. Мы рекомендуем сохранять разумный баланс между видеоиграми и другими занятиями в течение дня. Подробности: https://support.battlenet.com.cn/w/article/101015	
 GLOBAL_ERROR_NETWORK_ACCOUNT_SUSPENDED	Действие вашей учетной записи приостановлено.	
 GLOBAL_ERROR_NETWORK_ADMIN_KICKED	Соединение со службой Blizzard было потеряно. Пожалуйста, перезапустите Hearthstone.	
 GLOBAL_ERROR_NETWORK_ADVENTURE_RECONNECT_TIMEOUT	Ваша игра сохранена. Снова войдя в Hearthstone, вы сможете продолжить ее.	
@@ -301,22 +524,15 @@ GLOBAL_ERROR_NO_MAGE_PRECON	У нас возникли некоторые сет
 GLOBAL_ERROR_STREAMING_ASSET_TIMEOUT	Превышено время ожидания системы потоковой загрузки при попытке загрузки ресурса {0}.	0=asset name
 GLOBAL_ERROR_UNKNOWN_ERROR	Ой! Похоже, шаловливые бесы мешают вашему клиенту Hearthstone подключиться к службе Blizzard. Подождите несколько минут, пока мы попытаемся их изгнать, после чего вам надо будет перезапустить игру.	
 GLOBAL_EXIT	Выход	
+GLOBAL_EXIT_CONFIRM_MESSAGE	Вы уверены, что хотите выйти из игры?	
+GLOBAL_EXIT_CONFIRM_TITLE	Выйти из игры	
 GLOBAL_FEATURE_DISABLED_MESSAGE_BATTLEGROUNDS	К сожалению, сейчас поля сражений недоступны.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_COLLECTION	К сожалению, коллекция в данный момент недоступна.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_FORGE	К сожалению, Арена в данный момент недоступна.	
-GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	К сожалению, режим игры в данный момент недоступен.	
+GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	К сожалению, традиционный режим игры в данный момент недоступен.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_PRACTICE	К сожалению, режим тренировки в данный момент недоступен.	
 GLOBAL_FEATURE_DISABLED_TITLE	Неактивно	
 GLOBAL_FINISH	Завершить	
-GLOBAL_FIRESIDE_BRAWL	Fireside-потасовка	
-GLOBAL_FIRESIDE_GATHERING	Fireside Gathering	
-GLOBAL_FIRESIDE_GATHERING_CHOOSE_HEADER	Выберите вариант	
-GLOBAL_FIRESIDE_GATHERING_DEFAULT_TAVERN_NAME	Fireside Gathering	
-GLOBAL_FIRESIDE_GATHERING_FIRST_TIME_TAVERN_NAME	Хозяин таверны: {0}	0=innkeeper battle tag
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_LARGE_SCALE	Игроков на Fireside: {0}+	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in.
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_SOFT_LIMIT	Игроков на Fireside: {0}	0=The number of patrons up to 99.
-GLOBAL_FIRESIDE_GATHERING_REUNPACK	Обновить настройки	
-GLOBAL_FIRESIDE_GATHERING_SOCIAL_BUTTON_LARGE_SCALE_LABEL	<size=32>99<size=26>+</size></size>	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in. NOTE: the size tag was used in enUS to shrink the + sign, to make sure 99+ fit into the small button.
 GLOBAL_FORGE_END_DONE	Готово	
 GLOBAL_FORGE_END_JOKE_0	Это было здорово!	
 GLOBAL_FORGE_END_JOKE_1	Слов нет!	
@@ -329,13 +545,15 @@ GLOBAL_FORGE_END_JOKE_7	ТРЕПЕЩИТЕ!
 GLOBAL_FORGE_END_JOKE_8	Это еще не конец! Хотя...	
 GLOBAL_FORGE_END_TITLE	Сражение на Арене завершено	
 GLOBAL_FRIEND_CHALLENGE_ACCEPT	Принять	
-GLOBAL_FRIEND_CHALLENGE_BODY_BACON	Вам бросили вызов на поле сражений!\nИгрок:	
+GLOBAL_FRIEND_CHALLENGE_BODY_BACON	Вас пригласили на поля сражений!\nИгрок:	
+GLOBAL_FRIEND_CHALLENGE_BODY_BATTLEGROUNDS_SUGGESTION	{0} хочет пригласить своего друга в вашу группу для игры на полях сражений.	0=suggester name
 GLOBAL_FRIEND_CHALLENGE_BODY1	Вам бросает вызов:	
-GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	Вам бросает вызов на матч стандартного формата игрок	
+GLOBAL_FRIEND_CHALLENGE_BODY1_CLASSIC	Вам бросает вызов на матч\nв классическом формате игрок	
+GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	Вам бросает вызов на матч\nстандартного формата игрок	
+GLOBAL_FRIEND_CHALLENGE_BODY1_TWIST	Вам бросает вызов на матч\nв режиме «Твист» игрок	
 GLOBAL_FRIEND_CHALLENGE_BODY1_WILD	Вам бросает вызов на матч\nвольного формата игрок	
 GLOBAL_FRIEND_CHALLENGE_BODY2	Вы принимаете вызов?	
 GLOBAL_FRIEND_CHALLENGE_DECLINE	Отклонить	
-GLOBAL_FRIEND_CHALLENGE_FIRESIDE_BRAWL_BODY1	Вы получили вызов на Fireside-потасовку от	
 GLOBAL_FRIEND_CHALLENGE_HEADER	Вызов	
 GLOBAL_FRIEND_CHALLENGE_NEARBY_PLAYER_NOTE	В списке друзей можно отключить приглашения от находящихся рядом игроков.	
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_CANCELED	{0} отменяет вызов.	0=friend name
@@ -343,50 +561,114 @@ GLOBAL_FRIEND_CHALLENGE_OPPONENT_DECLINED	{0} отклоняет ваш вызо
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_FRIEND_REMOVED	Вызов отменен, поскольку {0} больше не находится в вашем списке друзей.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_DECK	Вы ждете, пока {0} выбирает колоду.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_RESPONSE	Вы ждете, пока {0} ответит на ваш вызов.	0=friend name
+GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_TEAM	Ваш оппонент выбирает команду.	
 GLOBAL_FRIEND_CHALLENGE_QUEUE_CANCELED	Вызов отменен.	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY1	Вас приглашает поучаствовать в «Потасовке» игрок:	
+GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY2	Вы получили приглашение на потасовку «Дуэты» от игрока	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_HEADER	Вызов на «Потасовку»	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_OPPONENT_WAITING_READY	Вы ждете, когда игрок {0} присоединится к потасовке.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_RECIPIENT	Вас приглашает поучаствовать в «Потасовке» игрок {0}. Перед тем как принять вызов, соберите колоду в режиме «Потасовки».	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_SENDER	Ваш друг еще не собрал колоду, соответствующую правилам «Потасовки». Вы можете повторить вызов позже!	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NOT_UNLOCKED_SENDER	Вашему другу пока недоступен режим «Потасовки». Повторите вызов позже!	
 GLOBAL_FRIEND_CHALLENGE_TITLE	Вызов	
+GLOBAL_FRIEND_INVITE_HEADER	Приглашение	
+GLOBAL_FRIEND_INVITE_OPPONENT_WAITING_RESPONSE	Вы ждете, пока {0} ответит на ваше приглашение.	0=friend name
+GLOBAL_FRIEND_PARTY_INVITATION_BODY_DECLINED	{0} отклоняет ваше приглашение.	0=friend name
+GLOBAL_FRIEND_PARTY_INVITATION_TITLE	Отряд	
 GLOBAL_FRIENDLIST_ADD_FRIEND_BUTTON	Добавить	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_INVITE	Пригласить в группу	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_KICK	Удалить из группы	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_BODY	Вы уже отправили приглашение этому игроку.	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_HEADER	Уже отправлено	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_BODY	Пригласить игрока {0}, чтобы вместе играть на полях сражений!	0=player name
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_BODY	В эту группу уже приглашено 8 игроков.	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_HEADER	Группа заполнена	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_HEADER	Пригласить	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_BODY	Исключить игрока {0} из вашей группы для полей сражений.	0=player name
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_HEADER	Исключить	
 GLOBAL_FRIENDLIST_BUSYSTATUS	Занят	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_AVAILABLE	Игрок {0} свободен. Бросьте ему вызов!	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_LOCKED	Завершите обучение в режиме «Поля сражений», чтобы открыть.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_PARTY_MEMBER	Вы не можете послать другу вызов, находясь в группе для полей сражений.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_EARLY_ACCESS	Этот режим находится в раннем доступе.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_GAME_MODE_LOCKED	Вы еще не открыли этот режим.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_HEADER	Дружеская дуэль	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_APPEARING_OFFLINE	Игрок {0} сейчас не может получить ваш вызов. Ваш статус отображается как «Не в сети».	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_UNAVAILABLE	Игрок {0} сейчас не может получить ваш вызов. Вернитесь в главное меню.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MERCS_LOCKED	Завершите обучение в режиме «Наемники», чтобы открыть.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MODE_UNAVAILABLE	В настоящее время бросить вызов другу в этом режиме невозможно.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TAVERN_BRAWL_LOCKED	Пройдите обучение в традиционном режиме Hearthstone и получите 20-й уровень за один из классов, чтобы открыть.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_THEYRE_UNAVAILABLE	Игрок {0} сейчас не может получить ваш вызов. Дождитесь, когда он вернется в главное меню.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TRADITIONAL_LOCKED	Пройдите обучение в традиционном режиме Hearthstone, чтобы открыть.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_UNAVAILABLE	{0} пока не может принять ваш вызов.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_EARLY_ACCESS	У этого игрока нет раннего доступа к «Полям сражений».	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_TUTORIAL_COMPLETE	Этот игрок еще не завершил обучение в режиме «Поля сражений».	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_CLASSIC_DECK	У этого игрока нет классических колод.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_DECK	У этого игрока нет колод.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_HEARTHSTONE_TUTORIAL_COMPLETE	Этот игрок еще не завершил обучение в Hearthstone.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_MERCS_TUTORIAL_COMPLETE	Этот игрок еще не завершил обучение в режиме «Наемники».	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_STANDARD_DECK	У этого игрока нет стандартных колод.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TAVERN_BRAWL_DECK	Этот игрок еще не создал колоду для «Потасовки».	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TWIST_DECK	У этого игрока нет колод для «Твиста».	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NOT_SEEN_WILD	Этот игрок еще не открыл вольный формат.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_TAVERN_BRAWL_LOCKED	Этот игрок еще не получил доступ к «Потасовке».	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_USER_IS_BUSY	Этот игрок пока занят.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_CLASSIC_DECK	У вас нет классических колод.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_DECK	Сперва нужно создать колоду.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_STANDARD_DECK	У вас пока нет стандартных колод.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TAVERN_BRAWL_DECK	Для участия в «Потасовке» на этой неделе необходимо создать колоду.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TWIST_DECK	У вас пока нет колод для «Твиста».	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_TAVERN_BRAWL_LOCKED	Вы получите доступ к «Потасовке», когда достигнете 20-го уровня любым классом.	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_CLASSIC_DUEL_BUTTON	Классика	
 GLOBAL_FRIENDLIST_CHALLENGE_MENU_DUEL_BUTTON	Дуэль	
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Стандартная дуэль	
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Вольная дуэль	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_FRIEND	Бросить вызов игроку <color=#61C8E8>{0}</color> в...	0=battletag
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_NONFRIEND	Бросить вызов игроку {0} в...	0=battletag
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON	Hearthstone	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_EXTENDED_MENU_BUTTON	Hearthstone...	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_OPTIONS_BUTTON	Настройки...	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REMOVE_BUTTON	Удалить из списка друзей...	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REPORT_BUTTON	Пожаловаться на...	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Стандартный	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_TWIST_DUEL_BUTTON	Твист	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Вольный	
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TAVERN_BRAWL	«Потасовка» сейчас недоступна. Попробуйте позже!	
+GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TWIST_SEASON	Режим «Твист» сейчас недоступен. Попробуйте позже!	
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_TAVERN_BRAWL_NOT_CHALLENGEABLE	Дружеская дуэль недоступна для этой потасовки.	
 GLOBAL_FRIENDLIST_CURRENT_GAMES_HEADER	ТЕКУЩИЕ ИГРЫ – {0}	0=number of friends you have unfinished games with
+GLOBAL_FRIENDLIST_CURRENT_OPPONENT_STATUS	Текущий противник!	
+GLOBAL_FRIENDLIST_CURRENT_TEAMMATE_STATUS	Текущий союзник!	
+GLOBAL_FRIENDLIST_CURRENTLY_SPECTATING_STATUS	Смотрит игру	
+GLOBAL_FRIENDLIST_FORMER_FRIEND_STATUS	Бывший друг	
 GLOBAL_FRIENDLIST_FRIENDS_HEADER	ДРУЗЬЯ – {0}/{1} в сети	0=number of online friends 1=number of offline friends
 GLOBAL_FRIENDLIST_FRIENDS_HEADER_ALL_ONLINE	ДРУЗЬЯ – {0} в сети	
+GLOBAL_FRIENDLIST_LAST_OPPONENT_STATUS	Предыдущий противник	
 GLOBAL_FRIENDLIST_LASTPLAYED	Последний противник:	
 GLOBAL_FRIENDLIST_MYSTATUS	В СЕТИ	
-GLOBAL_FRIENDLIST_NEARBY_PLAYERS_DISABLED_HEADER	ИГРОКИ РЯДОМ С ВАМИ (отключено)	
+GLOBAL_FRIENDLIST_NEARBY_PLAYERS_DISABLED_HEADER	РЯДОМ С ВАМИ (отключено)	
 GLOBAL_FRIENDLIST_NEARBY_PLAYERS_HEADER	РЯДОМ С ВАМИ – {0}	0=number of players
+GLOBAL_FRIENDLIST_NEW_FRIEND_STATUS	Новый друг!	
+GLOBAL_FRIENDLIST_NO_FRIENDS	У вас пока нет друзей в <color=#61C8E8>Battle.net</color>!	
+GLOBAL_FRIENDLIST_RECENT_CHALLENGED_STATUS	Недавние вызовы	
+GLOBAL_FRIENDLIST_RECENT_CHATTED_STATUS	Недавние собеседники	
+GLOBAL_FRIENDLIST_RECENT_OPPONENT_STATUS	Недавний оппонент	
+GLOBAL_FRIENDLIST_RECENT_PLAYERS_HEADER	НЕДАВНО – {0}	0=number of players
+GLOBAL_FRIENDLIST_RECENT_TEAMMATE_STATUS	Недавний союзник	
+GLOBAL_FRIENDLIST_RECENTLY_SPECTATING_STATUS	Недавно велся просмотр	
 GLOBAL_FRIENDLIST_REMOVE_FRIEND_ALERT_MESSAGE	Вы действительно хотите удалить игрока {0}?	0=friend name
 GLOBAL_FRIENDLIST_REMOVE_FRIEND_BUTTON	Удалить	
+GLOBAL_FRIENDLIST_REPORT_SELECT_COMPLETE	Спасибо за Ваше сообщение!	
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_FRIEND	Пожаловаться на игрока <color=#61C8E8>{0}</color>	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_NONFRIEND	Пожаловаться на игрока {0}	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_OPTIONS	Выберите все подходящие варианты:	
+GLOBAL_FRIENDLIST_REPORT_SELECT_REASON	Укажите причину	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_COMING_SOON_TEXT	Скоро	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_CURRENTLY_UNAVAILABLE_TEXT	Временно недоступно	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_HEADER	Пожаловаться на игрока	
 GLOBAL_FRIENDLIST_REQUEST_SENT_TIME	Получен: {0}	0=one of the GLOBAL_DATETIME_ELAPSED_ strings
 GLOBAL_FRIENDLIST_REQUESTS_HEADER	Запросы на дружбу – {0}	0=number of received friend requests
 GLOBAL_FRIENDLIST_SPECTATE_MENU_DESCRIPTION	В игре: {0}	0=player name
+GLOBAL_FRIENDLIST_SPECTATE_MENU_KICK	Удалить зрителя	
+GLOBAL_FRIENDLIST_SPECTATE_MENU_STOP	Прекратить наблюдение	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_HEADER	Присоединиться в качестве зрителя	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT	Щелкните здесь, чтобы присоединиться к матчу этого игрока в качестве зрителя.	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT_TOUCH	Нажмите здесь, чтобы присоединиться к матчу этого игрока в качестве зрителя.	
@@ -406,10 +688,13 @@ GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_RECEIVED_INVITE_TEXT	Вы получили п
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_RECEIVED_INVITE_TEXT_TOUCH	Вы получили приглашение от игрока {0} посмотреть матч. Нажмите, чтобы присоединиться к игре.	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_SPECTATING_HEADER	Режим зрителя	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_SPECTATING_TEXT	Вы присутствуете на матче этого игрока в качестве зрителя.	
-GLOBAL_FRIENDLYCHALLENGE_QUEST_REWARD_AT_LIMIT	Исчерпан дневной лимит для наград в заданиях "Вызов другу".	
+GLOBAL_FRIENDLYCHALLENGE_QUEST_REWARD_AT_LIMIT	Исчерпан дневной лимит для наград в заданиях «Вызов другу».	
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOUR_OPPONENT	Ваш противник покинул игру слишком рано, из-за чего вы не можете получить награду.	
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOURSELF	Вы покинули игру слишком рано и не можете получить награду.	
 GLOBAL_GAME_MENU	Меню	
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER	Загрузки	Button label for Download manager on the Game Menu
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP	Здесь можно управлять загружаемыми ресурсами Hearthstone. Доступно только в главном меню.	
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP_TITLE	Загрузки	
 GLOBAL_GAME_QUEUE_TIME_IN_QUEUE	Время в очереди	
 GLOBAL_GAME_QUEUE_WAIT_TIME	Время ожидания	
 GLOBAL_GOLD_REWARD_ALREADY_CAPPED	Вы уже получили сегодня {0} золота.	
@@ -421,8 +706,8 @@ GLOBAL_HEALTHY_GAMING_CHINA_CAIS_ACTIVE	Контроль времени игры
 GLOBAL_HEALTHY_GAMING_CHINA_LESS_THAN_THREE_HOURS	您累计在线时间已满{0}小时。	
 GLOBAL_HEALTHY_GAMING_CHINA_MORE_THAN_FIVE_HOURS	您已进入不健康游戏时间，为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。	
 GLOBAL_HEALTHY_GAMING_CHINA_MORE_THAN_FIVE_HOURS_PHONE	您已进入不健康游戏时间，为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，\n您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防上当受骗。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号 文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心	
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。	
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号\n文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_HOURS	您累计在线时间已满{0}小时，请您下线休息，做适当身体活动。	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_TO_FIVE_HOURS	您已经进入疲劳游戏时间，您的游戏收益将降为正常值的0%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_TO_FIVE_HOURS_PHONE	您已经进入疲劳游戏时间，您的游戏收益将降为正常值的0%，为了您的健康，\n请尽快下线休息，做适当身体活动，合理安排学习生活。	
@@ -437,43 +722,158 @@ GLOBAL_HERO_LEVEL_REWARD_GOLD	Золото: {0}	0=amount
 GLOBAL_HERO_LEVEL_REWARD_GOLDEN_CARD	{0} «{1}»	0=flair 1=card name
 GLOBAL_HERO_WINS	Побед: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
 GLOBAL_HERO_WINS_PAST_MAX	Побед: {0}	0=number of games this class has won
-GLOBAL_HERO_WINS_PAST_MAX_PHONE	Побед\n{0}	0=number of games this class has won
-GLOBAL_HERO_WINS_PHONE	Побед:\n{0}/{1}	0=number of games this class has won 1=number of wins to get golden
+GLOBAL_HERO_WINS_PAST_MAX_PHONE	Побед: {0}	0=number of games this class has won
+GLOBAL_HERO_WINS_PHONE	Побед: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
 GLOBAL_HEROIC_BRAWL	Героическая потасовка	
 GLOBAL_HIDE	Скрыть	
 GLOBAL_IN_PROGRESS_REWARD_CHEST_INSTRUCTIONS	Выиграйте еще {0} |4(матч,матча,матчей), чтобы получить сезонный сундук!\n(станет доступно в следующем месяце)	
 GLOBAL_JOIN	Присоединиться	
 GLOBAL_KEYWORD_ADAPT	Адаптация	
 GLOBAL_KEYWORD_ADAPT_TEXT	Выберите один из 3 бонусов.	
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS	Дальнобойные орудия	
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS_TEXT	Когда это существо атакует, другие ваши существа получают +{0} к атаке.	
+GLOBAL_KEYWORD_ALLIANCE	Альянс	
+GLOBAL_KEYWORD_ALLIANCE_TEXT	Расы Альянса: дренеи, дворфы, гномы, люди, ночные эльфы и воргены	
+GLOBAL_KEYWORD_ALLIED	Союзник	
+GLOBAL_KEYWORD_ALLIED_TEXT	Если вы выберете это сокровище, ваш герой примет класс союзника.	
+GLOBAL_KEYWORD_ATTACK_MERC	Атака	
+GLOBAL_KEYWORD_ATTACK_REF_TEXT_MERC	Атакует цель и получает ответный урон.	
+GLOBAL_KEYWORD_ATTACK_TEXT_MERC	Атакует цель и получает ответный урон.	
 GLOBAL_KEYWORD_AUTOATTACK	Автоатака	
 GLOBAL_KEYWORD_AUTOATTACK_TEXT	Не может атаковать, но действует [x]в_конце вашего хода.	
 GLOBAL_KEYWORD_AUTOCAST	Автоматическое применение	
 GLOBAL_KEYWORD_AUTOCAST_TEXT	Эта сила героя БУДЕТ использоваться на каждом ходу.	
+GLOBAL_KEYWORD_AVENGE	Месть: (X)	
+GLOBAL_KEYWORD_AVENGE_TEXT	Когда в бою погибает X ваших существ, срабатывает некий эффект.	
+GLOBAL_KEYWORD_BACON_ACTIVATE	Активация (X)	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TEXT	Один раз за ход щелкните, чтобы потратить Х золотых и активировать эффект.	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP	Активация (X)	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP_TEXT	Щелкните один раз за ход, чтобы потратить Х золотых и активировать эффект.	
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS	Бонусные свойства	
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT	«Провокация», «Божественный щит», «Перерождение», «Токсичность», «Неистовство ветра», «Маскировка»	
+GLOBAL_KEYWORD_BACON_BOUNTY	Вознаграждение	
+GLOBAL_KEYWORD_BACON_BOUNTY_TEXT	Заклинание таверны 3-го уровня, доступное, если в игре есть пираты.	
+GLOBAL_KEYWORD_BACON_BUDDY	Компаньон	
+GLOBAL_KEYWORD_BACON_BUDDY_TEXT	Мощное существо, уникальное для каждой силы героя.	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY	Приобрести компаньона	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2	Приобрести 2 компаньонов	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT	Победа/ничья – стоит на (3) меньше\nПоражение – стоит на (2) меньше	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT	Победа/ничья – стоит на (3) меньше\nПоражение – стоит на (2) меньше	
+GLOBAL_KEYWORD_BACON_CHROMADRAKE	Хроматический дракон	
+GLOBAL_KEYWORD_BACON_CHROMADRAKE_TEXT	Один из пяти драконов с различными «Боевыми кличами».	
+GLOBAL_KEYWORD_BACON_CONSUME	Поглощение	
+GLOBAL_KEYWORD_BACON_CONSUME_TEXT	Убирает существо и дает его характеристики.	
+GLOBAL_KEYWORD_BACON_DEITY	Божество	
+GLOBAL_KEYWORD_BACON_DEITY_TEXT	После того как 4 ваши аберрации погибают в каждом бою, пробуждается «{2}» {0}/{1}.	
+GLOBAL_KEYWORD_BACON_DISCOUNTED	Скидка	
+GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT	Стоимость этого аксессуара снижена на (1).	
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS	Стихийный бонус	
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS_TEXT	Дает еще {0}	
+GLOBAL_KEYWORD_BACON_FODDER	Туша	
+GLOBAL_KEYWORD_BACON_FODDER_COUNT	Туши в обновлении	
+GLOBAL_KEYWORD_BACON_FODDER_COUNT_TEXT	Туши в следующем обновлении: {0}.	
+GLOBAL_KEYWORD_BACON_FODDER_TEXT	Когда это существо находится в таверне, его съедает ваш случайный демон.	
+GLOBAL_KEYWORD_BACON_FREEZE	Заморозка	
+GLOBAL_KEYWORD_BACON_FREEZE_TEXT	Замороженные существа остаются в магазине до следующего хода.	
+GLOBAL_KEYWORD_BACON_PASS	Передача	
+GLOBAL_KEYWORD_BACON_PASS_TEXT	Отправляет карту в руку союзника.	
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS	Бонус пиратов	
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS_TEXT	Дает еще {0}	
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION	Создание Мерзоцида	
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT	Нельзя объединить в триплет.	
+GLOBAL_KEYWORD_BACON_QUEST	Задача	
+GLOBAL_KEYWORD_BACON_QUEST_TEXT	Выполните, чтобы получить награду.	
+GLOBAL_KEYWORD_BACON_RALLY	Боевой раж	
+GLOBAL_KEYWORD_BACON_RALLY_TEXT	Совершает действие, когда атакует.	
+GLOBAL_KEYWORD_BACON_REBORN	Перерождение	
+GLOBAL_KEYWORD_BACON_REBORN_TEXT	Когда погибает в первый раз, призывает новую копию с 1 ед. здоровья.	
+GLOBAL_KEYWORD_BACON_STEALTH	Маскировка	
+GLOBAL_KEYWORD_BACON_STEALTH_TEXT	Это существо нельзя атаковать, пока оно не атакует.	
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS	Бонус к заклинаниям из таверны	
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS_TEXT	Дает еще {0}	
+GLOBAL_KEYWORD_BACON_TIMEWARP	Хрономалия	
+GLOBAL_KEYWORD_BACON_TIMEWARP_TEXT	Особый магазин, где можно приобрести уникальные карты в обмен на хронум.	
+GLOBAL_KEYWORD_BACON_TRINKET	Аксессуар	
+GLOBAL_KEYWORD_BACON_TRINKET_TEXT	Мощное усиление, которое можно купить на определенном ходу.	
 GLOBAL_KEYWORD_BATTLECRY	Боевой клич	
 GLOBAL_KEYWORD_BATTLECRY_TEXT	Бонусный эффект при разыгрывании из руки.	
+GLOBAL_KEYWORD_BATTLECRY_TEXT_MERC	Эффект, срабатывающий при розыгрыше с руки или когда это существо призывает наемник.	
+GLOBAL_KEYWORD_BENCH_MERC	Скамья	
+GLOBAL_KEYWORD_BENCH_MERC_TEXT	Эффект, срабатывающий, когда наемник находится на скамье.	
+GLOBAL_KEYWORD_BLEED	Кровотечение	
+GLOBAL_KEYWORD_BLEED_TEXT	Кровотечение наносит урон в конце каждого хода. Восстановление здоровья снимает этот эффект.	
+GLOBAL_KEYWORD_BLOOD_GEM	Кровавый самоцвет	
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT	Заклинание, дающее существу {0}.	
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT_ADDITIONAL	\nВаши камни дают {0}.	
+GLOBAL_KEYWORD_BONUSEFFECTS	Дополнительные эффекты	
+GLOBAL_KEYWORD_BONUSEFFECTS_TEXT	Божественный щит, похищение жизни, яд, перерождение, натиск, неуловимость, провокация, неистовство ветра	
 GLOBAL_KEYWORD_BOSS	Босс	
 GLOBAL_KEYWORD_BOSS_TEXT	Игроки сражаются вместе, чтобы победить босса.	
+GLOBAL_KEYWORD_CADUCEUS_REACTOR	Реактор «Кадуцей»	
+GLOBAL_KEYWORD_CADUCEUS_REACTOR_TEXT	<b>Предсмертный хрип:</b> ваше крайнее левое существо получает +{0}/+{0}.	
 GLOBAL_KEYWORD_CASTS_WHEN_DRAWN	При взятии	
 GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT	Разыгрывается при взятии из колоды. Затем вы берете еще одну карту.	
 GLOBAL_KEYWORD_CHARGE	Рывок	
-GLOBAL_KEYWORD_CHARGE_TEXT	Может атаковать сразу после разыгрывания.	
+GLOBAL_KEYWORD_CHARGE_MERC	Рывок	
+GLOBAL_KEYWORD_CHARGE_MERC_TEXT	Атакует выбранную цель сразу после призыва.	
+GLOBAL_KEYWORD_CHARGE_TEXT	Может немедленно атаковать.	
+GLOBAL_KEYWORD_COLOSSAL	Гигант +X	
+GLOBAL_KEYWORD_COLOSSAL_TEXT	Когда это существо призывают, оно создает еще X конечностей.	
 GLOBAL_KEYWORD_COMBO	Серия приемов	
+GLOBAL_KEYWORD_COMBO_MERC	Серия приемов	
 GLOBAL_KEYWORD_COMBO_TEXT	Бонус, срабатывающий, если вы уже разыграли карту на этом ходу.	
+GLOBAL_KEYWORD_COMBO_TEXT_MERC	Дополнительный эффект, срабатывающий, если ваш отряд уже применял способность на этом ходу.	
+GLOBAL_KEYWORD_CONTRABAND	Контрабанда	
+GLOBAL_KEYWORD_CONTRABAND_TEXT	Вы получаете мощную карту. В оплату вы замешиваете карту из руки в колоду.	
+GLOBAL_KEYWORD_CORPSE	Труп	
+GLOBAL_KEYWORD_CORPSE_TEXT	Вы получаете этот ресурс, когда погибает ваше существо.	
+GLOBAL_KEYWORD_CORRUPT	Порча	
+GLOBAL_KEYWORD_CORRUPT_TEXT	Улучшается в руке после того, как вы разыграете карту с большей стоимостью.	
+GLOBAL_KEYWORD_CORRUPTEDCARD	Под порчей	
+GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT	Карта улучшилась, когда вы разыграли карту с большей стоимостью.	
 GLOBAL_KEYWORD_COUNTER	Отмена	
 GLOBAL_KEYWORD_COUNTER_TEXT	Отмененная карта не производит никакого действия.	
+GLOBAL_KEYWORD_CRAFT	Сборка	
+GLOBAL_KEYWORD_CRAFT_TEXT	Вы получаете существо и изменяете половину его описания.	
+GLOBAL_KEYWORD_CRITICAL_DAMAGE	Критический урон	
+GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT	Получает удвоенный урон.	
 GLOBAL_KEYWORD_CTHUN	К'Тун	
 GLOBAL_KEYWORD_CTHUN_TEXT	К'Тун получает усиления вне зависимости от того, где находится. Пусть даже в колоде!	
+GLOBAL_KEYWORD_DARKGIFT	Темный дар	
+GLOBAL_KEYWORD_DARKGIFT_BONUS	Бонус темного дара	
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI	Темный дар	
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI_TEXT	У этого существа {0} <b>|4(«Темный дар»,«Темных дара»,«Темных даров»)</b>	
+GLOBAL_KEYWORD_DARKGIFT_TEXT	Бонус, связанный с существом.	
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST	Турист-рыцарь смерти	
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT	В колоду можно включать карты рыцаря смерти из «Раздора в тропиках».	
+GLOBAL_KEYWORD_DEATHBLOW	Добивание	
+GLOBAL_KEYWORD_DEATHBLOW_TEXT	Дополнительный эффект, срабатывающий при убийстве.	
 GLOBAL_KEYWORD_DEATHRATTLE	Предсмертный хрип	
 GLOBAL_KEYWORD_DEATHRATTLE_TEXT	Срабатывает в момент гибели.	
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST	Турист-охотник на демонов	
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT	В колоду можно включать карты охотника на демонов из «Раздора в тропиках».	
 GLOBAL_KEYWORD_DISCOVER	Раскопка	
+GLOBAL_KEYWORD_DISCOVER_MERC	Раскопка	
 GLOBAL_KEYWORD_DISCOVER_TEXT	Выберите одну из трех карт и положите в руку.	
+GLOBAL_KEYWORD_DISCOVER_TEXT_MERC	Позволяет выбрать и применить на этом ходу одну из трех способностей.	
 GLOBAL_KEYWORD_DIVINE_SHIELD	Божественный щит	
-GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	Когда защищенное существо первый раз получает урон, он не засчитывается.	
-GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	Когда существо первый раз получает урон, он не засчитывается.	
+GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	Когда защищенная цель первый раз получает урон, он нейтрализуется.	
+GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	Когда первый раз получает урон, он нейтрализуется.	
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS	[WIP] Нельзя раскопать.	
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS_TEXT	[WIP] Нельзя раскопать.	
 GLOBAL_KEYWORD_DORMANT	Спячка	
 GLOBAL_KEYWORD_DORMANT_TEXT	Существо недостижимо для обоих игроков.	
+GLOBAL_KEYWORD_DREDGE	Улов	
+GLOBAL_KEYWORD_DREDGE_TEXT	Вы смотрите 3 нижние карты из колоды.\nЗатем вы кладете одну из них сверху.	
+GLOBAL_KEYWORD_DRUID_TOURIST	Турист-друид	
+GLOBAL_KEYWORD_DRUID_TOURIST_TEXT	В колоду можно включать карты друида из «Раздора в тропиках».	
 GLOBAL_KEYWORD_ECHO	Эхо	
 GLOBAL_KEYWORD_ECHO_TEXT	Можно разыграть несколько раз за ход. Копии не могут стоить меньше (1).	
+GLOBAL_KEYWORD_ELUSIVE	Неуловимость	
+GLOBAL_KEYWORD_ELUSIVE_REF_TEXT	Не может быть целью заклинаний или силы героя.	
+GLOBAL_KEYWORD_ELUSIVE_TEXT	Не может быть целью заклинаний или силы героя.	
+GLOBAL_KEYWORD_ELVES_MERC	Эльфы	
+GLOBAL_KEYWORD_ELVES_MERC_TEXT	В число эльфов входят: эльфы крови и ночные эльфы	
 GLOBAL_KEYWORD_EMPOWER	Воззвание	
 GLOBAL_KEYWORD_EMPOWER_PRIEST	Воззвание: жрец	
 GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT	Сила Галакронда: <i>вы кладете в руку случайное существо жреца.</i>	
@@ -488,103 +888,371 @@ GLOBAL_KEYWORD_EMPOWER_WARLOCK	Воззвание: чернокнижник
 GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT	Сила Галакронда: <i>призывает двух бесов 1/1.</i>	
 GLOBAL_KEYWORD_EMPOWER_WARRIOR	Воззвание: воин	
 GLOBAL_KEYWORD_EMPOWER_WARRIOR_TEXT	Сила Галакронда: <i>ваш герой получает +3 к атаке до конца хода.</i>	
-GLOBAL_KEYWORD_ENRAGED	Исступление	
-GLOBAL_KEYWORD_ENRAGED_TEXT	Пока у этого существа неполное здоровье, оно обладает новой способностью.	
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP	Исступление	
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP_TEXT	Пока у этого существа неполное здоровье, оно получает новую способность.	
 GLOBAL_KEYWORD_EVILZUG	Прихвостень	
 GLOBAL_KEYWORD_EVILZUG_TEXT	Существо за (1) с «Боевым кличем».	
+GLOBAL_KEYWORD_EXCAVATE	Добыча	
+GLOBAL_KEYWORD_EXCAVATE_COMMON	Обычная	
+GLOBAL_KEYWORD_EXCAVATE_EPIC	Эпическая	
+GLOBAL_KEYWORD_EXCAVATE_GAMEPLAY	Раскопки приносят все более редкие сокровища. Эффект сбрасывается после уровня «{0}».\nДалее: «{1}»	
+GLOBAL_KEYWORD_EXCAVATE_LEGENDARY	<b>Легендарная</b>	
+GLOBAL_KEYWORD_EXCAVATE_RARE	Редкая	
+GLOBAL_KEYWORD_EXCAVATE_REF_TEXT	Раскопки приносят все более редкие сокровища. По достижении максимального уровня эффект сбрасывается.	
+GLOBAL_KEYWORD_EXCAVATE_TEXT	Раскопки приносят все более редкие сокровища. По достижении максимального уровня эффект сбрасывается.	
+GLOBAL_KEYWORD_EXPLORER_MERC	Исследователь	
+GLOBAL_KEYWORD_EXPLORER_MERC_TEXT	В Лигу исследователей входят: Рено, Бранн, Элиза, Финли и слияние-исследователь.	
+GLOBAL_KEYWORD_FABLED	Герой саги	
+GLOBAL_KEYWORD_FABLED_TEXT	Также добавляет 2 уникальные карты в стартовую колоду.	
+GLOBAL_KEYWORD_FABLEDPLUS	Герой саги+	
+GLOBAL_KEYWORD_FABLEDPLUS_TEXT	Также добавляет 9 уникальных карт в стартовую колоду.	
 GLOBAL_KEYWORD_FATIGUE	Усталость	
 GLOBAL_KEYWORD_FATIGUE_TEXT	Урон, получаемый при попытке взять карту из пустой колоды.	
+GLOBAL_KEYWORD_FINALE	Финал	
+GLOBAL_KEYWORD_FINALE_TEXT	Бонус, если вы затратите на эту карту всю оставшуюся ману.	
 GLOBAL_KEYWORD_FLOOPY	Ухлюпистый Хлюп	
 GLOBAL_KEYWORD_FLOOPY_TEXT	Превращается, когда вы разыгрываете существо.	
+GLOBAL_KEYWORD_FORGE	Ковка	
+GLOBAL_KEYWORD_FORGE_TEXT	Перетащите эту карту в вашу колоду, чтобы потратить (2) кристалла маны на улучшение.	
+GLOBAL_KEYWORD_FORGED	Эффект ковки	
+GLOBAL_KEYWORD_FORGED_TEXT	Улучшение после того, как вы перетащили карту в колоду и потратили (2) кристалла маны.	
 GLOBAL_KEYWORD_FREEZE	Заморозка	
 GLOBAL_KEYWORD_FREEZE_TEXT	Замороженные персонажи пропускают следующую атаку.	
+GLOBAL_KEYWORD_FREEZE_TEXT_MERC	Замороженные противники теряют следующее действие на этом ходу.	
+GLOBAL_KEYWORD_FRENZY	Бешенство	
+GLOBAL_KEYWORD_FRENZY_TEXT	Срабатывает один раз, когда существо получает урон и выживает.	
 GLOBAL_KEYWORD_FROZEN	Под действием заморозки	
 GLOBAL_KEYWORD_FROZEN_TEXT	Не может атаковать в следующий ход.	
+GLOBAL_KEYWORD_FROZEN_TEXT_MERC	Не применяет следующую способность.	
 GLOBAL_KEYWORD_GALAKROND	Галакронд	
 GLOBAL_KEYWORD_GALAKROND_COLLECTION_TEXT	Эту карту можно использовать в колоде жреца, разбойника, шамана, чернокнижника или воина.	
+GLOBAL_KEYWORD_GIGANTIC	Мега-версия	
+GLOBAL_KEYWORD_GIGANTIC_TEXT	Копия другой карты, существо 8/8 за (8).	
+GLOBAL_KEYWORD_GIGANTIFY	Гигантизация	
+GLOBAL_KEYWORD_GIGANTIFY_TEXT	Вы кладете в руку копию этой карты. Она получает 8/8 и стоит (8).	
 GLOBAL_KEYWORD_GRIMY_GOONS	«Ржавые Бугаи»	
-GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT	Эту карту можно использовать в колоде охотника, паладина или воина.	
-GLOBAL_KEYWORD_HALL_OF_FAME	Зал славы	
-GLOBAL_KEYWORD_HALL_OF_FAME_TEXT	Особый набор карт, которые больше нельзя использовать в стандартном формате.	
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI	«Ржавые Бугаи» (для нескольких классов)	
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI_TEXT	Это карта фракции «Ржавые Бугаи», доступная {0} классам.	
+GLOBAL_KEYWORD_GRIMY_GOONS_TEXT	Это карта фракции «Ржавые Бугаи».	
+GLOBAL_KEYWORD_HEALING_POWER	Сила исцеления	
+GLOBAL_KEYWORD_HEALING_POWER_TEXT	Ваши способности восполняют больше здоровья.	
+GLOBAL_KEYWORD_HERALD	Возвещение	
+GLOBAL_KEYWORD_HERALD_DEATH_KNIGHT_TEXT	Призывает конечность Ониксии как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_DEMON_HUNTER_TEXT	Призывает конечность Азшары как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_ROGUE_TEXT	Призывает конечность Синестры как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_SHAMAN_TEXT	Призывает конечность Ал'акира как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_TEXT	Призывает конечность вашего гиганта как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_WARLOCK_TEXT	Призывает конечность Чо'Галла как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HERALD_WARRIOR_TEXT	Призывает конечность Рагнароса как солдата. Улучшается за каждые 2 возвещения.	
+GLOBAL_KEYWORD_HONORABLEKILL	Почетная победа	
+GLOBAL_KEYWORD_HONORABLEKILL_TEXT	Дает бонус, если в точности нанести смертельный урон.	
+GLOBAL_KEYWORD_HORDE	Орда	
+GLOBAL_KEYWORD_HORDE_TEXT	Расы Орды: эльфы крови, гоблины, полуорки, огры, орки, таурены, тролли и нежить	
+GLOBAL_KEYWORD_HUNTER_TOURIST	Турист-охотник	
+GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT	В колоду можно включать карты охотника из «Раздора в тропиках».	
+GLOBAL_KEYWORD_IMBUE	Зарядка	
+GLOBAL_KEYWORD_IMBUE_TEXT	Вы получаете новую силу героя, которая улучшается с каждой зарядкой.	
 GLOBAL_KEYWORD_IMMUNE	Неуязвимость	
-GLOBAL_KEYWORD_IMMUNE_REF_TEXT	Персонажу с неуязвимостью нельзя нанести урон.	
-GLOBAL_KEYWORD_IMMUNE_TEXT	Не получает урон.	
+GLOBAL_KEYWORD_IMMUNE_REF_TEXT	Персонажи с неуязвимостью не могут быть целью противников или получать урон.	
+GLOBAL_KEYWORD_IMMUNE_TEXT	Не может быть целью противников или получать урон.	
+GLOBAL_KEYWORD_INFUSE	Насыщение	
+GLOBAL_KEYWORD_INFUSE_TEXT	Когда погибает X ваших существ, улучшается в руке.	
+GLOBAL_KEYWORD_INFUSED	Насыщенность	
+GLOBAL_KEYWORD_INFUSED_TEXT	Улучшено в руке после смерти X ваших существ.	
 GLOBAL_KEYWORD_INSPIRE	Воодушевление	
 GLOBAL_KEYWORD_INSPIRE_TEXT	Срабатывает после применения вашей силы героя.	
+GLOBAL_KEYWORD_IS_HERO_PASSIVE	Пассивный эффект	
+GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT	Постоянный эффект.	
 GLOBAL_KEYWORD_JADE_GOLEM	Нефритовый голем	
 GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT	Ваш первый нефритовый голем – 1/1. Каждый следующий получает +1/+1.	
 GLOBAL_KEYWORD_JADE_GOLEM_TEXT	Каждый новый нефритовый голем на +1/+1 сильнее предыдущего.	
 GLOBAL_KEYWORD_JADE_LOTUS	Нефритовый лотос	
-GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT	Эту карту можно использовать в колоде друида, разбойника или шамана.	
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI	«Нефритовый лотос» (для нескольких классов)	
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI_TEXT	Это карта фракции «Нефритовый лотос», доступная {0} классам.	
+GLOBAL_KEYWORD_JADE_LOTUS_TEXT	Это карта фракции «Нефритовый лотос».	
 GLOBAL_KEYWORD_KABAL	Кабал	
-GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT	Эту карту можно использовать в колоде жреца, мага или чернокнижника.	
+GLOBAL_KEYWORD_KABAL_MULTI	«Кабал» (для нескольких классов)	
+GLOBAL_KEYWORD_KABAL_MULTI_TEXT	Это карта фракции «Кабал», доступная {0} классам.	
+GLOBAL_KEYWORD_KABAL_TEXT	Это карта фракции «Кабал».	
+GLOBAL_KEYWORD_KINDRED	Родня	
+GLOBAL_KEYWORD_KINDRED_TEXT	Бонус, если вы разыграли существо того же типа или заклинание той же школы на прошлом ходу.	
 GLOBAL_KEYWORD_LIFESTEAL	Похищение жизни	
 GLOBAL_KEYWORD_LIFESTEAL_TEXT	Нанося урон, также исцеляет вашего героя.	
+GLOBAL_KEYWORD_LOCKED	Заблокировано	
+GLOBAL_KEYWORD_LOCKED_TEXT	Недоступно, пока вы не разыграете соседнюю карту в руке.	
+GLOBAL_KEYWORD_MADNESS	Безумие	
+GLOBAL_KEYWORD_MADNESS_TEXT	Дает случайный продолжительный эффект на этом и на следующем ходу.	
+GLOBAL_KEYWORD_MAGE_TOURIST	Турист-маг	
+GLOBAL_KEYWORD_MAGE_TOURIST_TEXT	В колоду можно включать карты мага из «Раздора в тропиках».	
+GLOBAL_KEYWORD_MANATHIRST	Жажда маны (X)	
+GLOBAL_KEYWORD_MANATHIRST_TEXT	Бонус, если у вас X кристаллов маны.	
 GLOBAL_KEYWORD_MEGAWINDFURY	Меганеистовство ветра	
 GLOBAL_KEYWORD_MEGAWINDFURY_TEXT	Атакует четырежды за ход.	
+GLOBAL_KEYWORD_MINI	Мини-версия	
+GLOBAL_KEYWORD_MINI_REF_TEXT	Копия другой карты, существо 1/1 за (1).	
+GLOBAL_KEYWORD_MINI_TEXT	Копия другой карты, существо 1/1 за (1).	
+GLOBAL_KEYWORD_MINIATURIZE	Уменьшение	
+GLOBAL_KEYWORD_MINIATURIZE_TEXT	Вы получаете копию этой карты. Она получает 1/1 и стоит (1).	
 GLOBAL_KEYWORD_MINION_TYPE_REFERENCE	Тип существа	
 GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT	Зверь, демон, дракон, механизм, мурлок, пират и тотем.	
 GLOBAL_KEYWORD_MODULAR	Магнетизм	
-GLOBAL_KEYWORD_MODULAR_TEXT	Разыграйте это существо слева от механизма, чтобы объединить их.	
+GLOBAL_KEYWORD_MODULAR_TEXT	Если разыграть эту карту слева от механизма, она прикрепится к нему.	
+GLOBAL_KEYWORD_MULTICLASS	Для нескольких классов ({0})	Argument is number of classes the card can be used in (ex: 4)
+GLOBAL_KEYWORD_MULTICLASS_SEARCH_TOKEN	Для нескольких классов	
+GLOBAL_KEYWORD_MULTICLASS_TEXT	Эта карта доступна следующим классам: {0}	Argument is a comma separated list of classes the card can be used in
 GLOBAL_KEYWORD_OFFHAND	Левая рука	
 GLOBAL_KEYWORD_OFFHAND_TEXT	Невозможно уничтожить или зачаровать.	
+GLOBAL_KEYWORD_OLDGOD	Древний бог	
+GLOBAL_KEYWORD_OLDGOD_TEXT	Вместо атаки применяет 2 из 4 способностей. <i>В каждой колоде может быть только один <b>Древний бог</b>.</i>	
 GLOBAL_KEYWORD_OUTCAST	Изгой	
 GLOBAL_KEYWORD_OUTCAST_TEXT	Дополнительное свойство при разыгрывании из крайней левой или крайней правой позиции в руке.	
+GLOBAL_KEYWORD_OVERHEAL	Сверхисцеление	
+GLOBAL_KEYWORD_OVERHEAL_TEXT	Бонус, если эффект восстановит больше здоровья, чем может быть у существ.	
 GLOBAL_KEYWORD_OVERKILL	Сверхурон	
 GLOBAL_KEYWORD_OVERKILL_TEXT	Получает бонус при нанесении избыточного урона на вашем ходу.	
 GLOBAL_KEYWORD_OVERLOAD	Перегрузка: Х	
 GLOBAL_KEYWORD_OVERLOAD_REF_TEXT	Карты с «Перегрузкой» ограничивают ваш запас маны на следующем ходу.	
 GLOBAL_KEYWORD_OVERLOAD_TEXT	На следующем ходу у вас будет на X ед. меньше маны.	
+GLOBAL_KEYWORD_PALADIN_TOURIST	Турист-паладин	
+GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT	В колоду можно включать карты паладина из «Раздора в тропиках».	
 GLOBAL_KEYWORD_PASSIVE	Пассивный эффект	
 GLOBAL_KEYWORD_PASSIVE_TEXT	Постоянный эффект на время текущего похода.	
 GLOBAL_KEYWORD_POISONOUS	Яд	
 GLOBAL_KEYWORD_POISONOUS_TEXT	Уничтожает существо, которому наносит урон.	
+GLOBAL_KEYWORD_PREPARE	Подготовка	
+GLOBAL_KEYWORD_PREPARE_TEXT	Перетащите в колоду, чтобы потратить оставшуюся ману. На следующем ходу стоимость карты уменьшится на столько же \n(и еще на 1!)	
+GLOBAL_KEYWORD_PREPARED	Готовность	
+GLOBAL_KEYWORD_PREPARED_TEXT	Потратьте {0} ед. маны, чтобы снизить стоимость этой карты на {1}.	
+GLOBAL_KEYWORD_PREPARING	Подготовка	
+GLOBAL_KEYWORD_PREPARING_TEXT	Потратьте {0} ед. маны, чтобы уменьшить стоимость этой карты на {1}.\nКарта блокируется в руке до конца хода.	
+GLOBAL_KEYWORD_PRIEST_TOURIST	Турист-жрец	
+GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT	В колоду можно включать карты жреца из «Раздора в тропиках».	
+GLOBAL_KEYWORD_PROTOSS	Протоссы	
+GLOBAL_KEYWORD_PROTOSS_MULTI	Протоссы (для нескольких классов)	
+GLOBAL_KEYWORD_PROTOSS_MULTI_TEXT	Это карта фракции протоссов, доступная {0} классам.	
+GLOBAL_KEYWORD_PROTOSS_TEXT	Это карта фракции протоссов.	
+GLOBAL_KEYWORD_PROVOKE	Вызов	
+GLOBAL_KEYWORD_PROVOKE_TEXT	Когда это существо становится целью атаки в первый раз за бой, оно сначала что-то делает.	
 GLOBAL_KEYWORD_QUEST	Задача	
 GLOBAL_KEYWORD_QUEST_TEXT	Находится в руке в начале матча. Выполните задачу, чтобы получить награду.	
+GLOBAL_KEYWORD_QUESTLINE	Задание	
+GLOBAL_KEYWORD_QUESTLINE_TEXT	Будет в стартовой руке. Выполните, чтобы получить награду — до 3 раз!	
+GLOBAL_KEYWORD_QUICKDRAW	Навскидку	
+GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT	Бонус, если вы добавили эту карту в руку на этом ходу.	
+GLOBAL_KEYWORD_QUICKDRAW_TEXT	Бонус, если вы добавили эту карту в руку на этом ходу.	
 GLOBAL_KEYWORD_REBORN	Перерождение	
 GLOBAL_KEYWORD_REBORN_TEXT	После первой смерти воскресает с 1 ед. здоровья.	
 GLOBAL_KEYWORD_RECRUIT	Вербовка	
 GLOBAL_KEYWORD_RECRUIT_TEXT	Призывает существо из вашей колоды.	
+GLOBAL_KEYWORD_REFRESH	Обновление	
+GLOBAL_KEYWORD_REFRESH_COUNT	Счетчик обновлений	
+GLOBAL_KEYWORD_REFRESH_COUNT_TEXT	Бесплатных обновлений: {0}	
+GLOBAL_KEYWORD_REFRESH_MERC	Обновление	
+GLOBAL_KEYWORD_REFRESH_MERC_TEXT	Сокращает время восстановления на (X).	
+GLOBAL_KEYWORD_REFRESH_TEXT	Заменяет карты в таверне новыми.	
+GLOBAL_KEYWORD_REVIVE	Оживление (X)	
+GLOBAL_KEYWORD_REVIVE_TEXT	Возрождается через (X) ходов после гибели.	
+GLOBAL_KEYWORD_REWIND	Перемотка	
+GLOBAL_KEYWORD_REWIND_TEXT	Можно разыграть еще раз, чтобы получить другой результат.	
+GLOBAL_KEYWORD_ROGUE_TOURIST	Турист-разбойник	
+GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT	В колоду можно включать карты разбойника из «Раздора в тропиках».	
+GLOBAL_KEYWORD_ROOT	Обездвиживание	
+GLOBAL_KEYWORD_ROOT_TEXT	Обездвиженные существа и наемники не могут атаковать.	
 GLOBAL_KEYWORD_RUSH	Натиск	
 GLOBAL_KEYWORD_RUSH_TEXT	Может атаковать существ сразу после разыгрывания.	
+GLOBAL_KEYWORD_RUSH_TEXT_MERC	Атакует сразу после призыва.	
 GLOBAL_KEYWORD_SECRET	Секрет	
 GLOBAL_KEYWORD_SECRET_TEXT	Скрытый эффект. Срабатывает, когда на ходу противника выполняется определенное действие.	
+GLOBAL_KEYWORD_SHAMAN_TOURIST	Турист-шаман	
+GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT	В колоду можно включать карты шамана из «Раздора в тропиках».	
+GLOBAL_KEYWORD_SHATTER	Раскол	
+GLOBAL_KEYWORD_SHATTER_TEXT	Раскалывается на две половины. Они соединяются, если оказываются рядом в руке.	
+GLOBAL_KEYWORD_SHATTERED	Расколотая карта	
+GLOBAL_KEYWORD_SHATTERED_TEXT	Соединится с другой половиной, когда окажется рядом с ней в руке.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_POISONOUS_TEXT	Дает <b>«Яд»</b>.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_SPELL_DAMAGE_TEXT	Дает <b>«Урон от заклинаний +1»</b>.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_STEALTH_TEXT	Дает <b>«Маскировку»</b>.	
 GLOBAL_KEYWORD_SHIFTING_MINION_TEXT	В начале вашего хода превращается в другое существо.	
 GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT	В начале вашего хода превращается в другое заклинание.	
 GLOBAL_KEYWORD_SHIFTING_TEXT	В начале вашего хода превращается в другую карту.	
+GLOBAL_KEYWORD_SHIFTING_TOP_TEXT	Превращается в верхнюю карту вашей колоды.	
 GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT	В начале вашего хода превращается в другое оружие.	
 GLOBAL_KEYWORD_SHRINE	Идол	
 GLOBAL_KEYWORD_SHRINE_TEXT	Возрождается через 3 хода после разрушения.	
 GLOBAL_KEYWORD_SIDEQUEST	Побочная задача	
 GLOBAL_KEYWORD_SIDEQUEST_TEXT	Выполните, чтобы получить награду.	
 GLOBAL_KEYWORD_SILENCE	Немота	
+GLOBAL_KEYWORD_SILENCE_MERC	Немота	
+GLOBAL_KEYWORD_SILENCE_MERC_TEXT	Отменяет все эффекты карты, снаряжение, сокровища и чары.	
 GLOBAL_KEYWORD_SILENCE_TEXT	Отменяет все чары и эффекты карты.	
 GLOBAL_KEYWORD_SPAREPART	Запасные части	
 GLOBAL_KEYWORD_SPAREPART_TEXT	Заклинания за (1) с незначительным эффектом.	
+GLOBAL_KEYWORD_SPELLBURST	Резонанс	
+GLOBAL_KEYWORD_SPELLBURST_TEXT	Эффект, срабатывающий один раз после того, как вы применяете заклинание.	
+GLOBAL_KEYWORD_SPELLCOMBO_MERC	Серия заклинаний	
+GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC	Получает бонус, если другой ваш наемник разыгрывал заклинание указанной школы на этом ходу.	
+GLOBAL_KEYWORD_SPELLCOMBO_TEXT_MERC	Получает бонус, если другой ваш наемник разыгрывал заклинание указанной школы на этом ходу.	
+GLOBAL_KEYWORD_SPELLCRAFT	Чародейство	
+GLOBAL_KEYWORD_SPELLCRAFT_TEXT	Вы на время получаете заклинание каждый ход.	
 GLOBAL_KEYWORD_SPELLPOWER	Урон от заклинаний	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE	Урон от заклинаний тайной магии	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_MERC	Урон от тайной магии	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT	Ваши заклинания тайной магии наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT_MERC	Ваши эффекты тайной магии наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT	Ваши заклинания тайной магии наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT_MERC	Ваши эффекты тайной магии наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL	Урон от заклинаний Скверны	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_MERC	Урон от Скверны.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT	Ваши заклинания Скверны наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT_MERC	Ваши эффекты Скверны наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT	Ваши заклинания Скверны наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT_MERC	Ваши эффекты Скверны наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE	Урон от заклинаний огня	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_MERC	Урон от огня	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT	Ваши заклинания огня наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT_MERC	Ваши эффекты огня наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT	Ваши заклинания огня наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT_MERC	Ваши эффекты огня наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST	Урон от заклинаний льда	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_MERC	Урон от магии льда 	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT	Ваши заклинания льда наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT_MERC	Ваши эффекты льда наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT	Ваши заклинания льда наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT_MERC	Ваши эффекты льда наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY	Урон от заклинаний Света	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_MERC	Урон от магии Света	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT	Ваши заклинания Света наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT_MERC	Ваши эффекты Света наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT	Ваши заклинания Света наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT_MERC	Ваши эффекты Света наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE	Урон от заклинаний природы	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_MERC	Урон от сил природы	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT	Ваши заклинания природы наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT_MERC	Ваши эффекты природы наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT	Ваши заклинания природы наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT_MERC	Ваши эффекты природы наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL	Урон от заклинаний силы	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_REF_TEXT	Ваши заклинания силы наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_TEXT	Ваши заклинания силы наносят на {0} ед. больше урона.	0=amount of spell damage
 GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT	Ваши заклинания наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW	Урон от заклинаний Тьмы	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_MERC	Урон он темной магии	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT	Ваши заклинания Тьмы наносят больше урона.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT_MERC	Ваши эффекты Тьмы наносят дополнительный урон.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT	Ваши заклинания Тьмы наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT_MERC	Ваши эффекты Тьмы наносят дополнительный урон.	
 GLOBAL_KEYWORD_SPELLPOWER_TEXT	Ваши заклинания наносят на {0} ед. больше урона.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE	Сопротивление тайной магии	
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT	Получает уменьшенный урон от эффектов тайной магии.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_TEXT	Получает на {0} ед. меньше урона от эффектов тайной магии.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL	Сопротивление Скверне	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT	Получает уменьшенный урон от эффектов Скверны.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_TEXT	Получает на {0} ед. меньше урона от эффектов Скверны.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE	Сопротивление огню	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT	Получает уменьшенный урон от эффектов огня.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_TEXT	Получает на {0} меньше урона от эффектов огня.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST	Сопротивление магии льда	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT	Получает уменьшенный урон от эффектов магии льда.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_TEXT	Получает на {0} ед. меньше урона от эффектов магии льда.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY	Сопротивление Свету	
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT	Получает уменьшенный урон от эффектов Света.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_TEXT	Получает на {0} ед. меньше урона от эффектов Света.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC	Сопротивление заклинаниям	
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_REF_TEXT	Получает меньше урона от способностей.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_TEXT	Получает на {0} ед. меньше урона от способностей.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE	Сопротивление силам природы	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT	Получает уменьшенный урон от эффектов природы.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_TEXT	Получает на {0} ед. меньше урона от эффектов природы.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW	Сопротивление магии Тьмы	
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT	Получает уменьшенный урон от эффектов Тьмы.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_TEXT	Получает на {0} ед. меньше урона от эффектов Тьмы.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE	Чародейская уязвимость	
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT	Получает увеличенный урон от эффектов тайной магии.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_TEXT	Получает на {0} ед. больше урона от эффектов тайной магии.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL	Уязвимость к Скверне	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT	Получает увеличенный урон от эффектов Скверны.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_TEXT	Получает на {0} ед. больше урона от эффектов Скверны.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE	Уязвимость к огню	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT	Получает увеличенный урон от эффектов огня.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_TEXT	Получает на {0} ед. больше урона от эффектов огня.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST	Уязвимость ко льду	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT	Получает увеличенный урон от эффектов магии льда.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_TEXT	Получает на {0} ед. больше урона от эффектов магии льда.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY	Уязвимость к Свету	
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT	Получает увеличенный урон от эффектов Света.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_TEXT	Получает на {0} ед. больше урона от эффектов Света.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC	Уязвимость к заклинаниям	
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT	Получает больше урона от способностей.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_TEXT	Получает на {0} ед. больше урона от способностей.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE	Уязвимость к силам природы	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT	Получает увеличенный урон от эффектов природы.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_TEXT	Получает на {0} ед. больше урона от эффектов природы.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW	Уязвимость к магии Тьмы	
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT	Получает увеличенный урон от эффектов Тьмы.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_TEXT	Получает на {0} ед. больше урона от эффектов Тьмы.	0=amount of spell damage
+GLOBAL_KEYWORD_STARSHIP	Звездолет	
+GLOBAL_KEYWORD_STARSHIP_TEXT	Обладает характеристиками и эффектами ваших уничтоженных частей звездолета. Щелкните, чтобы запустить!	
 GLOBAL_KEYWORD_START_OF_COMBAT	Начало боя	
 GLOBAL_KEYWORD_START_OF_COMBAT_TEXT	Бонусный эффект в начале фазы боя.	
 GLOBAL_KEYWORD_START_OF_GAME	Начало матча	
 GLOBAL_KEYWORD_START_OF_GAME_TEXT	Делает что-то до первого хода.	
 GLOBAL_KEYWORD_STEALTH	Маскировка	
 GLOBAL_KEYWORD_STEALTH_REF_TEXT	Это существо нельзя атаковать или выбрать целью, пока оно не атакует.	
+GLOBAL_KEYWORD_STEALTH_REF_TEXT_MERC	Это существо нельзя атаковать или выбрать целью, пока оно не применит способность.	
 GLOBAL_KEYWORD_STEALTH_TEXT	Это существо нельзя атаковать или выбрать целью, пока оно не атакует.	
+GLOBAL_KEYWORD_STEALTH_TEXT_MERC	Это существо нельзя атаковать или выбрать целью, пока оно не применит способность.	
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN	Призывается при взятии	
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT	Призывается при взятии из колоды. Затем вы берете еще одну карту.	
 GLOBAL_KEYWORD_TAUNT	Провокация	
 GLOBAL_KEYWORD_TAUNT_REF_TEXT	Вынуждает противников атаковать существо с «Провокацией».	
+GLOBAL_KEYWORD_TAUNT_REF_TEXT_Merc	Вынуждает противников атаковать существо со способностью «Провокация».	
 GLOBAL_KEYWORD_TAUNT_TEXT	Противники вынуждены атаковать это существо.	
+GLOBAL_KEYWORD_TEMPORARY	Временная копия	
+GLOBAL_KEYWORD_TEMPORARY_TEXT	Эта карта будет сброшена в конце вашего хода.	
+GLOBAL_KEYWORD_TERRAN	Терраны	
+GLOBAL_KEYWORD_TERRAN_MULTI	Терраны (для нескольких классов)	
+GLOBAL_KEYWORD_TERRAN_MULTI_TEXT	Это карта фракции терранов, доступная {0} классам.	
+GLOBAL_KEYWORD_TERRAN_TEXT	Это карта фракции терранов.	
+GLOBAL_KEYWORD_TITAN	Титан	
+GLOBAL_KEYWORD_TITAN_TEXT	Выберите титана, \nчтобы применить 1 из 3 способностей, \nвместо того чтобы атаковать.	
+GLOBAL_KEYWORD_TOOL	Инструмент	
+GLOBAL_KEYWORD_TOOL_TEXT	Предмет с активируемой способностью.	
+GLOBAL_KEYWORD_TRADE	Можно обменять	
+GLOBAL_KEYWORD_TRADE_TEXT	Перетащите эту карту в свою колоду, чтобы потратить 1 ед. маны и взять новую карту.	
 GLOBAL_KEYWORD_TWINSPELL	Дуплет	
 GLOBAL_KEYWORD_TWINSPELL_TEXT	Можно разыграть дважды.	
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER	Требуются руны	
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER_TEXT	\n\n\n	
+GLOBAL_KEYWORD_UNDECIPHERED	Нерасшифровано	
+GLOBAL_KEYWORD_UNDECIPHERED_TEXT	Активируйте безумие, когда эта карта у вас в руке, чтобы получить бонус.	
+GLOBAL_KEYWORD_UNDECYPHERED	Карта безумия	
+GLOBAL_KEYWORD_UNDECYPHERED_TEXT	Дает случайный продолжительный эффект.	
+GLOBAL_KEYWORD_VENOMOUS	Токсичность	
+GLOBAL_KEYWORD_VENOMOUS_TEXT	Уничтожает первое существо в каждом бою, которому наносит урон.	
+GLOBAL_KEYWORD_WARLOCK_TOURIST	Турист-чернокнижник	
+GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT	В колоду можно включать карты чернокнижника из «Раздора в тропиках».	
+GLOBAL_KEYWORD_WARRIOR_TOURIST	Турист-воин	
+GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT	В колоду можно включать карты воина из «Раздора в тропиках».	
 GLOBAL_KEYWORD_WILD	Вольный	
 GLOBAL_KEYWORD_WILD_TEXT	Карты из прошлых дополнений Hearthstone, которые нельзя использовать в стандартном формате.	
 GLOBAL_KEYWORD_WINDFURY	Неистовство ветра	
 GLOBAL_KEYWORD_WINDFURY_TEXT	Атакует дважды за ход.	
+GLOBAL_KEYWORD_WINDFURY_TEXT_MERC	Всегда атакует дважды.	
+GLOBAL_KEYWORD_YAMATO_CANNON	Орудие «Ямато»	
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT	<b>Начало боя:</b> наносит {0} ед. урона существу противника с самым высоким здоровьем.	
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT_ALT	<b>Начало боя:</b> дважды наносит {0} ед. урона существу противника с самым высоким здоровьем.	
+GLOBAL_KEYWORD_ZERG	Зерги	
+GLOBAL_KEYWORD_ZERG_MULTI	Зерги (для нескольких классов)	
+GLOBAL_KEYWORD_ZERG_MULTI_TEXT	Это карта фракции зергов, доступная {0} классам.	
+GLOBAL_KEYWORD_ZERG_TEXT	Это карта фракции зергов.	
 GLOBAL_LANGUAGE_CHANGE_CONFIRM_MESSAGE	Текущее действие будет прервано. Вы уверены, что хотите продолжить?	
 GLOBAL_LANGUAGE_CHANGE_CONFIRM_TITLE	Изменить язык?	
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITH_SIZE_MESSAGE	Для смены языка требуется загрузить примерно {0}. Продолжить?	
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITHOUT_SIZE_MESSAGE	Хотите поменять язык? Необходимые файлы уже доступны на вашем устройстве.	
+GLOBAL_LANGUAGE_CHANGE_DELETE_AND_DOWNLOAD	Заменить	
+GLOBAL_LANGUAGE_CHANGE_DELETE_OLD_MESSAGE	Для загрузки файлов нового языка требуется {0}, но на устройстве только {1} свободного места. Удаление файлов текущего языка ({2}) освободит достаточно места. Удалить файлы и загрузить новый язык?	
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_MESSAGE	Освободите {0} в хранилище на вашем устройстве, чтобы продолжить.	
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_TITLE	Недостаточно места в хранилище!	
-GLOBAL_LANGUAGE_DOWNLOAD_VOICE_PACK	Файлы озвучки загружены	
 GLOBAL_LANGUAGE_DROPDOWN	Язык	
 GLOBAL_LANGUAGE_NATIVE_DEDE	Deutsch	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ENGB	English (UK)	The name of the language IN THAT LANGUAGE.
@@ -598,11 +1266,14 @@ GLOBAL_LANGUAGE_NATIVE_KOKR	한국어	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_PLPL	Polski	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_PTBR	Português (Brasil)	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_RURU	Русский	The name of the language IN THAT LANGUAGE.
-GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the laugnage IN THAT LANGUAGE.
+GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ZHCN	中文（简体）	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ZHTW	繁體中文(台灣)	The name of the language IN THAT LANGUAGE.
 GLOBAL_LEAVE	Покинуть	
 GLOBAL_LEAVE_SPECTATOR_MODE	Покинуть	
+GLOBAL_LEAVE_TUTORIAL	Пропустить обучение	
+GLOBAL_LETTUCE_LOBBY_TITLE	Выберите стиль игры	
+GLOBAL_LETTUCE_REWARD_BANNER_TEXT	Награда наемников	
 GLOBAL_LOCATIONS	Подробнее	
 GLOBAL_LOGIN	Войти	
 GLOBAL_LOGIN_CONFIRM_MESSAGE	Текущий прогресс будет потерян. Вы уверены, что хотите продолжить?	
@@ -641,21 +1312,43 @@ GLOBAL_MEDAL_9	Рыцарь Длани
 GLOBAL_MEDAL_ARENA_TOOLTIP_BODY	Это ваш лучший ключ на Арене.\nКоличество побед: {0}	0=num wins
 GLOBAL_MEDAL_REWARD_CONGRATULATIONS	Поздравляем!	
 GLOBAL_MEDAL_REWARD_DESCRIPTION	Медаль за прошлую неделю	
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Ваш высший ранг в стандартном формате.	
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Ваш высший ранг в вольном формате.	
-GLOBAL_MEDAL_TOOLTIP_BODY	Каждый выигранный матч приближает вас к следующему рангу!	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_CLASSIC	Ранг в классическом формате: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Ранг в стандартном формате: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_TWIST	Ранг в формате «Твист»: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Ранг в вольном формате: {0}	
 GLOBAL_MEDAL_TOOLTIP_BODY_ARENA_GRAND_MASTER	Вы – чемпион Арены!	
+GLOBAL_MEDAL_TOOLTIP_BODY_CLASSIC	Побеждайте в классическом формате, чтобы перейти на следующий ранг!	
 GLOBAL_MEDAL_TOOLTIP_BODY_LEGEND	Вы – легенда! С каждой игрой ваша позиция в рейтинге этого ранга будет меняться.	
+GLOBAL_MEDAL_TOOLTIP_BODY_STANDARD	Побеждайте в стандартном формате, чтобы перейти на следующий ранг!	
+GLOBAL_MEDAL_TOOLTIP_BODY_TWIST	Побеждайте в формате «Твист», чтобы перейти на следующий ранг!	
+GLOBAL_MEDAL_TOOLTIP_BODY_WILD	Побеждайте в вольном формате, чтобы перейти на следующий ранг!	
 GLOBAL_MEDAL_TOOLTIP_HEADER	{0}	0=medal name
 GLOBAL_MEDAL_TOURNAMENT_TOOLTIP_BODY	Вы – один из {0}% лучших игроков этого сезона	0=rank percentile
+GLOBAL_MERCENARIES	Наемники	
+GLOBAL_MERCENARIES_COOP	Наемники, совместный режим	
+GLOBAL_MERCENARY_FACTION_ALLIANCE	Альянс	
+GLOBAL_MERCENARY_FACTION_EMPIRE	Империя	
+GLOBAL_MERCENARY_FACTION_EXPLORER	Исследователь	
+GLOBAL_MERCENARY_FACTION_HORDE	Орда	
+GLOBAL_MERCENARY_FACTION_LEGION	Легион	
+GLOBAL_MERCENARY_FACTION_PIRATE	Пират	
+GLOBAL_MERCENARY_FACTION_SCOURGE	Плеть	
+GLOBAL_MINI_SET_BAR	Пещеры Стенаний	
+GLOBAL_MINI_SET_DMF	Гонки Новолуния	
+GLOBAL_MINI_SET_ONY	Логово Ониксии	
+GLOBAL_MINI_SET_REV	Неисправимые преступники	
+GLOBAL_MINI_SET_RLK	Возвращение в Наксрамас	
+GLOBAL_MINI_SET_SW	Мертвые копи	
+GLOBAL_MINION_TYPES	Типы	
 GLOBAL_MOBILE_ERROR_ANDROID_PHONE_DETECTED	К сожалению, на данный момент Hearthstone поддерживается только планшетами под управлением Android с размером экрана от 6".	
 GLOBAL_MOBILE_ERROR_BREAKING_NEWS	Срочные новости:\n\n{0}	
+GLOBAL_MOBILE_ERROR_GAMESERVER_CONNECT	Мы заметили, что вы не смогли начать игру по мобильной связи. Эта статья службы поддержки может вам помочь.	
 GLOBAL_MOBILE_ERROR_LOGON_WEB_TIMEOUT	Вы давно не совершали никаких действий в Hearthstone, и ваше соединение с сервером было разорвано.	
 GLOBAL_MOBILE_ERROR_NETWORK_DISCONNECT	Соединение было разорвано.	
 GLOBAL_MOBILE_ERROR_NETWORK_SPAM	Ввиду большого количества одновременных запросов с вашей стороны соединение было прервано.	
 GLOBAL_MOBILE_ERROR_NETWORK_UTIL_TIMEOUT	Превышено время ожидания подключения при запросе данных с серверов Hearthstone.	
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	К сожалению, для игры в Hearthstone требуется iPhone 4s, iPod Touch 5 или мобильный продукт компании Apple более поздней версии.	
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	К сожалению, для игры в Hearthstone требуется iPad 2 или более новая версия.	
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	Для игры в Hearthstone требуется iPhone 6s, iPod Touch 7 или устройство более поздней версии.	
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	Для игры в Hearthstone требуется iPad 5, iPad Air 2, iPad mini 4 или устройство более поздней версии.	
 GLOBAL_MOBILE_LOG_IN_TOOLTIP	Войдите в игру, если у вас уже есть учетная запись.	
 GLOBAL_MOBILE_LOGIN_POINTER	Вход здесь	
 GLOBAL_MOBILE_RESTART_APPLICATION	Перезапустите приложение	
@@ -666,6 +1359,9 @@ GLOBAL_MOBILECHAT_NOTIFICATION_TURN_COUNTDOWN	Время заканчивает�
 GLOBAL_MOBILECHAT_NOTIFICATION_YOUR_TURN	Ваш ход!	
 GLOBAL_MOBILECHAT_RETURN_TO_GAME	Закрыть	
 GLOBAL_MOBILECHAT_RETURN_TO_MENU	Вернуться в меню	
+GLOBAL_MODULE_ADVENTURE	Приключения	Module name for adventure
+GLOBAL_MODULE_BGS	Поля сражений	Module name for battlegrounds
+GLOBAL_MODULE_MERC	Наемники	Module name for merc
 GLOBAL_MORE	Дополнительно	
 GLOBAL_MY_NUM_WINS	{0}	0=number of games this player has won
 GLOBAL_NOT_AVAILABLE	Недоступно	
@@ -674,10 +1370,20 @@ GLOBAL_OFFLINE	Не в сети
 GLOBAL_OKAY	ОК	
 GLOBAL_ON	Вкл.	
 GLOBAL_OPTIONS	Настройки	
+GLOBAL_OPTIONS_ADVANCED_LABEL	Дополнительные	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE	Отображение особых карт	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_DYNAMIC	В первую очередь текст	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_OFF	Не отображать текст	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_ON	Всегда отображать текст	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_RARELY	В первую очередь изображение	
 GLOBAL_OPTIONS_CARDBACK_LABEL	Доступные рубашки	
 GLOBAL_OPTIONS_CHOOSE_CARD_BACK	Выберите рубашку	
 GLOBAL_OPTIONS_CINEMATIC	Ролик	
 GLOBAL_OPTIONS_CREDITS	Создатели	
+GLOBAL_OPTIONS_GRAPHICS_FPS_DEFAULT	Мин.	
+GLOBAL_OPTIONS_GRAPHICS_FPS_HIGH	Макс.	
+GLOBAL_OPTIONS_GRAPHICS_FPS_LABEL	Частота смены кадров	
+GLOBAL_OPTIONS_GRAPHICS_FPS_MEDIUM	Норм.	
 GLOBAL_OPTIONS_GRAPHICS_FULLSCREEN_LABEL	Полный экран	
 GLOBAL_OPTIONS_GRAPHICS_LABEL	Графика	
 GLOBAL_OPTIONS_GRAPHICS_QUALITY_HIGH	Максимальное	
@@ -694,42 +1400,126 @@ GLOBAL_OPTIONS_PRIVACY_POLICY	Конфиденциальность
 GLOBAL_OPTIONS_PUBLIC_CHAT_ENABLED	Общий чат	
 GLOBAL_OPTIONS_RESTORE_PURCHASES	Восстановить покупки	
 GLOBAL_OPTIONS_RESTORE_PURCHASES_POPUP_TEXT	Не находите своих покупок? Убедитесь, что ввели данные верной учетной записи.	
+GLOBAL_OPTIONS_SCREEN_SHAKE	Включить эффект дрожащего экрана	
 GLOBAL_OPTIONS_SKIP_NPR	Пропустить курс новичка	
 GLOBAL_OPTIONS_SKIP_TO_RANK_25	К 25-му рангу	
+GLOBAL_OPTIONS_SOUND_AMBIENT_SOUNDS_VOLUME_LABEL	Фоновые звуки	
+GLOBAL_OPTIONS_SOUND_DIALOG_VOLUME_LABEL	Диалоги	
 GLOBAL_OPTIONS_SOUND_IN_BACKGROUND	Фоновый режим	
 GLOBAL_OPTIONS_SOUND_LABEL	Звук	
 GLOBAL_OPTIONS_SOUND_MASTER_VOLUME_LABEL	Общая громкость	
+GLOBAL_OPTIONS_SOUND_MONO	Монозвук	
 GLOBAL_OPTIONS_SOUND_MUSIC_VOLUME_LABEL	Громкость музыки	
+GLOBAL_OPTIONS_SOUND_OPTIONS_LABEL	Настройки звука	
+GLOBAL_OPTIONS_SOUND_RESET_DEFAULTS	Сбросить настройки	
+GLOBAL_OPTIONS_SOUND_SOUND_EFFECT_VOLUME_LABEL	Эффекты	
 GLOBAL_OPTIONS_SPECTATOR_OPEN_JOIN	Друзья могут наблюдать за моими матчами	
+GLOBAL_PERSONAL_INFO_APP_ID	App Install ID	Label for showing their unqiue application install ID
+GLOBAL_PERSONAL_INFO_DEVICE_ID	Device Unique ID	Label for showing their device's unique id
+GLOBAL_PERSONAL_INFO_DEVICE_MODEL	Device Mode	Label for showing their device model
+GLOBAL_PERSONAL_INFO_DEVICE_NAME	Device Name	Label for showing their device name
+GLOBAL_PERSONAL_INFO_DEVICE_TYPE	Device Type	Label for showing their device type (Console/Handheld/Desktop)
+GLOBAL_PERSONAL_INFO_LOCALE	Регион	Label for showing their locale setting
+GLOBAL_PERSONAL_INFO_OS_VERSION	Os Version	Label for showing their operating system version
+GLOBAL_PERSONAL_INFO_REGION	Connected Battle.net Region	Label for showing their locale setting
 GLOBAL_PLAY	Играть	
 GLOBAL_PLAY_RANKED	Играть	
 GLOBAL_PLAY_STANDARD	Стандартная игра	
+GLOBAL_PLAY_WAITING	Ожидание	
 GLOBAL_PLAY_WILD	Вольная игра	
+GLOBAL_PLAYER_MIGRATION_RESTART_BODY	Требуется обновить учетную запись.\nПожалуйста, перезапустите игру.	
+GLOBAL_PLAYER_MIGRATION_RESTART_HEADER	Обновите учетную запись	
 GLOBAL_PLAYER_PLAYER	Игрок	this is the word for generic "Player" - this will be used when there a player's name is unknown at the time.
 GLOBAL_PRACTICE_MAX_LEVEL_REACHED	Макс. уровень тренировки	
+GLOBAL_PRIVACY_PERSONAL_INFO_BUTTON_CN	Personal Info	Text for a button to show personal information collected by the game for CN users
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_BODY	Personal Info is not available right now.\nPlease try again later.	
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_TITLE	Недоступно	Title for dialog telling users personal information is unavailable
+GLOBAL_PRIVACY_REGISTRATION_BUTTON_CN	沪B2-20080012-20A	Button text for registration information. Should not be translated
+GLOBAL_PRIVACY_SDK_BUTTON_CN	3rd Party Info	Text for a button to show 3rd party sdk information for CN users
+GLOBAL_PROGRAMNAME_ARCADECOLLECTION	Blizzard Arcade Collection	
 GLOBAL_PROGRAMNAME_BLACKOPS4	Black Ops 4	
-GLOBAL_PROGRAMNAME_DESTINY2	Destiny 2	
+GLOBAL_PROGRAMNAME_BLACKOPSCOLDWAR	Black Ops Cold War	
+GLOBAL_PROGRAMNAME_CALLOFDUTY	Call of Duty	
+GLOBAL_PROGRAMNAME_CODVANGUARD	Call of Duty: Vanguard	
+GLOBAL_PROGRAMNAME_CRASHBANDICOOT4	Crash Bandicoot 4	
+GLOBAL_PROGRAMNAME_DIABLO2R	Diablo II: Resurrected	
 GLOBAL_PROGRAMNAME_DIABLO3	Diablo III	
+GLOBAL_PROGRAMNAME_DIABLO4	Diablo IV	
+GLOBAL_PROGRAMNAME_DIABLOIMMORTAL	Diablo Immortal	
 GLOBAL_PROGRAMNAME_HEARTHSTONE	Hearthstone	
 GLOBAL_PROGRAMNAME_HEROES	Heroes of the Storm	
 GLOBAL_PROGRAMNAME_MODERNWARFARE	Modern Warfare	
+GLOBAL_PROGRAMNAME_MODERNWARFARE2	Modern Warfare II	
 GLOBAL_PROGRAMNAME_MODERNWARFARE2_REMASTER	MW2CR	
+GLOBAL_PROGRAMNAME_OUTERWORLDS2	The Outer Worlds 2	
 GLOBAL_PROGRAMNAME_OVERWATCH	Overwatch	
+GLOBAL_PROGRAMNAME_OVERWATCH2	Overwatch 2	
 GLOBAL_PROGRAMNAME_PHOENIX	В сети	
 GLOBAL_PROGRAMNAME_STARCRAFT	StarCraft	
 GLOBAL_PROGRAMNAME_STARCRAFT2	StarCraft II	
 GLOBAL_PROGRAMNAME_WARCRAFT3	Warcraft III: Reforged	
+GLOBAL_PROGRAMNAME_WARCRAFTARCLIGHTRUMBLE	Warcraft Rumble	
 GLOBAL_PROGRAMNAME_WOW	World of Warcraft	
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION	Получено: {0}	
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_DATE	{0:dd/MM/yyyy}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_PERCENTAGE	{0}%	
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP	Загрузите «{0}», чтобы увидеть достижения	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP_TITLE	{0}	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_NAME	{0} — {1}	
+GLOBAL_PROGRESSION_ACHIEVEMENT_TILE_LOCKED_MESSAGE	Загрузите «{0}»	{0}=Localised game mode name
+GLOBAL_PROGRESSION_BATTLEGROUNDS_QUESTS_POPUP_TITLE	Ваши еженедельные задания	
+GLOBAL_PROGRESSION_DAILY_QUESTS_POPUP_TITLE	Задания	
+GLOBAL_PROGRESSION_EVENT_QUESTS_POPUP_TITLE	Ваши задания события	
+GLOBAL_PROGRESSION_POINTS	Уровень подвигов: {0}	
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP	Наибольшее число побед на Арене.	
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP_TITLE	Арена	
+GLOBAL_PROGRESSION_PROFILE_ARENA_WINS	{0} |4(победа,победы,побед)	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP	Побеждайте, чтобы повысить рейтинг. Задания учитывают завершение игры в четверке лучших как победу!	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP_TITLE	Поля сражений	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_TOP4	{0} |4(матч, матча, матчей) в четверке лучших	
+GLOBAL_PROGRESSION_PROFILE_GAME_MODES	Режимы	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP	Показывает PvP-рейтинг и количество поручений, выполненных в режиме «Наемники».	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP_TITLE	Наемники	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_TOTAL_BOUNTIES	{0} |4(поручение,поручения,поручений)	
+GLOBAL_PROGRESSION_PROFILE_PLAY_MODE	Традиционный режим	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TITLE	Обычные дуэли	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP	Показывает наивысший рейтинг в обычных и героических дуэлях.	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP_TITLE	Рейтинг в обычных дуэлях	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TITLE	Героические дуэли	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP	Показывает наивысший рейтинг в обычных и героических дуэлях.	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP_TITLE	Рейтинг в героических дуэлях	
+GLOBAL_PROGRESSION_PROFILE_RANKED_STAT_TOOLTIP	Общее число побед в рейтинговых играх.	
+GLOBAL_PROGRESSION_PROFILE_TOTAL_WINS	{0} |4(победа,победы,побед) в сумме	
+GLOBAL_PROGRESSION_PROFILE_WINS_PLURAL	Всего побед	
+GLOBAL_PROGRESSION_PROFILE_WINS_SINGULAR	Победа	
+GLOBAL_PROGRESSION_PROGRESS_MESSAGE	{0} / {1}	
+GLOBAL_PROGRESSION_QUEST_TIME_UNTIL_NEXT	Новое задание через\n{0}	
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP	Повышайте уровень классов и поднимайте свой рейтинг, чтобы получать ежемесячные награды!	
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP_TITLE	Награды	
+GLOBAL_PROGRESSION_REWARD_SUMMARY	{0}\n{1}	
+GLOBAL_PROGRESSION_REWARD_TRACK_XP	{0} ед. опыта	
+GLOBAL_PROGRESSION_TIER_MESSAGE	{0}/{1}	
+GLOBAL_PROGRESSION_TOOLTIP_CLASS_DEFAULT_DESC	{0}-й уровень	
+GLOBAL_PROGRESSION_TOOLTIP_GOLDEN_WINS_DESC	Одержите {0} |4(победу,победы,побед) в рейтинговых матчах или на Арене, выбрав класс «{1}», чтобы получить золотого классического героя этого класса!	{0}=win count {1}=class name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DESC	Одержите {0} |4(победу,победы,побед) в рейтинговых матчах или на Арене, выбрав класс «{1}», чтобы получить награду ({2})!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DONE_DESC	Вы одержали {0} |4(победу,победы,побед) за класс «{1}» в рейтинговых матчах или на Арене и получаете награду ({2})!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_TOTAL_CLASS_WINS	Всего побед ({0})	{0}=class name
+GLOBAL_PROGRESSION_WEEKLY_QUESTS_POPUP_TITLE	Еженедельные задания	
+GLOBAL_PVPDR_SEASON_ERROR_NOT_ACTIVE	Данный сезон дуэлей более недоступен. Пожалуйста, повторите попытку позже.	
 GLOBAL_QUEST_PROGRESS_COUNT	{0}/{1}	0=progress,1=max progress
 GLOBAL_QUIT	Выход	
+GLOBAL_RACE_ABERRATION	Аберрация	
+GLOBAL_RACE_ABERRATION_BATTLEGROUNDS	Аберрации	
 GLOBAL_RACE_ALL	Все	
 GLOBAL_RACE_ALL_BATTLEGROUNDS	Слияния	This should be the plural of DAL_087t
 GLOBAL_RACE_BLOODELF	Эльф крови	
 GLOBAL_RACE_BLOODELF_BATTLEGROUNDS	Эльфы крови	
+GLOBAL_RACE_CELESTIAL	Небожитель	
+GLOBAL_RACE_CENTAUR	Кентавр	
 GLOBAL_RACE_DEMON	Демон	
 GLOBAL_RACE_DEMON_BATTLEGROUNDS	Демоны	
-GLOBAL_RACE_DRAENEI	Огонь	
-GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Огонь	
+GLOBAL_RACE_DRAENEI	Дреней	
+GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Дренеи	
 GLOBAL_RACE_DRAGON	Дракон	
 GLOBAL_RACE_DRAGON_BATTLEGROUNDS	Драконы	
 GLOBAL_RACE_DWARF	Дворф	
@@ -738,39 +1528,57 @@ GLOBAL_RACE_EGG	Яйцо
 GLOBAL_RACE_EGG_BATTLEGROUNDS	Яйца	
 GLOBAL_RACE_ELEMENTAL	Элементаль	
 GLOBAL_RACE_ELEMENTAL_BATTLEGROUNDS	Элементали	
+GLOBAL_RACE_FURBOLG	Фурболг	
+GLOBAL_RACE_GNOLL	Гнолл	
 GLOBAL_RACE_GNOME	Гном	
 GLOBAL_RACE_GNOME_BATTLEGROUNDS	Гномы	
 GLOBAL_RACE_GOBLIN	Гоблин	
 GLOBAL_RACE_GOBLIN_BATTLEGROUNDS	Гоблины	
+GLOBAL_RACE_GOLEM	Голем	
+GLOBAL_RACE_GRONN	Гронн	
+GLOBAL_RACE_HALFORC	Полуорк	
+GLOBAL_RACE_HARPY	Гарпия	
+GLOBAL_RACE_HIGHELF	Высший эльф	
 GLOBAL_RACE_HUMAN	Человек	
 GLOBAL_RACE_HUMAN_BATTLEGROUNDS	Люди	
+GLOBAL_RACE_LOCK	Недоступно	
 GLOBAL_RACE_MECHANICAL	Механизм	
 GLOBAL_RACE_MECHANICAL_BATTLEGROUNDS	Механизмы	
 GLOBAL_RACE_MIXED_BATTLEGROUNDS	Смешанные существа	
+GLOBAL_RACE_MULTILINE_DELIMITER	{0} / {1}	
 GLOBAL_RACE_MURLOC	Мурлок	
 GLOBAL_RACE_MURLOC_BATTLEGROUNDS	Мурлоки	
+GLOBAL_RACE_NAGA	Нага	
+GLOBAL_RACE_NAGA_BATTLEGROUNDS	Наги	
 GLOBAL_RACE_NERUBIAN	Неруб	
 GLOBAL_RACE_NERUBIAN_BATTLEGROUNDS	Нерубы	
 GLOBAL_RACE_NIGHTELF	Ночной эльф	
 GLOBAL_RACE_NIGHTELF_BATTLEGROUNDS	Ночные эльфы	
 GLOBAL_RACE_OGRE	Огр	
 GLOBAL_RACE_OGRE_BATTLEGROUNDS	Огры	
+GLOBAL_RACE_OLDGOD	Древний бог	
 GLOBAL_RACE_ORC	Орк	
 GLOBAL_RACE_ORC_BATTLEGROUNDS	Орки	
+GLOBAL_RACE_OWLKIN	Совух	
+GLOBAL_RACE_PANDAREN	Пандарен	
 GLOBAL_RACE_PET	Зверь	
 GLOBAL_RACE_PET_BATTLEGROUNDS	Звери	
 GLOBAL_RACE_PIRATE	Пират	
 GLOBAL_RACE_PIRATE_BATTLEGROUNDS	Пираты	
+GLOBAL_RACE_QUILBOAR	Свинобраз	
+GLOBAL_RACE_QUILBOARS_BATTLEGROUNDS	Свинобразы	
 GLOBAL_RACE_SCOURGE	Плеть	
 GLOBAL_RACE_SCOURGE_BATTLEGROUNDS	Плеть	
 GLOBAL_RACE_TAUREN	Таурен	
 GLOBAL_RACE_TAUREN_BATTLEGROUNDS	Таурены	
 GLOBAL_RACE_TOTEM	Тотем	
 GLOBAL_RACE_TOTEM_BATTLEGROUNDS	Тотемы	
+GLOBAL_RACE_TREANT	Древень	
 GLOBAL_RACE_TROLL	Тролль	
 GLOBAL_RACE_TROLL_BATTLEGROUNDS	Тролли	
 GLOBAL_RACE_UNDEAD	Нежить	
 GLOBAL_RACE_UNDEAD_BATTLEGROUNDS	Нежить	
+GLOBAL_RACE_VULPERA	Вульпера	
 GLOBAL_RACE_WORGEN	Ворген	
 GLOBAL_RACE_WORGEN_BATTLEGROUNDS	Воргены	
 GLOBAL_RANK_CANT_LOSE_LEVEL	Вы не можете потерять этот ранг.	
@@ -779,12 +1587,14 @@ GLOBAL_RANK_SCRUB_RANK_DESC	На этом ранге вы не теряете з
 GLOBAL_RANK_STAR_MULT	Бонус к звездам! x{0}	
 GLOBAL_RANK_STAR_MULT_STREAK	Бонус за победную серию! x2	
 GLOBAL_RANK_WIN_STREAK	Дополнительная звезда за победную серию!	
+GLOBAL_RANKED	Рейтинг	
 GLOBAL_RARITY_COMMON	Обычная	
 GLOBAL_RARITY_EPIC	Эпическая	
-GLOBAL_RARITY_FREE	Бесплатно	
+GLOBAL_RARITY_FREE	Бесплатная	
 GLOBAL_RARITY_LEGENDARY	Легендарная	
 GLOBAL_RARITY_RARE	Редкая	
 GLOBAL_RECONNECT_EXIT_BUTTON	Выход	
+GLOBAL_RECONNECT_FAIL_MODE_NOT_AVAILABLE	Невозможно повторно подключиться к игре. Вначале надо загрузить элементы режима «{0}».	{0}=Name of the mode, (e.g. Battlegrounds, Mercenaries, Solo Adventures)
 GLOBAL_RECONNECT_RECONNECTED	Повторное подключение к игре прошло успешно. Продолжение игры...	
 GLOBAL_RECONNECT_RECONNECTED_HEADER	Переподключение	
 GLOBAL_RECONNECT_RECONNECTED_LOGIN	Повторное подключение к вашей последней игре прошло успешно. Продолжение игры...	
@@ -793,7 +1603,18 @@ GLOBAL_RECONNECT_RECONNECTING_HEADER	Подключение
 GLOBAL_RECONNECT_RECONNECTING_LOGIN	В вашей последней игре произошел разрыв соединения. Идет подключение...	
 GLOBAL_RECONNECT_TIMEOUT	Невозможно повторно подключиться к игре.	
 GLOBAL_RECONNECT_TIMEOUT_HEADER	Ошибка	
+GLOBAL_REDUNDANT_NDE_BODY	Получена версия «{0}» |4(этой карты, этих карт, этих карт).\nЗаменить |4(карту,карты,карты) «{1}» на |4(случайную карту, случайные карты, случайные карты) «{2}» ({3})?	0=Newly Acquired Premium, 1=Premium to reroll, 2=reroll set name, 3=card rarity
+GLOBAL_REDUNDANT_NDE_BODY_DUPLICATE_SIGNATURE	Вы получили копию особой легендарной карты. \nХотите поменять ее на случайную золотую легендарную карту из набора «{0}»?	0=reroll set name
+GLOBAL_REDUNDANT_NDE_BODY_MULTIPLE_PREMIUMS	Получена версия «{0}» этой карты.\nЗаменить карты типа «{1}/{2}» на случайные карты уровня «{4}» из набора «{3}»?	0=Newly Acquired Premium, 1=Higher premium to reroll, 2=Lower premium to reroll, 3=reroll set name, 4=card rarity
+GLOBAL_REDUNDANT_NDE_BUTTON_DECLINE	Нет, спасибо	
+GLOBAL_REDUNDANT_NDE_BUTTON_REROLL	Да, заменить!	
+GLOBAL_REDUNDANT_NDE_DOUBLE_BODY	Вы получили несколько версий [PH Premium] этой карты.\nЗаменить ее версии [PH Premium] на случайные карты из набора «[PH SET]» ([PH RARITY])?	
+GLOBAL_REDUNDANT_NDE_REROLL_RESULT_HEADER	Карта заменена!	
+GLOBAL_REDUNDANT_NDE_TITLE	Заменить |4(карту,карты,карт) версии «{0}»?	0=card premium to reroll
+GLOBAL_REDUNDANT_NDE_TITLE_DUPLICATE_SIGNATURE	Поменять копию особой легендарной карты?	
+GLOBAL_REDUNDANT_NDE_TITLE_MULTIPLE_PREMIUMS	Заменить карты версий «{0}/{1}»?	0=higher card premium to reroll, 1=lower card premium to reroll
 GLOBAL_REFRESH	Обновить	
+GLOBAL_REFUND_ARENA_TICKET_HEADLINE	Возвращенный билет!	
 GLOBAL_REGION_AMERICAS	С. и Ю. Америка и Ю.-В. Азия	
 GLOBAL_REGION_ASIA	Азия	
 GLOBAL_REGION_CHINA	Китай	
@@ -803,19 +1624,33 @@ GLOBAL_REMAINING_DATETIME	Осталось {0}	0=time string
 GLOBAL_REMINDER_CARDBACK_SEASON_END_DIALOG	Выиграйте {0} |4(матч,матча,матчей) и получите рубашку этого сезона.	
 GLOBAL_REMINDER_CHEST_QUESTION_MARK	?	Label for unearned chest, assuming "?" universally means unknown, it doesn't need to be localized
 GLOBAL_REMINDER_CHEST_SEASON_END_DIALOG	Выиграйте 5 матчей и получите сезонный сундук!	
+GLOBAL_REPORT_DETAIL_ADVERTISEMENT	Реклама	
+GLOBAL_REPORT_DETAIL_BATTLETAG	BattleTag	
+GLOBAL_REPORT_DETAIL_BOTTING	Использование ботов	
+GLOBAL_REPORT_DETAIL_HACKING	Взлом	
+GLOBAL_REPORT_DETAIL_HARASSMENT	Домогательство	
+GLOBAL_REPORT_DETAIL_INTENTIONALLY_LOSING_DERANKING	Намеренное поражение / понижение ранга	
+GLOBAL_REPORT_DETAIL_SPAM	Спам	
+GLOBAL_REPORT_REASON_CHEATING	Мошенничество	
+GLOBAL_REPORT_REASON_INAPPROPRIATE_CHAT	Манера общения	
+GLOBAL_REPORT_REASON_INAPPROPRIATE_NAME	Имя игрока	
 GLOBAL_RESTART	Переиграть	
 GLOBAL_RESUME_GAME	Вернуться	
 GLOBAL_RETRY	Повторить попытку	
 GLOBAL_RETURNING_PLAYER_GENERATED_DECK	Колода хозяина таверны	
 GLOBAL_REWARD_ARCANE_DUST_HEADLINE	Чародейная пыль!	
 GLOBAL_REWARD_ARCANE_ORBS_HEADLINE	Получены чародейские сферы!	
+GLOBAL_REWARD_ARENA_TICKET	Билет на арену	
 GLOBAL_REWARD_ARENA_TICKET_ADMIT	ПРОПУСК	the word 'admit' in capital letters - displayed like "Admit 1" and looks like a movie/fair ticket. this is the Arena Ticket reward visual.
 GLOBAL_REWARD_ARENA_TICKET_AUTHORIZED_BY	Выдан	a label that shows up in the Arena Ticket under the Player's name indicating this ticket reward was granted by some guy.
 GLOBAL_REWARD_ARENA_TICKET_ENTRANT	Участник	a label that shows up in the Arena Ticket under the Player's name to say this person is allowed entrance into the Arena.
-GLOBAL_REWARD_ARENA_TICKET_HEADLINE	Пропуск на Арену!	
+GLOBAL_REWARD_ARENA_TICKET_HEADLINE	Бесплатный пропуск!	
 GLOBAL_REWARD_ARENA_TICKET_LABEL	Арена	
 GLOBAL_REWARD_ARENA_TICKET_STORE_COUNT_1	1	
-GLOBAL_REWARD_ARENA_TICKET_TITLE	Арена	
+GLOBAL_REWARD_ARENA_TICKET_TITLE	Таверна	
+GLOBAL_REWARD_BATTLEGROUNDS_GUIDE_HEADLINE	Открыт бармен полей сражений	
+GLOBAL_REWARD_BATTLEGROUNDS_HERO_HEADLINE	Открыт герой полей сражений	
+GLOBAL_REWARD_BG_TOKEN_HEADLINE	|4( Получен жетон,Получены жетоны,Получены жетоны) полей сражений!	
 GLOBAL_REWARD_BONUS_CHALLENGE_HEADLINE	Открыто последнее испытание	
 GLOBAL_REWARD_BOOSTER_DETAILS_OUT_OF_BAND	Вы получили {0} |4(комплект,комплекта,комплектов) карт.	0=count
 GLOBAL_REWARD_BOOSTER_DETAILS_PRESALE_OUT_OF_BAND	Вы сможете воспользоваться вашей электронной покупкой в виде {0} |4(комплекта,комплектов,комплектов) через некоторое время!	0=count
@@ -830,7 +1665,7 @@ GLOBAL_REWARD_CARD_DETAILS_TUTORIAL02	Это впечатляет.
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL03	Вы сегодня в ударе!	
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL04	Это было невероятно.	
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL05	Восхитительно!	
-GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	Отлично, отлично!	
+GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	Отлично!	
 GLOBAL_REWARD_CARD_HEADLINE	Награда!	
 GLOBAL_REWARD_CARD_LEVEL_UP	Открыто в награду за достижение {0}-го уровня классом «{1}»	0=# level, 1=class
 GLOBAL_REWARD_CHEST_HEADER	Вы получили рейтинговые награды!	
@@ -851,6 +1686,7 @@ GLOBAL_REWARD_CLASS_CHALLENGE_DETAIL	{0}	0=first class
 GLOBAL_REWARD_CLASS_CHALLENGE_DETAIL_DOUBLE	{0} и {1}	0=first class, 1=second class
 GLOBAL_REWARD_CLASS_CHALLENGE_HEADLINE	Доступно: |4(новое классовоe испытание,новые классовые испытания,новые классовые испытания)	
 GLOBAL_REWARD_CORE_CARD_DETAILS	Открыто карт класса «{2}»: {0}/{1}	0=# cards unlocked, 1=# cards possible to unlock, 2=class
+GLOBAL_REWARD_FIERY_HEART_MOUNT_HEADLINE	Транспорт «Огненное сердце»	
 GLOBAL_REWARD_FORGE_DETAILS_OUT_OF_BAND	Добавлено доступов на арену из-за пределов игры: {0}	0=count
 GLOBAL_REWARD_FORGE_HEADLINE	Получен доступ к арене	
 GLOBAL_REWARD_FORGE_UNLOCKED_HEADLINE	Вам стала доступна Арена!	
@@ -865,6 +1701,11 @@ GLOBAL_REWARD_HERO_DETAILS	Открыто героев: {0}/{1}
 GLOBAL_REWARD_HERO_HEADLINE	Открыто: {0}	
 GLOBAL_REWARD_HEROES_CARD_MOUNT_HEADLINE	Транспорт: карта Hearthstone	
 GLOBAL_REWARD_PROGRESS	Побед: {0}/{1}	0=current wins,1=required wins
+GLOBAL_REWARD_SARGE_TALE_HEADLINE	Болтливый Серж	
+GLOBAL_ROLE_CASTER	Заклинатель	
+GLOBAL_ROLE_FIGHTER	Боец	
+GLOBAL_ROLE_TANK	Защитник	
+GLOBAL_RUNE_REQUIREMENT_POPUP_TEXT	Здесь указываются требования к рунам.	
 GLOBAL_SCAN	Поиск	
 GLOBAL_SCREENSHOT_COMPLETE	Снимок экрана сохранен на рабочий стол.	
 GLOBAL_SCREENSHOT_COMPLETE_SPECIFIC_DIRECTORY	Скриншот сохранен в {0}.	0=The directory that the file was saved to
@@ -884,7 +1725,7 @@ GLOBAL_SEASON_END_RANK_LABEL	Достигнутый вами ранг:
 GLOBAL_SEASON_END_STAR_MULTIPLIER_LABEL	Бонус к звездам	
 GLOBAL_SEASON_END_STAR_MULTIPLIER_TITLE	Награда за рейтинговые матчи прошлого сезона:	
 GLOBAL_SEASON_END_WELCOME	Добро пожаловать!	
-GLOBAL_SET_CORE	Базовый набор	
+GLOBAL_SET_BASIC	Базовый набор	
 GLOBAL_SET_EXPERT1	Классический набор	
 GLOBAL_SET_ROTATION_ROLLOVER_BODY_DESKTOP	В Hearthstone наступил новый год!\nПерезапустите игру, чтобы присоединиться к празднику!	
 GLOBAL_SET_ROTATION_ROLLOVER_BODY_MOBILE	В Hearthstone наступил новый год!\nПерезапускаем игру, чтобы вы могли присоединиться к празднику.	
@@ -893,15 +1734,18 @@ GLOBAL_SHOW	Показать
 GLOBAL_SHUTDOWN_TOAST	<color=#{0}>Служба Blizzard будет отключена через {1} мин.</color>	0=color, 1=minutes
 GLOBAL_SKIP	Пропустить	
 GLOBAL_SKIP_TUTORIAL	Пропустить обучение	
+GLOBAL_SOCIAL_ALERT_FRIEND_OFFLINE	{0} теперь не в сети.	0=Battletag
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT	<color=#{0}>{1}</color> получает <color=#FFD451>{2}</color>	0=name color,1=player name,2=achievement name
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT_TIER	<color=#{0}>{1}</color> получает <color=#FFD451>{2} (уровень {3})</color>	0=name color,1=player name,2=achievement name,3=tier
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_COMPLETE	<color=#{0}>{1}</color> заканчивает выступление на Арене со счетом ({2}-{3}).	0=name color,1=player name,2=Arena Wins,3=Arena Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START	<color=#{0}>{1}</color> начинает выступление на Арене.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START_WITH_MANY_WINS	<color=#{0}>{1}</color> начинает сражение на арене, имея за плечами уже {2} |4(победу,победы,побед)!	0=name color,1=player name,2=Arena Wins
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_COMPLETE	<color=#{0}>{1}</color> заканчивает «Потасовочный цех» со счетом {2}-{3}.	0=name color,1=player name,2=Brawl Wins,3=Brawl Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START	<color=#{0}>{1}</color> заходит в «Потасовочный цех».	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START_WITH_MANY_WINS	<color=#{0}>{1}</color> заходит в «Потасовочный цех», имея за плечами {2} |4(победу,победы,побед)!	0=name color,1=player name,2=Brawl Wins
+GLOBAL_SOCIAL_TOAST_FRIEND_DEATH_KNIGHT_LEVEL	<color=#{0}>{1}</color> получает {2} уровень рыцарем смерти.	0=name color,1=player name,2=level
+GLOBAL_SOCIAL_TOAST_FRIEND_DEMON_HUNTER_LEVEL	<color=#{0}>{1}</color> получает {2} уровень охотником на демонов.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_DRUID_LEVEL	<color=#{0}>{1}</color> получает {2} уровень друидом.	0=name color,1=player name,2=level
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK	Игрок <color=#{0}>{1}</color> достиг ранга «{2}»!	0=name color,1=player name,2=medal rank
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK_WILD	Игрок <color=#{0}>{1}</color> достиг ранга {2} в вольном формате!	0=name color,1=player name,2=medal rank
 GLOBAL_SOCIAL_TOAST_FRIEND_GOLDEN_LEGENDARY	<color=#{0}>{1}</color> получает <color=#{3}>золотую карту «{2}»</color>!	0=name color,1=player name,2=card name,3=Golden Color
 GLOBAL_SOCIAL_TOAST_FRIEND_HEROIC_BRAWL_COMPLETE	<color=#{0}>{1}</color> завершает героическую потасовку. (В: {2}; П: {3})	0=name color,1=player name,2=Heroic brawl Wins,3=Heroic brawl Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_HEROIC_BRAWL_START	<color=#{0}>{1}</color> начинает новую героическую потасовку.	0=name color,1=player name
@@ -915,8 +1759,10 @@ GLOBAL_SOCIAL_TOAST_FRIEND_ONLINE	<color=#{0}>{1}</color> входит в сет
 GLOBAL_SOCIAL_TOAST_FRIEND_PALADIN_LEVEL	<color=#{0}>{1}</color> получает {2} уровень паладином.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_PRIEST_LEVEL	<color=#{0}>{1}</color> получает {2} уровень жрецом.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED	Игрок <color=#{0}>{1}</color> достиг ранга «{2}»!	0=name color,1=player name,2=medal name
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_CLASSIC	<color=#{0}>{1}</color> получает {2}-й ранг в классическом формате!	0=name color,1=player name,2=medal name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_WILD	Игрок <color=#{0}>{1}</color> достиг ранга {2} в вольном формате!	0=name color,1=player name,2=medal name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND	<color=#{0}>{1}</color> становится ЛЕГЕНДОЙ!	0=name color,1=player name
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_CLASSIC	<color=#{0}>{1}</color> становится ЛЕГЕНДОЙ в классическом формате!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_WILD	<color=#{0}>{1}</color> становится ЛЕГЕНДОЙ в вольном формате!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_REQUEST	Игрок <color=#{0}>{1}</color> приглашает вас добавить его в список друзей.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_ROGUE_LEVEL	<color=#{0}>{1}</color> получает {2} уровень разбойником.	0=name color,1=player name,2=level
@@ -945,13 +1791,26 @@ GLOBAL_SPECTATOR_REMOVED_PROMPT_TEXT	Вы были исключены из чи�
 GLOBAL_SPECTATOR_SERVER_REJECTED_HEADER	Зритель вышел	
 GLOBAL_SPECTATOR_SERVER_REJECTED_TEXT	В игре, к которой вы попытались подключиться, больше нет мест для зрителей, она завершена либо закрыта для зрителей.	
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_HEADER	Режим зрителя	
-GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Вы ждете начала следующего матча игрока {0} ({1}).	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Play Mode")
+GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Вы ждете начала следующего матча игрока {0} ({1}).	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Traditional Hearthstone")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_BATTLING	Вы ждете начала следующего матча.\n\n{0} сражается с боссом: {1}.	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_HEROIC_* from PRESENCE.txt (e.g. "Jane Doe is Battling Heroic Gothik the Harvester")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_ENTERING	Вы ждете начала следующего матча.\n\n{0} начинает приключение: {1}.	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_ADVENTURE_MODE_* from PRESENCE.txt (e.g. "Jane Doe is entering Naxxramas")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_OFFLINE	Вы ждете начала следующего матча.\n\n{0} не в сети.	0=player name; shown when player is offline.
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_ONLINE	В ожидании следующего матча.\n\n{0} в сети.	0=player name; shown when there is no current activity string available.
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_PLAYING	Вы ждете начала следующего матча.\n\n{0} проходит {1}.	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_CLASS_CHALLENGE_* from PRESENCE.txt (e.g. "Jane Doe is playing Naxxramas Paladin Challenge")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TIMEOUT	Игрок, за которым вы наблюдаете в качестве зрителя, слишком долго не начинает следующий матч. Режим зрителя отменен.	
+GLOBAL_SPELL_SCHOOL_ARCANE	Тайная магия	
+GLOBAL_SPELL_SCHOOL_FEL	Скверна	
+GLOBAL_SPELL_SCHOOL_FIRE	Огонь	
+GLOBAL_SPELL_SCHOOL_FROST	Лед	
+GLOBAL_SPELL_SCHOOL_GREATER_TRINKET	Большой	
+GLOBAL_SPELL_SCHOOL_HOLY	Свет	
+GLOBAL_SPELL_SCHOOL_LESSER_TRINKET	Малый	
+GLOBAL_SPELL_SCHOOL_NATURE	Природа	
+GLOBAL_SPELL_SCHOOL_PHYSICAL_COMBAT	Атака	
+GLOBAL_SPELL_SCHOOL_SHADOW	Тьма	
+GLOBAL_SPELL_SCHOOL_SPELLCRAFT	Чародейство	
+GLOBAL_SPELL_SCHOOL_TAVERN	Таверна	
+GLOBAL_SPELL_SCHOOL_UPGRADE	Улучшение	
 GLOBAL_SPLASH_CLOSED_RECONNECTING	Подключение...	
 GLOBAL_SPLASH_CLOSED_SIGN_TITLE	Закрыто	
 GLOBAL_STANDARD	Стандартный	
@@ -963,13 +1822,20 @@ GLOBAL_SUPPORT	Поддержка
 GLOBAL_SWITCH_ACCOUNT	Переключить	
 GLOBAL_TAVERN_BRAWL	Потасовка	
 GLOBAL_TAVERN_BRAWL_ERROR_NOT_ACTIVE	Простите, но эта потасовка пока недоступна. Пожалуйста, повторите попытку через несколько минут.	
-GLOBAL_TAVERN_BRAWL_ERROR_SEASON_INCREMENTED	Извините! Текущая «Потасовка» закончилась, но скоро начнется новая!	
+GLOBAL_TAVERN_BRAWL_ERROR_SEASON_INCREMENTED	Извините! Текущая потасовка закончилась, но скоро начнется новая!	
+GLOBAL_TIER_ANY	Любой	
+GLOBAL_TIERS	Уровни	
 GLOBAL_TOOLTIP_FRIEND_BUTTON_DESC	Общайтесь с друзьями и устраивайте с ними поединки.	
 GLOBAL_TOOLTIP_FRIEND_BUTTON_HEADER	Друзья	
 GLOBAL_TOOLTIP_MENU_DESC	Здесь вы можете найти настройки, выход из игры и многое другое.	
 GLOBAL_TOOLTIP_MENU_HEADER	Меню	
 GLOBAL_TOOLTIP_MENU_OFFLINE_DESC	Вы не в сети. Щелкните, чтобы подключиться.	
 GLOBAL_TOOLTIP_MENU_OFFLINE_HEADER	Не в сети	
+GLOBAL_TOOLTIP_MODE_CASUAL	Играйте в любых режимах Hearthstone с любой колодой, не беспокоясь о понижении рейтинга.	
+GLOBAL_TOOLTIP_MODE_STANDARD	Бросьте вызов равным по мастерству игрокам.	
+GLOBAL_TOOLTIP_MODE_TWIST	Играйте в Hearthstone с ежесезонно меняющимся набором правил.	
+GLOBAL_TOOLTIP_MODE_TWIST_SEASON_DISABLED	Играйте в Hearthstone с ежесезонно меняющимся набором правил. Этот режим недоступен до начала следующего сезона.	
+GLOBAL_TOOLTIP_MODE_WILD	Сражайтесь с оппонентами, используя карты из любых наборов.	
 GLOBAL_TUTORIAL_ATTACK	Атака	
 GLOBAL_TUTORIAL_ATTACKER	Атакующий	
 GLOBAL_TUTORIAL_COST	Стоимость	
@@ -977,15 +1843,41 @@ GLOBAL_TUTORIAL_DEFENDER	Защитник
 GLOBAL_TUTORIAL_HEALTH	Здоровье	
 GLOBAL_TUTORIAL_HERO_POWER	Сила героя	
 GLOBAL_TUTORIAL_MINION	Существо	
+GLOBAL_TUTORIAL_REPLAY_HEADER	Правила Hearthstone	
 GLOBAL_TUTORIAL_TAUNT	Провокация	
 GLOBAL_TUTORIAL_TAUNT_DESCRIPTION	Противники вынуждены атаковать это существо.	
 GLOBAL_TUTORIAL_USED	Использована	
 GLOBAL_TUTORIAL_YOUR_MANA	Ваша мана	
 GLOBAL_TUTORIAL_YOUR_TURN	Ваш ход	
+GLOBAL_TWIST	Твист	
+GLOBAL_TWIST_LOCKED	Режим «Твист» (недоступно)	
+GLOBAL_TWIST_LOCKED_DESC	Этот режим недоступен до начала следующего сезона через \n{0}.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_116	Попробуйте новый формат: соберите колоду только из классовых карт, вышедших после «Руин Запределья»!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_117	Попробуйте новый формат: соберите колоду только из классовых карт, вышедших после «Руин Запределья»!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_119	Войдите в Пещеры Времени и составьте колоду из дополнений от классики до «Злачного города Прибамбасска».	
+GLOBAL_TWIST_SEASON_DESCRIPTION_120	На этот раз вы можете составить колоду из 30-40 карт из дополнений от классики до «Злачного города Прибамбасска», а также из дополнения «Пещеры Времени». Все игроки начинают с запасом здоровья, равным размеру колоды!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_121	Вернитесь в незапамятные времена, когда мир населяли динозавры! Кратер Ун'Горо возвращается в игру с некоторыми обновлениями: соответствующий набор станет частью формата «Чудеса».	
+GLOBAL_TWIST_SEASON_DESCRIPTION_124	Легендарные карты переоценены! Соберите лучшую колоду, используя только обычные карты из всех дополнений года Дракона и основного набора.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_125	Вспомните десять лет игр в Hearthstone! Мы будем ежедневно добавлять по одному набору, начиная с самых старых карт, пока не дойдем до «Битвы в Бесплодных землях».	
+GLOBAL_TWIST_SEASON_DESCRIPTION_128	Вступайте в бой вместе с одним из героев Чудастера, а также оцените готовые колоды для разных классов, новые силы героя и пассивные эффекты.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_129	Вступите в бой вместе с одним из героев Чудастера, а также оцените готовые колоды для разных классов, новые силы героя и пассивные эффекты.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_137	Играйте вместе с другом против двух других игроков!	
+GLOBAL_TWIST_SEASON_TITLE_116	Новый век	
+GLOBAL_TWIST_SEASON_TITLE_117	Новый век	
+GLOBAL_TWIST_SEASON_TITLE_119	Чудеса	
+GLOBAL_TWIST_SEASON_TITLE_120	Чудеса XL	
+GLOBAL_TWIST_SEASON_TITLE_121	Возвращение в Ун'Горо	
+GLOBAL_TWIST_SEASON_TITLE_124	Обычные карты	
+GLOBAL_TWIST_SEASON_TITLE_125	Ускорение вперед	
+GLOBAL_TWIST_SEASON_TITLE_128	Герои Чудастера	
+GLOBAL_TWIST_SEASON_TITLE_129	Герои Чудастера	
+GLOBAL_TWIST_SEASON_TITLE_137	2x2	
+GLOBAL_UNINSTALL_MODULE_POPUP_PROMPT	Удалить «{0}»?	{0}=Module name to uninstall (e.g. Battlegrounds)
 GLOBAL_UPDATE	Обновить	
 GLOBAL_VERSION	Версия	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT	Ожидание повторного подключения противника...({0} мин. {1} сек.)\nВы можете перейти в меню настроек, чтобы закончить игру.	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_HEADER	Матч приостановлен	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_SPECTATOR	Ожидание повторного подключения игрока...({0} мин.{1} сек.)	
+GLOBAL_WARNING_GENERIC_HEADER	Внимание!	
 GLOBAL_WILD	Вольный	
 GLOBAL_WINS	Победы	

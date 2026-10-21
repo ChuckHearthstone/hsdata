@@ -1,4 +1,81 @@
 TAG	TEXT	COMMENT
+BOH_ANDUIN_06	¡Este esbirro te persigue! Derrótalo a él y a los dos enemigos legendarios que le siguen.	
+BOH_ANDUIN_08	¡Derrota a los esbirros legendarios de Sylvanas para ganar la batalla!	
+BOH_FAELIN_06	¡Ataca a los esbirros de todo el tablero para evitar que se hundan!	
+BOH_FAELIN_06a	¡Derrota esbirros enemigos para que la capitana Maya pueda ayudar a escapar a más pasajeros y tripulantes!	
+BOH_FAELIN_06b	Esbirros por rescatar	
+BOH_FAELIN_MISSION1_LOREBOOK_01	Día 601: Aún no hay pasajeros. Tal vez debería haber construido un submarino con menos costos operativos. ¿Pero qué tendría de divertido? El Leviatán vale su peso en oro. Sin dudas ALGUIEN necesitará visitar el fondo del mar en algún momento. Además de mí, claro. No me convertí en reparadora para ir a lugares normales.	
+BOH_FAELIN_MISSION1_LOREBOOK_02	Según la tradición de navíos sumergibles desarrollados durante la Segunda Guerra, el Leviatán posee muchas características únicas. Su núcleo de fusión mejorado ha demostrado ser muy estable en todos los casos, excepto en incendios, y su interfaz central nunca ha sido hackeada, excepto por el acceso manual Tempestuerca.	
+BOH_FAELIN_MISSION10a_LOREBOOK_01	Todo aquel que colabore o apoye los intentos de resistencia de Jarod Cantosombrío, Malfurion Tempestira y Tyrande Susurravientos o sus coconspiradores enfrentará un castigo rápido y brutal, que puede incluir el encierro o la muerte. Decretado por su alteza, la luz de luces, la reina Azshara.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02	Después de que las fuerzas de la resistencia triunfaron sobre los demonios de la reina Azshara, el Hundimiento comenzó. Esta fuerza cataclísmica destruyó el palacio de Zin-Azshari y envió a todos sus habitantes al fondo del mar. De algún modo, no perecieron… sino que se transformaron en los grotescos nagas, capaces de sobrevivir bajo el agua.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02b	Después de que las fuerzas de la resistencia triunfaron sobre los demonios de la reina Azshara, el Hundimiento comenzó. Esta fuerza cataclísmica destruyó el palacio de Zin-Azshari y envió a todos sus habitantes al fondo del mar. De algún modo, no perecieron… sino que se transformaron en los grotescos nagas, capaces de sobrevivir bajo el agua.	
+BOH_FAELIN_MISSION10a_LOREBOOK_03	Querido Faelin, creí que la mejor forma de expresar mi gratitud sería por escrito. Sé que no fue fácil soportar nuestra pequeña reunión familiar, pero tu intervención marcó la diferencia. ¡Espero que desarrollemos una sólida amistad sin importar lo que nos espere!	
+BOH_FAELIN_MISSION10a_LOREBOOK_04	Grace, espero que estén bien cuando leas este mensaje... si es que siquiera lo encuentras ahora que lo he arrojado al mar... Solo quería disculparme de nuevo. Ojalá pudiera explicar más, pero solo digamos que has brindado un servicio valioso al reino de Ventormenta. Si volvemos a vernos, espero que sea como amigos.	
+BOH_FAELIN_MISSION10b_LOREBOOK_01	Si bien muchos de los devotos de Elune son guerreros fuertes, aún no existe una prueba definitiva para sus habilidades. La suma sacerdotisa me ha dado permiso para crear una prueba que determinará los límites de su fortaleza física y espiritual. Quizá, si la ubicamos en Zin-Azshari, conseguiremos más reclutas.	
+BOH_FAELIN_MISSION10b_LOREBOOK_02	Han pasado muchos años desde que la reina Azshara o uno de sus heraldos se dignaran a visitar nuestro templo en Suramar. Creo que la suma sacerdotisa sospecha más de lo que dice. El último don del palacio fue un gran cristal que me han permitido usar en mi prueba de guerreros.	
+BOH_FAELIN_MISSION11_LOREBOOK_01	Hemos notado que el pueblo de Suramar está inquieto y quiere recibir más noticias del palacio. Por favor, nombra a un nuevo embajador, alguien con buenas conexiones y agradable, y envíalo con nosotros de inmediato. Una vez aplacado, te aseguro que el pueblo será fácil de controlar.	
+BOH_FAELIN_MISSION11_LOREBOOK_02	Faelin, quiero que sepas que ya te extraño. Pero debes creerme cuando te digo que Zin-Azshari no es lo que era. Algo está pasando y nadie quiere verlo. Tu seguridad significa el mundo para mí, aunque tengamos que separarnos. Espero que no sea por mucho tiempo.	
+BOH_FAELIN_MISSION12_LOREBOOK_01	Sin importar cuántas bromas me hagas, o cuántas veces nos metamos en problemas...\nO cuántas veces olvide tu cumpleaños, o no responda tus cartas...\nSiempre seremos amigos. ¡Para siempre!	
+BOH_FAELIN_MISSION12_LOREBOOK_02	La Casa Evenlar es una antigua familia que tiene relaciones muy estrechas con la reina. Dicen que siempre hay un Evenlar en los séquitos reales de Azshara, algo que nos llena de orgullo. Del... otro lado de la familia, también tenemos un familiar en el templo de Elune en Suramar, que es algo que nos sorprendió a todos.	
+BOH_FAELIN_MISSION13_LOREBOOK_01	Los eruditos y los oficiales podrán decirte una cosa, pero yo sé la verdad. Hay una sola ley en Zin-Azshari, y es complacer a la reina. Cualquiera que infrinja esa ley podría terminar... aquí.	
+BOH_FAELIN_MISSION13_LOREBOOK_02	¿Algún día me liberarán? Estoy seguro de que la reina sabe lo que pienso. Pero es posible que mi familia todavía esté de mi lado. Si intervienen por mí, lo arriesgarán todo. Incluso mi amigo debe tenerme en su más alta estima, ajeno a la verdad. Quise complacer a todos y no hice más que traicionarlos.	
+BOH_FAELIN_MISSION15_LOREBOOK_01	Mi querida fámula, sé que puedo confiarte la tarea de encargarte de los nuevos prisioneros insignificantes de la superficie. Creo que han actuado de forma independiente, no como líderes de una invasión organizada. Por favor, ejecútalos como gustes, o, si rebosan de energía, tráemelos para que pueda divertirme.	
+BOH_FAELIN_MISSION15_LOREBOOK_02	En estas profundidades acechan seres antinaturales. Están conectados a un poder antiguo, algo que no es demoníaco ni arcano. Nadie de la superficie podría entender lo que sacrificamos para sobrevivir... o los poderes que ahora domina la reina…	
+BOH_FAELIN_MISSION16_LOREBOOK_01	Nadie nunca sabrá las palabras que me susurró la oscuridad. Nadie nunca entenderá lo que puse en juego… lo que sufrí… por ser tan hermosa y aterradora. Estas contradicciones no pueden resonar en las mentes diminutas, así que les mostraré lo único que realmente pueden comprender: el poder.	
+BOH_FAELIN_MISSION16_LOREBOOK_02	En épocas antiguas, mi tía era la sacerdotisa de Elune. Bendecida por la diosa de la luna, creó los amuletos como talismanes para proteger a su familia. Tras unirse a la corte, Zainra se negó a recibir el suyo, así que yo lo acepté junto con el mío, esperando a la persona indicada para confiárselo.	
+BOH_FAELIN_MISSION2_LOREBOOK_01	La ciudad de Zin-Azshari se llama así por nuestra reina más gloriosa, Azshara. Su sabiduría y poder han guiado a los elfos a nuevas glorias, y nuestros logros incomparables se han convertido en la envidia de todos. Nuestro futuro será el más brillante de todos.	
+BOH_FAELIN_MISSION2_LOREBOOK_02	El capitán ha estado muy inquieto últimamente. Está teniendo sueños extraños por la noche y no me cuenta nada. Anoche, cuando entré a sus aposentos, estaba murmurando sobre ejércitos de serpientes y la voz de una mujer que le ordenaba buscar unas reliquias. Estoy pensando en desertar y convertirme en jardinero.	
+BOH_FAELIN_MISSION3_LOREBOOK_01	Estaba a punto de salir a saquear por aguas inexploradas cuando oí que había una nave mucho mejor a la espera de que la capturaran. ¡Y lo mejor de todo es que está tripulada por principiantes! ¡Ja! A veces ni yo puedo creer tanta suerte.	
+BOH_FAELIN_MISSION3_LOREBOOK_02	Hemos estado siguiendo la nave desde que la capitana Colmigarfio nos dio la orden cerca de Suramar. ¡La capitana dice que es más valiosa que todos nosotros! Nunca la he visto desear algo con tanta intensidad desde que le arrebató ese loro tan perturbador al viejo Cascabellaco hace tanto tiempo.	
+BOH_FAELIN_MISSION3_LOREBOOK_03	El comienzo del viaje ha sido dificultoso. El embajador parece estar en su propio mundo, y con tantos piratas al acecho a la tripulación solo le interesa seguir con vida. Aún así, esta podría ser la oportunidad perfecta para recuperar lo que me pertenece... y saldar cuentas de una vez.	
+BOH_FAELIN_MISSION5A_LOREBOOK_01	Las nubes de tormenta se extienden.\nY feroces rayos desprenden.\nAhuyentan marineros sin cuartel.\n"¡Qué fenómeno tan cruel!".	
+BOH_FAELIN_MISSION5A_LOREBOOK_02	Después de años de trabajar para él, sé muy bien si el embajador está ansioso. Seguramente le gustaría estar más cerca de nuestro destino. No sé si los demás comprenderán sus verdaderos motivos. Tal vez yo también estoy tratando de entender aún.	
+BOH_FAELIN_MISSION5A_LOREBOOK_03	Ese embajador es un sujeto de lo más intrigante, aunque cada vez me agrada más y más. Él dice que solo quiere visitar su hogar, pero me pregunto si habrá algo más. A veces, creo notar un dejo de tristeza en su mirada. Si no es eso, quizás es que no está acostumbrado al olor de los múrlocs.	
+BOH_FAELIN_MISSION5A_LOREBOOK_04	Ahora que conozco mejor al embajador, me doy cuenta de que nos oculta algo. Hay un secreto en lo profundo del corazón que solo saldrá a la superficie ante el estímulo indicado. A pesar de esto, aún siento que sus motivos son puros... porque su secreto nace del dolor, no de un deseo de engañarnos.	
+BOH_FAELIN_MISSION5B_LOREBOOK_01	Consigue un barco e investiga el nuevo perímetro de Suramar recién descubierto. Informa lo que encuentres lo antes posible. Puede que la Horda quiera adelantarse a nosotros para forjar una alianza con los natonocturno. -M.S.	
+BOH_FAELIN_MISSION5B_LOREBOOK_02	Este barco mercante, construido en Ventormenta, ha estado en mi familia durante dos generaciones. Originalmente, viajaba desde esa ciudad a Lordaeron, pero ha expandido sus rutas hasta abarcar casi todos los océanos de Azeroth. Con sus brillantes velas rojas al viento, ha completado casi todos sus envíos sin incidentes… y casi siempre a tiempo.	
+BOH_FAELIN_MISSION6_LOREBOOK_01	Nuestro viaje empezó sin problemas cuando zarpamos de Ventormenta hacia Fortaleza Denuedo en Rasganorte. Cuando estábamos justo en mitad de nuestro viaje, apareció un huracán imponente de la nada, que nos arrastró a aguas desconocidas y dejó nuestra embarcación en pésimas condiciones.	
+BOH_FAELIN_MISSION6_LOREBOOK_02	Me pregunto por qué el embajador nunca nos dijo la razón por la que quería regresar… ¿Estaría ocultando algo? ¿Tiene la astucia suficiente para eso? Al menos esa socia suya, Caye, parece que sí. Espero poder confiar en ellos.	
+BOH_FAELIN_MISSION6_LOREBOOK_03	Al fin pude conocer al verdadero Faelin. Su imprudencia no me inspiraba confianza, sin mencionar eso de "tengo que volver a casa"… Pero ahora reconozco sus cualidades. Cuando sea que me necesite, ahí estaré.	
+BOH_FAELIN_MISSION7_LOREBOOK_01	¡Yo voy a leer esta vez! Mm… "Cuidado con… ¿algo? Bajo las olas. En el eterno, eh, MANCHA GRANDE, el no-sé-lo-que-dice espera por los incautos. Suyo es el reino de P-E-R-D…". Bah, no debe ser nada importante.	
+BOH_FAELIN_MISSION7_LOREBOOK_02	Si bien la fortuna no ha querido que explore las profundidades, he oído historias de muchas criaturas formidables, incluido el poderoso Ozumat. Dicen que este kraken ha sido corrompido por fuerzas oscuras que han potenciado su inmenso poder.	
+BOH_FAELIN_MISSION7_LOREBOOK_03	Si bien la fortuna no ha querido que explore las profundidades, he oído historias de muchas criaturas formidables, incluido el poderoso Ozumat. Dicen que este kraken ha sido corrompido por fuerzas oscuras que han potenciado su inmenso poder.	
+BOH_FAELIN_MISSION9a_LOREBOOK_01	Los múrlocs autóctonos son uno de los ingredientes esenciales de las cocinas en altamar. Recién atrapados, sirven para preparar un sashimi o ceviche decente, pero también puedes ocultar sabores no deseados si los cocinas en un guiso picante de mariscos. Aunque nadie te creerá si dices que es atún.	
+BOH_FAELIN_MISSION9a_LOREBOOK_02	Lamento muchísimo que el conocimiento sobre los múrlocs no se haya desarrollado más. Si bien otras especies pueden considerarnos simples, los múrlocs somos un grupo muy variado y complejo que siempre se ha adaptado a sus entornos, ya sean lagos o las profundidades del mar.	
+BOH_FAELIN_MISSION9b_LOREBOOK_01	Los Mrrglton somos una familia múrloc común y corriente. Vivimos en el soleado bosque de algas junto a unas ruinas que eran tan encantadoras para nuestro hijo, Aletardo, ¡que decidió convertirse en expedicionario! Estoy muy orgulloso de ese pequeñín. Solo me gustaría verlo más seguido.	
+BOH_FAELIN_MISSION9b_LOREBOOK_02	Este no es un dispositivo ordinario, sino un artefacto encantado que me ayudará en mis viajes. Por este motivo, es muy valioso y puede que me lo roben si lo llevo conmigo por todo Azeroth. Cuídalo bien, por favor, y no dejes que el primo Errgl lo mordisquee cuando esté de visita. Muchas gracias, —A	
+BOH_FAELIN_PROLOGUE_01	Cuando era joven, entrenaba sin descanso para obtener la fuerza necesaria que me permitiría proteger a los inocentes. No hay oponente que pueda resistir mi convicción. Dado que tus motivos parecen puros, te ofrezco mi espada.	
+BOH_FAELIN_PROLOGUE_02	He navegado desde que tengo memoria. Monstruos marinos, naufragios, motines... he sobrevivido a todo. Donde sea que vayas, te llevaré sano y salvo... siempre y cuando cumplas tu parte del trato.	
+BOH_FAELIN_PROLOGUE_03	¡Como miembro fundador de la Liga de Expedicionarios, estoy comprometido con la exploración de los más lejanos rincones del mundo! ¡Cuanto más lejos, mejor! ¡Ese es mi lema! Visitar ruinas submarinas sería algo genial.	
+BOH_GARROSH_05	¡El mak'gora comienza con un ritual para bendecir las armas!	
+BOH_GULDAN_01	|4(turno,turnos) para resistir	
+BOH_GULDAN_02	Hechizos de Chamán por jugar	
+BOH_GULDAN_02b	Juega hechizos de Chamán para demostrarle tu valía al Trono de los Elementos.	
+BOH_GULDAN_08	¡El Ojo de Sargeras te observa! Juega cartas de alto costo antes de que pierdas muchos Cristales de maná.	
+BOH_ILLIDAN_01	Esbirros enemigos por derrotar	
+BOH_ILLIDAN_02	¡Inflige 40 de daño a cualquier enemigo para apoderarte de la Calavera de Gul'dan!	
+BOH_ILLIDAN_04	Maná por gastar para el Ojo de Sargeras	
+BOH_ILLIDAN_04b	Si gastas tu maná, el Ojo de Sargeras se potenciará para golpear al Rey Exánime desde lejos. ¡No dejes que Malfurion interfiera!	
+BOH_ILLIDAN_07	Obeliscos por controlar	
+BOH_ILLIDAN_08	|4(turno,turnos) para resistir	
+BOH_MALFURION_01	Cartas de entrenamiento por jugar	
+BOH_MALFURION_01b	¡Juega las cartas que recibes de Cenarius para completar tu entrenamiento!	
+BOH_REXXAR_02	¡Destruye la trampa para osos para ganarte la confianza de Misha!	
+BOH_THRALL_01	¡Esta es una pelea de 3 minijefes! Recibe una mano y un mazo nuevos tras derrotar al Crocolisco capturado.	
+BOH_THRALL_01a	¡Empieza la parte 2! ¡Enfrenta a los dos Gatos monteses para triunfar!	
+BOH_THRALL_01b	¡Empieza la parte 3! Derrota a Toscogro para ganar.	
+BOH_THRALL_02	Derrota a estos Espíritus elementales para superar la prueba.	
+BOH_THRALL_06	Alexstrasza restaurará toda tu Salud las primeras 3 veces que recibas daño letal, pero no puede ayudarte si está Dormida.	
+BOH_THRALL_08	Garrosh ha estado experimentando con un poder muy peligroso. ¡No dudará en usarlo si no encuentra otra opción!	
+BOH_UTHER_08	|4(turno,turnos) para resistir	
+BOH_VALEERA_01	¡Destruye el Tótem de entrenamiento para demostrar que eres un gladiador!	
+BOH_VALEERA_08	Sombras silenciosas por derrotar	
+BOH_VALEERA_08b	¡Ataca a las Sombras silenciosas hasta agotar su Salud para completar la prueba de Jorach!	
+BOM_DAWNGRASP_01	Turnos de luto restantes	
+BOM_DAWNGRASP_07	Turnos de supervivencia restantes	
+BOM_GUFF_02	Fisuras restantes	
+BOM_TAMSIN_07	Anetheron puede detener al ejército de Ventormenta. Invoca 7 demonios para despertarlo.	
+BOM_TAMSIN_08	Los esbirros no pueden dañar a Cornelius. Quizá tenga alguna otra debilidad.	
 BOTA_PUZZLE_CONGRATULATIONS	¡Bien hecho!	
 BOTA_PUZZLE_END_TURN_REMINDER	Vuelve a intentarlo si estás bloqueado.	
 BOTA_PUZZLE_LOADING	Cargando\nsiguiente acertijo...	
@@ -34,7 +111,7 @@ FB_BUILDABRAWL_014	La mascarada sangrienta
 FB_BUILDABRAWL_015	La magia de Yogg-Saron	
 FB_BUILDABRAWL_016	La sangre de los esbirros	
 FB_BUILDABRAWL_INTRO	La Gresca actual es:	
-FB_BUILDABRAWL_NOTSTARTED	La Gresca Fireside no se ha iniciado, ¡comunícate con tu tabernero para usar el Grescamático!	
+FB_BUILDABRAWL_NOTSTARTED	La Gresca no se ha iniciado, ¡comunícate con tu tabernero para usar el Grescamático!	
 FB_CHAMPS_FIREBAT_DRUID	Firebat comenzó la final con su druida... ¡y nunca perdió! ¡Es el campeón de 2014!	
 FB_CHAMPS_FIREBAT_HUNTER	Firebat eligió a este Cazador para enfrentar al Brujo de DTwo, en revancha por haber perdido su mazo de Pícaro...	
 FB_CHAMPS_FIREBAT_ROGUE	Firebat derrotó claramente al Sacerdote de DTwo en 2014, ¡y dio el golpe de gracia con un milagroso Subastador 12/4!	
@@ -121,7 +198,6 @@ MISSION_DEFAULTCOUNTERNAME	|4(turno,turnos) para escapar
 MISSION_GLOWING_POOL	Poza brillante	
 MISSION_NEFARIAN_TITLE	Asesino de esbirros estúpidos, incompetentes y decepcionantes	
 MISSION_PIT_OF_SPIKES	Trampa de púas	
-MISSION_PRE_TUTORIAL_WANTED	Se busca	
 MISSION_SPAREPARTSCOUNTERNAME	|4(Pieza,Piezas) para terminar las reparaciones	
 MISSION_STATUES_EYE	El ojo de la estatua	
 MISSION_TAKE_THE_SHORTCUT	¿Quieres tomar el atajo?	
@@ -172,6 +248,19 @@ TB_207_08	Aleamónium
 TB_207_09	Bolsa de hechizos robados	
 TB_207_INTRO_01	Tu gresca es: 	
 TB_207_INTRO_02	La gresca del_adversario_es: 	
+TB_BOTB_BLINGTRON_LOREBOOK1	Mi abuelo demostró su sentido del humor cuando inventó a Joyatrón. Hoy descubrí que a su prototipo 3000 le encanta la música porque empezó a copiar mis silbidos mientras trabajaba. Me pregunto si podrá cantar…	
+TB_BOTB_CAGEHEAD_LOREBOOK1	Lo que más me gusta de ser un testañublo es... todo. Las guitarras, los gritos, las nubes podridas de aire infectado, todo crea una atmósfera perfecta para mí. No importa que el Caballero del death metal arruine el espectáculo una y otra vez, lucharé por mi banda con todo lo que tengo. ¡Por Jabalí!	
+TB_BOTB_ETC_LOREBOOK1	La música está en constante cambio, evolucionando hacia el sonido y las emociones del futuro. Tengo que encontrar a alguien que pueda ponerle voz, que sea el alba de lo nuevo. Hay muchos artistas increíbles, pero ni yo sé quién podría convertir este momento en un movimiento musical.	
+TB_BOTB_HALVERIA_LOREBOOK1	Nadie creía que iba a seguir componiendo música. Se rieron cuando le puse nombre a mi guitarra. Pero es la primera vez que encuentro algo que me permite expresarme con tanta claridad. La música es mi verdad... Y la verdad duele.	
+TB_BOTB_HEDANIS_LOREBOOK1	No dejes que sus voces encantadoras y sus rostros apuestos te engañen. La historia de Hedanis y su banda pop de bellezas no es un cuento de hadas. El grupo fue creado nada más y nada menos que por Don Han'Cho, el reconocido jefe criminal. La banda y sus integrantes son un invento, como su música. Después de un largo proceso de audiciones, Hedanis y el resto de las bellezas de la banda quedaron seleccionados. Les enseñaron a fingir que tocan instrumentos y los lanzaron ante multitudes chillonas (y bien remuneradas) de adolescentes. Pronto, gracias a sus melodías pegajosas, el público empezó a gritar por ellos. Esta banda falsa encontró el éxito real, y una buena parte de las ganancias va directamente a la Banda Callesucia.	
+TB_BOTB_HEDANIS_LOREBOOK2	Después de la Batalla de las Bandas en Mil Agujas, Hedanis se tomó un descanso de la música pop para redescubrirse. Viajó a Pandaria, donde encontró la paz en la meditación en el Monasterio Tian, y se inspiró en la música de los pandaren. Volvió para realizar un breve tour por Kalimdor y los Reinos del Este, pero su presentación como solista no logró conservar la energía (ni la venta de boletos) que había tenido con su exbanda.	
+TB_BOTB_INZAH_LOREBOOK1	Lo más importante que debe saber la gente es que la música es una parte de ti. Puede que sea pequeña, pero está ahí dentro. Y cuando la descubres y revelas su verdadero potencial, puede llevarte a lugares que jamás imaginaste. Es sencillamente elemental.	
+TB_BOTB_KANGOR_LOREBOOK1	Quizá te sorprenda saber que Kangor y yo nos conocemos desde hace muchos años. Creo que todos, y digo todos, deberían partir de los clásicos. Y no hay nadie más clásico que este gólem. “Siente el ritmo” es un disco que educará a las futuras generaciones, y nunca nada superará el éxito de “Destrozos en la disco”. Confía en mí, sé lo que digo.	
+TB_BOTB_MANASTORM_LOREBOOK1	¡Hoy fui a mi taller y Molino estaba ahí! Dijo que necesitaba piezas para una especie de... máquina creadora de música. Lo eché de una patada. "Máquina de música"... ¡Ja!	
+TB_BOTB_MUKLA_LOREBOOK1	Tal vez parezca amable, pero el señor Mukla no se anda con monerías. Sus fans saben que no van a poder sacarse sus ritmos selváticos de la cabeza. Después de lanzar su mayor éxito, Tuercespina por siempre, aceptó hacer el acto inaugural, ¡y yo no podría estar más feliz!	
+TB_BOTB_RIN_LOREBOOK1	Me encantaría contarte más sobre Rin. Es una artista muy especial y mágica, sin duda. A veces siento como si hubiese sido invocada desde otro plano de la existencia para llevar sus poderes únicos al escenario. Pero como sabrás, respeto mucho su privacidad, así que no voy a decir más.	
+TB_BOTB_VOONE_LOREBOOK1	La sorprendente historia de Voone con el rock comienza en la Arena Gurubashi, donde acababa con sus oponentes mientras tocaba unos temas muy pegadizos. Con el tiempo, sus ritmos cautivadores lo llevaron a públicos más tranquilos y, si bien todos estábamos un poco nerviosos, logró hacerse un lugar entre nosotros. Pero recomendamos a los competidores cuidar sus modales si se lo cruzan detrás de escena.	
+TB_BOTB_ZOK_LOREBOOK1	¡Al fin llegó la noche del gran espectáculo de regreso de Zok Nieblocico! La Zahúrda Rajacieno está repleta de luces, y todo el lugar vibra de emoción. Ojalá pueda conseguir su autógrafo...	
 TB_CAROUSEL_A	Al final de cada turno, los esbirros girarán en el sentido de las agujas del reloj (hacia la derecha).	
 TB_CAROUSEL_B	Al final de cada turno, los esbirros girarán en el sentido contrario al reloj (hacia la izquierda).	
 TB_DECKBUILDING_FIRSTCARDPLAYED	Después de jugar una carta, coloca una copia en tu mazo.	

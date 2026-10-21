@@ -166,11 +166,16 @@ VO_INNKEEPER_TAVERNBRAWL_WELCOME1_27	Welcome to the Tavern Brawl!		VO_INNKEEPER_
 VO_INNKEEPER_TAVERNBRAWL_DESC2_30	There's a new set of CRAZY rules each week!		VO_INNKEEPER_TAVERNBRAWL_DESC2_30.wav
 VO_INNKEEPER_HAVE_ONE_STANDARD_DECK	You've got a Standard deck, but you can always create more in your Collection!		VO_INNKEEPER_Male_Dwarf_HAVE_STANDARD_DECK_07
 VO_INNKEEPER_HAVE_STANDARD_DECKS	You've got some Standard decks, but you can always create more in your Collection!		VO_INNKEEPER_Male_Dwarf_HAVE_STANDARD_DECKS_08
+VO_INNKEEPER_STANDARD_DECK_WARNING	That deck is only for Standard games.
+VO_INNKEEPER_TWIST_DECK_WARNING	That deck is only for Twist games.
 VO_INNKEEPER_WILD_DECK_WARNING	That deck is only for Wild games.		VO_INNKEEPER_Male_Dwarf_SetRotation_32
 VO_INNKEEPER_WILD_GAME	A Wild game! Get ready - you're sure to see old cards in here!		VO_INNKEEPER_Male_Dwarf_SetRotation_35
-VO_INNKEEPER_PLAY_STANDARD_TO_WILD	If you make a wild deck, you can only use it in wild games.		VO_INNKEEPER_Male_Dwarf_SetRotation_43
+VO_INNKEEPER_PLAY_STANDARD_TO_WILD	If you make a Wild deck, you can only use it in Wild games.		VO_INNKEEPER_Male_Dwarf_SetRotation_43
 VO_INNKEEPER_RETURNING_PLAYER_INNKEEPER_CHALLENGE_INTRO	There are three challengers who have been waiting for you!		VO_Innkeeper_Male_Dwarf_ReturningPlayers_02.wav
 VO_INNKEEPER_RETURNING_PLAYER_QUEST1	I prepared three quests to get you going. Here's the first!		VO_Innkeeper_Male_Dwarf_ReturningPlayers_06.wav
+VO_INNKEEPER_2v2_PORTAL_PASS_TUTORIAL	Use the portal to pass cards to your Ally!		VO_Innkeeper_Male_Dwarf_TB_Duos_Portal_03.wav
+VO_INNKEEPER_2v2_ALLY_DEFEATED	Your Ally was defeated.		VO_Innkeeper_Male_Dwarf_TB_Duos_AllyDefeat_02.wav
+VO_INNKEEPER_2v2_ALLY_OPPONENT_DEFEATED	Your Ally's opponent was defeated!		VO_Innkeeper_Male_Dwarf_TB_Duos_OppDefeat_03.wav
 VO_KT_MAEXXNA1_46	Maexxna is a GIANT SPIDER! MUAHAHAHA		VO_KT_MAEXXNA1_46.wav
 VO_KT_GLUTH1_72	Gluth eats our leftover zombies.  Come to think of it, you would make a pretty good leftover zombie.		VO_KT_GLUTH1_72.wav
 VO_KT_ANUB1_42	Anub'Rekhan is one of my finest Spider Lords. Good luck, interloper.		VO_KT_ANUB1_42.wav
@@ -280,7 +285,130 @@ VO_Medivh_Male_Human_Intro_03	Best regards, Medivh	test
 VO_Moroes_Male_Human_SilverwareWin_03	Someone will have to clean up this mess before the party.	test
 VO_ILLIDAN_RETURNING_PLAYER_QUEST1	Explore my memories of three fights, and you shall be rewarded.		VO_TB_Hero_Illidan2_Male_NightElf_RP_Intro02_01.wav
 VO_ILLIDAN_RETURNING_PLAYER_MISSION_INTRO	This was 10,000 years ago, give or take a few...		VO_TB_Hero_Illidan2_Male_NightElf_RP_Intro03_01.wav
+VO_INNKEEPER_CLASSIC_PLAY_CLASSIC_MODE_ONLY	If you make a Classic deck, you'll only use it in the Classic mode!		VO_INNKEEPER_Male_Dwarf_ClassicMode_01
+VO_INNKEEPER_CLASSIC_DECK_WARNING	That deck is only for Classic games.		VO_INNKEEPER_Male_Dwarf_ClassicMode_02
+VO_INNKEEPER_CLASSIC_TAKES_YOU_BACK_ORIGINAL_HEARTHSTONE	Classic mode takes you back to the original Hearthstone		VO_INNKEEPER_Male_Dwarf_ClassicMode_06
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_1	All that I am: anger, cruelty, vengeance - I bestow upon you, my chosen knight.
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_2	As my immortal champion, you will herald a new dark age for the SCOURGE!
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_3	And you will start by building your first Death Knight deck.
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_4	Most Death Knight cards have an associated Rune: Blood, Frost, or Unholy.
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_5	Your deck has three available slots for Runes. You can use three of one Rune type, one of each, or any combination.
+VO_DEATH_KNIGHT_DECK_BUILDING_TRIPLE_RUNES	Cards with three of one rune are extremely powerful, but you may not add cards with any other rune to your deck.
+VO_DEATH_KNIGHT_DECK_BUILDING_CAN_ADD_ANY_RUNE	You may now add runes of any type to your deck.
+VO_DEATH_KNIGHT_DECK_BUILDING_CANNOT_ADD_RUNES	You can add incompatible runed cards while building a deck, but must adjust to satisfy all rune requirements before it will be valid for play.
 
 
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_FULL_MINIONS_01	My board is full. I can't play more minions right now.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_GENERIC_01	I cannot do that.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_HEROPOWER_01	I can only use my Hero Power once per turn.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NEEDMANA_01	I do not have enough Mana for that.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NOMANA_01	My Mana Crystals will refresh next turn. Then I can play more cards.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_PLAY_01	I cannot play that yet.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_SUMMON_SICKNESS_01	I need to give that minion a turn to get ready.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TARGET_01	To play that card I need a target.
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TAUNT_01	I have to attack Taunt minions first.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD2_01	I'm defenseless!
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD_01	I need to play some minions.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_FULLBOARD_01	There are so many minions! I need to deal with them first.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_SPECIALMINION_01	I need to find a way to neutralize that minion.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_GARROSH_01	Garrosh is open! I should take him down first.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_LICHKING_01	The Lich King is strong, I should focus on defeating him instead.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_REXXAR_01	I should focus on taking Rexxar down...
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SECOND_MINION_01	Another minion! Just what I needed.
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SPELL_01	A Spell card! I can only use this once, so I better make it count...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_01	You have the cards I seek, Rexxar.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_02	I need them to defeat the Lich King.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_03	Rexxar, I need your cards to defeat the Lich King.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawAOESpell_01	That card will be perfect for dealing with his minions.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedHuffer_01	He's big. I better take care of him.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedKingKrush_01	This could be trouble.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayToMySide_01	More minions? How many Beasts does he have...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_01	A minion! I should play it and get this game underway.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_02	Rexxar's Health is low. I can finish him off!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_03	I've got you right where I want you.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_01	I won! Now on to the next battle.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_01	Those belong to Wild.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_02	<_Grunt_> Then, let the Hunt begin!
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_03	<_Grunt_> Let the hunt begin.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_04	I am Rexxar, the Hunter.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_05	I use Beasts and spells to attack with all out aggression.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCharge_01	That minion has Charge. It can attack any enemy the turn it is played.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCompanion_01	Misha, Leokk, Huffer, to my side!
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedArcaneShot_01	I have you in my sights.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedStonetuskBoar_01	My boar companions will put a swift end to this fight.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayRush_01	That minion has Rush. It can attack a minion the turn it is played.
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayUnleash_01	Unleash the hounds!
 
 
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_01	Earn it, you puny human.
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_02	I'll prove I'm the greatest by defeating YOU!
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnArmorUp_01	Ha! Your spells are no match for my weapons and armor.
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnFieryWarAxePlayed_01	Say hello to my great big friend.
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnSpellPlayed_01	My armor can resist any spell.
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_01	I will end this quickly!
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_02	Nothing can stop me!
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_03	Warriors! Bring her down!!!
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_04	Feel my FURY!
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_05	FOR THE HORDE!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_04	The Lich King grows in power. Lend me your strength.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_05	Garrosh, I do not have time for this.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawFireball_01	A Fire spell. Just what I was searching for.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawLegendary_01	A Legendary card! It's so strong...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnNoTauntMinions_01	I need to find another Taunt minion to defend against his attacks.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_04	His minions are so fast!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_05	I have a few tricks of my own.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_06	I need to slow him down...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_07	Time to finish this!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_08	A Taunt minion! That should block him for a while.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_02	Now, the final battle begins.
+
+
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_06	Your reign of fear ends now, Lich King.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_07	But I get an extra card!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyFullBoard_01	With one spell I can clear the board.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyMinionsFrozen_01	Now his minions cannot attack.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_09	I will purge your minions with fire!
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_10	Not this time.
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_11	How is he summoning so many minions?
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_12	I just need to hold out a little longer...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_03	It's over. But there are many more battles to be fought...
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_04	I did it! Now I can finally play the game.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_01	That deck is weak, and you will fall.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_02	The cold creeps into your soul. I will go first.
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostmournePlayed_01	Frostmourne hungers.
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostwyrmsFuryPlayed_01	I too command the power of Frost.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_01	You have learned some new tricks, but they will not help you.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_02	The end is inevitable.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_03	You froze my warriors. That's cold.
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_04	RISE, MY MINIONS!
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_FirstHeroPower_01	The Scourge rises.
+
+
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	I’ll make sure these ones stick around for next time.
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	You're down a minion and up a gold.
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	Great! Let’s get some better minions in here.
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	Yeah, let’s step up our game! 
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	Great! I can bring in more powerful minions now.
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	Now we are in business!
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	Oh ho! You’re moving up in the world!
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	Exactly what you were looking for.
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	That’s a great play. I can’t wait to see this shake out.
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	Nice work out there! Keep up the pressure.
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	Time to battle! Your minions will attack on their own, left-to-right.
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	That’s how it’s done! You’re a real inspiration, friend!
+VO_DALA_BOSS_99h_Male_Human_General_02	I’ve got some fresh recruits for you!
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	Your minions will do the fighting, but they need a strong commander.
+VO_DALA_BOSS_99h_Male_Human_Hire_01	Go ahead and hire one of these recruits.
+VO_DALA_BOSS_99h_Male_Human_Hire_02	Better hire a recruit while you can.
+VO_DALA_BOSS_99h_Male_Human_Idle_02	Spend wisely. But you know… spend!
+VO_DALA_BOSS_99h_Male_Human_Idle_03	It’s a joy to watch you work.
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	Welcome to the Battlegrounds! Eight combatants enter, only one will take the crown.
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	I like where you’re going with this.
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	It’s good to get some minions in play.
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	Now put that recruit to work.
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	Here you can recruit new minions for the battle. Choose well!
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	You can upgrade the tavern to get access to more powerful minions.
+VO_DALA_BOSS_99h_Male_Human_Triple_01	Hiring that minion will get you a triple.
+VO_DALA_BOSS_99h_Male_Human_Triple_02	Looks like you can get a triple.
+VO_DALA_BOSS_99h_Male_Human_Triple_03	A triple! Here’s your reward.
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	You might want to upgrade the tavern here. Otherwise you’ll fall behind your opponents!

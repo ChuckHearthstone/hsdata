@@ -128,6 +128,42 @@ VO_BRANN_OPEN_WING_2_03	안녕하세요, 탐험가님! 저는 탐험가 연맹�
 VO_BRANN_SCARVASH_PREGAME_ALT_06	울다만에는 트로그가 지천으로 깔려있지요! 지팡이의 윗부분을 찾으려면은 놈들을 처리해야 할 겁니다!	
 VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02	악마 일후프. 가장 위험한 전시물입니다. 접근 시 주의를 요합니다.	
 VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02	관리인이 여러분께 사죄의 말씀을 드립니다. 생물체들을 포획하는 데 도움을 요청합니다.	
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	다음에 다시 둘러보실 수 있게 유지해둡죠.	
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	하수인은 줄었지만 골드를 확보했군요.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	좋습니다! 더 좋은 하수인들을 데리고 와보죠.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	좋습니다! 제대로 해보자고요!	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	좋습니다! 이제 더 강력한 하수인들을 데려올 수 있겠군요.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	아주 좋습니다!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	이야, 다들 긴장하겠는데요?	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	마침 필요하던 하수인이군요.	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	좋은 전략이군요. 어떻게 될지 기대가 되는데요?	
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	잘하셨어요! 계속 압박하시죠.	
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	전투를 시작해보죠! 당신의 하수인들은 왼쪽부터 오른쪽까지 스스로 공격할 거예요.	
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	바로 그겁니다! 아주 잘하셨어요!	
+VO_DALA_BOSS_99h_Male_Human_General_02	새로운 하수인들을 준비했습니다!	
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	싸움은 하수인들이 하겠지만, 저들에겐 뛰어난 지휘관이 필요합니다.	
+VO_DALA_BOSS_99h_Male_Human_Hire_01	이 하수인들 중 하나를 고용해 보세요.	
+VO_DALA_BOSS_99h_Male_Human_Hire_02	하수인을 고용하는 게 좋겠군요.	
+VO_DALA_BOSS_99h_Male_Human_Idle_02	골드는 신중하게 쓰세요. 하지만 쓰긴 해야 한다는 걸 잊지 마시고요!	
+VO_DALA_BOSS_99h_Male_Human_Idle_03	열심이신 모습이 참 보기 좋군요.	
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	전장에 오신 걸 환영합니다! 여덟 명의 손님이 참여하고, 한 명만이 최후의 승자가 됩니다.	
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	무슨 생각을 하고 계시는지 알겠군요.	
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	하수인은 언제든 필요하죠.	
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	이제 저 녀석을 한번 써보죠.	
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	여기선 전투에 대비해 새로운 하수인들을 고용할 수 있습죠. 잘 골라보세요!	
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	선술집을 강화하면 더 강력한 하수인들을 고용할 수 있습죠.	
+VO_DALA_BOSS_99h_Male_Human_Triple_01	그 하수인을 고용하면 황금 하수인을 얻을 수 있겠군요.	
+VO_DALA_BOSS_99h_Male_Human_Triple_02	황금 하수인을 얻으실 수 있겠군요.	
+VO_DALA_BOSS_99h_Male_Human_Triple_03	황금 하수인이군요! 여기, 보상입니다.	
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	이쯤에서 선술집을 강화하시죠. 상대보다 뒤처지면 안 되니까요!	
+VO_DEATH_KNIGHT_DECK_BUILDING_CAN_ADD_ANY_RUNE	이제 어떤 룬 속성이라도 덱에 넣을 수 있다.	
+VO_DEATH_KNIGHT_DECK_BUILDING_CANNOT_ADD_RUNES	덱을 구성할 때 호환되지 않는 룬 카드를 추가할 순 있지만, 그 덱을 사용하려면 룬 조건을 모두 충족시켜야 한다.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_1	나의 모든 것, 분노와 잔혹함, 그리고 복수까지 너에게 내리겠다, 선택받은 나의 기사여.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_2	내 불멸의 용사로서, 너는 스컬지에게 새로운 암흑 시대를 몰고 오리라!	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_3	그러려면 너는 죽음의 기사 덱을 만드는 것으로 시작해 보거라.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_4	대부분의 죽음의 기사 카드에는 혈기, 냉기, 또는 부정 룬이 부여된다.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_5	네 덱에는 세 개의 룬 슬롯이 있다. 한 종류의 룬을 세 개 넣거나, 각각 하나씩 넣거나, 아니면 원하는 수량만큼 조합할 수도 있다.	
+VO_DEATH_KNIGHT_DECK_BUILDING_TRIPLE_RUNES	같은 룬 속성이 3개인 카드는 매우 강력하지만, 다른 룬 속성을 지닌 카드들을 덱에 넣을 수 없게 된다.	
 VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04	저 나가가 핀리를 사로잡았어요! 서두르세요, 탐험가님!	
 VO_ELISE_STAFF_CLICK_DONE_65	고마워요, 탐험가님! 당신 덕분에 시초의 지팡이를 탐험가의 전당에 안전하게 보관할 수 있게 됐어요!	
 VO_ELISE_STAFF_CLICK_EARLY_64	드디어 시초의 지팡이에 대한 단서를 찾았어요! 어서 이 박물관에 가져다 놓고 싶네요.	
@@ -137,10 +173,16 @@ VO_ELISE_WING_4_OPEN_08	라팜이 지팡이를 훔쳐 박물관을 장악했어�
 VO_ILLIDAN_RETURNING_PLAYER_MISSION_INTRO	그래... 아마, 만 년 전의 일이었지...	
 VO_ILLIDAN_RETURNING_PLAYER_QUEST1	세 번의 전투에 걸친 나의 기억을 경험해라. 그러면 너에게 보상을 내리리라.	
 VO_INNKEEPER_1ST_HUB_06	연습 모드를 통해 새로운 영웅을 얻을 수 있습니다.	
+VO_INNKEEPER_2v2_ALLY_DEFEATED	아군이 패배했습니다.	
+VO_INNKEEPER_2v2_ALLY_OPPONENT_DEFEATED	아군의 상대가 패배했습니다!	
+VO_INNKEEPER_2v2_PORTAL_PASS_TUTORIAL	차원문으로 아군에게 카드를 전달하세요!	
 VO_INNKEEPER_ARENA_1ST_REWARD	오, 잘했어요! 골드가 적당히 모이면 투기장에 다시 한 번 들어와 보세요!	
 VO_INNKEEPER_ARENA_3RD_LOSS	세 번 지셨군요. 열쇠를 사용해서 보상이 뭔지 한번 보시죠!	
 VO_INNKEEPER_BASIC_DONE1_11	이 직업으로 쓸 수 있는 기본 카드를 모두 획득했습니다!	
 VO_INNKEEPER_BASIC_DONE2_12	이제 덱을 강화하려면 카드 팩이 필요하겠군요!	
+VO_INNKEEPER_CLASSIC_DECK_WARNING	그 덱은 클래식 모드에서만 사용할 수 있습니다.	
+VO_INNKEEPER_CLASSIC_PLAY_CLASSIC_MODE_ONLY	클래식 덱은 클래식 모드에서만 사용할 수 있습니다!	
+VO_INNKEEPER_CLASSIC_TAKES_YOU_BACK_ORIGINAL_HEARTHSTONE	클래식 모드는 하스스톤 초창기의 모습으로 여러분을 초대하죠.	
 VO_INNKEEPER_CM_DECK_FINISH_30	음, 덱이 잘 짜여졌군요. 한 번 시험해 보시죠! 	
 VO_INNKEEPER_CM_LCLICK	카드를 마우스 오른쪽 버튼으로 클릭해서 자세히 살펴보세요.	
 VO_INNKEEPER_CM_LCLICK_HERO	영웅을 마우스 오른쪽 버튼으로 클릭해서 자세히 살펴보세요.	
@@ -172,6 +214,7 @@ VO_INNKEEPER_PRACTICE_INST1_07	영웅과의 대전에서 승리하면, 그 영�
 VO_INNKEEPER_PRACTICE_INST2_08	저라면 성기사 우서를 고르겠어요!	
 VO_INNKEEPER_RETURNING_PLAYER_INNKEEPER_CHALLENGE_INTRO	세 명의 도전자가 기다리고 있답니다!	
 VO_INNKEEPER_RETURNING_PLAYER_QUEST1	퀘스트를 세 개 준비했습니다. 이게 첫 번째입니다.	
+VO_INNKEEPER_STANDARD_DECK_WARNING	그 덱은 정규에서만 사용할 수 있습니다.	
 VO_INNKEEPER_STEALTH_TAUNT3_22	하수인이 은신 중이면 도발 능력을 발휘할 수 없습니다.	
 VO_INNKEEPER_TAVERNBRAWL_DESC1_29	매주 새로운 규칙들이 정해집니다!	
 VO_INNKEEPER_TAVERNBRAWL_DESC2_30	매주 독특한 규칙들이 정해집니다!	
@@ -179,6 +222,7 @@ VO_INNKEEPER_TAVERNBRAWL_PUSH_32	혹시 선술집 난투 해보셨습니까?
 VO_INNKEEPER_TAVERNBRAWL_WELCOME1_27	선술집 난투에 오신 것을 환영합니다!	
 VO_INNKEEPER_TOURNY_END_15	주간 토너먼트가 끝났습니다!	
 VO_INNKEEPER_TOURNY_END1_27	메달이 초기화되었습니다. 이번주에 다시 새로운 메달과 팩을 얻을 수 있겠군요!	
+VO_INNKEEPER_TWIST_DECK_WARNING	그 덱은 변칙전에서만 사용할 수 있습니다.	
 VO_INNKEEPER_UNLOCKED_ALL_HEROES	아홉 명의 영웅을 모두 사용할 수 있게 됐군요! 축하드립니다!	
 VO_INNKEEPER_UNRANKED_16	친선전은 평점에 영향을 미치지 않지만, 선물은 못 받아요!	
 VO_INNKEEPER_WILD_DECK_WARNING	그 덱은 야생에서만 사용할 수 있습니다.	
@@ -280,3 +324,83 @@ VO_TUTORIAL_01_ANNOUNCER_02	누가 이 도전에 응하시겠습니까?
 VO_TUTORIAL_01_ANNOUNCER_03	이런! 엘윈 숲의 악당... 놀, 들창코입니다!	
 VO_TUTORIAL_01_ANNOUNCER_04	자, 모이십시오! 모이세요!	
 VO_TUTORIAL_01_ANNOUNCER_05	승부를 시작합니다!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_01	그럼 쟁취해라, 나약한 인간.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_02	너를 무찌르고 내가 최고라는 걸 증명해주마!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnArmorUp_01	하! 네 주문은 내 무기와 방어도의 상대가 못 된다.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnFieryWarAxePlayed_01	내 거대한 친구를 소개해주마!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnSpellPlayed_01	내 방어도는 어떤 주문도 막아낼 수 있지.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_01	금방 끝내주지!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_02	날 막을 수 있는 건 없다!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_03	전사들아! 저 여자를 쓰러뜨려라!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_04	내 분노를 느껴라!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_05	호드를 위하여!	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_FULL_MINIONS_01	전장이 가득 찼어요. 지금은 하수인을 더 낼 수 없어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_GENERIC_01	그렇게는 못 해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_HEROPOWER_01	영웅 능력은 한 턴에 한 번밖에 못 써요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NEEDMANA_01	그러기엔 마나가 부족해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NOMANA_01	다음 턴에 마나 수정이 회복될 거예요. 그러면 카드를 더 낼 수 있어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_PLAY_01	그건 아직 낼 수 없어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_SUMMON_SICKNESS_01	그 하수인은 다음 턴에 준비될 거예요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TARGET_01	그 카드를 내려면 대상이 필요해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TAUNT_01	도발 하수인을 먼저 처리해야 해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD_01	하수인을 더 내야겠어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD2_01	방어할 수가 없어요!	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_FULLBOARD_01	하수인이 너무 많아요! 하수인을 먼저 처리해야 해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_SPECIALMINION_01	저 하수인을 무력화할 방법을 찾아야 해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_GARROSH_01	가로쉬에게 틈이 보여요! 놈을 먼저 쓰러뜨려 봐요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_LICHKING_01	리치 왕은 강력해요. 그를 먼저 공격하는 게 낫겠어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_REXXAR_01	렉사르를 쓰러뜨리는 데 집중해야겠어요...	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SECOND_MINION_01	또 하수인이네요! 마침 잘 됐어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SPELL_01	주문 카드네요! 한 번 밖에 못 쓰니까, 유용하게 써야겠죠...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_01	제가 찾는 카드를 갖고 있군요, 렉사르.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_02	리치 왕을 물리치려면 그 카드들이 필요해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_03	렉사르, 리치 왕을 물리치려면 당신의 카드가 필요해요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_04	리치 왕의 힘이 점점 강해지고 있어요. 제게 힘을 빌려주세요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_05	가로쉬, 이럴 시간이 없어.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_06	네 공포의 통치도 이젠 끝이야, 리치 왕.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_07	하지만 전 카드가 더 있죠.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawAOESpell_01	이 카드라면 하수인들을 완벽하게 처리할 거예요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawFireball_01	화염 주문이에요. 마침 찾고 있던 주문이네요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawLegendary_01	전설 카드예요! 정말 강력한데요...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyFullBoard_01	주문 한 번으로 전장을 정리할 수 있겠어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyMinionsFrozen_01	이제 적 하수인들은 공격할 수 없어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnNoTauntMinions_01	도발 하수인을 더 찾아봐야겠어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedHuffer_01	덩치가 크네요. 손을 써야겠어요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedKingKrush_01	고생길이 훤하네요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayToMySide_01	하수인이 더 있다고요? 얼마나 있길래...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_01	하수인이네요! 그걸 내고 게임을 진행하면 돼요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_02	렉사르의 생명력이 적어요. 끝낼 수 있겠어요!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_03	공격하기 딱 좋은 곳에 있군요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_04	하수인들이 정말 빠르네요!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_05	저도 재주가 좀 있거든요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_06	속도를 늦춰야 해요...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_07	다 끝낼 시간이에요!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_08	도발 하수인이에요! 한동안 막아낼 수 있을 거예요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_09	네 하수인을 화염으로 정화하겠어!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_10	이번엔 어림 없죠.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_11	어떻게 하수인을 이만큼 소환하는 거죠?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_12	조금만 더 버티면 돼요, 조금만 더...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_01	제가 이겼어요! 이제 다음 전투로 넘어가죠.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_02	이제 마지막 전투가 시작될 거예요.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_03	끝났네요. 하지만 더 많은 전투가 남아 있어요...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_04	해냈어요! 드디어 게임을 할 수 있겠네요.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_01	그 덱은 약하다. 넌 쓰러지리라.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_02	한기가 네 영혼을 파고든다. 내가 먼저 하지.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostmournePlayed_01	서리한이 굶주렸다.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostwyrmsFuryPlayed_01	나도 냉기의 힘을 다룰 수 있다.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_01	잔기술을 몇 가지 배웠다고 도움이 되지는 않는다.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_02	필연을 피할 순 없다.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_03	내 전사들을 얼리다니. 매몰차군.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_04	일어나라, 내 하수인들아!	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_FirstHeroPower_01	스컬지는 일어나리라.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_01	그건 야생의 것이지.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_02	<_호흡_> 그렇다면 사냥을 시작하지!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_03	<_호흡_> 사냥을 시작하지.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_04	나는 렉사르, 사냥꾼이네.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_05	나는 야수와 주문으로 맹렬히 공격하지.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCharge_01	그 하수인에겐 돌진 능력이 있네. 낸 턴에도 어떤 적이든 공격할 수 있지.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCompanion_01	미샤, 레오크, 킁킁이, 이리 오렴!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedArcaneShot_01	자네를 주시하고 있네.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedStonetuskBoar_01	내 멧돼지 동료가 이 싸움을 신속히 끝낼 걸세.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayRush_01	그 하수인은 속공 능력이 있네. 낸 턴에도 하수인을 공격할 수 있지.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayUnleash_01	개들을 풀어라!	

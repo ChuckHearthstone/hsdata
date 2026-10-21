@@ -1,4 +1,6 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Lit le Livre des héros	
+PRESENCE_ADVENTURE_MODE_BOM	Lit le Livre des mercenaires	
 PRESENCE_ADVENTURE_MODE_BOT	Visite le labo du Dr Boum	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Défi de classe de Rochenoire	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Mont Rochenoire (Héroïque)	
@@ -21,8 +23,189 @@ PRESENCE_ADVENTURE_MODE_NAXX_CLASS_CHALLENGE	Défi de classe de Naxxramas
 PRESENCE_ADVENTURE_MODE_NAXX_HEROIC	Naxxramas (héroïque)	
 PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	Naxxramas	
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	Fait son retour en jeu	
+PRESENCE_ADVENTURE_MODE_RLK	Explore le passé d’Arthas !	
 PRESENCE_ADVENTURE_MODE_TRL	Se prépare pour les Jeux trolls…	
 PRESENCE_ADVENTURE_MODE_ULD	Organise une expédition	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Persuade l’archimage Antonidas	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Démasque le prince Kael’thas	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Se dispute avec le prince Arthas	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Calme Grommash Hurlenfer	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Trompe Archimonde	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Défend Theramore	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Tient Thrall pour responsable	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Expulse les Saccage-Soleil	
+PRESENCE_SCENARIO_BOH10_FIGHT_01	Rencontre un prince	
+PRESENCE_SCENARIO_BOH10_FIGHT_02	Vole Tichondrius	
+PRESENCE_SCENARIO_BOH10_FIGHT_03	Pille la tombe de Sargeras	
+PRESENCE_SCENARIO_BOH10_FIGHT_04	Se chamaille avec Malfurion	
+PRESENCE_SCENARIO_BOH10_FIGHT_05	Sauve l’Outreterre	
+PRESENCE_SCENARIO_BOH10_FIGHT_06	Insulte Anub’arak	
+PRESENCE_SCENARIO_BOH10_FIGHT_07	Défie Arthas en duel	
+PRESENCE_SCENARIO_BOH10_FIGHT_08	Se fait trahir par Akama	
+PRESENCE_SCENARIO_BOH11_FIGHT_01	En route pour l’aventure	
+PRESENCE_SCENARIO_BOH11_FIGHT_02	Affronte des Pirates	
+PRESENCE_SCENARIO_BOH11_FIGHT_03	Négocie avec Double-Crochet	
+PRESENCE_SCENARIO_BOH11_FIGHT_04	Répare le Léviathan	
+PRESENCE_SCENARIO_BOH11_FIGHT_05A	Au cœur de la tempête	
+PRESENCE_SCENARIO_BOH11_FIGHT_05B	Reprend le crépuscule	
+PRESENCE_SCENARIO_BOH11_FIGHT_06	Sauve la capitaine Maya	
+PRESENCE_SCENARIO_BOH11_FIGHT_07	Mate le kraken	
+PRESENCE_SCENARIO_BOH11_FIGHT_08	Répare ENCORE le Léviathan	
+PRESENCE_SCENARIO_BOH11_FIGHT_09A	Menace des Murlocs	
+PRESENCE_SCENARIO_BOH11_FIGHT_09B	Participe à une réunion de famille	
+PRESENCE_SCENARIO_BOH11_FIGHT_10A	Se dispute avec des Nagas	
+PRESENCE_SCENARIO_BOH11_FIGHT_10B	Prouve sa valeur	
+PRESENCE_SCENARIO_BOH11_FIGHT_11	Revit le passé	
+PRESENCE_SCENARIO_BOH11_FIGHT_12	Fait face au présent	
+PRESENCE_SCENARIO_BOH11_FIGHT_13	Sous les verrous au Palais éternel	
+PRESENCE_SCENARIO_BOH11_FIGHT_14	Répare ENFIN le Léviathan	
+PRESENCE_SCENARIO_BOH11_FIGHT_15	Tient le coup face à Zainra	
+PRESENCE_SCENARIO_BOH11_FIGHT_16	Amuse la reine Azshara	
+PRESENCE_SCENARIO_BOH11_PROLOGUE	Recrute des membres d’équipage	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Plaide pour l’action	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Persuade le chef de guerre	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Apprivoise Misha	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Restaure l’honneur de Mogrin	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Enquête avec Jaina	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Sauve Baine Sabot-de-Sang	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Repousse l’invasion de Daelin	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Sauve les Mok’Nathal	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Rencontre la grande-mère	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Débat avec Rehgar	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Part à la conquête du Norfendre	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Éteint des feux à Orgrimmar	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Participe à un mak’gora	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Attaque Theramore	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Sonne la Cloche divine	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Subit un siège à Orgrimmar	
+PRESENCE_SCENARIO_BOH4_FIGHT_01	Impressionne l’archevêque Faol	
+PRESENCE_SCENARIO_BOH4_FIGHT_02	Défend Lordaeron	
+PRESENCE_SCENARIO_BOH4_FIGHT_03	Se bat contre Varok Saurcroc	
+PRESENCE_SCENARIO_BOH4_FIGHT_04	Détruit la Porte des ténèbres	
+PRESENCE_SCENARIO_BOH4_FIGHT_05	Sauve les villageois du maître-lame	
+PRESENCE_SCENARIO_BOH4_FIGHT_06	Secourt Âtreval	
+PRESENCE_SCENARIO_BOH4_FIGHT_07	Poursuit sa longue marche jusqu’à Stratholme	
+PRESENCE_SCENARIO_BOH4_FIGHT_08	Affronte Arthas	
+PRESENCE_SCENARIO_BOH5_FIGHT_01	Déçoit Varian	
+PRESENCE_SCENARIO_BOH5_FIGHT_02	Persuade Jaina	
+PRESENCE_SCENARIO_BOH5_FIGHT_03	Négocie la paix avec Moira	
+PRESENCE_SCENARIO_BOH5_FIGHT_04	Apprend de Velen	
+PRESENCE_SCENARIO_BOH5_FIGHT_05	Échappe aux griffes de Nazgrim	
+PRESENCE_SCENARIO_BOH5_FIGHT_06	Résout les énigmes du roi-singe	
+PRESENCE_SCENARIO_BOH5_FIGHT_07	Porte le Maillet harmonique	
+PRESENCE_SCENARIO_BOH5_FIGHT_08	Combat pour Lordaeron	
+PRESENCE_SCENARIO_BOH6_FIGHT_01	S’entraîne pour l’Arène	
+PRESENCE_SCENARIO_BOH6_FIGHT_02	En met plein la vue à Helka	
+PRESENCE_SCENARIO_BOH6_FIGHT_03	Affronte des assassins	
+PRESENCE_SCENARIO_BOH6_FIGHT_04	Se fait posséder par un démon	
+PRESENCE_SCENARIO_BOH6_FIGHT_05	En pleines négociations diplomatiques	
+PRESENCE_SCENARIO_BOH6_FIGHT_06	Interroge Garona	
+PRESENCE_SCENARIO_BOH6_FIGHT_07	Défie le Marteau du crépuscule	
+PRESENCE_SCENARIO_BOH6_FIGHT_08	Apprend les secrets du manoir de Ravenholdt	
+PRESENCE_SCENARIO_BOH7_FIGHT_01	Enrichit Landenoire	
+PRESENCE_SCENARIO_BOH7_FIGHT_02	Devient un chaman	
+PRESENCE_SCENARIO_BOH7_FIGHT_03	Parle à un étranger	
+PRESENCE_SCENARIO_BOH7_FIGHT_04	Affronte Mannoroth	
+PRESENCE_SCENARIO_BOH7_FIGHT_05	Surclasse Archimonde	
+PRESENCE_SCENARIO_BOH7_FIGHT_06	S’occupe d’Aile de mort	
+PRESENCE_SCENARIO_BOH7_FIGHT_07	Arrête Jaina	
+PRESENCE_SCENARIO_BOH7_FIGHT_08	Rétrograde Garrosh	
+PRESENCE_SCENARIO_BOH8_FIGHT_01	Reçoit des instructions	
+PRESENCE_SCENARIO_BOH8_FIGHT_02	Affronte la Légion ardente	
+PRESENCE_SCENARIO_BOH8_FIGHT_03	Prend part à une querelle fraternelle	
+PRESENCE_SCENARIO_BOH8_FIGHT_04	Sauve Nordrassil	
+PRESENCE_SCENARIO_BOH8_FIGHT_05	Prend part à une autre querelle fraternelle	
+PRESENCE_SCENARIO_BOH8_FIGHT_06	Fait face au Cauchemar d’émeraude	
+PRESENCE_SCENARIO_BOH8_FIGHT_07	Garde le Mont Hyjal	
+PRESENCE_SCENARIO_BOH8_FIGHT_08	Défend Teldrassil	
+PRESENCE_SCENARIO_BOH9_FIGHT_01	Est chassé du clan	
+PRESENCE_SCENARIO_BOH9_FIGHT_02	En appelle au Trône des éléments	
+PRESENCE_SCENARIO_BOH9_FIGHT_03	Fait la rencontre de Ner’zhul	
+PRESENCE_SCENARIO_BOH9_FIGHT_04	Corrompt la Horde	
+PRESENCE_SCENARIO_BOH9_FIGHT_05	Est enrôlé par Medivh	
+PRESENCE_SCENARIO_BOH9_FIGHT_06	Réchappe à la colère d’Orgrim	
+PRESENCE_SCENARIO_BOH9_FIGHT_07	Retrouve Teron’gor	
+PRESENCE_SCENARIO_BOH9_FIGHT_08	Recherche la tombe de Sargeras	
+PRESENCE_SCENARIO_BOM_FIGHT_01	Affronte Bru’kan	
+PRESENCE_SCENARIO_BOM_FIGHT_02	Baguenaude avec Guff	
+PRESENCE_SCENARIO_BOM_FIGHT_03	Dompte une bestiole nécrosée	
+PRESENCE_SCENARIO_BOM_FIGHT_04	Chasse un monstre rare	
+PRESENCE_SCENARIO_BOM_FIGHT_05	Récupère des éclats	
+PRESENCE_SCENARIO_BOM_FIGHT_06	Affronte Doublenattes	
+PRESENCE_SCENARIO_BOM_FIGHT_07	Recherche Feegly	
+PRESENCE_SCENARIO_BOM_FIGHT_08	Affronte Garrosh	
+PRESENCE_SCENARIO_BOM10_FIGHT_01	Pleure un mercenaire	
+PRESENCE_SCENARIO_BOM10_FIGHT_02	Apprend de Lor’themar	
+PRESENCE_SCENARIO_BOM10_FIGHT_03	Suit le roi Varian	
+PRESENCE_SCENARIO_BOM10_FIGHT_04	Pénètre dans le repaire d’Onyxia	
+PRESENCE_SCENARIO_BOM10_FIGHT_05	Dans un groupe de dragonnets	
+PRESENCE_SCENARIO_BOM10_FIGHT_06	Affronte la mère des couvées	
+PRESENCE_SCENARIO_BOM10_FIGHT_07	Fuit son adversaire	
+PRESENCE_SCENARIO_BOM10_FIGHT_08	Négocie avec un Naaru	
+PRESENCE_SCENARIO_BOM2_FIGHT_01	Garde les postes de garde	
+PRESENCE_SCENARIO_BOM2_FIGHT_02	Arnaque Serena	
+PRESENCE_SCENARIO_BOM2_FIGHT_03	Rencontre les autochtones	
+PRESENCE_SCENARIO_BOM2_FIGHT_04	Atteint le quota du jour	
+PRESENCE_SCENARIO_BOM2_FIGHT_05	Détourne un déchiqueteur	
+PRESENCE_SCENARIO_BOM2_FIGHT_06	Entre par effraction	
+PRESENCE_SCENARIO_BOM2_FIGHT_07	S’y prend à six bras contre huit	
+PRESENCE_SCENARIO_BOM2_FIGHT_08	Tient un éclat de Lumière	
+PRESENCE_SCENARIO_BOM3_FIGHT_01	Aide Hamuul	
+PRESENCE_SCENARIO_BOM3_FIGHT_02	Trouve une fissure	
+PRESENCE_SCENARIO_BOM3_FIGHT_03	Combat les Kolkars	
+PRESENCE_SCENARIO_BOM3_FIGHT_04	Sauve des gueules d’acier des oasis	
+PRESENCE_SCENARIO_BOM3_FIGHT_05	Recherche un groupe	
+PRESENCE_SCENARIO_BOM3_FIGHT_06	Affronte des seigneurs-Croc	
+PRESENCE_SCENARIO_BOM3_FIGHT_07	Rencontre Mutanus	
+PRESENCE_SCENARIO_BOM3_FIGHT_08	Négocie avec Naralex	
+PRESENCE_SCENARIO_BOM4_FIGHT_01	Protège un paladin	
+PRESENCE_SCENARIO_BOM4_FIGHT_02	Triomphe des marginaux	
+PRESENCE_SCENARIO_BOM4_FIGHT_03	Prépare sa vengeance	
+PRESENCE_SCENARIO_BOM4_FIGHT_04	Forme un groupe	
+PRESENCE_SCENARIO_BOM4_FIGHT_05	Combat la Lame-Ardente	
+PRESENCE_SCENARIO_BOM4_FIGHT_06	Campe avec Kazakus	
+PRESENCE_SCENARIO_BOM4_FIGHT_07	Affronte Lamefeu	
+PRESENCE_SCENARIO_BOM4_FIGHT_08	Se mesure à Tamsin	
+PRESENCE_SCENARIO_BOM5_FIGHT_01	Débriefe avec Kurtrus	
+PRESENCE_SCENARIO_BOM5_FIGHT_02	Marchande avec Double-Crochet	
+PRESENCE_SCENARIO_BOM5_FIGHT_03	Attaque Hurlevent	
+PRESENCE_SCENARIO_BOM5_FIGHT_04	Affronte des amis	
+PRESENCE_SCENARIO_BOM5_FIGHT_05	Défie un fromager	
+PRESENCE_SCENARIO_BOM5_FIGHT_06	Combat Xyrella	
+PRESENCE_SCENARIO_BOM5_FIGHT_07	Présente Anetheron	
+PRESENCE_SCENARIO_BOM5_FIGHT_08	Corrompt Cornélius	
+PRESENCE_SCENARIO_BOM6_FIGHT_01	S’entraîne avec sa sœur	
+PRESENCE_SCENARIO_BOM6_FIGHT_02	Se bat contre un chasseur de démons	
+PRESENCE_SCENARIO_BOM6_FIGHT_03	Rentre à la maison	
+PRESENCE_SCENARIO_BOM6_FIGHT_04	Défend le quartier des Nains	
+PRESENCE_SCENARIO_BOM6_FIGHT_05	Libère un ami	
+PRESENCE_SCENARIO_BOM6_FIGHT_06	Attaque Anetheron	
+PRESENCE_SCENARIO_BOM6_FIGHT_07	S’attaque à une monstruosité	
+PRESENCE_SCENARIO_BOM6_FIGHT_08	Affronte Tamsin	
+PRESENCE_SCENARIO_BOM7_FIGHT_01	Bataille avec Bob	
+PRESENCE_SCENARIO_BOM7_FIGHT_02	Révèle le traître	
+PRESENCE_SCENARIO_BOM7_FIGHT_03	S’occupe de Lardeur	
+PRESENCE_SCENARIO_BOM7_FIGHT_04	Se fait la malle	
+PRESENCE_SCENARIO_BOM7_FIGHT_05	S’enfonce dans les Mortemines	
+PRESENCE_SCENARIO_BOM7_FIGHT_06	Châtie M. Châtiment	
+PRESENCE_SCENARIO_BOM7_FIGHT_07	Cuisine avec Macaron	
+PRESENCE_SCENARIO_BOM7_FIGHT_08	Élimine Edwin	
+PRESENCE_SCENARIO_BOM8_FIGHT_01	Terrasse Vanndar	
+PRESENCE_SCENARIO_BOM8_FIGHT_02	Enquête à Gouffrefer	
+PRESENCE_SCENARIO_BOM8_FIGHT_03	Harangue la Horde	
+PRESENCE_SCENARIO_BOM8_FIGHT_04	Cuisine au coin du feu	
+PRESENCE_SCENARIO_BOM8_FIGHT_05	Sur le Champ sanglant	
+PRESENCE_SCENARIO_BOM8_FIGHT_06	Barricade le pont	
+PRESENCE_SCENARIO_BOM8_FIGHT_07	Dégèle des mercenaires	
+PRESENCE_SCENARIO_BOM8_FIGHT_08	Se rend à l’évidence	
+PRESENCE_SCENARIO_BOM9_FIGHT_01	S’occupe d’une liche de l’effroi	
+PRESENCE_SCENARIO_BOM9_FIGHT_02	Nettoie des feux de camp	
+PRESENCE_SCENARIO_BOM9_FIGHT_03	Rencontre Ichman	
+PRESENCE_SCENARIO_BOM9_FIGHT_04	Prend des bougies	
+PRESENCE_SCENARIO_BOM9_FIGHT_05	Réfléchit au passé	
+PRESENCE_SCENARIO_BOM9_FIGHT_06	Maîtrise Lokholar	
+PRESENCE_SCENARIO_BOM9_FIGHT_07	Annule un conflit	
+PRESENCE_SCENARIO_BOM9_FIGHT_08	Met un terme à tout ça	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Réfléchit à un casse-tête	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Réfléchit à un casse-tête	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Réfléchit à un casse-tête	
@@ -299,6 +482,10 @@ PRESENCE_SCENARIO_NAXX_NORMAL_SCENARIO_THADDIUS	Affronte Thaddius
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_1	Fait son retour en jeu	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_2	Fait son retour en jeu	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_3	Fait son retour en jeu	
+PRESENCE_SCENARIO_RLK_FIGHT_01	Manie Deuillegivre	
+PRESENCE_SCENARIO_RLK_FIGHT_02	Confronte son mentor	
+PRESENCE_SCENARIO_RLK_FIGHT_03	Attaque Lune-d’Argent	
+PRESENCE_SCENARIO_RLK_FIGHT_04	Revendique le Trône de glace	
 PRESENCE_SCENARIO_TRL_DUNGEON	Joue dans l’arène des Gurubashi	
 PRESENCE_SCENARIO_ULD_01_CITY	Explore la cité perdue	
 PRESENCE_SCENARIO_ULD_01_CITY_HEROIC	Explore la cité perdue	
@@ -315,7 +502,7 @@ PRESENCE_SCENARIO_ULD_TAVERN_HEROIC	Flâne dans le bazar
 PRESENCE_STATUS_ADVENTURE_CHOOSING_MODE	Cherche une aventure	
 PRESENCE_STATUS_ADVENTURE_SCENARIO_PLAYING_GAME	{0}	{0} replaced with the specific scenario string, via PRESENCE_SCENARIO_NAXX_*
 PRESENCE_STATUS_ADVENTURE_SCENARIO_SELECT	{0}	{0} replaced with the adventure mode, via PRESENCE_ADVENTURE_MODE_*, e.g. Naxxramas (Heroic) -- (originally i wanted it to say "Mission Select: Naxxramas Class Challenge" but this got too long for the UI element.)
-PRESENCE_STATUS_ARENA_FORGE	Crée un deck d’Arène	
+PRESENCE_STATUS_ARENA_FORGE	Conçoit un deck d’Arène	
 PRESENCE_STATUS_ARENA_GAME	Se bat dans l’Arène	
 PRESENCE_STATUS_ARENA_IDLE	Dans l’Arène	
 PRESENCE_STATUS_ARENA_PURCHASE	Va entrer dans l’Arène	
@@ -327,15 +514,40 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	Dans le mode Champs de bataille
 PRESENCE_STATUS_COLLECTION	Consulte sa collection	
 PRESENCE_STATUS_CRAFTING	Crée des cartes	
 PRESENCE_STATUS_DECKEDITOR	Crée un deck	
+PRESENCE_STATUS_DUELS_PURCHASE	Va commencer une série de Duels	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Va faire un Bras de fer Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Va défier un de ses contacts	
 PRESENCE_STATUS_FRIENDLY_GAME	Se bat contre un contact	
 PRESENCE_STATUS_HUB	Dans le menu principal	
 PRESENCE_STATUS_LOGIN	Démarre le jeu	
+PRESENCE_STATUS_MERCENARIES_COLLECTION	Consulte sa collection de mercenaires	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_GAME	Affronte un ami dans le mode Mercenaires	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_LOBBY	Va défier un de ses contacts	
+PRESENCE_STATUS_MERCENARIES_GAME	Participe à un match de mercenaires	
+PRESENCE_STATUS_MERCENARIES_MAP	Explore une carte de mercenaires	
+PRESENCE_STATUS_MERCENARIES_PLAY_SCREEN	Choisit une équipe de mercenaires	
+PRESENCE_STATUS_MERCENARIES_QUEUE	Cherche des mercenaires adverses	
+PRESENCE_STATUS_MERCENARIES_TEAM_EDITOR	Compose une équipe de mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE	Passe du temps au village des mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_BUILDING_MANAGER	Se trouve à l’atelier des mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_MAILBOX	Consulte la boîte aux lettres des mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_BOUNTIES	Consulte le panneau de primes des mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_ZONES	Se trouve au point de voyage des mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVP	Se trouve à la fosse de combat de mercenaires	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_TASKBOARD	Consulte le panneau des tâches de mercenaire	
 PRESENCE_STATUS_PACKOPENING	Ouvre des paquets de cartes !	
-PRESENCE_STATUS_PLAY_DECKPICKER	En mode Partie	
-PRESENCE_STATUS_PLAY_GAME	Se bat en mode Partie	
+PRESENCE_STATUS_PLAY_BATTLEGROUNDS_DUOS	Participe aux Duos de Champs de bataille	
+PRESENCE_STATUS_PLAY_CASUAL_CLASSIC	Se bat en Partie non classée classique !	
+PRESENCE_STATUS_PLAY_CASUAL_STANDARD	Se bat en Partie non classée standard !	
+PRESENCE_STATUS_PLAY_CASUAL_TWIST	Se bat en Partie non classée imprévue !	
+PRESENCE_STATUS_PLAY_CASUAL_WILD	Se bat en Partie non classée libre !	
+PRESENCE_STATUS_PLAY_DECKPICKER	Passe en mode Traditionnel	
+PRESENCE_STATUS_PLAY_GAME	Joue un match en mode Traditionnel	
 PRESENCE_STATUS_PLAY_QUEUE	Cherche un adversaire	
+PRESENCE_STATUS_PLAY_RANKED_CLASSIC	Se bat en Partie classée classique !	
+PRESENCE_STATUS_PLAY_RANKED_STANDARD	Se bat en Partie classée standard !	
+PRESENCE_STATUS_PLAY_RANKED_TWIST	Se bat en Partie classée imprévue !	
+PRESENCE_STATUS_PLAY_RANKED_WILD	Se bat en Partie classée libre !	
 PRESENCE_STATUS_PRACTICE_DECKPICKER	En mode Entraînement	
 PRESENCE_STATUS_PRACTICE_GAME	S’entraîne contre l’aubergiste	
 PRESENCE_STATUS_QUESTLOG	Consulte son journal	
@@ -354,6 +566,8 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	Regarde une héroïque de 
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	Regarde une partie de Naxxramas	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Regarde une partie en Arène	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Regarde un champ de bataille	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Observe le Livre des héros	
+PRESENCE_STATUS_SPECTATING_GAME_BOM	Observe le Livre des mercenaires	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Joue les partenaires de labo	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Regarde une partie de L’épreuve du gangrefeu	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Regarde un défi de L’épreuve du gangrefeu	
@@ -366,9 +580,19 @@ PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Regarde un duel amical
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Regarde une chasse aux monstres	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Regarde un combat contre Hagatha	
 PRESENCE_STATUS_SPECTATING_GAME_LOOT	Regarde une virée en donjon	
-PRESENCE_STATUS_SPECTATING_GAME_PLAY	Regarde une partie	
+PRESENCE_STATUS_SPECTATING_GAME_MERCENARIES	Regarde un match de mercenaires	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY	Regarde une partie en mode traditionnel de Hearthstone	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_CLASSIC	Regarde une partie non classée en mode Classique	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_STANDARD	Regarde une partie non classée en mode Standard	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_TWIST	Regarde une partie non classée en mode Imprévu	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_WILD	Regarde une partie non classée en mode Libre	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_CLASSIC	Regarde une partie classée en mode Classique	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_STANDARD	Regarde une partie classée en mode Standard	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_TWIST	Regarde une partie classée en mode Imprévu	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_WILD	Regarde une partie classée en mode Libre	
 PRESENCE_STATUS_SPECTATING_GAME_PRACTICE	Regarde un entraînement	
 PRESENCE_STATUS_SPECTATING_GAME_RETURNING_PLAYER_CHALLENGE	Regarde un ami faire son retour	
+PRESENCE_STATUS_SPECTATING_GAME_RLK	Regarde une partie du prologue	
 PRESENCE_STATUS_SPECTATING_GAME_TAVERN_BRAWL	Regarde un Bras de fer	
 PRESENCE_STATUS_SPECTATING_GAME_TRL	Regarde une partie des Jeux	
 PRESENCE_STATUS_SPECTATING_GAME_TUTORIAL	Regarde une partie du didacticiel	
@@ -383,11 +607,9 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Cherche un adversaire au Bras de fer
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Va faire un Bras de fer	
 PRESENCE_STATUS_TUTORIAL_GAME	Tente de battre {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Lance le jeu pour la 1re fois	
+PRESENCE_STATUS_VIEWING_JOURNAL	Consulte le journal	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	En attente de reconnexion de l’adversaire	
 PRESENCE_STATUS_WELCOMEQUESTS	Réfléchit aux nouvelles quêtes !	
-PRESENCE_TUTORIAL_CHO	Chroniqueur Cho	
-PRESENCE_TUTORIAL_HEMET	Hemet Nesingwary	
-PRESENCE_TUTORIAL_HOGGER	Lardeur	
-PRESENCE_TUTORIAL_ILLIDAN	Illidan Hurlorage	
-PRESENCE_TUTORIAL_MILLHOUSE	Millhouse Tempête-de-Mana	
-PRESENCE_TUTORIAL_MUKLA	Roi Mukla	
+PRESENCE_TUTORIAL_GARROSH	Garrosh Hurlenfer	
+PRESENCE_TUTORIAL_LICH_KING	Le roi-liche	
+PRESENCE_TUTORIAL_REXXAR	Rexxar	

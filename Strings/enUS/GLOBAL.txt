@@ -1,9 +1,59 @@
-﻿TAG	TEXT	COMMENT
+TAG	TEXT	COMMENT
+GLOBAL_AADC_BUTTON_PRIVACY	Privacy
+GLOBAL_AADC_BUTTON_PRIVACYSETTINGS	Privacy Settings
+GLOBAL_AADC_PARENTALLOCK_DESCRIPTION	Changing this option requires your parent or guardian to update your privacy settings in Battle.net.
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_DEVICE	Device Options
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_SOCIAL	Social Options
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_LOCATIONSETTINGS	Enable location settings
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_PUSHNOTIFICATIONS	Enable push notifications
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_CHATMESSAGES	Enable chat messages
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_NEARBYFRIENDS	Enable nearby players
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_SPECIALOFFERS	Enable personalized shop offers
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_OFFERS	Personalized Offers
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_OFFERS_ROW	Manage Preferences
+GLOBAL_AADC_PRIVACYSETTINGSMENU_PRIVACYRIGHTS	Privacy Rights
+GLOBAL_AADC_CHATWARNING	Be careful and don't share personal information in messages.
+GLOBAL_AADC_CHATSETTINGS_TITLE	Chat Settings
+GLOBAL_AADC_CHATSETTINGS_ENABLEHEADER	Do you want to turn on chat?
+GLOBAL_AADC_CHATSETTINGS_DISABLEHEADER	Do you want to turn off chat?
+GLOBAL_AADC_CHATSETTINGS_DISABLEDESCRIPTION	Turning off chat will prevent you from sending and receiving messages from friends.
+GLOBAL_AADC_CHATSETTINGS_ENABLEDESCRIPTION	Turning on chat will allow you to send and receive messages from friends. Be careful and don't share personal information.
+GLOBAL_AADC_CHATSETTINGS_UPDATINGSETTINGS	Updating chat settings
+GLOBAL_AADC_CHATSETTINGS_SETTINGSUPDATED	Chat settings updated
+GLOBAL_AADC_SHOPSETTINGS_TITLE	Shop Settings
+GLOBAL_AADC_SHOPSETTINGS_DISABLEHEADER	Turn off personalized offers
+GLOBAL_AADC_SHOPSETTINGS_ENABLEHEADER	Turn on personalized offers
+GLOBAL_AADC_SHOPSETTINGS_DISABLEDESCRIPTION	Disabling personalized shop offers will prevent you from viewing shop offers based on your gameplay.
+GLOBAL_AADC_SHOPSETTINGS_ENABLEDESCRIPTION	Enabling personalized shop offers will allow you to view shop offers based on your gameplay.
+GLOBAL_AADC_SHOPSETTINGS_UPDATINGSETTINGS	Updating shop settings
+GLOBAL_AADC_SHOPSETTINGS_SETTINGSUPDATED	Shop settings updated
+GLOBAL_AADC_PUSHNOTIFICATIONS_TITLE	Notification Settings
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEHEADER	Turn off push notifications
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEHEADER	Turn on push notifications
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEDESCRIPTION	Disabling push notifications will prevent Hearthstone from sending notifications to your device.
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEDESCRIPTION	Enabling push notifications will allow Hearthstone to send notifications to your device.
+GLOBAL_AADC_PUSHNOTIFICATIONS_UPDATINGSETTINGS	Updating notification settings
+GLOBAL_AADC_PUSHNOTIFICATIONS_SETTINGSUPDATED	Notification settings updated
+GLOBAL_AADC_UPDATESETTINGSPOPUP_TITLE	Settings Updated
+GLOBAL_AADC_UPDATESETTINGSPOPUP_DESCRIPTION	All of your social and device preferences are now enabled, including chat messages, shop, and personalized offers.
+GLOBAL_AADC_FRIENDSETTINGS_TITLE	Friend Settings
+GLOBAL_AADC_NEARBY_PLAYER_SETTINGS_TITLE	Nearby Players
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEHEADER	Turn on nearby players?
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEHEADER	Turn off nearby players?
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEDESCRIPTION	Enabling nearby players will allow players close to your location to view your game activity in your friends list.
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEDESCRIPTION	Disabling nearby players will prevent players close to your location from viewing your game activity in your friends list.
+GLOBAL_AADC_FRIENDSETTINGS_UPDATINGSETTINGS	Updating nearby players
+GLOBAL_AADC_FRIENDSETTINGS_SETTINGSUPDATED	Nearby players updated
+GLOBAL_AADC_FRIENDSETTINGS_TURN_OFF_BUTTON	Turn Off
+GLOBAL_AADC_FRIENDSETTINGS_TURN_ON_BUTTON	Turn On
+GLOBAL_ACCOUNT_LINKING_CONFIRM_WAITING	Working on it..
+GLOBAL_ACCOUNT_LINKING_CONFIRM_LINKED	Account linked!
 GLOBAL_BUTTON_YES	Yes
 GLOBAL_BUTTON_NO	No
 GLOBAL_BUTTON_OK	OK
 GLOBAL_BUTTON_BUY	BUY
 GLOBAL_BUTTON_OR	OR
+GLOBAL_BUTTON_LATER	Later
 GLOBAL_BUTTON_OWNED	Owned
 GLOBAL_BUTTON_INFO_LETTER	i
 GLOBAL_BUTTON_NEXT	Next
@@ -11,7 +61,11 @@ GLOBAL_BUTTON_CONVERT	Convert
 GLOBAL_BUTTON_AWESOME	Awesome!
 GLOBAL_BUTTON_NOT_NOW	Not now
 GLOBAL_BUTTON_GO	Go!
-GLOBAL_CARD_SET_CORE	Basic
+GLOBAL_BUTTON_MORE_INFO	More Info
+GLOBAL_BUTTON_GOT_IT	Got It!
+GLOBAL_BUTTON_SUBMIT	Submit
+GLOBAL_BUTTON_DOWNLOAD	Download Now
+GLOBAL_CARD_SET_BASIC	Basic
 GLOBAL_CARD_SET_EXPERT1	Classic
 GLOBAL_CARD_SET_HOF	Hall of Fame
 GLOBAL_CARD_SET_PROMO	Promo
@@ -49,11 +103,11 @@ GLOBAL_CARD_SET_LOOTAPALOOZA_SEARCHABLE_SHORTHAND_NAMES	kc kac knc	This is a spa
 GLOBAL_CARD_SET_GILNEAS	The Witchwood
 GLOBAL_CARD_SET_GILNEAS_SHORT	Witchwood
 GLOBAL_CARD_SET_GILNEAS_SEARCHABLE_SHORTHAND_NAMES	ww	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
-GLOBAL_CARD_SET_BOOMSDAY	The Boomsday Project	
+GLOBAL_CARD_SET_BOOMSDAY	The Boomsday Project
 GLOBAL_CARD_SET_BOOMSDAY_SHORT	Boomsday
-GLOBAL_CARD_SET_BOOMSDAY_SEARCHABLE_SHORTHAND_NAMES	bd tbp bdp tbdp bp	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.	
-GLOBAL_CARD_SET_TROLL	Rastakhan's Rumble	
-GLOBAL_CARD_SET_TROLL_SHORT	Rumble	
+GLOBAL_CARD_SET_BOOMSDAY_SEARCHABLE_SHORTHAND_NAMES	bd tbp bdp tbdp bp	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TROLL	Rastakhan's Rumble
+GLOBAL_CARD_SET_TROLL_SHORT	Rumble
 GLOBAL_CARD_SET_TROLL_SEARCHABLE_SHORTHAND_NAMES	rr	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DALARAN	Rise of Shadows
 GLOBAL_CARD_SET_DALARAN_SHORT	Rise of Shadows
@@ -77,73 +131,269 @@ GLOBAL_CARD_SET_DHI_SEARCHABLE_SHORTHAND_NAMES	dhi	This is a space-separated lis
 GLOBAL_CARD_SET_SCH	Scholomance Academy
 GLOBAL_CARD_SET_SCH_SHORT	Scholomance
 GLOBAL_CARD_SET_SCH_SEARCHABLE_SHORTHAND_NAMES	scholo sa	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
-GLOBAL_CARDTYPE_ENCHANTMENT	Enchantment	
-GLOBAL_CARDTYPE_HERO	Hero	
-GLOBAL_CARDTYPE_HEROPOWER	HeroPower	
-GLOBAL_CARDTYPE_ITEM	Item	
-GLOBAL_CARDTYPE_MINION	Minion	
-GLOBAL_CARDTYPE_SPELL	Spell	
-GLOBAL_CARDTYPE_TOKEN	Token	
-GLOBAL_CARDTYPE_WEAPON	Weapon	
-GLOBAL_CLASS_DEATHKNIGHT	Death Knight	
-GLOBAL_CLASS_DRUID	Druid	
-GLOBAL_CLASS_HUNTER	Hunter	
-GLOBAL_CLASS_MAGE	Mage	
-GLOBAL_CLASS_NEUTRAL	Neutral	
-GLOBAL_CLASS_PALADIN	Paladin	
-GLOBAL_CLASS_PRIEST	Priest	
-GLOBAL_CLASS_ROGUE	Rogue	
-GLOBAL_CLASS_SHAMAN	Shaman	
-GLOBAL_CLASS_WARLOCK	Warlock	
-GLOBAL_CLASS_WARRIOR	Warrior	
+GLOBAL_CARD_SET_DMF	Madness at the Darkmoon Faire
+GLOBAL_CARD_SET_DMF_SHORT	Darkmoon
+GLOBAL_CARD_SET_DMF_SEARCHABLE_SHORTHAND_NAMES	dmf	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LETL		Lettuce
+GLOBAL_CARD_SET_LETL_SHORT	Lettuce
+GLOBAL_CARD_SET_LETL_SEARCHABLE_SHORTHAND_NAMES	let	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BAR	Forged in the Barrens
+GLOBAL_CARD_SET_BAR_SHORT	Barrens
+GLOBAL_CARD_SET_BAR_SEARCHABLE_SHORTHAND_NAMES	bar fitb fb	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LEGACY	Legacy
+GLOBAL_CARD_SET_LEGACY_SHORT	Legacy
+GLOBAL_CARD_SET_LEGACY_SEARCHABLE_SHORTHAND_NAMES	lgcy	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CORE	Core
+GLOBAL_CARD_SET_CORE_SHORT	Core
+GLOBAL_CARD_SET_CORE_SEARCHABLE_SHORTHAND_NAMES	core	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VANILLA	Classic
+GLOBAL_CARD_SET_VANILLA_SHORT	Classic
+GLOBAL_CARD_SET_VANILLA_FORMAT_SHORT	Classic
+GLOBAL_CARD_SET_CORE_HIDDEN	Core (Invalid)
+GLOBAL_CARD_SET_VANILLA_FORMAT_SEARCHABLE_SHORTHAND_NAMES	clfmt	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_SW	United in Stormwind
+GLOBAL_CARD_SET_SW_SHORT	Stormwind
+GLOBAL_CARD_SET_SW_SEARCHABLE_SHORTHAND_NAMES	sw	uis	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CANCEL_MODULE_POPUP_PROMPT	Cancel downloading {0}?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_CARD_SET_AV	Fractured in Alterac Valley
+GLOBAL_CARD_SET_AV_SHORT	Alterac Valley
+GLOBAL_CARD_SET_AV_SEARCHABLE_SHORTHAND_NAMES	av fiav fav	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TSC	Voyage to the Sunken City
+GLOBAL_CARD_SET_TSC_SHORT	Sunken City
+GLOBAL_CARD_SET_TSC_SEARCHABLE_SHORTHAND_NAMES	tsc vttsc vtsc sc	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_REV	Murder at Castle Nathria
+GLOBAL_CARD_SET_REV_SHORT	Castle Nathria
+GLOBAL_CARD_SET_REV_SEARCHABLE_SHORTHAND_NAMES	mcn cn rev	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_RLK	March of the Lich King
+GLOBAL_CARD_SET_RLK_SHORT	Lich King
+GLOBAL_CARD_SET_RLK_SEARCHABLE_SHORTHAND_NAMES	mlk	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PA	Path of Arthas
+GLOBAL_CARD_SET_PA_SHORT	Path of Arthas
+GLOBAL_CARD_SET_PA_SEARCHABLE_SHORTHAND_NAMES	pa	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_ETC	Festival of Legends
+GLOBAL_CARD_SET_ETC_SHORT	Festival
+GLOBAL_CARD_SET_ETC_SEARCHABLE_SHORTHAND_NAMES	fol	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TTN	TITANS
+GLOBAL_CARD_SET_TTN_SHORT	Titans
+GLOBAL_CARD_SET_TTN_SEARCHABLE_SHORTHAND_NAMES	titans	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WON	Caverns of Time
+GLOBAL_CARD_SET_WON_SHORT	Caverns
+GLOBAL_CARD_SET_WON_SEARCHABLE_SHORTHAND_NAMES	caverns cot	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WST	Showdown in the Badlands
+GLOBAL_CARD_SET_WST_SHORT	Badlands
+GLOBAL_CARD_SET_WST_SEARCHABLE_SHORTHAND_NAMES	badlands	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TOY	Whizbang's Workshop
+GLOBAL_CARD_SET_TOY_SHORT	Whizbang's Workshop
+GLOBAL_CARD_SET_TOY_SEARCHABLE_SHORTHAND_NAMES	toy	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TUT	Tutorial
+GLOBAL_CARD_SET_TUT_SHORT	Tutorial
+GLOBAL_CARD_SET_TUT_SEARCHABLE_SHORTHAND_NAMES	tut	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EVE	Event
+GLOBAL_CARD_SET_EVE_SHORT	Event
+GLOBAL_CARD_SET_EVE_SEARCHABLE_SHORTHAND_NAMES	eve	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VAC	Perils in Paradise
+GLOBAL_CARD_SET_VAC_SHORT	Paradise
+GLOBAL_CARD_SET_VAC_SEARCHABLE_SHORTHAND_NAMES	vac	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_GDB	The Great Dark Beyond
+GLOBAL_CARD_SET_GDB_SHORT	Dark Beyond
+GLOBAL_CARD_SET_GDB_SEARCHABLE_SHORTHAND_NAMES	gdb	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EDR	Into the Emerald Dream
+GLOBAL_CARD_SET_EDR_SHORT	Emerald Dream
+GLOBAL_CARD_SET_EDR_SEARCHABLE_SHORTHAND_NAMES	edr	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TLC	The Lost City of Un'Goro
+GLOBAL_CARD_SET_TLC_SHORT	Lost City
+GLOBAL_CARD_SET_TLC_SEARCHABLE_SHORTHAND_NAMES	tlc	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PET	Pet
+GLOBAL_CARD_SET_PET_SHORT	Pet
+GLOBAL_CARD_SET_PET_SEARCHABLE_SHORTHAND_NAMES	pet	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TIME	Across the Timeways
+GLOBAL_CARD_SET_TIME_SHORT	Timeways
+GLOBAL_CARD_SET_TIME_SEARCHABLE_SHORTHAND_NAMES	time	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CATA	CATACLYSM
+GLOBAL_CARD_SET_CATA_SHORT	Cataclysm
+GLOBAL_CARD_SET_CATA_SEARCHABLE_SHORTHAND_NAMES	cata	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_JAIL	Escape from Violet Hold
+GLOBAL_CARD_SET_JAIL_SHORT	Violet Hold
+GLOBAL_CARD_SET_JAIL_SEARCHABLE_SHORTHAND_NAMES	evh esc	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BE	Reign of the Black Empire
+GLOBAL_CARD_SET_BE_SHORT	Black Empire
+GLOBAL_CARD_SET_BE_SEARCHABLE_SHORTHAND_NAMES	evh esc	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_MINI_SET_DMF	Darkmoon Races
+GLOBAL_MINI_SET_BAR	Wailing Caverns
+GLOBAL_MINI_SET_SW	Deadmines
+GLOBAL_MINI_SET_ONY	Onyxia's Lair
+GLOBAL_MINI_SET_REV	Maw and Disorder
+GLOBAL_MINI_SET_RLK	Return to Naxxramas
+GLOBAL_CARDTYPE_ENCHANTMENT	Enchantment
+GLOBAL_CARDTYPE_HERO	Hero
+GLOBAL_CARDTYPE_HEROPOWER	HeroPower
+GLOBAL_CARDTYPE_LOCATION	Location
+GLOBAL_CARDTYPE_ITEM	Item
+GLOBAL_CARDTYPE_MINION	Minion
+GLOBAL_CARDTYPE_SPELL	Spell
+GLOBAL_CARDTYPE_TOKEN	Token
+GLOBAL_CARDTYPE_WEAPON	Weapon
+GLOBAL_CARDTYPE_BACONHEROBUDDY	Hero Buddy
+GLOBAL_CARDTYPE_BACONQUESTREWARD	Reward
+GLOBAL_CARDTYPE_ANOMALY	Anomaly
+GLOBAL_CARDTYPE_TRINKET	Trinket
+GLOBAL_CLASS_DEATHKNIGHT	Death Knight
+GLOBAL_CLASS_DRUID	Druid
+GLOBAL_CLASS_HUNTER	Hunter
+GLOBAL_CLASS_MAGE	Mage
+GLOBAL_CLASS_NEUTRAL	Neutral
+GLOBAL_CLASS_PALADIN	Paladin
+GLOBAL_CLASS_PRIEST	Priest
+GLOBAL_CLASS_ROGUE	Rogue
+GLOBAL_CLASS_SHAMAN	Shaman
+GLOBAL_CLASS_WARLOCK	Warlock
+GLOBAL_CLASS_WARRIOR	Warrior
 GLOBAL_CLASS_DEMONHUNTER	Demon Hunter
+GLOBAL_DEATHKNIGHT_RUNE_BLOOD	Death Knight: Blood
+GLOBAL_DEATHKNIGHT_RUNE_FROST	Death Knight: Frost
+GLOBAL_DEATHKNIGHT_RUNE_UNHOLY	Death Knight: Unholy
+GLOBAL_DEATHKNIGHT_RUNE_LOCKED	Show All Runes
+GLOBAL_RUNE_REQUIREMENT_POPUP_TEXT	Rune requirements can be found here.
+GLOBAL_ROLE_FIGHTER	Fighter
+GLOBAL_ROLE_TANK	Protector
+GLOBAL_ROLE_CASTER	Caster
+GLOBAL_MERCENARY_FACTION_ALLIANCE	Alliance
+GLOBAL_MERCENARY_FACTION_HORDE	Horde
+GLOBAL_MERCENARY_FACTION_EMPIRE	Empire
+GLOBAL_MERCENARY_FACTION_EXPLORER	Explorer
+GLOBAL_MERCENARY_FACTION_LEGION	Legion
+GLOBAL_MERCENARY_FACTION_PIRATE	Pirate
+GLOBAL_MERCENARY_FACTION_SCOURGE	Scourge
 GLOBAL_BASIC_DECK_NAME	{0}	0=class name
-GLOBAL_KEYWORD_BATTLECRY	Battlecry	
-GLOBAL_KEYWORD_BATTLECRY_TEXT	Does something when you play it from your hand.	
-GLOBAL_KEYWORD_CHARGE	Charge	
-GLOBAL_KEYWORD_CHARGE_TEXT	Can attack immediately. 
-GLOBAL_KEYWORD_RUSH	Rush	
+GLOBAL_KEYWORD_BACON_FREEZE	Freeze
+GLOBAL_KEYWORD_BACON_FREEZE_TEXT	Frozen minions stay in the shop next turn.
+GLOBAL_KEYWORD_BACON_STEALTH	Stealth
+GLOBAL_KEYWORD_BACON_STEALTH_TEXT	Can't be attacked until it attacks.
+GLOBAL_KEYWORD_BACON_QUEST	Quest
+GLOBAL_KEYWORD_BACON_QUEST_TEXT	Complete for a Reward.
+GLOBAL_KEYWORD_BACON_REBORN	Reborn
+GLOBAL_KEYWORD_BACON_REBORN_TEXT	Summons a new 1-Health copy the first time it dies.
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION	Putricide's Creation
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT	Cannot be tripled.
+GLOBAL_KEYWORD_BATTLECRY	Battlecry
+GLOBAL_KEYWORD_BATTLECRY_TEXT	Does something when you play it from your hand.
+GLOBAL_KEYWORD_BACON_BUY_BUDDY	Get your Buddy
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT	Win/Tie - Costs (3) less\nLoss - Costs (2) less
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2	Get 2 Buddies
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT	Win/Tie - Costs (3) less\nLoss - Costs (2) less
+GLOBAL_KEYWORD_BACON_CONSUME	Consume
+GLOBAL_KEYWORD_BACON_CONSUME_TEXT	Remove a minion to gain its stats.
+GLOBAL_KEYWORD_BACON_PASS	Pass
+GLOBAL_KEYWORD_BACON_PASS_TEXT	Send to your teammate's hand.
+GLOBAL_KEYWORD_BACON_BUDDY	Buddy
+GLOBAL_KEYWORD_BACON_BUDDY_TEXT	A powerful minion unique to each Hero Power.
+GLOBAL_KEYWORD_BACON_TRINKET	Trinket
+GLOBAL_KEYWORD_BACON_TRINKET_TEXT	A powerful bonus that can be bought on a specific turn.
+GLOBAL_KEYWORD_BACON_DISCOUNTED	Discounted
+GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT	This Trinket costs (1) less than usual.
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS	Bonus Keywords
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT	Taunt, Divine Shield, Reborn, Venomous, Windfury, Stealth
+GLOBAL_KEYWORD_BATTLECRY_TEXT_MERC	Does something when played from your hand or summoned by a Merc.
+GLOBAL_KEYWORD_CHARGE	Charge
+GLOBAL_KEYWORD_CHARGE_TEXT	Can attack immediately.
+GLOBAL_KEYWORD_RUSH	Rush
 GLOBAL_KEYWORD_RUSH_TEXT	Can attack minions immediately.
-GLOBAL_KEYWORD_EVILZUG	Lackey	
+GLOBAL_KEYWORD_RUSH_TEXT_MERC	Attacks immediately after being summoned.
+GLOBAL_KEYWORD_EVILZUG	Lackey
 GLOBAL_KEYWORD_EVILZUG_TEXT	Lackeys are 1-Cost minions with Battlecries.
-GLOBAL_KEYWORD_MODULAR	Magnetic	
-GLOBAL_KEYWORD_MODULAR_TEXT	Play this to the left of a Mech to fuse them together!
-GLOBAL_KEYWORD_OVERKILL	Overkill	
+GLOBAL_KEYWORD_MODULAR	Magnetic
+GLOBAL_KEYWORD_MODULAR_TEXT	Fuses together with a Mech when played to the left of it.
+GLOBAL_KEYWORD_OVERKILL	Overkill
 GLOBAL_KEYWORD_OVERKILL_TEXT	Deal excess damage on your turn for a bonus.
-GLOBAL_KEYWORD_DIVINE_SHIELD	Divine Shield	
-GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	The first time this minion takes damage, ignore it.	
-GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	The first time a Shielded minion takes damage, ignore it.	
-GLOBAL_KEYWORD_ENRAGED	Enrage	
-GLOBAL_KEYWORD_ENRAGED_TEXT	While damaged, this minion has a new power.	
-GLOBAL_KEYWORD_FREEZE	Freeze	
-GLOBAL_KEYWORD_FREEZE_TEXT	Frozen characters lose their next attack.	
-GLOBAL_KEYWORD_FROZEN	Frozen	
-GLOBAL_KEYWORD_FROZEN_TEXT	Misses its next attack.	
-GLOBAL_KEYWORD_IMMUNE	Immune	
-GLOBAL_KEYWORD_IMMUNE_TEXT	Can't be damaged.	
-GLOBAL_KEYWORD_IMMUNE_REF_TEXT	Immune characters can't be damaged.	
-GLOBAL_KEYWORD_SECRET	Secret	
-GLOBAL_KEYWORD_SECRET_TEXT	Hidden until a specific action occurs on your opponent's turn.	
-GLOBAL_KEYWORD_SPELLPOWER	Spell Damage	
+GLOBAL_KEYWORD_DIVINE_SHIELD	Divine Shield
+GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	The first time this takes damage, ignore it.
+GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	The first time a Shielded character takes damage, ignore it.
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP	Enrage
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP_TEXT	While damaged, this minion has a new power.
+GLOBAL_KEYWORD_FREEZE	Freeze
+GLOBAL_KEYWORD_FREEZE_TEXT	Frozen characters lose their next attack.
+GLOBAL_KEYWORD_FREEZE_TEXT_MERC	Frozen characters lose their next ability this turn.
+GLOBAL_KEYWORD_FROZEN	Frozen
+GLOBAL_KEYWORD_FROZEN_TEXT	Misses its next attack.
+GLOBAL_KEYWORD_FROZEN_TEXT_MERC	Loses its next ability.
+GLOBAL_KEYWORD_IMMUNE	Immune
+GLOBAL_KEYWORD_IMMUNE_TEXT	Can't be targeted by enemies or damaged.
+GLOBAL_KEYWORD_IMMUNE_REF_TEXT	Immune characters can't be targeted by enemies or damaged.
+GLOBAL_KEYWORD_SECRET	Secret
+GLOBAL_KEYWORD_SECRET_TEXT	Hidden until a specific action occurs on your opponent's turn.
+GLOBAL_KEYWORD_SPELLPOWER	Spell Damage
 GLOBAL_KEYWORD_SPELLPOWER_TEXT	Your spell cards deal {0} extra damage.	0=amount of spell damage
 GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT	Your spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE	Arcane Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT	Your Arcane spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT	Your Arcane spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_MERC	Arcane Damage
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT_MERC	Your character's Arcane abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT_MERC	Your character's Arcane abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FIRE	Fire Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT	Your Fire spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT	Your Fire spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_MERC	Fire Damage
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT_MERC	Your character's Fire abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT_MERC	Your character's Fire abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FROST	Frost Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT	Your Frost spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT	Your Frost spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_FROST_MERC	Frost Damage
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT_MERC	Your character's Frost abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT_MERC	Your character's Frost abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_NATURE	Nature Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT	Your Nature spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT	Your Nature spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_MERC	Nature Damage
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT_MERC	Your character's Nature abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT_MERC	Your character's Nature abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_HOLY	Holy Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT	Your Holy spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT	Your Holy spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_MERC	Holy Damage
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT_MERC	Your character's Holy abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT_MERC	Your character's Holy abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW	Shadow Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT	Your Shadow spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT	Your Shadow spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_MERC	Shadow Damage
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT_MERC	Your character's Shadow abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT_MERC	Your character's Shadow abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FEL	Fel Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT	Your Fel spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT	Your Fel spells deal extra damage.
+GLOBAL_KEYWORD_SPELLPOWER_FEL_MERC	Fel Damage
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT_MERC	Your character's Fel abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT_MERC	Your character's Fel abilities deal more damage.
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL	Physical Spell Damage
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_TEXT	Your Physical spell cards deal {0} extra damage.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_REF_TEXT	Your Physical spells deal extra damage.
 GLOBAL_KEYWORD_STEALTH	Stealth
 GLOBAL_KEYWORD_STEALTH_TEXT	Can't be attacked or targeted until it attacks.
+GLOBAL_KEYWORD_STEALTH_TEXT_MERC	Can't be attacked or targeted until it uses an ability.
 GLOBAL_KEYWORD_STEALTH_REF_TEXT	Can't be attacked or targeted until it attacks.
+GLOBAL_KEYWORD_STEALTH_REF_TEXT_MERC	Can't be attacked or targeted until it uses an ability.
 GLOBAL_KEYWORD_TAUNT	Taunt
 GLOBAL_KEYWORD_TAUNT_TEXT	Enemies must attack this minion.
 GLOBAL_KEYWORD_TAUNT_REF_TEXT	Enemies must attack minions that have Taunt.
+GLOBAL_KEYWORD_TAUNT_REF_TEXT_Merc	Enemies must attack characters that have Taunt.
 GLOBAL_KEYWORD_WINDFURY	Windfury
 GLOBAL_KEYWORD_WINDFURY_TEXT	Can attack twice each turn.
+GLOBAL_KEYWORD_WINDFURY_TEXT_MERC	Attacks twice whenever it Attacks.
 GLOBAL_KEYWORD_DEATHRATTLE	Deathrattle
 GLOBAL_KEYWORD_DEATHRATTLE_TEXT	Does something when it dies.
 GLOBAL_KEYWORD_COMBO	Combo
 GLOBAL_KEYWORD_COMBO_TEXT	A bonus if you already played a card this turn.
+GLOBAL_KEYWORD_COMBO_MERC	Combo
+GLOBAL_KEYWORD_COMBO_TEXT_MERC	A bonus if your party already played an ability this turn.
 GLOBAL_KEYWORD_OVERLOAD	Overload: X
 GLOBAL_KEYWORD_OVERLOAD_TEXT	You have X less mana next turn.
 GLOBAL_KEYWORD_OVERLOAD_REF_TEXT	Cards with Overload limit your mana next turn.
 GLOBAL_KEYWORD_SILENCE	Silence
 GLOBAL_KEYWORD_SILENCE_TEXT	Removes all card text and enchantments.
+GLOBAL_KEYWORD_SILENCE_MERC	Silence
+GLOBAL_KEYWORD_SILENCE_MERC_TEXT	Removes all card text, equipment, treasure, and enchantments.
 GLOBAL_KEYWORD_COUNTER	Counter
 GLOBAL_KEYWORD_COUNTER_TEXT	A card that is Countered has no effect.
 GLOBAL_KEYWORD_AUTOCAST	Auto-cast
@@ -164,11 +414,17 @@ GLOBAL_KEYWORD_JADE_GOLEM	Jade Golem
 GLOBAL_KEYWORD_JADE_GOLEM_TEXT	Each Jade Golem is +1/+1 bigger than the last.
 GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT	Your first Jade Golem is 1/1. Each future one has +1/+1.
 GLOBAL_KEYWORD_GRIMY_GOONS	Grimy Goons
-GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT	You can put this in Hunter, Paladin or Warrior decks.
+GLOBAL_KEYWORD_GRIMY_GOONS_TEXT	This card is a member of the Grimy Goons faction.
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI	Grimy Goons (Multi)
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI_TEXT	This card is a member of the Grimy Goons faction and can be used in {0} classes.
 GLOBAL_KEYWORD_JADE_LOTUS	Jade Lotus
-GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT	You can put this in Druid, Rogue or Shaman decks.
+GLOBAL_KEYWORD_JADE_LOTUS_TEXT	This card is a member of the Jade Lotus faction.
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI	Jade Lotus (Multi)
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI_TEXT	This card is a member of the Jade Lotus faction and can be used in {0} classes.
 GLOBAL_KEYWORD_KABAL	Kabal
-GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT	You can put this in Priest, Mage or Warlock decks.
+GLOBAL_KEYWORD_KABAL_TEXT	This card is a member of the Kabal faction.
+GLOBAL_KEYWORD_KABAL_MULTI	Kabal (Multi)
+GLOBAL_KEYWORD_KABAL_MULTI_TEXT	This card is a member of the Kabal faction and can be used in {0} classes.
 GLOBAL_KEYWORD_GALAKROND	Galakrond
 GLOBAL_KEYWORD_GALAKROND_COLLECTION_TEXT	You can put this in Priest, Rogue, Shaman, Warlock or Warrior decks.
 GLOBAL_KEYWORD_QUEST	Quest
@@ -187,6 +443,9 @@ GLOBAL_KEYWORD_SHIFTING_MINION_TEXT	Transforms into a new minion at the start of
 GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT	Transforms into a new weapon at the start of your turn.
 GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT	Transforms into a new spell at the start of your turn.
 GLOBAL_KEYWORD_SHIFTING_TEXT	Transforms into a new card at the start of your turn.
+GLOBAL_KEYWORD_SHIFTING_ADDS_STEALTH_TEXT	Adds <b>Stealth</b>.
+GLOBAL_KEYWORD_SHIFTING_ADDS_SPELL_DAMAGE_TEXT	Adds <b>Spell Damage +1</b>.
+GLOBAL_KEYWORD_SHIFTING_ADDS_POISONOUS_TEXT	Adds <b>Poisonous</b>.
 GLOBAL_KEYWORD_LIFESTEAL	Lifesteal
 GLOBAL_KEYWORD_LIFESTEAL_TEXT	Damage dealt also heals your hero.
 GLOBAL_KEYWORD_RECRUIT	Recruit
@@ -229,84 +488,197 @@ GLOBAL_KEYWORD_START_OF_COMBAT	Start of Combat
 GLOBAL_KEYWORD_START_OF_COMBAT_TEXT	Does something at the start of the Combat Phase.
 GLOBAL_KEYWORD_OUTCAST	Outcast
 GLOBAL_KEYWORD_OUTCAST_TEXT	A bonus if played as the left- or right-most card in hand.
-GLOBAL_KEYWORD_DORMANT	Dormant	
-GLOBAL_KEYWORD_DORMANT_TEXT	Untouchable for both players.	
-GLOBAL_ATTACK	Attack	
-GLOBAL_COST	Cost	
-GLOBAL_HEALTH	Health	
-GLOBAL_KEYWORD_HALL_OF_FAME	Hall of Fame	
-GLOBAL_KEYWORD_HALL_OF_FAME_TEXT	Cards put into a special set no longer allowed in Standard.	
-GLOBAL_KEYWORD_WILD	Wild	
-GLOBAL_KEYWORD_WILD_TEXT	Wild cards are cards from Hearthstone's past no longer allowed in Standard.	
+GLOBAL_KEYWORD_DORMANT	Dormant
+GLOBAL_KEYWORD_DORMANT_TEXT	Untouchable for both players.
+GLOBAL_KEYWORD_SPELLBURST	Spellburst
+GLOBAL_KEYWORD_SPELLBURST_TEXT	A one-time effect after you cast a spell.
+GLOBAL_KEYWORD_CORRUPT	Corrupt
+GLOBAL_KEYWORD_CORRUPT_TEXT	Upgrades in hand after you play a card that costs more.
+GLOBAL_KEYWORD_CORRUPTEDCARD	Corrupted
+GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT	Upgraded by a higher-Cost card.
+GLOBAL_KEYWORD_FRENZY	Frenzy
+GLOBAL_KEYWORD_FRENZY_TEXT	A one-time effect after this survives damage.
+GLOBAL_KEYWORD_BLOOD_GEM	Blood Gem
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT	A spell that gives a minion {0}.
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT_ADDITIONAL	\nYours give {0}.
+GLOBAL_KEYWORD_YAMATO_CANNON	Yamato Cannon
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT	<b>Start of Combat:</b> Deal {0} damage to the highest-Health enemy minion.
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT_ALT	<b>Start of Combat:</b> Deal {0} damage to the highest-Health enemy minion, twice.
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS	Advanced Ballistics
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS_TEXT	Whenever this attacks, give your other minions +{0} Attack.
+GLOBAL_KEYWORD_CADUCEUS_REACTOR	Caduceus Reactor
+GLOBAL_KEYWORD_CADUCEUS_REACTOR_TEXT	<b>Deathrattle:</b> Give your left-most minion +{0}/+{0}.
+GLOBAL_KEYWORD_REFRESH	Refresh
+GLOBAL_KEYWORD_REFRESH_TEXT	Replace the Tavern with new cards.
+GLOBAL_KEYWORD_AVENGE	Avenge (X)
+GLOBAL_KEYWORD_AVENGE_TEXT	Does something after X friendly minions die in combat.
+GLOBAL_KEYWORD_SPELLCRAFT	Spellcraft
+GLOBAL_KEYWORD_SPELLCRAFT_TEXT	Get a temporary spell every turn.
+GLOBAL_KEYWORD_TOOL	Tool
+GLOBAL_KEYWORD_TOOL_TEXT	An item with an active ability.
+GLOBAL_KEYWORD_QUESTLINE	Questline
+GLOBAL_KEYWORD_QUESTLINE_TEXT	Starts in your hand. Complete for a reward, up to 3 times!
+GLOBAL_KEYWORD_TRADE	Tradeable
+GLOBAL_KEYWORD_TRADE_TEXT	Drag this into your deck to spend 1 Mana and draw a new card.
+GLOBAL_KEYWORD_HONORABLEKILL	Honorable Kill
+GLOBAL_KEYWORD_HONORABLEKILL_TEXT	Deal exact lethal damage on your turn for a bonus.
+GLOBAL_KEYWORD_COLOSSAL	Colossal +X
+GLOBAL_KEYWORD_COLOSSAL_TEXT	When summoned, spawns X additional appendages.
+GLOBAL_KEYWORD_DREDGE	Dredge
+GLOBAL_KEYWORD_DREDGE_TEXT	Look at the bottom 3 cards of your deck.\nPut one on top.
+GLOBAL_KEYWORD_INFUSE	Infuse
+GLOBAL_KEYWORD_INFUSE_TEXT	Upgrades in hand after X friendly minions die.
+GLOBAL_KEYWORD_CORPSE	Corpse
+GLOBAL_KEYWORD_CORPSE_TEXT	Resource gained when a friendly minion dies.
+GLOBAL_KEYWORD_INFUSED	Infused
+GLOBAL_KEYWORD_INFUSED_TEXT	Upgraded in hand after X friendly minions died.
+GLOBAL_KEYWORD_MANATHIRST	Manathirst (X)
+GLOBAL_KEYWORD_MANATHIRST_TEXT	A bonus if you have X Mana Crystals.
+GLOBAL_KEYWORD_FINALE	Finale
+GLOBAL_KEYWORD_FINALE_TEXT	A bonus if this spends all your remaining Mana.
+GLOBAL_KEYWORD_OVERHEAL	Overheal
+GLOBAL_KEYWORD_OVERHEAL_TEXT	A bonus if restored past full Health.
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS	[WIP] Cannot be discovered.
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS_TEXT	[WIP] Cannot be discovered.
+GLOBAL_KEYWORD_BONUSEFFECTS	Bonus Effects
+GLOBAL_KEYWORD_BONUSEFFECTS_TEXT	Divine Shield, Lifesteal, Poisonous, Reborn, Rush, Elusive, Taunt, Windfury
+GLOBAL_KEYWORD_VENOMOUS	Venomous
+GLOBAL_KEYWORD_VENOMOUS_TEXT	Destroy the first minion this deals damage to each combat.
+GLOBAL_ATTACK	Attack
+GLOBAL_COST	Cost
+GLOBAL_HEALTH	Health
+GLOBAL_KEYWORD_WILD	Wild
+GLOBAL_KEYWORD_WILD_TEXT	Wild cards are cards from Hearthstone's past no longer allowed in Standard.
+GLOBAL_KEYWORD_FORGE	Forge
+GLOBAL_KEYWORD_FORGE_TEXT	Drag this to your deck to spend (2) Mana for an upgrade.
+GLOBAL_KEYWORD_FORGED	Forged
+GLOBAL_KEYWORD_FORGED_TEXT	Upgraded after dragging this to your deck and spending (2) Mana.
+GLOBAL_KEYWORD_TITAN	Titan
+GLOBAL_KEYWORD_TITAN_TEXT	Click on a Titan to use\n1 of 3 abilities instead\nof attacking.
+GLOBAL_KEYWORD_ROGUE_TOURIST	Rogue Tourist
+GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT	Your deck may include Rogue cards from Perils in Paradise.
+GLOBAL_KEYWORD_WARLOCK_TOURIST	Warlock Tourist
+GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT	Your deck may include Warlock cards from Perils in Paradise.
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST	Death Knight Tourist
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT	Your deck may include Death Knight cards from Perils in Paradise.
+GLOBAL_KEYWORD_SHAMAN_TOURIST	Shaman Tourist
+GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT	Your deck may include Shaman cards from Perils in Paradise.
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST	Demon Hunter Tourist
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT	Your deck may include Demon Hunter cards from Perils in Paradise.
+GLOBAL_KEYWORD_PRIEST_TOURIST	Priest Tourist
+GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT	Your deck may include Priest cards from Perils in Paradise.
+GLOBAL_KEYWORD_HUNTER_TOURIST	Hunter Tourist
+GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT	Your deck may include Hunter cards from Perils in Paradise.
+GLOBAL_KEYWORD_WARRIOR_TOURIST	Warrior Tourist
+GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT	Your deck may include Warrior cards from Perils in Paradise.
+GLOBAL_KEYWORD_DRUID_TOURIST	Druid Tourist
+GLOBAL_KEYWORD_DRUID_TOURIST_TEXT	Your deck may include Druid cards from Perils in Paradise.
+GLOBAL_KEYWORD_MAGE_TOURIST	Mage Tourist
+GLOBAL_KEYWORD_MAGE_TOURIST_TEXT	Your deck may include Mage cards from Perils in Paradise.
+GLOBAL_KEYWORD_PALADIN_TOURIST	Paladin Tourist
+GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT	Your deck may include Paladin cards from Perils in Paradise.
+GLOBAL_KEYWORD_TEMPORARY	Temporary
+GLOBAL_KEYWORD_TEMPORARY_TEXT	Discarded at the end of your turn.
+GLOBAL_KEYWORD_EXCAVATE_GAMEPLAY	Dig for increasingly rarer treasures. Resets after {0}.\nNext: {1}
+GLOBAL_KEYWORD_EXCAVATE_COMMON	Common
+GLOBAL_KEYWORD_EXCAVATE_RARE	Rare
+GLOBAL_KEYWORD_EXCAVATE_EPIC	Epic
+GLOBAL_KEYWORD_EXCAVATE_LEGENDARY	<b>Legendary</b>
+GLOBAL_TIERS	Tiers
+GLOBAL_TIER_ANY	Any
+GLOBAL_MINION_TYPES	Types
 GLOBAL_RACE_ALL	All
-GLOBAL_RACE_BLOODELF	Blood Elf	
-GLOBAL_RACE_DEMON	Demon	
-GLOBAL_RACE_DRAENEI	Fire	
-GLOBAL_RACE_DRAGON	Dragon	
-GLOBAL_RACE_DWARF	Dwarf	
-GLOBAL_RACE_ELEMENTAL	Elemental	
-GLOBAL_RACE_GNOME	Gnome	
-GLOBAL_RACE_GOBLIN	Goblin	
-GLOBAL_RACE_HUMAN	Human	
-GLOBAL_RACE_MECHANICAL	Mech	
-GLOBAL_RACE_MURLOC	Murloc	
-GLOBAL_RACE_NERUBIAN	Nerubian	
-GLOBAL_RACE_NIGHTELF	Night Elf	
-GLOBAL_RACE_OGRE	Ogre	
-GLOBAL_RACE_ORC	Orc	
-GLOBAL_RACE_PET	Beast	
-GLOBAL_RACE_PIRATE	Pirate	
-GLOBAL_RACE_SCOURGE	Scourge	
-GLOBAL_RACE_TAUREN	Tauren	
+GLOBAL_RACE_BLOODELF	Blood Elf
+GLOBAL_RACE_DEMON	Demon
+GLOBAL_RACE_DRAENEI	Draenei
+GLOBAL_RACE_DRAGON	Dragon
+GLOBAL_RACE_DWARF	Dwarf
+GLOBAL_RACE_ELEMENTAL	Elemental
+GLOBAL_RACE_GNOME	Gnome
+GLOBAL_RACE_GOBLIN	Goblin
+GLOBAL_RACE_HUMAN	Human
+GLOBAL_RACE_MECHANICAL	Mech
+GLOBAL_RACE_MURLOC	Murloc
+GLOBAL_RACE_NERUBIAN	Nerubian
+GLOBAL_RACE_NIGHTELF	Night Elf
+GLOBAL_RACE_OGRE	Ogre
+GLOBAL_RACE_ORC	Orc
+GLOBAL_RACE_PET	Beast
+GLOBAL_RACE_PIRATE	Pirate
+GLOBAL_RACE_SCOURGE	Scourge
+GLOBAL_RACE_TAUREN	Tauren
 GLOBAL_RACE_TOTEM	Totem
 GLOBAL_RACE_TROLL	Troll
 GLOBAL_RACE_UNDEAD	Undead
 GLOBAL_RACE_WORGEN	Worgen
 GLOBAL_RACE_EGG	Egg
+GLOBAL_RACE_QUILBOAR	Quilboar
+GLOBAL_RACE_CENTAUR	Centaur
+GLOBAL_RACE_FURBOLG	Furbolg
+GLOBAL_RACE_HIGHELF	High Elf
+GLOBAL_RACE_TREANT	Treant
+GLOBAL_RACE_OWLKIN	Owlkin
+GLOBAL_RACE_HALFORC	Half-Orc
+GLOBAL_RACE_NAGA	Naga
+GLOBAL_RACE_OLDGOD	Old God
+GLOBAL_RACE_PANDAREN	Pandaren
+GLOBAL_RACE_GRONN	Gronn
+GLOBAL_RACE_CELESTIAL	Celestial
+GLOBAL_RACE_GNOLL	Gnoll
+GLOBAL_RACE_GOLEM	Golem
+GLOBAL_RACE_HARPY	Harpy
+GLOBAL_RACE_VULPERA	Vulpera
+GLOBAL_RACE_ABERRATION	Aberration
 GLOBAL_RACE_ALL_BATTLEGROUNDS	Amalgams	This should be the plural of DAL_087t
-GLOBAL_RACE_BLOODELF_BATTLEGROUNDS	Blood Elves	
-GLOBAL_RACE_DEMON_BATTLEGROUNDS	Demons	
-GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Fire	
-GLOBAL_RACE_DRAGON_BATTLEGROUNDS	Dragons	
-GLOBAL_RACE_DWARF_BATTLEGROUNDS	Dwarves	
-GLOBAL_RACE_ELEMENTAL_BATTLEGROUNDS	Elementals	
-GLOBAL_RACE_GNOME_BATTLEGROUNDS	Gnomes	
-GLOBAL_RACE_GOBLIN_BATTLEGROUNDS	Goblins	
-GLOBAL_RACE_HUMAN_BATTLEGROUNDS	Humans	
-GLOBAL_RACE_MECHANICAL_BATTLEGROUNDS	Mechs	
-GLOBAL_RACE_MURLOC_BATTLEGROUNDS	Murlocs	
-GLOBAL_RACE_NERUBIAN_BATTLEGROUNDS	Nerubians	
-GLOBAL_RACE_NIGHTELF_BATTLEGROUNDS	Night Elves	
-GLOBAL_RACE_OGRE_BATTLEGROUNDS	Ogres	
-GLOBAL_RACE_ORC_BATTLEGROUNDS	Orcs	
-GLOBAL_RACE_PET_BATTLEGROUNDS	Beasts	
-GLOBAL_RACE_PIRATE_BATTLEGROUNDS	Pirates	
-GLOBAL_RACE_SCOURGE_BATTLEGROUNDS	Scourge	
-GLOBAL_RACE_TAUREN_BATTLEGROUNDS	Tauren	
+GLOBAL_RACE_BLOODELF_BATTLEGROUNDS	Blood Elves
+GLOBAL_RACE_DEMON_BATTLEGROUNDS	Demons
+GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Draenei
+GLOBAL_RACE_DRAGON_BATTLEGROUNDS	Dragons
+GLOBAL_RACE_DWARF_BATTLEGROUNDS	Dwarves
+GLOBAL_RACE_ELEMENTAL_BATTLEGROUNDS	Elementals
+GLOBAL_RACE_GNOME_BATTLEGROUNDS	Gnomes
+GLOBAL_RACE_GOBLIN_BATTLEGROUNDS	Goblins
+GLOBAL_RACE_HUMAN_BATTLEGROUNDS	Humans
+GLOBAL_RACE_MECHANICAL_BATTLEGROUNDS	Mechs
+GLOBAL_RACE_MURLOC_BATTLEGROUNDS	Murlocs
+GLOBAL_RACE_NERUBIAN_BATTLEGROUNDS	Nerubians
+GLOBAL_RACE_NIGHTELF_BATTLEGROUNDS	Night Elves
+GLOBAL_RACE_NAGA_BATTLEGROUNDS	Naga
+GLOBAL_RACE_OGRE_BATTLEGROUNDS	Ogres
+GLOBAL_RACE_ORC_BATTLEGROUNDS	Orcs
+GLOBAL_RACE_PET_BATTLEGROUNDS	Beasts
+GLOBAL_RACE_PIRATE_BATTLEGROUNDS	Pirates
+GLOBAL_RACE_SCOURGE_BATTLEGROUNDS	Scourge
+GLOBAL_RACE_TAUREN_BATTLEGROUNDS	Tauren
 GLOBAL_RACE_TOTEM_BATTLEGROUNDS	Totems
 GLOBAL_RACE_TROLL_BATTLEGROUNDS	Trolls
 GLOBAL_RACE_UNDEAD_BATTLEGROUNDS	Undead
 GLOBAL_RACE_WORGEN_BATTLEGROUNDS	Worgen
 GLOBAL_RACE_EGG_BATTLEGROUNDS	Eggs
+GLOBAL_RACE_QUILBOARS_BATTLEGROUNDS	Quilboar
+GLOBAL_RACE_ABERRATION_BATTLEGROUNDS	Aberrations
 GLOBAL_RACE_MIXED_BATTLEGROUNDS	Mixed Minions
+GLOBAL_RACE_LOCK	Lock
+GLOBAL_RACE_MULTILINE_DELIMITER	{0} / {1}
 GLOBAL_RARITY_COMMON	Common
 GLOBAL_RARITY_EPIC	Epic
 GLOBAL_RARITY_LEGENDARY	Legendary
 GLOBAL_RARITY_RARE	Rare
 GLOBAL_RARITY_FREE	Free
 GLOBAL_SET_EXPERT1	Classic Set
-GLOBAL_SET_CORE	Basic Set
+GLOBAL_SET_BASIC	Basic Set
 GLOBAL_WINS	Wins
 GLOBAL_LOSSES	Losses
 GLOBAL_MY_NUM_WINS	{0}	0=number of games this player has won
 GLOBAL_HERO_WINS	Wins: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
-GLOBAL_HERO_WINS_PHONE	Wins\n{0}/{1}	0=number of games this class has won 1=number of wins to get golden
+GLOBAL_HERO_WINS_PHONE	Wins: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
 GLOBAL_HERO_WINS_PAST_MAX	Wins: {0}	0=number of games this class has won
-GLOBAL_HERO_WINS_PAST_MAX_PHONE	Wins\n{0}	0=number of games this class has won
+GLOBAL_HERO_WINS_PAST_MAX_PHONE	Wins: {0}	0=number of games this class has won
 GLOBAL_PLAY	Play
 GLOBAL_PLAY_RANKED	Play Ranked
 GLOBAL_PLAY_STANDARD	Play Standard
 GLOBAL_PLAY_WILD	Play Wild
+GLOBAL_PLAY_WAITING	Waiting
 GLOBAL_STANDARD	Standard
 GLOBAL_WILD	Wild
 GLOBAL_BACK	Back
@@ -314,6 +686,8 @@ GLOBAL_DONE	Done
 GLOBAL_CANCEL	Cancel
 GLOBAL_HELP	Help
 GLOBAL_EXIT	Exit
+GLOBAL_EXIT_CONFIRM_TITLE	Exit Game
+GLOBAL_EXIT_CONFIRM_MESSAGE	Are you sure you want to exit the game?
 GLOBAL_CONFIRM	Confirm
 GLOBAL_OKAY	OK
 GLOBAL_MORE	More
@@ -355,6 +729,7 @@ GLOBAL_ASSET_DOWNLOAD_CELLULAR_DATA_BODY	Download with cellular data.
 GLOBAL_ASSET_DOWNLOAD_CELLULAR_POPUP_HEADER	Cellular Data
 GLOBAL_ASSET_DOWNLOAD_CELLULAR_POPUP_INITIAL_BODY	Wi-Fi is not available. Do you want to download the remaining {0} of required data over cellular?
 GLOBAL_ASSET_DOWNLOAD_CELLULAR_POPUP_ADDITIONAL_BODY	Wi-Fi is not available. Do you want to download the remaining {0} of additional data over cellular?
+GLOBAL_ASSET_DOWNLOAD_FIRST_DOWNLOAD_BODY	Additional Data Needed - {0}\n\nHearthstone needs to download additional data so you can play the full game.
 GLOBAL_ASSET_DOWNLOAD_IOS_REQ_POPUP_HEADER	Additional Data
 GLOBAL_ASSET_DOWNLOAD_IOS_REQ_POPUP_BODY	Download available. Do you want to download the remaining {0}?
 GLOBAL_ASSET_DOWNLOAD_DETAILS_HIGHRES	High-res textures
@@ -365,11 +740,12 @@ GLOBAL_ASSET_INTENTION_DOWNLOADING_FONTS	Fonts
 GLOBAL_ASSET_INTENTION_DOWNLOADING_HIGH_RES_PORTRAITS	High-res card art
 GLOBAL_ASSET_INTENTION_DOWNLOADING_MINION_PLAY_SOUNDS	Minion sounds
 GLOBAL_ASSET_INTENTION_DOWNLOADING_LEGEND_STINGERS	Additional sound (1/3)
-GLOBAL_ASSET_INTENTION_DOWNLOADING_PREMIUM_ANIMATIONS	Golden animations 
+GLOBAL_ASSET_INTENTION_DOWNLOADING_PREMIUM_ANIMATIONS	Golden animations
 GLOBAL_ASSET_INTENTION_DOWNLOADING_SPELL_SOUNDS	Spell sound
 GLOBAL_ASSET_INTENTION_DOWNLOADING_EXPANSION_MUSIC	Additional sound (2/3)
 GLOBAL_ASSET_INTENTION_DOWNLOADING_OTHER_MINION_SOUNDS	Additional sound (3/3)
 GLOBAL_ASSET_INTENTION_DOWNLOADING_MISSION_SOUNDS	Solo adventure sounds
+GLOBAL_ASSET_INTENTION_DOWNLOADING_HERO_MUSIC	Hero music
 GLOBAL_ASSET_INTENTION_DONE	Done
 GLOBAL_RELAUNCH_APPLICATION_AFTER_INSTALLAPK	Attempting to install new client. Please restart Hearthstone if the client was not installed.
 GLOBAL_CONCEDE	Concede
@@ -378,36 +754,38 @@ GLOBAL_LEAVE_SPECTATOR_MODE	Leave
 GLOBAL_RESUME_GAME	Resume
 GLOBAL_RESTART	Restart
 GLOBAL_GAME_MENU	Game Menu
+GLOBAL_ARENA	Arena
 GLOBAL_TAVERN_BRAWL	Tavern Brawl
 GLOBAL_BATTLEGROUNDS	Battlegrounds
-GLOBAL_FIRESIDE_BRAWL	Fireside Brawl
-GLOBAL_FIRESIDE_GATHERING	Fireside Gathering
-GLOBAL_FIRESIDE_GATHERING_DEFAULT_TAVERN_NAME	Fireside Gathering
-GLOBAL_FIRESIDE_GATHERING_FIRST_TIME_TAVERN_NAME	{0}'s Tavern	0=innkeeper battle tag
-GLOBAL_FIRESIDE_GATHERING_SOCIAL_BUTTON_LARGE_SCALE_LABEL	<size=32>99<size=26>+</size></size>	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in. NOTE: the size tag was used in enUS to shrink the + sign, to make sure 99+ fit into the small button.
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_LARGE_SCALE	{0}+ total players at this fireside.	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in.
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_SOFT_LIMIT	{0} total players at this fireside.	0=The number of patrons up to 99.
-GLOBAL_FIRESIDE_GATHERING_CHOOSE_HEADER	Choose an Option
-GLOBAL_FIRESIDE_GATHERING_REUNPACK	Update Setup
+GLOBAL_MERCENARIES	Mercenaries
+GLOBAL_MERCENARIES_COOP	Mercenaries Co-op
+GLOBAL_FRIEND_PARTY_INVITATION_TITLE	Party
+GLOBAL_FRIEND_PARTY_INVITATION_BODY_DECLINED	{0} declined your invitation.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_TITLE	Friendly
 GLOBAL_FRIEND_CHALLENGE_HEADER	Challenge
+GLOBAL_FRIEND_INVITE_HEADER	Invite
 GLOBAL_FRIEND_CHALLENGE_BODY1	You've been challenged by:
-GLOBAL_FRIEND_CHALLENGE_BODY_BACON	You've been invited to join a\nBattlegrounds game by:
+GLOBAL_FRIEND_CHALLENGE_BODY_BACON	You've been invited to join a\nBattlegrounds party by:
+GLOBAL_FRIEND_CHALLENGE_BODY_BATTLEGROUNDS_SUGGESTION	{0} wants to invite their friend to your Battlegrounds party:	0=suggester name
 GLOBAL_FRIEND_CHALLENGE_BODY1_WILD	You've been challenged to a\nWild game by:
-GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	You've been challenged to a Standard game by:
+GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	You've been challenged to a \nStandard game by:
+GLOBAL_FRIEND_CHALLENGE_BODY1_CLASSIC	You've been challenged to a\nClassic game by:
+GLOBAL_FRIEND_CHALLENGE_BODY1_TWIST	You've been challenged to a\nTwist game by:
 GLOBAL_FRIEND_CHALLENGE_BODY2	Do you accept?
 GLOBAL_FRIEND_CHALLENGE_NEARBY_PLAYER_NOTE	You can turn off invites from nearby players in the Friends list.
 GLOBAL_FRIEND_CHALLENGE_ACCEPT	Accept
 GLOBAL_FRIEND_CHALLENGE_DECLINE	Decline
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_RESPONSE	You are waiting for {0} to respond to your challenge.	0=friend name
+GLOBAL_FRIEND_INVITE_OPPONENT_WAITING_RESPONSE	You are waiting for {0} to respond to your invite.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_DECK	You are waiting for {0} to select a deck.	0=friend name
+GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_TEAM	You are waiting for your opponent to select a team.
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_DECLINED	{0} declined your challenge.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_FRIEND_REMOVED	Challenge canceled because {0} is no longer your friend.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_CANCELED	{0} canceled the challenge.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_QUEUE_CANCELED	The challenge was canceled.
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_HEADER	Tavern Brawl Challenge
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY1	You've been challenged to a Tavern Brawl by:
-GLOBAL_FRIEND_CHALLENGE_FIRESIDE_BRAWL_BODY1	You've been challenged to a Fireside Brawl by:
+GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY2	You've been invited to a Duos Brawl by:
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_RECIPIENT	{0} would like to Brawl with you! Create a Tavern Brawl deck to accept Brawl challenges.
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_SENDER	Your friend doesn't have a Tavern Brawl deck yet. Try again when they do!
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NOT_UNLOCKED_SENDER	Your friend hasn't unlocked Tavern Brawl yet. Try again when they do!
@@ -416,16 +794,16 @@ GLOBAL_DECK_SHARE_REQUEST_WAITING_RESPONSE	Waiting for {0} to respond to your de
 GLOBAL_DECK_SHARE_REQUEST_DECLINED	{0} declined your request to share decks.	0=friend name
 GLOBAL_DECK_SHARE_REQUEST_CANCELED	{0} canceled their request to share decks.	0=friend name
 GLOBAL_DECK_SHARE_REQUESTED	{0} wants to borrow one of your decks.	0=friend name
-GLOBAL_DECK_SHARE_ERROR	An error occurred while trying to share decks.	
-GLOBAL_DECK_SHARE_ACCEPT_REQUEST	Share	
-GLOBAL_DECK_SHARE_DECLINE_REQUEST	No Way!	
-GLOBAL_DECK_SHARE_HEADER	Share Decks?	
+GLOBAL_DECK_SHARE_ERROR	An error occurred while trying to share decks.
+GLOBAL_DECK_SHARE_ACCEPT_REQUEST	Share
+GLOBAL_DECK_SHARE_DECLINE_REQUEST	No Way!
+GLOBAL_DECK_SHARE_HEADER	Share Decks?
 GLOBAL_ERROR	Error
 GLOBAL_ERROR_GENERIC_HEADER	Error
 GLOBAL_ERROR_GAME_DENIED	There was an error starting your game. Please wait a few minutes and try again.
 GLOBAL_ERROR_GAME_OPPONENT_TIMEOUT	The game failed to start because your opponent failed to connect. Please try again.
 GLOBAL_ERROR_STREAMING_ASSET_TIMEOUT	Timed out while waiting for streaming system. Was loading asset {0}.	0=asset name
-GLOBAL_ERROR_ASSET_MANIFEST	Failed to load asset manfiest	
+GLOBAL_ERROR_ASSET_MANIFEST	Failed to load asset manfiest
 GLOBAL_ERROR_ASSET_NO_FILE_PATH	Failed to find a file path for asset {0}.	0=asset name
 GLOBAL_ERROR_ASSET_DOWNLOAD_FAILED	Failed to download asset {0}.	0=asset name
 GLOBAL_ERROR_ASSET_INCORRECT_DATA	Asset {0} contained incorrect data.	0=asset name
@@ -447,24 +825,28 @@ GLOBAL_ERROR_NETWORK_SPAM	You were disconnected from the Blizzard service for se
 GLOBAL_ERROR_NETWORK_NO_GAME_SERVER	Oops! We were unable to start a game for you. Please try again.
 GLOBAL_MOBILE_ERROR_NETWORK_SPAM	You were disconnected for sending too many requests too quickly.
 GLOBAL_MOBILE_ERROR_BREAKING_NEWS	Breaking News:\n\n{0}
+GLOBAL_MOBILE_ERROR_GAMESERVER_CONNECT	We noticed you were unable to join a match while on a mobile connection. Please see this support article for more information.
 GLOBAL_ERROR_NETWORK_DUPLICATE_LOGIN	This Blizzard account just logged into Hearthstone from another device.\n\nThis client was disconnected because only one connection is supported at a time.
 GLOBAL_ERROR_NETWORK_LOST_GAME_CONNECTION	Your game has been disconnected from the Blizzard game service. You can try to reconnect again by starting another game.
 GLOBAL_ERROR_NETWORK_INCORRECT_REGION	Your Blizzard account is not eligible to participate in this region's Hearthstone beta test. Once the Hearthstone beta is available in your home region, please try again!
 GLOBAL_ERROR_NETWORK_ACCOUNT_SUSPENDED	Your account has been suspended.
 GLOBAL_ERROR_NETWORK_ACCOUNT_BANNED	Your account has been banned.
+GLOBAL_ERROR_NETWORK_ACCOUNT_INVALID_NID	Sorry, you can not proceed until you pass the real-name verification. Please refer to https://support.battlenet.com.cn/w/article/101015 for more details.
+GLOBAL_ERROR_NETWORK_ACCOUNT_CURFEW_REACHED	You can't login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more https://support.battlenet.com.cn/w/article/101015
+GLOBAL_ERROR_NETWORK_ACCOUNT_PLAYTIME_EXCEEDED	You can't login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more https://support.battlenet.com.cn/w/article/101015
 GLOBAL_ERROR_NETWORK_ADMIN_KICKED	You have been removed from the Blizzard service. Please relaunch Hearthstone to reconnect.
 GLOBAL_ERROR_NETWORK_RISK_ACCOUNT_LOCKED	We've locked your account! Go to https://battle.net/support and search 7537 to find out what happened!
 GLOBAL_ERROR_NETWORK_PARENTAL_CONTROLS	Access to this account is currently restricted by parental controls.
 GLOBAL_ERROR_NETWORK_PHONE_LOCK	Please call your Blizzard Phone Lock number to allow this login.\nTaiwan: 0800-303-585\nHong Kong: 396-54666
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_UPGRADE	Hearthstone has been updated!  Please download the latest version.
-GLOBAL_ERROR_NETWORK_UNAVAILABLE_NEW_VERSION	Your account is using a newer version of the game. Please wait for the update before playing on this device.
+GLOBAL_ERROR_NETWORK_UNAVAILABLE_NEW_VERSION	Your account was used on a newer version of the game. Please wait for this device to update before playing.
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_OFFLINE	Hearthstone is offline. Please wait a few minutes and try again.
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_UNKNOWN	Oops! Playful sprites have disrupted Hearthstone as it was connecting to our servers. Please wait a few minutes for them to disperse and try again.
 GLOBAL_ERROR_NETWORK_ADVENTURE_RECONNECT_TIMEOUT	Your game has been saved. Relaunch Hearthstone to continue where you left off.
 GLOBAL_ERROR_ACCOUNT_LICENSES	We had some trouble checking what you own, so some things might be missing. Sorry about that! We'll try again next time you log on.
 GLOBAL_ERROR_NO_MAGE_PRECON	We just ran into a network problem as we were loading up all the cards in your collection. Please relaunch Hearthstone to access your collection and resume your duels!
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	Sorry, Hearthstone requires an iPhone 4s or iPod Touch 5 or later.
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	Sorry, Hearthstone requires an iPad 2 or later.
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	Sorry, Hearthstone requires an iPhone 6s or iPod Touch 7 or later.
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	Sorry, Hearthstone requires an iPad 5 or iPad Air 2 or iPad mini 4 or later.
 GLOBAL_MOBILE_ERROR_ANDROID_PHONE_DETECTED	Sorry, Hearthstone currently only runs on Android tablets 6" or larger.
 GLOBAL_SEASON_END_WELCOME	Welcome
 GLOBAL_SEASON_END_NEW_SEASON	The {0} has begun!	0=season name
@@ -485,9 +867,14 @@ GLOBAL_MEDAL_REWARD_CONGRATULATIONS	Congratulations!
 GLOBAL_MEDAL_REWARD_DESCRIPTION	Medal earned last week
 GLOBAL_MEDAL_TOOLTIP_HEADER	{0} Medal	0=medal name
 GLOBAL_MEDAL_TOURNAMENT_TOOLTIP_BODY	Top {0}% in ranked play mode this season	0=rank percentile
-GLOBAL_MEDAL_TOOLTIP_BODY	Win games to advance to the next rank!
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Your best current rank is Standard.
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Your best current rank is Wild.
+GLOBAL_MEDAL_TOOLTIP_BODY_STANDARD	Win Standard games to advance to the next rank!
+GLOBAL_MEDAL_TOOLTIP_BODY_WILD	Win Wild games to advance to the next rank!
+GLOBAL_MEDAL_TOOLTIP_BODY_CLASSIC	Win Classic games to advance to the next rank!
+GLOBAL_MEDAL_TOOLTIP_BODY_TWIST	Win Twist games to advance to the next rank!
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Standard Rank: {0}
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Wild Rank: {0}
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_CLASSIC	Classic Rank: {0}
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_TWIST	Twist Rank: {0}
 GLOBAL_MEDAL_TOOLTIP_BODY_LEGEND	You're a legend! Your position in this rank will change with each game.
 GLOBAL_MEDAL_ARENA_TOOLTIP_BODY	This is the best key you've earned in the Arena.\nWins: {0}	0=num wins
 GLOBAL_MEDAL_TOOLTIP_BODY_ARENA_GRAND_MASTER	You are a champion of The Arena!
@@ -527,6 +914,11 @@ GLOBAL_DATETIME_SPINNER_DAYS	{0} |4(day,days)
 GLOBAL_DATETIME_SPINNER_WEEKS	{0} |4(week,weeks)
 GLOBAL_DATETIME_SPINNER_MONTH	> 1 month
 GLOBAL_DATETIME_GREATER_THAN_X_MINUTES	> {0} |4(min,mins)
+GLOBAL_DATETIME_TIMER_LESS_THAN_X_MINUTES	< {0}m	0=minutes
+GLOBAL_DATETIME_TIMER_MINUTES	{0}m	0=minutes
+GLOBAL_DATETIME_TIMER_SECONDS	{0}s	0=seconds
+GLOBAL_DATETIME_TIMER_HOURS_MINUTES	{0}h {1}m	0=hours 1=minutes
+GLOBAL_DATETIME_TIMER_DAYS_HOURS	{0}d {1}h	0=days 1=hours
 GLOBAL_APPROXIMATE_DATETIME	~{0}	0=time string
 GLOBAL_APPROXIMATE_DATETIME_RANGE	~{0} - {1}	0=min seconds 1=max seconds string
 GLOBAL_REMAINING_DATETIME	{0} left	0=time string
@@ -536,6 +928,7 @@ GLOBAL_DATETIME_COMING_SOON_HOURS	Opens in\n{0} |4(hour,hours)
 GLOBAL_DATETIME_COMING_SOON_DAYS	Opens in\n{0} |4(day,days)
 GLOBAL_DATETIME_COMING_SOON_WEEKS	Opens in\n{0} |4(week,weeks)
 GLOBAL_DATETIME_UNLOCKS_SOON_WEEKS	Unlocks in {0} |4(week,weeks)
+GLOBAL_DATETIME_TRIAL_PERIOD_MONTH	30+ Days
 GLOBAL_GAME_QUEUE_WAIT_TIME	Wait Time
 GLOBAL_GAME_QUEUE_TIME_IN_QUEUE	Time In Queue
 GLOBAL_FRIENDLIST_REQUEST_SENT_TIME	Sent: {0}	0=one of the GLOBAL_DATETIME_ELAPSED_ strings
@@ -543,6 +936,7 @@ GLOBAL_FRIENDLIST_REQUESTS_HEADER	FRIEND REQUESTS - {0}	0=number of received fri
 GLOBAL_FRIENDLIST_CURRENT_GAMES_HEADER	CURRENT GAMES - {0}	0=number of friends you have unfinished games with
 GLOBAL_FRIENDLIST_FRIENDS_HEADER	FRIENDS - {0}/{1} Online	0=number of online friends 1=number of offline friends
 GLOBAL_FRIENDLIST_FRIENDS_HEADER_ALL_ONLINE	FRIENDS - {0} Online
+GLOBAL_FRIENDLIST_RECENT_PLAYERS_HEADER	RECENT - {0}	0=number of players
 GLOBAL_FRIENDLIST_NEARBY_PLAYERS_HEADER	NEARBY - {0}	0=number of players
 GLOBAL_FRIENDLIST_NEARBY_PLAYERS_DISABLED_HEADER	NEARBY (Disabled)
 GLOBAL_FRIENDLIST_ADD_FRIEND_BUTTON	Add
@@ -550,30 +944,68 @@ GLOBAL_FRIENDLIST_REMOVE_FRIEND_BUTTON	Remove
 GLOBAL_FRIENDLIST_REMOVE_FRIEND_ALERT_MESSAGE	Are you sure you want to remove {0}?	0=friend name
 GLOBAL_FRIENDLIST_MYSTATUS	ONLINE
 GLOBAL_FRIENDLIST_BUSYSTATUS	Busy
+GLOBAL_FRIENDLIST_RECENT_OPPONENT_STATUS	Recent opponent
+GLOBAL_FRIENDLIST_RECENT_TEAMMATE_STATUS	Recent teammate
+GLOBAL_FRIENDLIST_FORMER_FRIEND_STATUS	Former friend
+GLOBAL_FRIENDLIST_NEW_FRIEND_STATUS	New friend!
+GLOBAL_FRIENDLIST_RECENT_CHALLENGED_STATUS	Recently challenged
+GLOBAL_FRIENDLIST_RECENT_CHATTED_STATUS	Recently chatted
+GLOBAL_FRIENDLIST_LAST_OPPONENT_STATUS	Last opponent
+GLOBAL_FRIENDLIST_CURRENT_OPPONENT_STATUS	Current opponent!
+GLOBAL_FRIENDLIST_CURRENT_TEAMMATE_STATUS	Current teammate!
+GLOBAL_FRIENDLIST_CURRENTLY_SPECTATING_STATUS	Currently spectating
+GLOBAL_FRIENDLIST_RECENTLY_SPECTATING_STATUS	Recently spectated
 GLOBAL_FRIENDLIST_LASTPLAYED	Last Played:
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_HEADER	Friendly Challenge
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_UNAVAILABLE	You can't challenge {0} right now.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_UNAVAILABLE	You can't challenge {0} right now. Return to the main menu.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_THEYRE_UNAVAILABLE	You can't challenge {0} right now. Wait for them to return to the main menu.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MODE_UNAVAILABLE	Challenging a friend in this game mode is currently unavailable.
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_AVAILABLE	Challenge {0} to a game of Hearthstone.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_APPEARING_OFFLINE	You can't challenge {0} right now. You are set to appear offline.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_EARLY_ACCESS	This mode is currently in Early Access.
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Standard Duel
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Wild Duel
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_PARTY_MEMBER	You can't send a challenge while in a Battlegrounds party.
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TRADITIONAL_LOCKED	Complete the Traditional Hearthstone tutorial to unlock.
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TAVERN_BRAWL_LOCKED	Complete the Traditional Hearthstone tutorial and get one class to level 20 to unlock.
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_LOCKED	Complete the Battlegrounds tutorial to unlock.
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MERCS_LOCKED	Complete the Mercenaries tutorial to unlock.
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_GAME_MODE_LOCKED	You have not unlocked this mode yet.
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON	Hearthstone
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_EXTENDED_MENU_BUTTON	Hearthstone...
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Standard
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Wild
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_CLASSIC_DUEL_BUTTON	Classic
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_TWIST_DUEL_BUTTON	Twist
 GLOBAL_FRIENDLIST_CHALLENGE_MENU_DUEL_BUTTON	Duel
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REPORT_BUTTON	Report...
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REMOVE_BUTTON	Remove Friend...
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_OPTIONS_BUTTON	Options...
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_FRIEND	Challenge <color=#61C8E8>{0}</color> to...	0=battletag
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_NONFRIEND	Challenge {0} to...	0=battletag
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_STANDARD_DECK	This player has no Standard decks.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_USER_IS_BUSY	This player is busy at this time.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_DECK	This player has no decks.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TAVERN_BRAWL_DECK	This player hasn't created a deck for the Tavern Brawl yet.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_TAVERN_BRAWL_LOCKED	This player hasn't unlocked Tavern Brawls yet.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NOT_SEEN_WILD	This player has not unlocked Wild.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_HEARTHSTONE_TUTORIAL_COMPLETE	This player has not completed the Hearthstone tutorial yet.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_TUTORIAL_COMPLETE	This player has not completed the Battlegrounds tutorial yet.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_MERCS_TUTORIAL_COMPLETE	This player has not completed the Mercenaries tutorial bounty yet.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_STANDARD_DECK	You don't have any Standard decks.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_CLASSIC_DECK	You don't have any Classic decks.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TWIST_DECK	You don't have any Twist decks.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_DECK	You need to build a deck first.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TAVERN_BRAWL_DECK	You need to build a deck for this week's Brawl.
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_EARLY_ACCESS	This player does not have early access to Battlegrounds.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_CLASSIC_DECK	This player has no Classic decks.
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TWIST_DECK	This player has no Twist decks.
+GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TWIST_SEASON	Twist is not available right now.  Check back soon!
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_TAVERN_BRAWL_LOCKED	Unlock Tavern Brawl by reaching level 20 with any class.
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TAVERN_BRAWL	Tavern Brawl is not available right now.  Check back soon!
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_TAVERN_BRAWL_NOT_CHALLENGEABLE	Friendly Challenge is not available for this Tavern Brawl.
 GLOBAL_FRIENDLIST_SPECTATE_MENU_DESCRIPTION	{0} is playing a game.	0=player name
+GLOBAL_FRIENDLIST_SPECTATE_MENU_KICK	Kick Spectator
+GLOBAL_FRIENDLIST_SPECTATE_MENU_STOP	Stop Spectating
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_HEADER	Spectate this Game
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT	Click to begin spectating this player's game.
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT_TOUCH	Tap here to begin spectating this player's game.
@@ -593,6 +1025,25 @@ GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_SPECTATING_HEADER	In Spectator Mode
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_SPECTATING_TEXT	You are currently spectating this player.
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_PREVIOUSLY_KICKED_HEADER	Cannot Spectate
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_PREVIOUSLY_KICKED_TEXT	You've been previously removed from spectating this player. You cannot attempt to spectate again.
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_HEADER	Invite
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_INVITE	Invite to Party
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_KICK	Kick from Party
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_BODY	Invite {0} to play Battlegrounds with you.	0=player name
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_HEADER	Full Party
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_BODY	8 players have already been invited to this party.
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_HEADER	Already Sent
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_BODY	You have already invited this player.
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_HEADER	Kick
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_BODY	Remove {0} from your Battlegrounds party.	0=player name
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_FRIEND	Report <color=#61C8E8>{0}</color>	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_NONFRIEND	Report {0}	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_REASON	Select a Reason...
+GLOBAL_FRIENDLIST_REPORT_SELECT_OPTIONS	Select all that apply:
+GLOBAL_FRIENDLIST_REPORT_SELECT_COMPLETE	Thank you for your report!
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_HEADER	Report a Player
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_COMING_SOON_TEXT	Coming Soon
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_CURRENTLY_UNAVAILABLE_TEXT	Currently Unavailable
+GLOBAL_FRIENDLIST_NO_FRIENDS	No <color=#61C8E8>Battle.net</color> Friends yet!
 GLOBAL_SPECTATE	Spectate
 GLOBAL_SPECTATOR_LEAVE_PROMPT_HEADER	Leave Spectator Mode
 GLOBAL_SPECTATOR_LEAVE_PROMPT_TEXT	Are you sure you want to stop spectating?
@@ -607,7 +1058,7 @@ GLOBAL_SPECTATOR_COUNT_PANEL_HEADER	Spectators Watching
 GLOBAL_SPECTATOR_COUNT_PANEL_TEXT_ONE	{0} is spectating you.	0=player name, this is shown when there's only 1 person spectating you.
 GLOBAL_SPECTATOR_MODE_INDICATOR_TEXT	Spectator Mode	text that shows up on the bottom left of screen showing that you're currently in Spectator Mode.
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_HEADER	Spectator Mode
-GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Waiting for next game to start.\n\n{0} is {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Play Mode")
+GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Waiting for next game to start.\n\n{0} is {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Traditional Hearthstone")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_ENTERING	Waiting for next game to start.\n\n{0} is entering {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_ADVENTURE_MODE_* from PRESENCE.txt (e.g. "Jane Doe is entering Naxxramas")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_BATTLING	Waiting for next game to start.\n\n{0} is Battling {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_HEROIC_* from PRESENCE.txt (e.g. "Jane Doe is Battling Heroic Gothik the Harvester")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_PLAYING	Waiting for next game to start.\n\n{0} is playing {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_CLASS_CHALLENGE_* from PRESENCE.txt (e.g. "Jane Doe is playing Naxxramas Paladin Challenge")
@@ -616,18 +1067,30 @@ GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_OFFLINE	Waiting for next game to sta
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TIMEOUT	The player you are spectating took too long to start the next game. Spectator Mode has been canceled.
 GLOBAL_SPECTATOR_ERROR_CREATE_PARTY_TEXT	An error occurred attempting to create Spectator party.
 GLOBAL_SPECTATOR_ERROR_LEAVE_FOR_SPECTATE_PLAYER_TEXT	An error occurred attempting to leave a previous party to spectate {0}.	0=player name
-GLOBAL_SPECTATOR_ERROR_CANNOT_SPECTATE_2_GAMES	Cannot spectate two different games at same time.	
-GLOBAL_ADDFRIEND_HEADER	Add a Friend
+GLOBAL_SPECTATOR_ERROR_CANNOT_SPECTATE_2_GAMES	Cannot spectate two different games at same time.
+GLOBAL_ADDFRIEND_HEADER	Add a <color=#5ecaf0ff>Battle.net</color> Friend
 GLOBAL_ADDFRIEND_BUTTON	Add as friend
 GLOBAL_ADDFRIEND_INSTRUCTION	Enter a BattleTag or email address.
 GLOBAL_ADDFRIEND_SENT_CONFIRMATION	Friend request sent.
 GLOBAL_ADDFRIEND_ERROR_ALREADY_FRIEND	That person is already your friend.
 GLOBAL_ADDFRIEND_ERROR_MALFORMED	You must enter an email address or Battle Tag.
+GLOBAL_ADDFRIEND_INSTRUCTION_CN	Enter a BattleTag.
+GLOBAL_ADDFRIEND_ERROR_MALFORMED_CN	You must enter a BattleTag.
 GLOBAL_MOBILECHAT_RETURN_TO_MENU	Return to menu
 GLOBAL_MOBILECHAT_RETURN_TO_GAME	Close
 GLOBAL_MOBILECHAT_NOTIFICATION_MULLIGAIN	Game started!
 GLOBAL_MOBILECHAT_NOTIFICATION_YOUR_TURN	Your turn!
 GLOBAL_MOBILECHAT_NOTIFICATION_TURN_COUNTDOWN	Running out of time!
+GLOBAL_REPORT_REASON_INAPPROPRIATE_NAME	Inappropriate Name
+GLOBAL_REPORT_REASON_INAPPROPRIATE_CHAT	Inappropriate Chat
+GLOBAL_REPORT_REASON_CHEATING	Cheating
+GLOBAL_REPORT_DETAIL_BATTLETAG	BattleTag
+GLOBAL_REPORT_DETAIL_HARASSMENT	Harassment
+GLOBAL_REPORT_DETAIL_SPAM	Spam
+GLOBAL_REPORT_DETAIL_ADVERTISEMENT	Advertisement
+GLOBAL_REPORT_DETAIL_HACKING	Hacking
+GLOBAL_REPORT_DETAIL_BOTTING	Botting
+GLOBAL_REPORT_DETAIL_INTENTIONALLY_LOSING_DERANKING	Intentionally Losing / Deranking
 GLOBAL_PROGRAMNAME_HEARTHSTONE	Hearthstone
 GLOBAL_PROGRAMNAME_WOW	World of Warcraft
 GLOBAL_PROGRAMNAME_DIABLO3	Diablo III
@@ -636,11 +1099,22 @@ GLOBAL_PROGRAMNAME_STARCRAFT2	StarCraft II
 GLOBAL_PROGRAMNAME_PHOENIX	Online
 GLOBAL_PROGRAMNAME_HEROES	Heroes of the Storm
 GLOBAL_PROGRAMNAME_OVERWATCH	Overwatch
-GLOBAL_PROGRAMNAME_DESTINY2	Destiny 2
+GLOBAL_PROGRAMNAME_OVERWATCH2	Overwatch 2
 GLOBAL_PROGRAMNAME_BLACKOPS4	Black Ops 4
 GLOBAL_PROGRAMNAME_WARCRAFT3	Warcraft III: Reforged
 GLOBAL_PROGRAMNAME_MODERNWARFARE	Modern Warfare
 GLOBAL_PROGRAMNAME_MODERNWARFARE2_REMASTER	MW2CR
+GLOBAL_PROGRAMNAME_BLACKOPSCOLDWAR	Black Ops Cold War
+GLOBAL_PROGRAMNAME_CRASHBANDICOOT4	Crash Bandicoot 4
+GLOBAL_PROGRAMNAME_DIABLO2R	Diablo II: Resurrected
+GLOBAL_PROGRAMNAME_CODVANGUARD	Call of Duty: Vanguard
+GLOBAL_PROGRAMNAME_DIABLOIMMORTAL	Diablo Immortal
+GLOBAL_PROGRAMNAME_WARCRAFTARCLIGHTRUMBLE	Warcraft Rumble
+GLOBAL_PROGRAMNAME_ARCADECOLLECTION	Blizzard Arcade Collection
+GLOBAL_PROGRAMNAME_DIABLO4	Diablo IV
+GLOBAL_PROGRAMNAME_MODERNWARFARE2	Modern Warfare II
+GLOBAL_PROGRAMNAME_CALLOFDUTY	Call of Duty
+GLOBAL_PROGRAMNAME_OUTERWORLDS2	The Outer Worlds 2
 GLOBAL_OFFLINE	Offline
 GLOBAL_DEFAULT_ALERT_HEADER	Alert
 GLOBAL_FORGE_END_TITLE	Arena Complete
@@ -654,6 +1128,8 @@ GLOBAL_FORGE_END_JOKE_5	That was jig-worthy!
 GLOBAL_FORGE_END_JOKE_6	That one turn was amazing!
 GLOBAL_FORGE_END_JOKE_7	BEHOLD!
 GLOBAL_FORGE_END_JOKE_8	It's not over yet! Oh wait, yeah it is.
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC	Win {0} times for a chance to win these rewards!
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC_WITH_LOSSES	Win {0} times with {1} losses for a chance to win these rewards!
 GLOBAL_RANK_WIN_STREAK	Win Streak - Bonus star!
 GLOBAL_RANK_STAR_MULT	Star Bonus! x{0}
 GLOBAL_RANK_STAR_MULT_STREAK	Win Streak Bonus! x2
@@ -702,7 +1178,7 @@ GLOBAL_ARENA_MEDAL_12	Lightforge Key
 GLOBAL_FEATURE_DISABLED_TITLE	Disabled
 GLOBAL_FEATURE_DISABLED_MESSAGE_FORGE	Sorry, the Arena is currently disabled.
 GLOBAL_FEATURE_DISABLED_MESSAGE_PRACTICE	Sorry, Practice mode is currently disabled.
-GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	Sorry, Play mode is currently disabled.
+GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	Sorry, Traditional Hearthstone is currently disabled.
 GLOBAL_FEATURE_DISABLED_MESSAGE_COLLECTION	Sorry, the Collection is currently disabled.
 GLOBAL_FEATURE_DISABLED_MESSAGE_BATTLEGROUNDS	Sorry, Battlegrounds is currently disabled.
 GLOBAL_CHAT_NO_FRIENDS_ONLINE	You don't have any friends online right now.
@@ -713,6 +1189,14 @@ GLOBAL_CHAT_SENDER_OFFLINE	You are currently offline.
 GLOBAL_CHAT_SENDER_APPEAR_OFFLINE	You may not send chat messages while you are set to appear offline.
 GLOBAL_CHAT_CHALLENGE	Challenge
 GLOBAL_CHAT_BUBBLE_RECEIVER_NAME	To: {0}	0=player name
+GLOBAL_CHAT_SEND_DECK_TITLE	Send Deck Message
+GLOBAL_CHAT_SEND_DECK_MESSAGE	Would you like to send a new message with the deck in your clipboard?
+GLOBAL_CHAT_DECK_CODE_MESSAGE	{0} Deck{1}	0=class name,1=copy hint
+GLOBAL_CHAT_DECK_CODE_WITH_NAME_MESSAGE	{0} Deck: {1}{2}	0=class name,1=deck name,2=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_MESSAGE	Mercenaries Party{0}	0=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_WITH_NAME_MESSAGE	Mercenaries Party: {0}{1}	0=deck name,1=copy hint
+GLOBAL_CHAT_DECK_CODE_HINT	\nClick to copy
+GLOBAL_CHAT_DECK_CODE_HINT_TOUCH	\nTap to copy
 GLOBAL_SOCIAL_TOAST_FRIEND_ONLINE	<color=#{0}>{1}</color> has come online.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_OFFLINE	<color=#{0}>{1}</color> has gone offline.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_REQUEST	<color=#{0}>{1}</color> has sent you a friend invite.	0=name color,1=player name
@@ -722,9 +1206,8 @@ GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START	<color=#{0}>{1}</color> started a new Are
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START_WITH_MANY_WINS	<color=#{0}>{1}</color> has just started an Arena match with {2} wins already!	0=name color,1=player name,2=Arena Wins
 GLOBAL_SOCIAL_TOAST_FRIEND_GOLDEN_LEGENDARY	<color=#{0}>{1}</color> opened a <color=#{3}>Golden {2}</color>!	0=name color,1=player name,2=card name,3=Golden Color
 GLOBAL_SOCIAL_TOAST_FRIEND_LEGENDARY	<color=#{0}>{1}</color> opened <color=#{3}>{2}</color>!	0=name color,1=player name,2=card name
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK	<color=#{0}>{1}</color> just hit rank {2}!	0=name color,1=player name,2=medal rank
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_CLASSIC	<color=#{0}>{1}</color> has attained the Rank of LEGEND in Classic!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_WILD	<color=#{0}>{1}</color> has attained the Rank of LEGEND in Wild!	0=name color,1=player name
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK_WILD	<color=#{0}>{1}</color> just hit rank {2} in Wild!	0=name color,1=player name,2=medal rank
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND	<color=#{0}>{1}</color> has attained the Rank of LEGEND!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_ILLIDAN_COMPLETE	<color=#{0}>{1}</color> defeated Illidan Stormrage!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_MAGE_LEVEL	<color=#{0}>{1}</color> became a Level {2} Mage.	0=name color,1=player name,2=level
@@ -736,19 +1219,31 @@ GLOBAL_SOCIAL_TOAST_FRIEND_SHAMAN_LEVEL	<color=#{0}>{1}</color> became a Level {
 GLOBAL_SOCIAL_TOAST_FRIEND_WARRIOR_LEVEL	<color=#{0}>{1}</color> became a Level {2} Warrior.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_WARLOCK_LEVEL	<color=#{0}>{1}</color> became a Level {2} Warlock.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_PRIEST_LEVEL	<color=#{0}>{1}</color> became a Level {2} Priest.	0=name color,1=player name,2=level
+GLOBAL_SOCIAL_TOAST_FRIEND_DEMON_HUNTER_LEVEL	<color=#{0}>{1}</color> became a Level {2} Demon Hunter.	0=name color,1=player name,2=level
+GLOBAL_SOCIAL_TOAST_FRIEND_DEATH_KNIGHT_LEVEL	<color=#{0}>{1}</color> became a Level {2} Death Knight.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED	<color=#{0}>{1}</color> just hit {2}!	0=name color,1=player name,2=medal name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_WILD	<color=#{0}>{1}</color> just hit {2} in Wild!	0=name color,1=player name,2=medal name
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_CLASSIC	<color=#{0}>{1}</color> just hit {2} in Classic!	0=name color,1=player name,2=medal name
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT_TIER	<color=#{0}>{1}</color> achieved <color=#FFD451>{2} (Tier {3})</color>	0=name color,1=player name,2=achievement name,3=tier
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT	<color=#{0}>{1}</color> achieved <color=#FFD451>{2}</color>	0=name color,1=player name,2=achievement name
 GLOBAL_HEALTHY_GAMING_TOAST	게임을 플레이한지 {0}시간 지났습니다. 과도한 게임이용은 정상적인 일상생활에 지장을 줄 수 있습니다
 GLOBAL_HEALTHY_GAMING_TOAST_OVER_THRESHOLD	You have been playing for {0} |4(hour,hours). This is way, way too long	0=hours
 GLOBAL_SOCIAL_TOAST_SPECTATOR_INVITE_SENT	Spectator invite sent to <color=#{0}>{1}</color>.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_SPECTATOR_INVITE_RECEIVED	<color=#{0}>{1}</color> invites you to spectate the game!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_SPECTATOR_ADDED	<color=#{0}>{1}</color> has begun spectating you.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_SPECTATOR_REMOVED	<color=#{0}>{1}</color> is no longer spectating you.	0=name color,1=player name
+GLOBAL_SOCIAL_ALERT_FRIEND_OFFLINE	{0} has gone offline.	0=Battletag
 GLOBAL_SHUTDOWN_TOAST	<color=#{0}>The Blizzard services will be shutting down in {1} |4(minute,minutes)</color>	0=color, 1=minutes
 GLOBAL_OPTIONS_SOUND_LABEL	Sound
+GLOBAL_OPTIONS_SOUND_OPTIONS_LABEL	Sound Options
 GLOBAL_OPTIONS_SOUND_MASTER_VOLUME_LABEL	Master Volume
 GLOBAL_OPTIONS_SOUND_MUSIC_VOLUME_LABEL	Music Volume
+GLOBAL_OPTIONS_SOUND_AMBIENT_SOUNDS_VOLUME_LABEL	Ambient Sounds
+GLOBAL_OPTIONS_SOUND_DIALOG_VOLUME_LABEL	Dialogue
+GLOBAL_OPTIONS_SOUND_SOUND_EFFECT_VOLUME_LABEL	Sound Effects
+GLOBAL_OPTIONS_SOUND_MONO	Mono Sound
 GLOBAL_OPTIONS_SOUND_IN_BACKGROUND	Sound In Background
+GLOBAL_OPTIONS_SOUND_RESET_DEFAULTS	Reset Defaults
 GLOBAL_OPTIONS_GRAPHICS_LABEL	Graphics
 GLOBAL_OPTIONS_GRAPHICS_RESOLUTION_LABEL	Resolution
 GLOBAL_OPTIONS_GRAPHICS_FULLSCREEN_LABEL	Fullscreen
@@ -757,6 +1252,10 @@ GLOBAL_OPTIONS_GRAPHICS_QUALITY_MEDIUM	Medium
 GLOBAL_OPTIONS_GRAPHICS_QUALITY_HIGH	High
 GLOBAL_OPTIONS_GRAPHICS_QUALITY_LABEL	Quality
 GLOBAL_OPTIONS_GRAPHICS_RESOLUTION_CUSTOM	Custom
+GLOBAL_OPTIONS_GRAPHICS_FPS_LABEL	Frame Rate
+GLOBAL_OPTIONS_GRAPHICS_FPS_DEFAULT	Low
+GLOBAL_OPTIONS_GRAPHICS_FPS_MEDIUM	Medium
+GLOBAL_OPTIONS_GRAPHICS_FPS_HIGH	High
 GLOBAL_OPTIONS_MISCELLANEOUS_LABEL	Miscellaneous
 GLOBAL_OPTIONS_PREFERENCES_LABEL	Preferences
 GLOBAL_OPTIONS_CREDITS	Credits
@@ -766,12 +1265,35 @@ GLOBAL_OPTIONS_PUBLIC_CHAT_ENABLED	Unfriendly Chat
 GLOBAL_OPTIONS_CARDBACK_LABEL	Choose Your Card Back
 GLOBAL_OPTIONS_NEARBY_PLAYERS	Enable Challenging Nearby Players - Friends List
 GLOBAL_OPTIONS_SPECTATOR_OPEN_JOIN	Allow Friends to Spectate my Games
+GLOBAL_OPTIONS_SCREEN_SHAKE	Enable Screen Shake
+GLOBAL_OPTIONS_ADVANCED_LABEL	Advanced
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE	Signature Card Appearance
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_RARELY	Favor Art
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_DYNAMIC	Favor Text
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_ON	Always Show Text
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_OFF	Never Show Text
 GLOBAL_OPTIONS_CHOOSE_CARD_BACK	Choose Card Back
 GLOBAL_OPTIONS_RESTORE_PURCHASES_POPUP_TEXT	Can't find something you've purchased? Make sure you are logged into the correct account.
 GLOBAL_OPTIONS_OTHER_LABEL	Other
 GLOBAL_OPTIONS_PRIVACY_POLICY	Manage Privacy
+GLOBAL_PRIVACY_SDK_BUTTON_CN	3rd Party Info	Text for a button to show 3rd party sdk information for CN users
+GLOBAL_PRIVACY_PERSONAL_INFO_BUTTON_CN	Personal Info	Text for a button to show personal information collected by the game for CN users
+GLOBAL_PRIVACY_REGISTRATION_BUTTON_CN	沪B2-20080012-20A	Button text for registration information. Should not be translated
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_TITLE	Unavailable	Title for dialog telling users personal information is unavailable
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_BODY	Personal Info is not available right now.\nPlease try again later.
+GLOBAL_PERSONAL_INFO_OS_VERSION	Os Version	Label for showing their operating system version
+GLOBAL_PERSONAL_INFO_DEVICE_TYPE	Device Type	Label for showing their device type (Console/Handheld/Desktop)
+GLOBAL_PERSONAL_INFO_DEVICE_MODEL	Device Mode	Label for showing their device model
+GLOBAL_PERSONAL_INFO_DEVICE_NAME	Device Name	Label for showing their device name
+GLOBAL_PERSONAL_INFO_DEVICE_ID	Device Unique ID	Label for showing their device's unique id
+GLOBAL_PERSONAL_INFO_LOCALE	Locale	Label for showing their locale setting
+GLOBAL_PERSONAL_INFO_REGION	Connected Battle.net Region	Label for showing their locale setting
+GLOBAL_PERSONAL_INFO_APP_ID	App Install ID	Label for showing their unqiue application install ID
+GLOBAL_DEVICE_TYPE_CONSOLE	Console	The type of device is a game console
+GLOBAL_DEVICE_TYPE_DESKTOP	Desktop	The type of device is a desktop computer
+GLOBAL_DEVICE_TYPE_HANDHELD	Handheld	The type of device is a handheld device like a phone or tablet
 GLOBAL_OPTIONS_SKIP_TO_RANK_25	Skip to Rank 25
-GLOBAL_OPTIONS_SKIP_NPR	Skip Apprenticeship
+GLOBAL_OPTIONS_SKIP_NPR	Skip Apprentice
 GLOBAL_REWARD_BOOSTER_HEADLINE_GENERIC	Pack earned!
 GLOBAL_REWARD_BOOSTER_HEADLINE_MULTIPLE	{0} |4(pack,packs) earned!
 GLOBAL_REWARD_BOOSTER_HEADLINE_OUT_OF_BAND	Card Pack granted!
@@ -788,12 +1310,17 @@ GLOBAL_REWARD_FORGE_UNLOCKED_HEADLINE	Arena Unlocked!
 GLOBAL_REWARD_FORGE_UNLOCKED_SOURCE	Awarded for entering the Arena
 GLOBAL_REWARD_FORGE_HEADLINE	Arena Entry Granted
 GLOBAL_REWARD_FORGE_DETAILS_OUT_OF_BAND	{0} arena |4(admission was,admissions were) added to your account from outside of the game.	0=count
-GLOBAL_REWARD_ARENA_TICKET_HEADLINE	Free Arena Run!
+GLOBAL_REWARD_ARENA_TICKET	Arena Ticket
+GLOBAL_REWARD_ARENA_TICKET_HEADLINE	Free Ticket!
+GLOBAL_REFUND_ARENA_TICKET_HEADLINE	Refunded Ticket!
 GLOBAL_REWARD_ARENA_TICKET_LABEL	The Arena
-GLOBAL_REWARD_ARENA_TICKET_TITLE	Arena
+GLOBAL_REWARD_ARENA_TICKET_TITLE	Tavern
 GLOBAL_REWARD_ARENA_TICKET_STORE_COUNT_1	1
 GLOBAL_REWARD_HEARTHSTEED_HEADLINE	Hearthsteed Mount
 GLOBAL_REWARD_HEROES_CARD_MOUNT_HEADLINE	Hearthstone Card Mount
+GLOBAL_REWARD_FIERY_HEART_MOUNT_HEADLINE	Fiery Heart Mount
+GLOBAL_REWARD_BATTLEGROUNDS_GUIDE_HEADLINE	Battlegrounds Bartender Unlocked
+GLOBAL_REWARD_BATTLEGROUNDS_HERO_HEADLINE	Battlegrounds Hero Unlocked
 GLOBAL_REWARD_GOLDEN_HERO_HEADLINE	Golden Hero Unlocked
 GLOBAL_REWARD_HERO_HEADLINE	{0} Unlocked
 GLOBAL_REWARD_HERO_DETAILS	{0}/{1} Heroes Unlocked
@@ -803,7 +1330,7 @@ GLOBAL_REWARD_CARD_DETAILS_TUTORIAL02	This is quite impressive.
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL03	You are on a roll!
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL04	That was incredible.
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL05	Magnificent!
-GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	Hot hot hot!
+GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	Well Done!
 GLOBAL_REWARD_CARD_LEVEL_UP	Unlocked by hitting level {0} as a {1}	0=# level, 1=class
 GLOBAL_REWARD_GOLD_SOURCE_IGR	Awarded for logging in from an IGR
 GLOBAL_REWARD_GOLD_SOURCE_IGR_DATED	Awarded for logging in from an IGR on {0}	0=GLOBAL_CURRENT_DATE
@@ -815,6 +1342,17 @@ GLOBAL_REWARD_BONUS_CHALLENGE_HEADLINE	Final Challenge Unlocked
 GLOBAL_REWARD_ARENA_TICKET_ADMIT	ADMIT	the word 'admit' in capital letters - displayed like "Admit 1" and looks like a movie/fair ticket. this is the Arena Ticket reward visual.
 GLOBAL_REWARD_ARENA_TICKET_ENTRANT	Entrant	a label that shows up in the Arena Ticket under the Player's name to say this person is allowed entrance into the Arena.
 GLOBAL_REWARD_ARENA_TICKET_AUTHORIZED_BY	Authorized By	a label that shows up in the Arena Ticket under the Player's name indicating this ticket reward was granted by some guy.
+GLOBAL_REWARD_BG_TOKEN_HEADLINE	Battlegrounds |4( Token, Tokens) earned!
+GLOBAL_REDUNDANT_NDE_BODY	You just got the {0} version of |4(this card, these cards).\nReroll the {1} |4(version, versions) into |4(a random {2} {3} card, random {2} {3} cards)?	0=Newly Acquired Premium, 1=Premium to reroll, 2=reroll set name, 3=card rarity
+GLOBAL_REDUNDANT_NDE_BODY_MULTIPLE_PREMIUMS	You just got the {0} version of this card.\nReroll the {1}/{2} versions into random {3} {4} cards?	0=Newly Acquired Premium, 1=Higher premium to reroll, 2=Lower premium to reroll, 3=reroll set name, 4=card rarity
+GLOBAL_REDUNDANT_NDE_DOUBLE_BODY	You just got [PH Premium] versions of this card.\nReroll the [PH Premium] versions into random [PH SET][PH RARITY] cards?
+GLOBAL_REDUNDANT_NDE_TITLE	Reroll {0} |4(Card, Cards)?	0=card premium to reroll
+GLOBAL_REDUNDANT_NDE_TITLE_MULTIPLE_PREMIUMS	Reroll {0}/{1} Cards?	0=higher card premium to reroll, 1=lower card premium to reroll
+GLOBAL_REDUNDANT_NDE_TITLE_DUPLICATE_SIGNATURE	Reroll Duplicate Signature Legendary?
+GLOBAL_REDUNDANT_NDE_BODY_DUPLICATE_SIGNATURE	You just got a Duplicate Signature Legendary. \nReroll it into a random {0} Golden Legendary card?	0=reroll set name
+GLOBAL_REDUNDANT_NDE_BUTTON_REROLL	Reroll!
+GLOBAL_REDUNDANT_NDE_BUTTON_DECLINE	No Thanks
+GLOBAL_REDUNDANT_NDE_REROLL_RESULT_HEADER	Card Rerolled!
 GLOBAL_BETA_REIMBURSEMENT_HEADLINE	Account Wipe Credit
 GLOBAL_BETA_REIMBURSEMENT_DETAILS	This gold is a credit for your past purchases. Thank you!
 GLOBAL_PRACTICE_MAX_LEVEL_REACHED	Max Practice Level
@@ -833,7 +1371,10 @@ GLOBAL_GOLD_REWARD_OVER_CAIS	You cannot gain any more gold due to CAIS.
 GLOBAL_FRIENDLYCHALLENGE_QUEST_REWARD_AT_LIMIT	You reached the daily limit for Friend Challenge quest rewards.
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOURSELF	You left the game too early to earn rewards.
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOUR_OPPONENT	Your opponent left the game too early for you to earn rewards.
+GLOBAL_COLLECTION_NORMAL	Normal
 GLOBAL_COLLECTION_GOLDEN	Golden
+GLOBAL_COLLECTION_DIAMOND	Diamond
+GLOBAL_COLLECTION_SIGNATURE	Signature
 GLOBAL_SPLASH_CLOSED_SIGN_TITLE	Closed
 GLOBAL_ERROR_INACTIVITY_KICK	It's been a while since your last Hearthstone action and your connection was shut down. Relaunch the game when you're ready!
 GLOBAL_MOBILE_ERROR_LOGON_WEB_TIMEOUT	It's been a while since your last Hearthstone action and your connection was shut down.
@@ -846,6 +1387,11 @@ GLOBAL_TOOLTIP_MENU_OFFLINE_HEADER	Offline
 GLOBAL_TOOLTIP_MENU_OFFLINE_DESC	You are currently offline. Click here to reconnect.
 GLOBAL_TOOLTIP_FRIEND_BUTTON_HEADER	Friends
 GLOBAL_TOOLTIP_FRIEND_BUTTON_DESC	Chat with and challenge your friends.
+GLOBAL_TOOLTIP_MODE_TWIST	Play Hearthstone with a rotating rule set every season.
+GLOBAL_TOOLTIP_MODE_TWIST_SEASON_DISABLED	Play Hearthstone with a rotating rule set every season. This game mode is locked until the next season starts.
+GLOBAL_TOOLTIP_MODE_STANDARD	Challenge players of a similar skill to a match.
+GLOBAL_TOOLTIP_MODE_WILD	Battle opponents with cards from any set.
+GLOBAL_TOOLTIP_MODE_CASUAL	Enjoy any game mode using any deck without affecting your rank.
 GLOBAL_HEALTHY_GAMING_CHINA_LESS_THAN_THREE_HOURS	您累计在线时间已满{0}小时。
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_HOURS	您累计在线时间已满{0}小时，请您下线休息，做适当身体活动。
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_TO_FIVE_HOURS	您已经进入疲劳游戏时间，您的游戏收益将降为正常值的0%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。
@@ -855,16 +1401,22 @@ GLOBAL_HEALTHY_GAMING_CHINA_MORE_THAN_FIVE_HOURS_PHONE	您已进入不健康游�
 GLOBAL_CURRENT_TIME	{0:h:mm tt}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
 GLOBAL_CURRENT_DATE	{0:MM/dd/yy}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
 GLOBAL_CURRENT_TIME_AND_DATE_DEV	{0} ({1} - {2})
-GLOBAL_HEALTHY_GAMING_KOREA_STARTUP_MESSAGE	본 게임물은 만 12세 이용가 게임으로서 해당 연령 미만의 청소년이 이용하기에 부적절합니다. 반드시 보호자의 지도 감독이 필요합니다.	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防上当受骗。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号 文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心	
-GLOBAL_HEALTHY_GAMING_CHINA_CAIS_ACTIVE	CAIS Active	
-GLOBAL_LANGUAGE_CHANGE_CONFIRM_TITLE	Change Language?	
-GLOBAL_LANGUAGE_CHANGE_CONFIRM_MESSAGE	This will interrupt your current activity. Are you sure?	
-GLOBAL_LOGIN_CONFIRM_MESSAGE	You will lose your current progress. Are you sure?	
+GLOBAL_CURRENT_TIME_AM	AM
+GLOBAL_CURRENT_TIME_PM	PM
+GLOBAL_HEALTHY_GAMING_KOREA_STARTUP_MESSAGE	본 게임물은 만 12세 이용가 게임으로서 해당 연령 미만의 청소년이 이용하기에 부적절합니다. 반드시 보호자의 지도 감독이 필요합니다.
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。 \n注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号\n文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心
+GLOBAL_HEALTHY_GAMING_CHINA_CAIS_ACTIVE	CAIS Active
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_TITLE	Change Language?
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_MESSAGE	This will interrupt your current activity. Are you sure?
+GLOBAL_LOGIN_CONFIRM_MESSAGE	You will lose your current progress. Are you sure?
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_TITLE	Not enough space!
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_MESSAGE	You need {0} of free space on your device to continue.
-GLOBAL_LOGOUT_CONFIRM_MESSAGE	Are you sure?	
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITH_SIZE_MESSAGE	Changing the language requires downloading approximately {0}. Continue?
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITHOUT_SIZE_MESSAGE	Would you like to change your language? The necessary files are already available on your device.
+GLOBAL_LANGUAGE_CHANGE_DELETE_OLD_MESSAGE	Downloading the new language requires {0}, but you only have {1} of free space. Removing your current language ({2}) would free up enough space. Remove it and download the new language?
+GLOBAL_LANGUAGE_CHANGE_DELETE_AND_DOWNLOAD	Replace
+GLOBAL_LOGOUT_CONFIRM_MESSAGE	Are you sure?
 GLOBAL_LANGUAGE_NATIVE_DEDE	Deutsch	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ENUS	English	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ENGB	English (UK)	The name of the language IN THAT LANGUAGE.
@@ -879,9 +1431,8 @@ GLOBAL_LANGUAGE_NATIVE_RURU	Русский	The name of the language IN THAT LANG
 GLOBAL_LANGUAGE_NATIVE_ZHCN	中文（简体）	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ZHTW	繁體中文(台灣)	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_JAJP	日本語	The name of the language IN THAT LANGUAGE.
-GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the laugnage IN THAT LANGUAGE.
+GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_DROPDOWN	Language
-GLOBAL_LANGUAGE_DOWNLOAD_VOICE_PACK	(DEV) Downloaded Voice Pack
 GLOBAL_REGION_AMERICAS	Americas & Southeast Asia
 GLOBAL_REGION_EUROPE	Europe
 GLOBAL_REGION_ASIA	Asia
@@ -902,6 +1453,8 @@ GLOBAL_VERSION	Version
 GLOBAL_MOBILE_RESTART_APPLICATION	Please restart the application
 GLOBAL_MOBILE_TAP_TO_RECONNECT	Tap anywhere to reconnect
 GLOBAL_MOBILE_TAP_TO_UPDATE	Tap anywhere to update
+GLOBAL_MODULE_ADVENTURE	Solo Adventures	Module name for adventure
+GLOBAL_MODULE_MERC	Mercenaries	Module name for merc
 GLOBAL_SPLASH_CLOSED_RECONNECTING	Reconnecting...
 GLOBAL_ADVENTURE_TRAY_HEADER	Choose an Adventure
 GLOBAL_ADVENTURE_DESC_HEADER	Adventure
@@ -927,6 +1480,7 @@ GLOBAL_TUTORIAL_TAUNT_DESCRIPTION	Enemies must attack this minion
 GLOBAL_TUTORIAL_HERO_POWER	Hero Power
 GLOBAL_TUTORIAL_USED	Used
 GLOBAL_TUTORIAL_YOUR_TURN	Your Turn
+GLOBAL_TUTORIAL_REPLAY_HEADER	Hearthstone Rules
 GLOBAL_DEMO_DISCLAIMER	This version of Hearthstone has been created specifically for demonstration purposes.
 GLOBAL_DEMO_COMPLETE_HEADER	Congratulations!
 GLOBAL_DEMO_COMPLETE_BODY	Thanks for playing this demo of Hearthstone!
@@ -972,7 +1526,8 @@ GLOBAL_SET_ROTATION_ROLLOVER_BODY_MOBILE	It's a New Year in Hearthstone!\nRestar
 GLOBAL_JOIN	Join
 GLOBAL_LEAVE	Leave
 GLOBAL_RETRY	Retry
-GLOBAL_SKIP_TUTORIAL	Leave Tutorial
+GLOBAL_LEAVE_TUTORIAL	Leave Tutorial
+GLOBAL_SKIP_TUTORIAL	Skip Tutorial
 GLOBAL_SKIP	Skip
 GLOBAL_SCAN	Scan
 GLOBAL_LOCATIONS	Learn More
@@ -983,9 +1538,346 @@ GLOBAL_UPDATE	Update
 GLOBAL_ENABLE	Enable
 GLOBAL_DISABLE	Disable
 GLOBAL_ARENA_SEASON_ERROR_NOT_ACTIVE	Sorry. The requested Arena mode is no longer available. Please wait a few minutes and try again.
+GLOBAL_ARENA_ERROR_NOT_ENOUGH_CLASSES	Sorry, you must have at least three classes unlocked to play Arena.
 GLOBAL_BRAWLISEUM	Brawliseum
+GLOBAL_TWIST_SEASON_TITLE_116	New Age
+GLOBAL_TWIST_SEASON_DESCRIPTION_116	Experience this new twisted format; build a deck using only class cards since Ashes of Outland!
+GLOBAL_TWIST_SEASON_TITLE_117	New Age
+GLOBAL_TWIST_SEASON_DESCRIPTION_117	Experience this new twisted format; build a deck using only class cards since Ashes of Outland!
+GLOBAL_TWIST_SEASON_TITLE_119	Wonders
+GLOBAL_TWIST_SEASON_DESCRIPTION_119	Step into the Caverns of Time and build a deck using all expansions from Legacy through Mean Streets of Gadgetzan.
+GLOBAL_TWIST_SEASON_TITLE_120	XL Wonders
+GLOBAL_TWIST_SEASON_DESCRIPTION_120	This time, build a deck with between 30 to 40 cards from Legacy through Mean Streets of Gadgetzan plus Caverns of Time. And all players start with Health equal to the size of their deck!
+GLOBAL_TWIST_SEASON_TITLE_121	Return to Un'Goro
+GLOBAL_TWIST_SEASON_DESCRIPTION_121	Travel back to the ancient past when dinosaurs roamed! Un'Goro is back with some new updates and has joined the other sets in the Wonders format.
+GLOBAL_TWIST_SEASON_TITLE_124	Commons
+GLOBAL_TWIST_SEASON_DESCRIPTION_124	No legendaries? No problem! Assemble the best deck you can using only commons from all expansions through Year of the Dragon and Core.
+GLOBAL_TWIST_SEASON_TITLE_125	Fast Forward
+GLOBAL_TWIST_SEASON_DESCRIPTION_125	Replay ten years of Hearthstone! Starting with Legacy, we'll add one new set every day, all the way through Showdown in the Badlands.
+GLOBAL_TWIST_SEASON_TITLE_128	Whizbang's Heroes
+GLOBAL_TWIST_SEASON_DESCRIPTION_128	Jump right in with one of Whizbang's Heroes, featuring prebuilt multi-class decks, new Hero Powers, and passive abilities.
+GLOBAL_TWIST_SEASON_TITLE_129	Whizbang's Heroes
+GLOBAL_TWIST_SEASON_DESCRIPTION_129	Jump right in with one of Whizbang's Heroes, featuring prebuilt multi-class decks, new Hero Powers, and passive abilities.
+GLOBAL_TWIST_SEASON_TITLE_137	2v2
+GLOBAL_TWIST_SEASON_DESCRIPTION_137	Play with a friend against two other players!
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START_WITH_MANY_WINS	<color=#{0}>{1}</color> has just started a Brawliseum match with {2} wins already!	0=name color,1=player name,2=Brawl Wins
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_COMPLETE	<color=#{0}>{1}</color> just finished a Brawliseum run. ({2}-{3})	0=name color,1=player name,2=Brawl Wins,3=Brawl Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START	<color=#{0}>{1}</color> started a new Brawliseum run.	0=name color,1=player name
 GLOBAL_BUTTON_CLOSE	Close
 GLOBAL_NOT_AVAILABLE	Not Available
+GLOBAL_COMMA_SEPARATOR	,
+GLOBAL_SPELL_SCHOOL_ARCANE	Arcane
+GLOBAL_SPELL_SCHOOL_FIRE	Fire
+GLOBAL_SPELL_SCHOOL_FROST	Frost
+GLOBAL_SPELL_SCHOOL_NATURE	Nature
+GLOBAL_SPELL_SCHOOL_HOLY	Holy
+GLOBAL_SPELL_SCHOOL_SHADOW	Shadow
+GLOBAL_SPELL_SCHOOL_FEL	Fel
+GLOBAL_SPELL_SCHOOL_PHYSICAL_COMBAT	Attack
+GLOBAL_SPELL_SCHOOL_TAVERN	Tavern
+GLOBAL_SPELL_SCHOOL_SPELLCRAFT	Spellcraft
+GLOBAL_SPELL_SCHOOL_LESSER_TRINKET	Lesser
+GLOBAL_SPELL_SCHOOL_GREATER_TRINKET	Greater
+GLOBAL_SPELL_SCHOOL_UPGRADE	Upgrade	
+GLOBAL_PLAYER_MIGRATION_RESTART_HEADER	Account needs to be updated
+GLOBAL_PLAYER_MIGRATION_RESTART_BODY	Your account needs to be updated.\nPlease restart the game.
+GLOBAL_PROGRESSION_PROFILE_PLAY_MODE	Traditional Hearthstone
+GLOBAL_PROGRESSION_PROFILE_GAME_MODES	Game Modes
+GLOBAL_PROGRESSION_PROFILE_ARENA_WINS	{0} |4(Win,Wins)
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP_TITLE	Arena
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP	Highest number of wins reached in Arena.
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP_TITLE	Battlegrounds
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP	Increase your rating by winning games. A Top 4 finish counts as a win in quests!
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_TOP4	{0} Top-4 |4(Finish,Finishes)
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TITLE	Casual Duels
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TITLE	Heroic Duels
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP_TITLE	Duels (Casual Mode)
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP_TITLE	Duels (Heroic Mode)
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP	Shows your best rating from Casual or Heroic Duels mode.
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP	Shows your best rating from Casual or Heroic Duels mode.
+GLOBAL_PROGRESSION_PROFILE_RANKED_STAT_TOOLTIP	The total number of Ranked Play wins.
+GLOBAL_PROGRESSION_PROFILE_TOTAL_WINS	{0} |4(Win,Total Wins)
+GLOBAL_PROGRESSION_PROFILE_WINS_SINGULAR	Win
+GLOBAL_PROGRESSION_PROFILE_WINS_PLURAL	Total Wins
+GLOBAL_PROGRESSION_TOOLTIP_TOTAL_CLASS_WINS	Total {0} Wins	{0}=class name
+GLOBAL_PROGRESSION_TOOLTIP_GOLDEN_WINS_DESC	Win {0} games in Ranked or Arena with {1} to earn their Golden classic hero!	{0}=win count {1}=class name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DESC	Win {0} games in Ranked or Arena with {1} to earn {2}!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DONE_DESC	Winning {0} games in Ranked or Arena with {1} has earned you {2}!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_CLASS_DEFAULT_DESC	Level {0}
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION	Completed {0}
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_PERCENTAGE	{0}%
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_DATE	{0:yyyy/MM/dd}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_NAME	{0} - {1}
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP_TITLE	{0}	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP	Download {0} to view achievements.	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_TILE_LOCKED_MESSAGE	Download {0} to view	{0}=Localised game mode name
+GLOBAL_PROGRESSION_PROGRESS_MESSAGE	{0} / {1}
+GLOBAL_PROGRESSION_TIER_MESSAGE	{0}/{1}
+GLOBAL_PROGRESSION_REWARD_SUMMARY	{0}\n{1}
+GLOBAL_PROGRESSION_REWARD_TRACK_XP	{0} Reward XP
+GLOBAL_PROGRESSION_POINTS	{0} Feat Renown
+GLOBAL_PROGRESSION_QUEST_TIME_UNTIL_NEXT	New quest in\n{0}
+BATTLEGROUNDS_PROGRESSION_QUEST_TIME_UNTIL_NEXT	New mission in\n{0}
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP_TITLE	Rewards
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP	Raise your rank each month and level up classes to earn sweet rewards!
+GLOBAL_PROGRESSION_DAILY_QUESTS_POPUP_TITLE	Your Quests
+GLOBAL_PROGRESSION_WEEKLY_QUESTS_POPUP_TITLE	Your Weekly Quests
+GLOBAL_PROGRESSION_EVENT_QUESTS_POPUP_TITLE	Your Event Quests
+GLOBAL_PROGRESSION_BATTLEGROUNDS_QUESTS_POPUP_TITLE	Your Weekly Missions
+GLOBAL_PVPDR_SEASON_ERROR_NOT_ACTIVE	Sorry. The requested Duels season is no longer available. Please try again later.
+GLOBAL_CLASSIC	Classic
+GLOBAL_TWIST	Twist
+GLOBAL_TWIST_LOCKED	Twist (Locked)
+GLOBAL_TWIST_LOCKED_DESC	This game mode is locked until the next season starts in\n{0}.
+GLOBAL_UNINSTALL_MODULE_POPUP_PROMPT	Uninstall {0}?	{0}=Module name to uninstall (e.g. Battlegrounds)
+GLOBAL_RANKED	Ranked
+GLOBAL_LETTUCE_LOBBY_TITLE	Choose how to play
+GLOBAL_LETTUCE_REWARD_BANNER_TEXT	Mercenaries Reward
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_TOTAL_BOUNTIES	{0} Total |4(Bounty, Bounties)
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP_TITLE	Mercenaries
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP	Shows the PVP rank and number of bounties cleared from Mercenaries mode.
+GLOBAL_REWARD_SARGE_TALE_HEADLINE	Sarge's Tale Mount
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE	Arcane Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_TEXT	Takes {0} less damage from Arcane abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT	Takes less damage from Arcane abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE	Fire Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_TEXT	Takes {0} less damage from Fire abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT	Takes less damage from Fire abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST	Frost Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_TEXT	Takes {0} less damage from Frost abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT	Takes less damage from Frost abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE	Nature Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_TEXT	Takes {0} less damage from Nature abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT	Takes less damage from Nature abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY	Holy Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_TEXT	Takes {0} less damage from Holy abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT	Takes less damage from Holy abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW	Shadow Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_TEXT	Takes {0} less damage from Shadow abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT	Takes less damage from Shadow abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL	Fel Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_TEXT	Takes {0} less damage from Fel abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT	Takes less damage from Fel abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE	Arcane Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_TEXT	Takes {0} more damage from Arcane abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT	Takes more damage from Arcane abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE	Fire Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_TEXT	Takes {0} more damage from Fire abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT	Takes more damage from Fire abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST	Frost Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_TEXT	Takes {0} more damage from Frost abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT	Takes more damage from Frost abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE	Nature Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_TEXT	Takes {0} more damage from Nature abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT	Takes more damage from Nature abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY	Holy Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_TEXT	Takes {0} more damage from Holy abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT	Takes more damage from Holy abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW	Shadow Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_TEXT	Takes {0} more damage from Shadow abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT	Takes more damage from Shadow abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL	Fel Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_TEXT	Takes {0} more damage from Fel abilities.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT	Takes more damage from Fel abilities.
+GLOBAL_KEYWORD_ATTACK_MERC	Attack
+GLOBAL_KEYWORD_ATTACK_TEXT_MERC	Attack a character and take damage from the enemy.
+GLOBAL_KEYWORD_ATTACK_REF_TEXT_MERC	Attack a character and take damage from the enemy.
+GLOBAL_KEYWORD_SPELLCOMBO_MERC	Spell Combo
+GLOBAL_KEYWORD_SPELLCOMBO_TEXT_MERC	A bonus if another friendly Merc played a spell of the specified school this turn.
+GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC	A bonus if another friendly Merc played a spell of the specified school this turn.
+GLOBAL_KEYWORD_DEATHBLOW	Deathblow
+GLOBAL_KEYWORD_DEATHBLOW_TEXT	Does something when it kills a character.
+GLOBAL_KEYWORD_BLEED	Bleed
+GLOBAL_KEYWORD_BLEED_TEXT	Bleeding characters take damage at the end of each turn. Bleeding can be removed by restoring Health.
+GLOBAL_KEYWORD_ROOT	Root
+GLOBAL_KEYWORD_ROOT_TEXT	Rooted characters can't Attack.
+GLOBAL_KEYWORD_CRITICAL_DAMAGE	Critical Damage
+GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT	Takes 2X damage from sources.
+GLOBAL_KEYWORD_ALLIANCE	Alliance
+GLOBAL_KEYWORD_ALLIANCE_TEXT	The Alliance include: Draenei, Dwarf, Gnome, Human, Night Elf, and Worgen
+GLOBAL_KEYWORD_HORDE	Horde
+GLOBAL_KEYWORD_HORDE_TEXT	The Horde include: Blood Elf, Goblin, Half-Orc, Ogre, Orc, Tauren, Troll, and Undead
+GLOBAL_KEYWORD_REFRESH_MERC	Refresh
+GLOBAL_KEYWORD_REFRESH_MERC_TEXT	Reduce the Cooldown by (X).
+GLOBAL_KEYWORD_ELVES_MERC	Elves
+GLOBAL_KEYWORD_ELVES_MERC_TEXT	Elves include: Blood Elf and Night Elf
+GLOBAL_KEYWORD_REVIVE	Revive (X)
+GLOBAL_KEYWORD_REVIVE_TEXT	Revives in (X) turns after dying.
+GLOBAL_KEYWORD_ALLIED	Allied
+GLOBAL_KEYWORD_ALLIED_TEXT	Your hero becomes the Allied class after you select this treasure.
+GLOBAL_KEYWORD_HEALING_POWER	Heal Power
+GLOBAL_KEYWORD_HEALING_POWER_TEXT	Your healing abilities restore extra health.
+GLOBAL_WARNING_GENERIC_HEADER	Warning
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC	Spell Weakness
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_TEXT	Takes {0} more damage from all abilities.
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT	Takes more damage from all abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC	Spell Resistance
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_TEXT	Takes {0} less damage from all abilities.
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_REF_TEXT	Takes less damage from all abilities.
+GLOBAL_KEYWORD_BENCH_MERC	Bench
+GLOBAL_KEYWORD_BENCH_MERC_TEXT	Does something while this Merc is on the bench.
+GLOBAL_KEYWORD_EXPLORER_MERC	Explorer
+GLOBAL_KEYWORD_EXPLORER_MERC_TEXT	Explorers include: Reno, Brann, Elise, Finley and Amalgam Explorer.
+GLOBAL_KEYWORD_DISCOVER_MERC	Discover
+GLOBAL_KEYWORD_DISCOVER_TEXT_MERC	Choose one of three abilities to cast this turn.
+GLOBAL_KEYWORD_CHARGE_MERC	Charge
+GLOBAL_KEYWORD_CHARGE_MERC_TEXT	Attacks a selected target immediately after being summoned.
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN	Summoned When Drawn
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT	Summons itself when drawn, then draw another card.
+GLOBAL_KEYWORD_QUICKDRAW	Quickdraw
+GLOBAL_KEYWORD_QUICKDRAW_TEXT	A bonus if this entered your hand this turn.
+GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT	A bonus if this entered your hand this turn.
+GLOBAL_KEYWORD_EXCAVATE	Excavate
+GLOBAL_KEYWORD_EXCAVATE_TEXT	Dig for increasingly rarer treasures. Resets after the highest Rarity.
+GLOBAL_KEYWORD_EXCAVATE_REF_TEXT	Dig for increasingly rarer treasures. Resets after the highest Rarity.
+GLOBAL_KEYWORD_MINIATURIZE	Miniaturize
+GLOBAL_KEYWORD_MINIATURIZE_TEXT	Get a 1-Cost 1/1 copy of this.
+GLOBAL_KEYWORD_MINI	Mini
+GLOBAL_KEYWORD_MINI_TEXT	A 1-Cost 1/1 copy of another card.
+GLOBAL_KEYWORD_MINI_REF_TEXT	A 1-Cost 1/1 copy of another card.
+GLOBAL_KEYWORD_ELUSIVE	Elusive
+GLOBAL_KEYWORD_ELUSIVE_TEXT	Can't be targeted by spells or Hero Powers.
+GLOBAL_KEYWORD_ELUSIVE_REF_TEXT	Can't be targeted by spells or Hero Powers.
+GLOBAL_KEYWORD_GIGANTIFY	Gigantify
+GLOBAL_KEYWORD_GIGANTIFY_TEXT	Get an 8-Cost 8/8 copy of this.
+GLOBAL_KEYWORD_GIGANTIC	Gigantic
+GLOBAL_KEYWORD_GIGANTIC_TEXT	An 8-Cost 8/8 copy of another card.
+GLOBAL_KEYWORD_IS_HERO_PASSIVE	Passive
+GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT	A permanent effect.
+GLOBAL_KEYWORD_SHIFTING_TOP_TEXT	Transforms into the top card of your deck.
+GLOBAL_KEYWORD_STARSHIP	Starship
+GLOBAL_KEYWORD_STARSHIP_TEXT	Has the stats and effects of your dead Pieces. Click to launch!
+GLOBAL_KEYWORD_IMBUE	Imbue
+GLOBAL_KEYWORD_IMBUE_TEXT	Get a new Hero Power that upgrades each time you Imbue.
+GLOBAL_KEYWORD_DARKGIFT	Dark Gift
+GLOBAL_KEYWORD_DARKGIFT_TEXT	A bonus attached to a minion.
+GLOBAL_KEYWORD_PROTOSS	Protoss
+GLOBAL_KEYWORD_PROTOSS_TEXT	This card is a member of the Protoss faction.
+GLOBAL_KEYWORD_PROTOSS_MULTI	Protoss (Multi)
+GLOBAL_KEYWORD_PROTOSS_MULTI_TEXT	This card is a member of the Protoss faction and can be used in {0} classes.
+GLOBAL_KEYWORD_ZERG	Zerg
+GLOBAL_KEYWORD_ZERG_TEXT	This card is a member of the Zerg faction.
+GLOBAL_KEYWORD_ZERG_MULTI	Zerg (Multi)
+GLOBAL_KEYWORD_ZERG_MULTI_TEXT	This card is a member of the Zerg faction and can be used in {0} classes.
+GLOBAL_KEYWORD_TERRAN	Terran
+GLOBAL_KEYWORD_TERRAN_TEXT	This card is a member of the Terran faction.
+GLOBAL_KEYWORD_REWIND	Rewind
+GLOBAL_KEYWORD_REWIND_TEXT	May be replayed once for a potentially different outcome.
+GLOBAL_KEYWORD_TERRAN_MULTI	Terran (Multi)
+GLOBAL_KEYWORD_TERRAN_MULTI_TEXT	This card is a member of the Terran faction and can be used in {0} classes.
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS	Elemental Bonus
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS_TEXT	Granting an extra {0}
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS	Tavern Spell Bonus
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS_TEXT	Granting an extra {0}
+GLOBAL_KEYWORD_MULTICLASS_SEARCH_TOKEN	Multiclass
+GLOBAL_KEYWORD_MULTICLASS	Multiclass ({0})	Argument is number of classes the card can be used in (ex: 4)
+GLOBAL_KEYWORD_MULTICLASS_TEXT	This can be used in {0}	Argument is a comma separated list of classes the card can be used in
+GLOBAL_KEYWORD_DARKGIFT_BONUS	Dark Gift Bonus
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI	Dark Gift
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI_TEXT	This minion has {0} <b>Dark Gifts</b>
+GLOBAL_KEYWORD_KINDRED	Kindred
+GLOBAL_KEYWORD_KINDRED_TEXT	A bonus if you played the same minion type/spell school last turn.
+GLOBAL_KEYWORD_BACON_RALLY	Rally
+GLOBAL_KEYWORD_BACON_RALLY_TEXT	Does something whenever it attacks.
+GLOBAL_KEYWORD_BACON_BOUNTY	Bounty
+GLOBAL_KEYWORD_BACON_BOUNTY_TEXT	A Tier 3 Tavern spell available when Pirates are in the lobby.
+GLOBAL_KEYWORD_FABLED	Fabled
+GLOBAL_KEYWORD_FABLED_TEXT	Also adds 2 unique cards to your starting deck.
+GLOBAL_KEYWORD_FABLEDPLUS	Fabled+
+GLOBAL_KEYWORD_FABLEDPLUS_TEXT	Also adds 9 unique cards to your starting deck.
+GLOBAL_KEYWORD_SHATTER	Shatter
+GLOBAL_KEYWORD_SHATTER_TEXT	Splits into two halves that recombine when adjacent in hand.
+GLOBAL_KEYWORD_BACON_TIMEWARP	Timewarp
+GLOBAL_KEYWORD_BACON_TIMEWARP_TEXT	A special shop where unique cards can be purchased for Chronums.
+GLOBAL_KEYWORD_REFRESH_COUNT	Refresh Count
+GLOBAL_KEYWORD_REFRESH_COUNT_TEXT	{0} free |4(Refresh,Refreshes) left.
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS	Pirate Bonus
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS_TEXT	Granting an extra {0}
+GLOBAL_KEYWORD_PREPARE	Prepare
+GLOBAL_KEYWORD_PREPARE_TEXT	Drag to your deck to spend leftover Mana. Next turn, discount this by the amount spent \n(plus 1 extra!)
+GLOBAL_KEYWORD_HERALD	Herald
+GLOBAL_KEYWORD_HERALD_TEXT	Summon your colossal's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_WARRIOR_TEXT	Summon Ragnaros's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_DEMON_HUNTER_TEXT	Summon Azshara's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_SHAMAN_TEXT	Summon Al'Akir's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_ROGUE_TEXT	Summon Sinestra's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_DEATH_KNIGHT_TEXT	Summon Onyxia's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_HERALD_WARLOCK_TEXT	Summon Cho'gall's appendage as a soldier. Upgrade them every 2 Heralds.
+GLOBAL_KEYWORD_SHATTERED	Shattered
+GLOBAL_KEYWORD_SHATTERED_TEXT	Recombines with its other half when adjacent in hand.
+GLOBAL_KEYWORD_LOCKED	Locked
+GLOBAL_KEYWORD_LOCKED_TEXT	Unplayable until an adjacent card in hand is played.
+GLOBAL_KEYWORD_CONTRABAND	Contraband
+GLOBAL_KEYWORD_CONTRABAND_TEXT	Get a powerful card. Shuffle a card from your hand into your deck as payment.
+GLOBAL_KEYWORD_UNDECIPHERED	Undeciphered
+GLOBAL_KEYWORD_UNDECIPHERED_TEXT	Enter Madness while holding this for a bonus.
+GLOBAL_KEYWORD_UNDECYPHERED	MadnessCard
+GLOBAL_KEYWORD_UNDECYPHERED_TEXT	Get a random ongoing effect.
+GLOBAL_KEYWORD_MADNESS	Madness
+GLOBAL_KEYWORD_MADNESS_TEXT	Gain a random ongoing effect this turn and next.
+GLOBAL_KEYWORD_CRAFT	Assemble
+GLOBAL_KEYWORD_CRAFT_TEXT	Get a random minion. Change half its text.
+GLOBAL_KEYWORD_OLDGOD	Old God
+GLOBAL_KEYWORD_PROVOKE	Provoke
+GLOBAL_KEYWORD_PROVOKE_TEXT	The first time this is attacked each combat, do something first.
+GLOBAL_KEYWORD_BACON_FODDER_COUNT	Fodders in Refresh
+GLOBAL_KEYWORD_BACON_FODDER_COUNT_TEXT	Your next Refresh will have {0} Fodders.
+GLOBAL_KEYWORD_BACON_CHROMADRAKE	Chromadrake
+GLOBAL_KEYWORD_BACON_CHROMADRAKE_TEXT	One of five Dragons with various Battlecries.
+GLOBAL_KEYWORD_BACON_FODDER	Fodder
+GLOBAL_KEYWORD_BACON_FODDER_TEXT	While in the Tavern, this feeds itself to a random friendly Demon.
+GLOBAL_KEYWORD_PREPARING	Preparing
+GLOBAL_KEYWORD_PREPARING_TEXT	Spent {0} Mana to discount by {1}.\nLocked in hand this turn.
+GLOBAL_KEYWORD_PREPARED	Prepared
+GLOBAL_KEYWORD_PREPARED_TEXT	Spent {0} Mana to discount by {1}.
+GLOBAL_KEYWORD_BACON_DEITY	Deity
+GLOBAL_KEYWORD_BACON_DEITY_TEXT	After 4 friendly Aberrations die each combat, awaken a {0}/{1} {2}.
+GLOBAL_KEYWORD_BACON_ACTIVATE	Activate (X)
+GLOBAL_KEYWORD_BACON_ACTIVATE_TEXT	Once per turn, click to spend X Gold for an effect.
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP	Activate (X)
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP_TEXT	Once per turn, click to spend X Gold for an effect.
+GLOBAL_KEYWORD_OLDGOD_TEXT	Instead of attacking, use 2 of 4 abilities. <i>One <b>Old God</b> per deck.</i>
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER	Runes Required
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER_TEXT	\n\n\n
+GLOBAL_DOWNLOAD_MANAGER	Downloads	Label for the Download Manager menu
+GLOBAL_DOWNLOAD_MANAGER_GAME_MODES	Game Modes	Label for the Download Manager - Game modes section
+GLOBAL_DOWNLOAD_MANAGER_SETTINGS	Settings	Label for the Download Manager - Settings section
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_DOWNLOAD	Download
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_CANCEL	Cancel
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_UNINSTALL	Uninstall
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_DOWNLOADING	{0} / {1}	{0}=Downloaded size (e.g. 23 MB) {1}=Total size to download (e.g. 128 MB)
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_PAUSED	Paused
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_INSTALLED	Installed!
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_QUEUED	Queued
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_CANCELLING	Cancelling...
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_UNINSTALLING	Uninstalling...
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_REMAINING	Remaining: {0}	0=Time remaining. (e.g. 21:30)
+GLOBAL_DOWNLOAD_MANAGER_FREE_SPACE	Available Space: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MANAGER_PAUSE_DOWNLOADS	Pause All
+GLOBAL_DOWNLOAD_MANAGER_RESUME_DOWNLOADS	Resume All
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_LABEL	Cellular Data
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_DESC	Allow Hearthstone to use cellular data.
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_BODY_FORMAT	{0}\n\n{1}\n{2}	{0}=Prompt string, {1}=Module size, {2}=Device size available
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_TITLE	Uninstall	Popup title for removing a module
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_PROMPT	Uninstall {0}?	{0}=Module name to uninstall (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_TITLE	Cancel Download
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_PROMPT	Cancel Downloading {0}?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_TITLE	High Quality Mode
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_PROMPT	Opt out of High Quality Mode?\nYou will need to redownload the assets when opting back in.
+GLOBAL_DOWNLOAD_MODULE_POPUP_FILE_SIZE	File Size: {0}	{0}=File size to download (e.g. 1.8GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_FREE_SPACE	Available Space: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_PROMPT	Download {0}?	{0}=Module name to download (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_DISMISS_BUTTON	Done
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS	High Quality Mode	Name for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS_DESCRIPTION	Enable/disable high quality visuals and sounds	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_ENABLE_OPTIONAL_ASSETS_DOWNLOAD	Enable	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_LOADING_MESSAGE	Uninstalling
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_COMPLETE_MESSAGE	Uninstall complete
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_LOADING_MESSAGE	Cancelling
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_CANCEL_MESSAGE	Download canceled
+GLOBAL_MODULE_BGS	Battlegrounds	Module name for battlegrounds
+GLOBAL_RECONNECT_FAIL_MODE_NOT_AVAILABLE	Unable to reconnect to game, mode {0} is not downloaded	{0}=Name of the mode, (e.g. Battlegrounds, Mercenaries, Solo Adventures)
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER	Downloads	Button label for Download manager on the Game Menu
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP_TITLE	Downloads
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP	Here you can manage the downloads for Hearthstone. This is only available when at the main menu.
+GLOBAL_ASSEMBLE_UI_HEADER	Choose One Replacement                                                                                                                                                                                                                                        

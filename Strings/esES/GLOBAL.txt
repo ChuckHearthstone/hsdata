@@ -1,16 +1,70 @@
 TAG	TEXT	COMMENT
+BATTLEGROUNDS_PROGRESSION_QUEST_TIME_UNTIL_NEXT	Nueva misión en\n{0}	
+GLOBAL_AADC_BUTTON_PRIVACY	Privacidad	
+GLOBAL_AADC_BUTTON_PRIVACYSETTINGS	Ajustes de privacidad	
+GLOBAL_AADC_CHATSETTINGS_DISABLEDESCRIPTION	Si desactivas el chat, no podrás enviar ni recibir mensajes de amigos.	
+GLOBAL_AADC_CHATSETTINGS_DISABLEHEADER	¿Quieres desactivar el chat?	
+GLOBAL_AADC_CHATSETTINGS_ENABLEDESCRIPTION	Si activas el chat, podrás enviar y recibir mensajes de amigos. Ten cuidado y no compartas información personal.	
+GLOBAL_AADC_CHATSETTINGS_ENABLEHEADER	¿Quieres activar el chat?	
+GLOBAL_AADC_CHATSETTINGS_SETTINGSUPDATED	Ajustes del chat actualizados	
+GLOBAL_AADC_CHATSETTINGS_TITLE	Ajustes del chat	
+GLOBAL_AADC_CHATSETTINGS_UPDATINGSETTINGS	Actualizando ajustes del chat	
+GLOBAL_AADC_CHATWARNING	Ten cuidado y no compartas información personal en tus mensajes.	
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEDESCRIPTION	Desactivar a los jugadores cercanos impedirá que quienes estén próximos a tu ubicación puedan ver tu actividad en el juego en la lista de amigos.	
+GLOBAL_AADC_FRIENDSETTINGS_DISABLEHEADER	¿Quieres desactivar a los jugadores cercanos?	
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEDESCRIPTION	Activar a los jugadores cercanos permitirá que quienes estén próximos a tu ubicación puedan ver tu actividad en el juego en la lista de amigos.	
+GLOBAL_AADC_FRIENDSETTINGS_ENABLEHEADER	¿Quieres activar a los jugadores cercanos?	
+GLOBAL_AADC_FRIENDSETTINGS_SETTINGSUPDATED	Jugadores cercanos actualizados	
+GLOBAL_AADC_FRIENDSETTINGS_TITLE	Ajustes de amigos	
+GLOBAL_AADC_FRIENDSETTINGS_TURN_OFF_BUTTON	Desactivar	
+GLOBAL_AADC_FRIENDSETTINGS_TURN_ON_BUTTON	Activar	
+GLOBAL_AADC_FRIENDSETTINGS_UPDATINGSETTINGS	Actualizando jugadores cercanos	
+GLOBAL_AADC_NEARBY_PLAYER_SETTINGS_TITLE	Jugadores cercanos	
+GLOBAL_AADC_PARENTALLOCK_DESCRIPTION	Para cambiar esta opción es necesario que un progenitor o tutor actualice tus ajustes de privacidad en Battle.net.	
+GLOBAL_AADC_PRIVACYSETTINGSMENU_PRIVACYRIGHTS	Derechos de privacidad	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_LOCATIONSETTINGS	Activar ajustes de ubicación	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_DEVICE_PUSHNOTIFICATIONS	Activar notificaciones	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_OFFERS_ROW	Gestionar preferencias	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_DEVICE	Opciones de dispositivo	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_OFFERS	Ofertas personalizadas	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SECTIONHEADER_SOCIAL	Opciones sociales	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_CHATMESSAGES	Activar mensajes de chat	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_NEARBYFRIENDS	Activar jugadores cercanos	
+GLOBAL_AADC_PRIVACYSETTINGSPOPUP_SOCIAL_SPECIALOFFERS	Activar ofertas personalizadas de la tienda	
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEDESCRIPTION	Si desactivas las notificaciones, Hearthstone no podrá enviar notificaciones a tu dispositivo.	
+GLOBAL_AADC_PUSHNOTIFICATIONS_DISABLEHEADER	Desactivar notificaciones	
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEDESCRIPTION	Si activas las notificaciones, Hearthstone podrá enviar notificaciones a tu dispositivo.	
+GLOBAL_AADC_PUSHNOTIFICATIONS_ENABLEHEADER	Activar notificaciones	
+GLOBAL_AADC_PUSHNOTIFICATIONS_SETTINGSUPDATED	Ajustes de notificaciones actualizados	
+GLOBAL_AADC_PUSHNOTIFICATIONS_TITLE	Ajustes de notificaciones	
+GLOBAL_AADC_PUSHNOTIFICATIONS_UPDATINGSETTINGS	Actualizando ajustes de notificaciones	
+GLOBAL_AADC_SHOPSETTINGS_DISABLEDESCRIPTION	Si desactivas las ofertas personalizadas de la tienda, no podrás ver ofertas ajustadas a tu forma de jugar.	
+GLOBAL_AADC_SHOPSETTINGS_DISABLEHEADER	Desactivar ofertas personalizadas	
+GLOBAL_AADC_SHOPSETTINGS_ENABLEDESCRIPTION	Si activas las ofertas personalizadas de la tienda, podrás ver ofertas ajustadas a tu forma de jugar.	
+GLOBAL_AADC_SHOPSETTINGS_ENABLEHEADER	Activar ofertas personalizadas	
+GLOBAL_AADC_SHOPSETTINGS_SETTINGSUPDATED	Ajustes de la tienda actualizados	
+GLOBAL_AADC_SHOPSETTINGS_TITLE	Ajustes de la tienda	
+GLOBAL_AADC_SHOPSETTINGS_UPDATINGSETTINGS	Actualizando ajustes de la tienda	
+GLOBAL_AADC_UPDATESETTINGSPOPUP_DESCRIPTION	Todas las preferencias sociales y de tu dispositivo están activadas, incluyendo los mensajes de chat, la tienda y las ofertas personalizadas.	
+GLOBAL_AADC_UPDATESETTINGSPOPUP_TITLE	Ajustes actualizados	
 GLOBAL_ACCOUNT	Cuenta	
+GLOBAL_ACCOUNT_LINKING_CONFIRM_LINKED	¡Cuenta vinculada!	
+GLOBAL_ACCOUNT_LINKING_CONFIRM_WAITING	Estamos en ello…	
 GLOBAL_ADDFRIEND_BUTTON	Añadir como amigo	
 GLOBAL_ADDFRIEND_ERROR_ALREADY_FRIEND	Ya está en tu lista de amigos.	
 GLOBAL_ADDFRIEND_ERROR_MALFORMED	Tienes que introducir una dirección de correo electrónico o BattleTag.	
-GLOBAL_ADDFRIEND_HEADER	Añadir amigo	
+GLOBAL_ADDFRIEND_ERROR_MALFORMED_CN	Debes introducir un BattleTag.	
+GLOBAL_ADDFRIEND_HEADER	Añadir a un amigo de <color=#5ecaf0ff>Battle.net</color>	
 GLOBAL_ADDFRIEND_INSTRUCTION	Introduce una dirección de correo electrónico o BattleTag.	
+GLOBAL_ADDFRIEND_INSTRUCTION_CN	Introduce un BattleTag.	
 GLOBAL_ADDFRIEND_SENT_CONFIRMATION	Solicitud de amistad enviada.	
 GLOBAL_ADVENTURE_CHOOSE_BUTTON_TEXT	Elegir	
 GLOBAL_ADVENTURE_DESC_HEADER	Aventura	
 GLOBAL_ADVENTURE_TRAY_HEADER	Elige una aventura	
 GLOBAL_APPROXIMATE_DATETIME	~{0}	0=time string
 GLOBAL_APPROXIMATE_DATETIME_RANGE	~{0} - {1}	0=min seconds 1=max seconds string
+GLOBAL_ARENA	Arena	
+GLOBAL_ARENA_ERROR_NOT_ENOUGH_CLASSES	Lo sentimos, pero debes haber desbloqueado al menos tres clases para jugar en la Arena.	
 GLOBAL_ARENA_MEDAL_0	Llave de novicio	
 GLOBAL_ARENA_MEDAL_1	Llave de aprendiz	
 GLOBAL_ARENA_MEDAL_10	Llave Natoescarcha	
@@ -25,6 +79,9 @@ GLOBAL_ARENA_MEDAL_7	Llave de diamante
 GLOBAL_ARENA_MEDAL_8	Llave de campeón	
 GLOBAL_ARENA_MEDAL_9	Llave de rubí	
 GLOBAL_ARENA_SEASON_ERROR_NOT_ACTIVE	Lo sentimos. El modo de Arena solicitado ya no está disponible. Espera unos minutos y vuelve a intentarlo.	
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC	¡Gana {0} veces para optar a estas recompensas!	
+GLOBAL_ARENA_TOP_CROWDS_FAVOR_REWARD_DESC_WITH_LOSSES	¡Gana {0} veces con {1} derrotas para optar a estas recompensas!	
+GLOBAL_ASSEMBLE_UI_HEADER	Elige un reemplazo                                                                                                                                                                                                                                        	
 GLOBAL_ASSET_DOWNLOAD	Descarga de elementos	
 GLOBAL_ASSET_DOWNLOAD_ALERT	Descargas deshabilitadas durante la partida.	
 GLOBAL_ASSET_DOWNLOAD_AWAITING_FETCH	Comprobando si hay actualizaciones...	
@@ -47,6 +104,7 @@ GLOBAL_ASSET_DOWNLOAD_ERROR_AGENT_IMPEDED	Conexión lenta
 GLOBAL_ASSET_DOWNLOAD_ERROR_CELLULAR_DISABLED	Datos móviles deshabilitados	
 GLOBAL_ASSET_DOWNLOAD_ERROR_DOWNLOAD_DISABLED	Descarga deshabilitada	
 GLOBAL_ASSET_DOWNLOAD_ERROR_OUT_OF_STORAGE	Sin almacenamiento	
+GLOBAL_ASSET_DOWNLOAD_FIRST_DOWNLOAD_BODY	Datos adicionales necesarios: {0}\n\nHearthstone tiene que descargar datos adicionales para que puedas jugar al juego en su totalidad.	
 GLOBAL_ASSET_DOWNLOAD_GIGABYTE_SYMBOL	GB	
 GLOBAL_ASSET_DOWNLOAD_INTENTION_PAUSED	{0} (en pausa)	
 GLOBAL_ASSET_DOWNLOAD_IOS_REQ_POPUP_BODY	Descarga disponible. ¿Quieres descargar {0} de datos restantes?	
@@ -61,6 +119,7 @@ GLOBAL_ASSET_DOWNLOAD_STATUS_SHORT	{0} a {1}/s
 GLOBAL_ASSET_INTENTION_DONE	Listo	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_EXPANSION_MUSIC	Sonidos adicionales (2/3)	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_FONTS	Fuentes	
+GLOBAL_ASSET_INTENTION_DOWNLOADING_HERO_MUSIC	Música de los héroes	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_HIGH_RES_PORTRAITS	Alta resolución	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_LEGEND_STINGERS	Sonidos adicionales (1/3)	
 GLOBAL_ASSET_INTENTION_DOWNLOADING_MINION_PLAY_SOUNDS	Sonidos de esbirros	
@@ -80,16 +139,32 @@ GLOBAL_BUTTON_AWESOME	¡Genial!
 GLOBAL_BUTTON_BUY	COMPRAR	
 GLOBAL_BUTTON_CLOSE	Cerrar	
 GLOBAL_BUTTON_CONVERT	Convertir	
+GLOBAL_BUTTON_DOWNLOAD	Descargar	
 GLOBAL_BUTTON_GO	¡Vamos!	
+GLOBAL_BUTTON_GOT_IT	¡Entendido!	
 GLOBAL_BUTTON_INFO_LETTER	i	
+GLOBAL_BUTTON_LATER	Más tarde	
+GLOBAL_BUTTON_MORE_INFO	Más información	
 GLOBAL_BUTTON_NEXT	Siguiente	
 GLOBAL_BUTTON_NO	No	
 GLOBAL_BUTTON_NOT_NOW	Ahora no	
 GLOBAL_BUTTON_OK	Aceptar	
 GLOBAL_BUTTON_OR	O	
 GLOBAL_BUTTON_OWNED	Adquirido	
+GLOBAL_BUTTON_SUBMIT	Enviar	
 GLOBAL_BUTTON_YES	Sí	
 GLOBAL_CANCEL	Cancelar	
+GLOBAL_CANCEL_MODULE_POPUP_PROMPT	¿Quieres cancelar la descarga de {0}?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_CARD_SET_AV	Divididos en el Valle de Alterac	
+GLOBAL_CARD_SET_AV_SEARCHABLE_SHORTHAND_NAMES	va deevda dva	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_AV_SHORT	Valle de Alterac	
+GLOBAL_CARD_SET_BAR	Forjados en los Baldíos	
+GLOBAL_CARD_SET_BAR_SEARCHABLE_SHORTHAND_NAMES	bal felb fb	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BAR_SHORT	Baldíos	
+GLOBAL_CARD_SET_BASIC	Básico	
+GLOBAL_CARD_SET_BE	El Auge del Imperio Negro	
+GLOBAL_CARD_SET_BE_SEARCHABLE_SHORTHAND_NAMES	fbv fug	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_BE_SHORT	Imperio Negro	
 GLOBAL_CARD_SET_BOOMSDAY	El Proyecto Armagebum	
 GLOBAL_CARD_SET_BOOMSDAY_SEARCHABLE_SHORTHAND_NAMES	pa epa	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_BOOMSDAY_SHORT	Armagebum	
@@ -98,7 +173,13 @@ GLOBAL_CARD_SET_BRM_SEARCHABLE_SHORTHAND_NAMES	mrn	This is a space-separated lis
 GLOBAL_CARD_SET_BT	Cenizas de Terrallende	
 GLOBAL_CARD_SET_BT_SEARCHABLE_SHORTHAND_NAMES	ct cdt cenizas	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_BT_SHORT	Terrallende	
-GLOBAL_CARD_SET_CORE	Básico	
+GLOBAL_CARD_SET_CATA	EL CATACLISMO	
+GLOBAL_CARD_SET_CATA_SEARCHABLE_SHORTHAND_NAMES	cata	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CATA_SHORT	Cataclismo	
+GLOBAL_CARD_SET_CORE	Esencial	
+GLOBAL_CARD_SET_CORE_HIDDEN	Esencial (no válido)	
+GLOBAL_CARD_SET_CORE_SEARCHABLE_SHORTHAND_NAMES	esencial	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_CORE_SHORT	Esencial	
 GLOBAL_CARD_SET_DALARAN	El Auge de las Sombras	
 GLOBAL_CARD_SET_DALARAN_SEARCHABLE_SHORTHAND_NAMES	eadls as adls	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DALARAN_SHORT	Auge de las Sombras	
@@ -106,14 +187,29 @@ GLOBAL_CARD_SET_DEBUG	Granizado
 GLOBAL_CARD_SET_DHI	Iniciado cazador de demonios	
 GLOBAL_CARD_SET_DHI_SEARCHABLE_SHORTHAND_NAMES	icd	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DHI_SHORT	Iniciado	
+GLOBAL_CARD_SET_DMF	Locura en la Feria de la Luna Negra	
+GLOBAL_CARD_SET_DMF_SEARCHABLE_SHORTHAND_NAMES	fln	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_DMF_SHORT	Luna Negra	
 GLOBAL_CARD_SET_DRG	El Descenso de los Dragones	
 GLOBAL_CARD_SET_DRG_SEARCHABLE_SHORTHAND_NAMES	eddld dd	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_DRG_SHORT	Dragones	
+GLOBAL_CARD_SET_EDR	Camino al Sueño Esmeralda	
+GLOBAL_CARD_SET_EDR_SEARCHABLE_SHORTHAND_NAMES	ses	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EDR_SHORT	Sueño Esmeralda	
+GLOBAL_CARD_SET_ETC	El Festival Legendario	
+GLOBAL_CARD_SET_ETC_SEARCHABLE_SHORTHAND_NAMES	efl fl	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_ETC_SHORT	Festival	
+GLOBAL_CARD_SET_EVE	Evento	
+GLOBAL_CARD_SET_EVE_SEARCHABLE_SHORTHAND_NAMES	eve	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_EVE_SHORT	Evento	
 GLOBAL_CARD_SET_EXPERT1	Clásico	
 GLOBAL_CARD_SET_GANGS	Mafias de Gadgetzan	
 GLOBAL_CARD_SET_GANGS_RESERVE	Reserva de Mafias	
 GLOBAL_CARD_SET_GANGS_SEARCHABLE_SHORTHAND_NAMES	mdg	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_GANGS_SHORT	Gadgetzan	
+GLOBAL_CARD_SET_GDB	La Gran Oscuridad	
+GLOBAL_CARD_SET_GDB_SEARCHABLE_SHORTHAND_NAMES	lgo	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_GDB_SHORT	Oscuridad	
 GLOBAL_CARD_SET_GILNEAS	El Bosque Embrujado	
 GLOBAL_CARD_SET_GILNEAS_SEARCHABLE_SHORTHAND_NAMES	be	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_GILNEAS_SHORT	Bosque Embrujado	
@@ -122,9 +218,18 @@ GLOBAL_CARD_SET_GVG_SEARCHABLE_SHORTHAND_NAMES	gvg	This is a space-separated lis
 GLOBAL_CARD_SET_HOF	Salón de la fama	
 GLOBAL_CARD_SET_ICECROWN	Caballeros del Trono Helado	
 GLOBAL_CARD_SET_ICECROWN_SHORT	Trono Helado	
-GLOBAL_CARD_SET_KARA	Una noche en Karazhan	
+GLOBAL_CARD_SET_JAIL	Fuga del Bastión Violeta	
+GLOBAL_CARD_SET_JAIL_SEARCHABLE_SHORTHAND_NAMES	fbv fug	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_JAIL_SHORT	Bastión Violeta	
+GLOBAL_CARD_SET_KARA	Una Noche en Karazhan	
 GLOBAL_CARD_SET_KARA_RESERVE	Reserva de Karazhan	
 GLOBAL_CARD_SET_KARA_SHORT	Karazhan	
+GLOBAL_CARD_SET_LEGACY	Antiguo	
+GLOBAL_CARD_SET_LEGACY_SEARCHABLE_SHORTHAND_NAMES	antg	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LEGACY_SHORT	Antiguo	
+GLOBAL_CARD_SET_LETL		Lettuce
+GLOBAL_CARD_SET_LETL_SEARCHABLE_SHORTHAND_NAMES	let	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_LETL_SHORT	Lettuce	
 GLOBAL_CARD_SET_LOE	La Liga de Expedicionarios	
 GLOBAL_CARD_SET_LOE_SEARCHABLE_SHORTHAND_NAMES	lde	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_LOE_SHORT	Liga de Expedicionarios	
@@ -137,39 +242,98 @@ GLOBAL_CARD_SET_OG	Dioses Antiguos
 GLOBAL_CARD_SET_OG_RESERVE	Reserva de Dioses Antiguos	
 GLOBAL_CARD_SET_OG_SEARCHABLE_SHORTHAND_NAMES	tog sdlda da	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.  For Whispers of the Old Gods, 'tog' should be available in all locales; wotog and wog are additional English shorthands, which should be replaced by locale specific variants.
 GLOBAL_CARD_SET_OG_SHORT	Dioses Antiguos	
+GLOBAL_CARD_SET_PA	Camino de Arthas	
+GLOBAL_CARD_SET_PA_SEARCHABLE_SHORTHAND_NAMES	ca	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PA_SHORT	Camino de Arthas	
+GLOBAL_CARD_SET_PET	Mascota	
+GLOBAL_CARD_SET_PET_SEARCHABLE_SHORTHAND_NAMES	mascota	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_PET_SHORT	Mascota	
 GLOBAL_CARD_SET_PROMO	Promoción	
+GLOBAL_CARD_SET_REV	Asesinato en el Castillo de Nathria	
+GLOBAL_CARD_SET_REV_SEARCHABLE_SHORTHAND_NAMES	acn cn rev	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_REV_SHORT	Castillo de Nathria	
+GLOBAL_CARD_SET_RLK	Marcha del Rey Exánime	
+GLOBAL_CARD_SET_RLK_SEARCHABLE_SHORTHAND_NAMES	mdre mre re	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_RLK_SHORT	Rey Exánime	
 GLOBAL_CARD_SET_SCH	Academia Scholomance	
 GLOBAL_CARD_SET_SCH_SEARCHABLE_SHORTHAND_NAMES	academia sc as	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_SCH_SHORT	Scholomance	
+GLOBAL_CARD_SET_SW	Unidos en Ventormenta	
+GLOBAL_CARD_SET_SW_SEARCHABLE_SHORTHAND_NAMES	vt	uis
+GLOBAL_CARD_SET_SW_SHORT	Ventormenta	
 GLOBAL_CARD_SET_TGT	El Gran Torneo	
 GLOBAL_CARD_SET_TGT_SEARCHABLE_SHORTHAND_NAMES	egt	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_TGT_SHORT	Gran Torneo	
+GLOBAL_CARD_SET_TIME	Los Portales del Tiempo	
+GLOBAL_CARD_SET_TIME_SEARCHABLE_SHORTHAND_NAMES	tiempo	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TIME_SHORT	Portales del Tiempo	
+GLOBAL_CARD_SET_TLC	La Ciudad Perdida de Un'Goro	
+GLOBAL_CARD_SET_TLC_SEARCHABLE_SHORTHAND_NAMES	lcp	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TLC_SHORT	Ciudad Perdida	
+GLOBAL_CARD_SET_TOY	El Taller de Mirífico	
+GLOBAL_CARD_SET_TOY_SEARCHABLE_SHORTHAND_NAMES	juguete	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TOY_SHORT	El Taller de Mirífico	
 GLOBAL_CARD_SET_TROLL	La Arena de Rastakhan	
 GLOBAL_CARD_SET_TROLL_SEARCHABLE_SHORTHAND_NAMES	rr ar adr ladr arena de rastakhan	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_TROLL_SHORT	Rastakhan	
+GLOBAL_CARD_SET_TSC	Viaje a la Ciudad Sumergida	
+GLOBAL_CARD_SET_TSC_SEARCHABLE_SHORTHAND_NAMES	lcs valcs vlcs cs	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TSC_SHORT	Ciudad Sumergida	
+GLOBAL_CARD_SET_TTN	LOS TITANES	
+GLOBAL_CARD_SET_TTN_SEARCHABLE_SHORTHAND_NAMES	titanes	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TTN_SHORT	Los Titanes	
+GLOBAL_CARD_SET_TUT	Tutorial	
+GLOBAL_CARD_SET_TUT_SEARCHABLE_SHORTHAND_NAMES	tut	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_TUT_SHORT	Tutorial	
 GLOBAL_CARD_SET_ULDUM	Salvadores de Uldum	
 GLOBAL_CARD_SET_ULDUM_SEARCHABLE_SHORTHAND_NAMES	sdu	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
 GLOBAL_CARD_SET_ULDUM_SHORT	Uldum	
 GLOBAL_CARD_SET_UNGORO	Viaje a Un'Goro	
 GLOBAL_CARD_SET_UNGORO_SHORT	Un'Goro	
+GLOBAL_CARD_SET_VAC	Peligro en el Paraíso	
+GLOBAL_CARD_SET_VAC_SEARCHABLE_SHORTHAND_NAMES	vac	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VAC_SHORT	Paraíso	
+GLOBAL_CARD_SET_VANILLA	Clásico	
+GLOBAL_CARD_SET_VANILLA_FORMAT_SEARCHABLE_SHORTHAND_NAMES	fmtcls	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_VANILLA_FORMAT_SHORT	Clásico	
+GLOBAL_CARD_SET_VANILLA_SHORT	Clásico	
 GLOBAL_CARD_SET_WILD_EVENT	Evento salvaje	
 GLOBAL_CARD_SET_WILD_EVENT_SHORT	Evento salvaje	
+GLOBAL_CARD_SET_WON	Cavernas del Tiempo	
+GLOBAL_CARD_SET_WON_SEARCHABLE_SHORTHAND_NAMES	cavernas cdt	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WON_SHORT	Cavernas	
+GLOBAL_CARD_SET_WST	Duelo en las Tierras Inhóspitas	
+GLOBAL_CARD_SET_WST_SEARCHABLE_SHORTHAND_NAMES	tierras inhóspitas	This is a space-separated list indicating all of the allowable search keywords that can be used in Collection Manager screen's text-search feature to narrow down the cards to this specific Card Set via shorthand names (note: the full name above is also used for this feature). Also note: letter case is ignored.
+GLOBAL_CARD_SET_WST_SHORT	Tierras Inhóspitas	
 GLOBAL_CARD_SET_YOD	El Despertar de Galakrond	
 GLOBAL_CARD_SET_YOD_SHORT	El Despertar de Galakrond	
+GLOBAL_CARDTYPE_ANOMALY	Anomalía	
+GLOBAL_CARDTYPE_BACONHEROBUDDY	Colega de héroe	
+GLOBAL_CARDTYPE_BACONQUESTREWARD	Recompensa	
 GLOBAL_CARDTYPE_ENCHANTMENT	Encantamiento	
 GLOBAL_CARDTYPE_HERO	Héroe	
 GLOBAL_CARDTYPE_HEROPOWER	Poder de héroe	
 GLOBAL_CARDTYPE_ITEM	Objeto	
+GLOBAL_CARDTYPE_LOCATION	Ubicación	
 GLOBAL_CARDTYPE_MINION	Esbirro	
 GLOBAL_CARDTYPE_SPELL	Hechizo	
 GLOBAL_CARDTYPE_TOKEN	Ficha	
+GLOBAL_CARDTYPE_TRINKET	Abalorio	
 GLOBAL_CARDTYPE_WEAPON	Arma	
 GLOBAL_CHAT_BUBBLE_RECEIVER_NAME	Para: {0}	0=player name
 GLOBAL_CHAT_CHALLENGE	Desafío	
+GLOBAL_CHAT_DECK_CODE_HINT	\nHaz clic para copiar	
+GLOBAL_CHAT_DECK_CODE_HINT_TOUCH	\nToca para copiar	
+GLOBAL_CHAT_DECK_CODE_MESSAGE	Mazo de {0}{1}	0=class name,1=copy hint
+GLOBAL_CHAT_DECK_CODE_WITH_NAME_MESSAGE	Mazo de {0}: {1}{2}	0=class name,1=deck name,2=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_MESSAGE	Grupo de mercenarios{0}	0=copy hint
+GLOBAL_CHAT_MERCENARIES_PARTY_CODE_WITH_NAME_MESSAGE	Grupo de mercenarios: {0}{1}	0=deck name,1=copy hint
 GLOBAL_CHAT_NO_FRIENDS_ONLINE	No hay amigos conectados ahora mismo.	
 GLOBAL_CHAT_NO_RECENT_CONVERSATIONS	Usa el menú de amigos para iniciar una conversación con un amigo.	
 GLOBAL_CHAT_RECEIVER_OFFLINE	{0} está desconectado.	0=player name
 GLOBAL_CHAT_RECEIVER_ONLINE	{0} está conectado.	0=player name
+GLOBAL_CHAT_SEND_DECK_MESSAGE	¿Quieres enviar un mensaje nuevo con el mazo que tienes copiado?	
+GLOBAL_CHAT_SEND_DECK_TITLE	Enviar mensaje con mazo	
 GLOBAL_CHAT_SENDER_APPEAR_OFFLINE	No puedes enviar mensajes de chat mientras apareces desconectado.	
 GLOBAL_CHAT_SENDER_OFFLINE	Estás desconectado.	
 GLOBAL_CHOOSE_PAYMENT	Elegir método de pago	
@@ -185,9 +349,14 @@ GLOBAL_CLASS_ROGUE	Pícaro
 GLOBAL_CLASS_SHAMAN	Chamán	
 GLOBAL_CLASS_WARLOCK	Brujo	
 GLOBAL_CLASS_WARRIOR	Guerrero	
+GLOBAL_CLASSIC	Clásico	
 GLOBAL_CLICK_TO_CONTINUE	Haz clic para continuar	
 GLOBAL_CLICK_TO_CONTINUE_TOUCH	Toca la pantalla para continuar	
+GLOBAL_COLLECTION_DIAMOND	Diamante	
 GLOBAL_COLLECTION_GOLDEN	dorada	
+GLOBAL_COLLECTION_NORMAL	Normal	
+GLOBAL_COLLECTION_SIGNATURE	Distintivas	
+GLOBAL_COMMA_SEPARATOR	,	
 GLOBAL_CONCEDE	Rendirse	
 GLOBAL_CONFIRM	Confirmar	
 GLOBAL_CONTINUE	Continuar	
@@ -195,7 +364,9 @@ GLOBAL_COST	Coste
 GLOBAL_CREATE	Crear	
 GLOBAL_CURRENT_DATE	{0:dd/MM/yy}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
 GLOBAL_CURRENT_TIME	{0:HH:mm}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
+GLOBAL_CURRENT_TIME_AM	A. M.	
 GLOBAL_CURRENT_TIME_AND_DATE_DEV	{0} ({1} - {2})	
+GLOBAL_CURRENT_TIME_PM	P. M.	
 GLOBAL_DATETIME_AFK_DAY	Ausente desde hace más de un día	
 GLOBAL_DATETIME_AFK_DAYS	Ausente desde hace {0} |4(día,días)	
 GLOBAL_DATETIME_AFK_HOURS	Ausente desde hace {0} h	
@@ -237,7 +408,17 @@ GLOBAL_DATETIME_SPLASHSCREEN_MINUTES	{0} |4(minuto,minutos)
 GLOBAL_DATETIME_SPLASHSCREEN_MONTH	> 1 mes	
 GLOBAL_DATETIME_SPLASHSCREEN_SECONDS	< 1 min	
 GLOBAL_DATETIME_SPLASHSCREEN_WEEKS	{0} |4(semana,semanas)	
+GLOBAL_DATETIME_TIMER_DAYS_HOURS	{0} d {1} h	0=days 1=hours
+GLOBAL_DATETIME_TIMER_HOURS_MINUTES	{0} h {1} min	0=hours 1=minutes
+GLOBAL_DATETIME_TIMER_LESS_THAN_X_MINUTES	<{0} min	0=minutes
+GLOBAL_DATETIME_TIMER_MINUTES	{0} min	0=minutes
+GLOBAL_DATETIME_TIMER_SECONDS	{0} s	0=seconds
+GLOBAL_DATETIME_TRIAL_PERIOD_MONTH	+30 días	
 GLOBAL_DATETIME_UNLOCKS_SOON_WEEKS	Se desbloquea en {0} |4(semana,semanas)	
+GLOBAL_DEATHKNIGHT_RUNE_BLOOD	Caballero de la Muerte: Sangre	
+GLOBAL_DEATHKNIGHT_RUNE_FROST	Caballero de la Muerte: Escarcha	
+GLOBAL_DEATHKNIGHT_RUNE_LOCKED	Mostrar todas las runas	
+GLOBAL_DEATHKNIGHT_RUNE_UNHOLY	Caballero de la Muerte: Profano	
 GLOBAL_DECK_SHARE_ACCEPT_REQUEST	Compartir	
 GLOBAL_DECK_SHARE_DECLINE_REQUEST	¡Ni hablar!	
 GLOBAL_DECK_SHARE_ERROR	Se ha producido un error al intentar compartir mazos.	
@@ -251,8 +432,47 @@ GLOBAL_DEMO_COMPLETE_BODY	¡Gracias por jugar a esta demo de Hearthstone!
 GLOBAL_DEMO_COMPLETE_HEADER	¡Enhorabuena!	
 GLOBAL_DEMO_DISCLAIMER	Esta versión de Hearthstone se ha creado especialmente para probar el juego.	
 GLOBAL_DEMO_LEARN_MORE	Más información	
+GLOBAL_DEVICE_TYPE_CONSOLE	Consola	The type of device is a game console
+GLOBAL_DEVICE_TYPE_DESKTOP	Escritorio	The type of device is a desktop computer
+GLOBAL_DEVICE_TYPE_HANDHELD	Consola	The type of device is a handheld device like a phone or tablet
 GLOBAL_DISABLE	Deshabilitar	
 GLOBAL_DONE	Listo	
+GLOBAL_DOWNLOAD_MANAGER	Descargas	Label for the Download Manager menu
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_CANCEL	Cancelar	
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_DOWNLOAD	Descargar	
+GLOBAL_DOWNLOAD_MANAGER_BUTTON_UNINSTALL	Desinstalar	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_CANCEL_MESSAGE	Descarga cancelada	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_LOADING_POPUP_LOADING_MESSAGE	Cancelando	
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_PROMPT	¿Quieres cancelar la descarga de {0}?	{0}=Module name to cancel downloading (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_CANCEL_MODULE_POPUP_TITLE	Cancelar descarga	
+GLOBAL_DOWNLOAD_MANAGER_DISMISS_BUTTON	Listo	
+GLOBAL_DOWNLOAD_MANAGER_ENABLE_OPTIONAL_ASSETS_DOWNLOAD	Activar	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_FREE_SPACE	Espacio disponible: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MANAGER_GAME_MODES	Modos de juego	Label for the Download Manager - Game modes section
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_DESC	Permite que Hearthstone utilice datos móviles.	
+GLOBAL_DOWNLOAD_MANAGER_OPTION_CELLULAR_DATA_LABEL	Datos móviles	
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS	Modo Alta calidad	Name for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_OPTIONAL_ASSETS_DESCRIPTION	Habilita/deshabilita los gráficos y sonido de alta calidad	Description for optional assets to be displayed on Download Manager
+GLOBAL_DOWNLOAD_MANAGER_PAUSE_DOWNLOADS	Poner todo en pausa	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_CANCELLING	Cancelando...	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_DOWNLOADING	{0} / {1}	{0}=Downloaded size (e.g. 23 MB) {1}=Total size to download (e.g. 128 MB)
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_INSTALLED	¡Instalado!	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_PAUSED	En pausa	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_QUEUED	En cola	
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_REMAINING	Quedan: {0}	0=Time remaining. (e.g. 21:30)
+GLOBAL_DOWNLOAD_MANAGER_PROGRESS_STATUS_UNINSTALLING	Desinstalando...	
+GLOBAL_DOWNLOAD_MANAGER_RESUME_DOWNLOADS	Reanudar todo	
+GLOBAL_DOWNLOAD_MANAGER_SETTINGS	Ajustes	Label for the Download Manager - Settings section
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_COMPLETE_MESSAGE	Desinstalación completada	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_LOADING_POPUP_LOADING_MESSAGE	Desinstalando	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_BODY_FORMAT	{0}\n\n{1}\n{2}	{0}=Prompt string, {1}=Module size, {2}=Device size available
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_PROMPT	¿Quieres desinstalar {0}?	{0}=Module name to uninstall (e.g. Battlegrounds)
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_MODULE_POPUP_TITLE	Desinstalar	Popup title for removing a module
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_PROMPT	¿Quieres desactivar el modo Alta calidad?\nSi vuelves a activarlo, tendrás que volver a descargar los recursos.	
+GLOBAL_DOWNLOAD_MANAGER_UNINSTALL_OPTIONAL_ASSETS_POPUP_TITLE	Modo Alta calidad	
+GLOBAL_DOWNLOAD_MODULE_POPUP_FILE_SIZE	Tamaño del archivo: {0}	{0}=File size to download (e.g. 1.8GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_FREE_SPACE	Espacio disponible: {0}	{0}=Free spaces available on the device (e.g. 8.23 GB)
+GLOBAL_DOWNLOAD_MODULE_POPUP_PROMPT	¿Quieres descargar {0}?	{0}=Module name to download (e.g. Battlegrounds)
 GLOBAL_ENABLE	Habilitar	
 GLOBAL_END_GAME	Finalizar partida	
 GLOBAL_ENTER	Entrar	
@@ -273,6 +493,9 @@ GLOBAL_ERROR_GAME_OPPONENT_TIMEOUT	No se ha podido iniciar la partida porque tu 
 GLOBAL_ERROR_GENERIC_HEADER	Error	
 GLOBAL_ERROR_INACTIVITY_KICK	Se ha cancelado la conexión porque llevas demasiado tiempo inactivo en Hearthstone. Inicia el juego cuando quieras continuar.	
 GLOBAL_ERROR_NETWORK_ACCOUNT_BANNED	Se ha suspendido permanentemente tu cuenta.	
+GLOBAL_ERROR_NETWORK_ACCOUNT_CURFEW_REACHED	No puedes iniciar sesión debido a restricciones de tiempo de juego para menores de edad. Se recomienda mantener un estilo de vida equilibrado y sano mientras juegas a videojuegos. Más información en: https://support.battlenet.com.cn/w/article/101015	
+GLOBAL_ERROR_NETWORK_ACCOUNT_INVALID_NID	Lo sentimos, no podrás continuar hasta que completes la verificación de tu nombre real. Consulta https://support.battlenet.com.cn/w/article/101015 para obtener más información.	
+GLOBAL_ERROR_NETWORK_ACCOUNT_PLAYTIME_EXCEEDED	No puedes iniciar sesión debido a restricciones de tiempo de juego para menores de edad. Se recomienda mantener un estilo de vida equilibrado y sano mientras juegas a videojuegos. Más información en: https://support.battlenet.com.cn/w/article/101015	
 GLOBAL_ERROR_NETWORK_ACCOUNT_SUSPENDED	Tu cuenta ha sido suspendida.	
 GLOBAL_ERROR_NETWORK_ADMIN_KICKED	Se te ha expulsado de los servicios de Blizzard. Reinicia Hearthstone para volver a conectarte.	
 GLOBAL_ERROR_NETWORK_ADVENTURE_RECONNECT_TIMEOUT	Tu partida se ha guardado. Reinicia Hearthstone para retomarla donde la dejaste.	
@@ -289,10 +512,10 @@ GLOBAL_ERROR_NETWORK_NO_CONNECTION	No se ha podido establecer la conexión. Comp
 GLOBAL_ERROR_NETWORK_NO_GAME_SERVER	¡Vaya! No hemos podido iniciar una partida. Vuelve a intentarlo.	
 GLOBAL_ERROR_NETWORK_PARENTAL_CONTROLS	El acceso a esta cuenta está restringido actualmente por el control parental.	
 GLOBAL_ERROR_NETWORK_PHONE_LOCK	Llama al número de teléfono de Blizzard Phone Lock para poder iniciar sesión.\nTaiwán: 0800-303-585\nHong Kong: 396-54666	
-GLOBAL_ERROR_NETWORK_RISK_ACCOUNT_LOCKED	¡Hemos bloqueado tu cuenta! Por favor visita https://eu.battle.net/support/es/ y busca 7537 para obtener más información.	
+GLOBAL_ERROR_NETWORK_RISK_ACCOUNT_LOCKED	¡Hemos bloqueado tu cuenta! Dirígete a https://us.battle.net/support/es/ e introduce «7537» en el campo de búsqueda para averiguar el motivo.	
 GLOBAL_ERROR_NETWORK_SPAM	Se te ha desconectado del servicio de Blizzard por enviar demasiadas solicitudes demasiado rápido. Vuelve a iniciar Hearthstone para volver a conectarte.	
 GLOBAL_ERROR_NETWORK_TITLE	ERROR DE RED	
-GLOBAL_ERROR_NETWORK_UNAVAILABLE_NEW_VERSION	Tu cuenta está usando una versión más reciente del juego. Espera a la actualización antes de jugar en este dispositivo.	
+GLOBAL_ERROR_NETWORK_UNAVAILABLE_NEW_VERSION	Tu cuenta se ha usado en una versión más reciente del juego. Espera a la actualización en este dispositivo antes de jugar.	
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_OFFLINE	Hearthstone no tiene conexión. Espera unos minutos y vuelve a intentarlo.	
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_UNKNOWN	¡Vaya! Unos duendes traviesos le han puesto la zancadilla a Hearthstone cuando estaba intentando conectarse a nuestros servidores. Espera unos minutos a que se vayan y vuelve a intentarlo.	
 GLOBAL_ERROR_NETWORK_UNAVAILABLE_UPGRADE	¡Hearthstone se ha actualizado! Descarga la versión más reciente.	
@@ -301,22 +524,15 @@ GLOBAL_ERROR_NO_MAGE_PRECON	Se ha producido un error de red al cargar las cartas
 GLOBAL_ERROR_STREAMING_ASSET_TIMEOUT	Se ha agotado el tiempo de espera del sistema de transmisión. Se estaba cargando el elemento {0}.	0=asset name
 GLOBAL_ERROR_UNKNOWN_ERROR	¡Vaya! Unos duendes traviesos han interrumpido Hearthstone cuando estaba conectándose al servicio de Blizzard. Espera unos minutos a que se vayan y prueba a ejecutar el juego de nuevo.	
 GLOBAL_EXIT	Salir	
+GLOBAL_EXIT_CONFIRM_MESSAGE	¿Seguro que quieres salir del juego?	
+GLOBAL_EXIT_CONFIRM_TITLE	Salir	
 GLOBAL_FEATURE_DISABLED_MESSAGE_BATTLEGROUNDS	Lo sentimos, Campos de batalla no está activo en este momento.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_COLLECTION	Lo sentimos, la Colección no está activa en este momento.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_FORGE	Lo sentimos, la Arena no está activa en este momento.	
-GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	Lo sentimos, el modo Jugar no está activo en este momento.	
+GLOBAL_FEATURE_DISABLED_MESSAGE_PLAY	Lo sentimos, el modo tradicional de Hearthstone no está activo en este momento.	
 GLOBAL_FEATURE_DISABLED_MESSAGE_PRACTICE	Lo sentimos, el modo Práctica no está activo en este momento.	
 GLOBAL_FEATURE_DISABLED_TITLE	Desactivado	
 GLOBAL_FINISH	Acabar	
-GLOBAL_FIRESIDE_BRAWL	Pelea Fireside	
-GLOBAL_FIRESIDE_GATHERING	Fireside Gathering	
-GLOBAL_FIRESIDE_GATHERING_CHOOSE_HEADER	Elige una opción	
-GLOBAL_FIRESIDE_GATHERING_DEFAULT_TAVERN_NAME	Fireside Gathering	
-GLOBAL_FIRESIDE_GATHERING_FIRST_TIME_TAVERN_NAME	Taberna de {0}	0=innkeeper battle tag
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_LARGE_SCALE	Jugadores en este Fireside Gathering: {0}+	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in.
-GLOBAL_FIRESIDE_GATHERING_PATRON_LIST_FOOTER_TEXT_SOFT_LIMIT	Jugadores en este Fireside Gathering: {0}	0=The number of patrons up to 99.
-GLOBAL_FIRESIDE_GATHERING_REUNPACK	Actualizar configuración	
-GLOBAL_FIRESIDE_GATHERING_SOCIAL_BUTTON_LARGE_SCALE_LABEL	<size=32>99<size=26>+</size></size>	This is shown on the Friends List button whenever player is checked into a large scale Fireside Gathering (one that doesn't show the full patron list). the design decision was to show 99+ regardless of how many people are actually checked in. NOTE: the size tag was used in enUS to shrink the + sign, to make sure 99+ fit into the small button.
 GLOBAL_FORGE_END_DONE	Listo	
 GLOBAL_FORGE_END_JOKE_0	¡Ha sido sublime!	
 GLOBAL_FORGE_END_JOKE_1	¡No tengo palabras!	
@@ -329,13 +545,15 @@ GLOBAL_FORGE_END_JOKE_7	¡OBSERVA!
 GLOBAL_FORGE_END_JOKE_8	¡Esto no acaba aquí! Ah, no, sí que acaba aquí.	
 GLOBAL_FORGE_END_TITLE	Arena completada	
 GLOBAL_FRIEND_CHALLENGE_ACCEPT	Aceptar	
-GLOBAL_FRIEND_CHALLENGE_BODY_BACON	Esta persona te ha invitado\na una partida de Campos de batalla:	
+GLOBAL_FRIEND_CHALLENGE_BODY_BACON	Esta persona te ha invitado\na un grupo de Campos de batalla:	
+GLOBAL_FRIEND_CHALLENGE_BODY_BATTLEGROUNDS_SUGGESTION	{0} quiere invitar a alguien a tu grupo de Campos de batalla:	0=suggester name
 GLOBAL_FRIEND_CHALLENGE_BODY1	Has recibido un desafío de:	
-GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	Has recibido un desafío para una partida estándar de:	
+GLOBAL_FRIEND_CHALLENGE_BODY1_CLASSIC	Has recibido un desafío para\nuna partida clásica de:	
+GLOBAL_FRIEND_CHALLENGE_BODY1_STANDARD	Has recibido un desafío para\nuna partida estándar de:	
+GLOBAL_FRIEND_CHALLENGE_BODY1_TWIST	Has recibido un desafío para\nuna partida en modo Giro de:	
 GLOBAL_FRIEND_CHALLENGE_BODY1_WILD	Has recibido un desafío para una partida salvaje de:	
 GLOBAL_FRIEND_CHALLENGE_BODY2	¿Aceptas?	
 GLOBAL_FRIEND_CHALLENGE_DECLINE	Rechazar	
-GLOBAL_FRIEND_CHALLENGE_FIRESIDE_BRAWL_BODY1	Alguien te ha desafiado a una pelea Fireside:	
 GLOBAL_FRIEND_CHALLENGE_HEADER	Desafío	
 GLOBAL_FRIEND_CHALLENGE_NEARBY_PLAYER_NOTE	Puedes desactivar las invitaciones de jugadores cercanos en la lista de amigos.	
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_CANCELED	{0} ha cancelado el desafío.	0=friend name
@@ -343,50 +561,114 @@ GLOBAL_FRIEND_CHALLENGE_OPPONENT_DECLINED	{0} ha rechazado tu desafío.	0=friend
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_FRIEND_REMOVED	Desafío cancelado porque {0} ya no es tu amigo.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_DECK	Esperas a que {0} elija un mazo.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_RESPONSE	Esperas a que {0} responda a tu desafío.	0=friend name
+GLOBAL_FRIEND_CHALLENGE_OPPONENT_WAITING_TEAM	Esperas a que tu oponente elija un equipo.	
 GLOBAL_FRIEND_CHALLENGE_QUEUE_CANCELED	Se ha cancelado el desafío.	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY1	Has recibido un desafío para una pelea de taberna de:	
+GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_BODY2	Has recibido una invitación para una Pelea de dúos de:	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_HEADER	Desafío de pelea de taberna	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_OPPONENT_WAITING_READY	Esperas a que {0} se una a la pelea.	0=friend name
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_RECIPIENT	¡{0} quiere pelear contra ti! Crea un mazo de pelea de taberna para poder aceptar desafíos de este modo.	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NO_VALID_DECK_SENDER	Tu amigo aún no tiene un mazo de pelea de taberna. ¡Vuelve a intentarlo cuando lo tenga!	
 GLOBAL_FRIEND_CHALLENGE_TAVERN_BRAWL_RECIPIENT_NOT_UNLOCKED_SENDER	Tu amigo aún no ha desbloqueado las peleas de taberna. ¡Vuelve a intentarlo cuando lo haya hecho!	
 GLOBAL_FRIEND_CHALLENGE_TITLE	Amistoso	
+GLOBAL_FRIEND_INVITE_HEADER	Invitar	
+GLOBAL_FRIEND_INVITE_OPPONENT_WAITING_RESPONSE	Esperas a que {0} responda a tu invitación.	0=friend name
+GLOBAL_FRIEND_PARTY_INVITATION_BODY_DECLINED	{0} ha rechazado la invitación.	0=friend name
+GLOBAL_FRIEND_PARTY_INVITATION_TITLE	Grupo	
 GLOBAL_FRIENDLIST_ADD_FRIEND_BUTTON	Añadir	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_INVITE	Invitar al grupo	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_PARTY_KICK	Echar del grupo	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_BODY	Ya has invitado a este jugador.	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_ALREADY_SENT_HEADER	Ya se ha enviado	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_BODY	Invita a {0} a jugar contigo a Campos de batalla.	0=player name
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_BODY	Ya se ha invitado a 8 jugadores a este grupo.	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_FULL_PARTY_HEADER	Grupo completo	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_INVITE_HEADER	Invitar	
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_BODY	Elimina a {0} de tu grupo de Campos de batalla.	0=player name
+GLOBAL_FRIENDLIST_BATTLEGROUNDS_TOOLTIP_KICK_HEADER	Expulsar	
 GLOBAL_FRIENDLIST_BUSYSTATUS	Ocupado	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_AVAILABLE	Desafía a {0} a una partida de Hearthstone.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_LOCKED	Completa el tutorial de Campos de batalla para desbloquear.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_BATTLEGROUNDS_PARTY_MEMBER	No puedes enviar desafíos mientras estás en un grupo de Campos de batalla.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_EARLY_ACCESS	En estos momentos, este modo solo está disponible con acceso anticipado.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_GAME_MODE_LOCKED	Aún no has desbloqueado este modo.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_HEADER	Desafío amistoso	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_APPEARING_OFFLINE	Ahora mismo no puedes desafiar a {0}. Apareces desconectado.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_IM_UNAVAILABLE	Ahora mismo no puedes desafiar a {0}. Vuelve al menú principal.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MERCS_LOCKED	Completa el tutorial de Mercenarios para desbloquearlo.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_MODE_UNAVAILABLE	Ahora mismo no se pueden retar amigos en este modo de juego.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TAVERN_BRAWL_LOCKED	Completa el tutorial del modo tradicional de Hearthstone y sube al nivel 20 con una clase para desbloquear.	
 GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_THEYRE_UNAVAILABLE	Ahora mismo no puedes desafiar a {0}. Espera a que vuelva al menú principal.	0=player name
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_TRADITIONAL_LOCKED	Completa el tutorial del modo tradicional de Hearthstone para desbloquear.	
+GLOBAL_FRIENDLIST_CHALLENGE_BUTTON_UNAVAILABLE	Ahora mismo no puedes desafiar a {0}.	0=player name
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_EARLY_ACCESS	Este jugador no tiene acceso anticipado a Campos de batalla.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_BATTLEGROUNDS_TUTORIAL_COMPLETE	Este jugador aún no ha completado el tutorial de Campos de batalla.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_CLASSIC_DECK	Este jugador no tiene mazos clásicos.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_DECK	Este jugador no tiene mazos.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_HEARTHSTONE_TUTORIAL_COMPLETE	Este jugador aún no ha completado el tutorial de Hearthstone.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_MERCS_TUTORIAL_COMPLETE	Este jugador aún no ha completado el contrato del tutorial de Mercenarios.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_STANDARD_DECK	Este jugador no tiene mazos estándares.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TAVERN_BRAWL_DECK	Este jugador aún no ha creado un mazo para la pelea de taberna.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NO_TWIST_DECK	Este jugador no tiene mazos de Giro.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_NOT_SEEN_WILD	Este jugador no ha desbloqueado el formato salvaje.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_TAVERN_BRAWL_LOCKED	Este jugador aún no ha desbloqueado las peleas de taberna.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGEE_USER_IS_BUSY	El jugador está ocupado en estos momentos.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_CLASSIC_DECK	No tienes ningún mazo clásico.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_DECK	Primero debes crear un mazo.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_STANDARD_DECK	No tienes ningún mazo estándar.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TAVERN_BRAWL_DECK	Tienes que crear un mazo para la pelea de taberna de esta semana.	
+GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_NO_TWIST_DECK	No tienes ningún mazo de Giro.	
 GLOBAL_FRIENDLIST_CHALLENGE_CHALLENGER_TAVERN_BRAWL_LOCKED	Para desbloquear las peleas de taberna, alcanza el nivel 20 con una clase.	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_CLASSIC_DUEL_BUTTON	Clásico	
 GLOBAL_FRIENDLIST_CHALLENGE_MENU_DUEL_BUTTON	Duelo	
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Duelo estándar	
-GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Duelo salvaje	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_FRIEND	Desafiar a <color=#61C8E8>{0}</color> a…	0=battletag
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEADER_NONFRIEND	Desafiar a {0} a…	0=battletag
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON	Hearthstone	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_EXTENDED_MENU_BUTTON	Hearthstone…	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_OPTIONS_BUTTON	Opciones…	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REMOVE_BUTTON	Quitar amigo…	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_REPORT_BUTTON	Informar…	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_STANDARD_DUEL_BUTTON	Estándar	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_TWIST_DUEL_BUTTON	Giro	
+GLOBAL_FRIENDLIST_CHALLENGE_MENU_WILD_DUEL_BUTTON	Salvaje	
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TAVERN_BRAWL	Las peleas de taberna no están disponibles ahora mismo. ¡Vuelve a probar más tarde!	
+GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_NO_TWIST_SEASON	El modo Giro no está disponible ahora mismo. ¡Vuelve a probar más tarde!	
 GLOBAL_FRIENDLIST_CHALLENGE_TOOLTIP_TAVERN_BRAWL_NOT_CHALLENGEABLE	El desafío amistoso no está disponible para esta pelea de taberna.	
 GLOBAL_FRIENDLIST_CURRENT_GAMES_HEADER	PARTIDAS ACTUALES - {0}	0=number of friends you have unfinished games with
+GLOBAL_FRIENDLIST_CURRENT_OPPONENT_STATUS	¡Oponente actual!	
+GLOBAL_FRIENDLIST_CURRENT_TEAMMATE_STATUS	¡Compañero actual!	
+GLOBAL_FRIENDLIST_CURRENTLY_SPECTATING_STATUS	Está observando	
+GLOBAL_FRIENDLIST_FORMER_FRIEND_STATUS	Antiguo amigo	
 GLOBAL_FRIENDLIST_FRIENDS_HEADER	AMIGOS - {0}/{1} |4(conectado,conectados)	0=number of online friends 1=number of offline friends
 GLOBAL_FRIENDLIST_FRIENDS_HEADER_ALL_ONLINE	AMIGOS - {0} |4(conectado,conectados)	
+GLOBAL_FRIENDLIST_LAST_OPPONENT_STATUS	Último oponente	
 GLOBAL_FRIENDLIST_LASTPLAYED	Último oponente:	
 GLOBAL_FRIENDLIST_MYSTATUS	CONECTADO	
 GLOBAL_FRIENDLIST_NEARBY_PLAYERS_DISABLED_HEADER	CERCANOS (desactivado)	
 GLOBAL_FRIENDLIST_NEARBY_PLAYERS_HEADER	CERCANOS - {0}	0=number of players
+GLOBAL_FRIENDLIST_NEW_FRIEND_STATUS	¡Nuevo amigo!	
+GLOBAL_FRIENDLIST_NO_FRIENDS	¡Aún no tienes amigos en <color=#61C8E8>Battle.net</color>!	
+GLOBAL_FRIENDLIST_RECENT_CHALLENGED_STATUS	Duelo reciente	
+GLOBAL_FRIENDLIST_RECENT_CHATTED_STATUS	Chat reciente	
+GLOBAL_FRIENDLIST_RECENT_OPPONENT_STATUS	Oponente reciente	
+GLOBAL_FRIENDLIST_RECENT_PLAYERS_HEADER	RECIENTE: {0}	0=number of players
+GLOBAL_FRIENDLIST_RECENT_TEAMMATE_STATUS	Compañero reciente	
+GLOBAL_FRIENDLIST_RECENTLY_SPECTATING_STATUS	Ha estado observando	
 GLOBAL_FRIENDLIST_REMOVE_FRIEND_ALERT_MESSAGE	¿Seguro que quieres eliminar a {0}?	0=friend name
 GLOBAL_FRIENDLIST_REMOVE_FRIEND_BUTTON	Eliminar	
+GLOBAL_FRIENDLIST_REPORT_SELECT_COMPLETE	¡Gracias por tu informe!	
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_FRIEND	Informar de <color=#61C8E8>{0}</color>	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_HEADER_NONFRIEND	Informar de {0}	0=battletag
+GLOBAL_FRIENDLIST_REPORT_SELECT_OPTIONS	Selecciona todas las que correspondan.	
+GLOBAL_FRIENDLIST_REPORT_SELECT_REASON	Elige una razón…	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_COMING_SOON_TEXT	Próximamente	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_CURRENTLY_UNAVAILABLE_TEXT	No disponible	
+GLOBAL_FRIENDLIST_REPORT_TOOLTIP_HEADER	Informar de un jugador	
 GLOBAL_FRIENDLIST_REQUEST_SENT_TIME	Enviada: {0}	0=one of the GLOBAL_DATETIME_ELAPSED_ strings
 GLOBAL_FRIENDLIST_REQUESTS_HEADER	SOLICITUDES DE AMISTAD - {0}	0=number of received friend requests
 GLOBAL_FRIENDLIST_SPECTATE_MENU_DESCRIPTION	{0} está jugando una partida.	0=player name
+GLOBAL_FRIENDLIST_SPECTATE_MENU_KICK	Echar espectador	
+GLOBAL_FRIENDLIST_SPECTATE_MENU_STOP	Dejar de observar	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_HEADER	Observar esta partida	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT	Haz clic para empezar a observar la partida de este jugador.	
 GLOBAL_FRIENDLIST_SPECTATE_TOOLTIP_AVAILABLE_TEXT_TOUCH	Toca aquí para empezar a observar la partida de este jugador.	
@@ -410,6 +692,9 @@ GLOBAL_FRIENDLYCHALLENGE_QUEST_REWARD_AT_LIMIT	Has alcanzado el límite diario d
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOUR_OPPONENT	Tu oponente ha dejado la partida demasiado pronto como para que obtengas recompensas.	
 GLOBAL_FRIENDLYCHALLENGE_REWARD_CONCEDED_YOURSELF	Has dejado la partida demasiado pronto como para obtener recompensas.	
 GLOBAL_GAME_MENU	Menú del juego	
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER	Descargas	Button label for Download manager on the Game Menu
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP	Aquí puedes gestionar las descargas para Hearthstone. Esta opción solo está disponible en el menú principal.	
+GLOBAL_GAME_MENU_BUTTON_DOWNLOAD_MANAGER_LOCKED_TOOLTIP_TITLE	Descargas	
 GLOBAL_GAME_QUEUE_TIME_IN_QUEUE	Tiempo en cola	
 GLOBAL_GAME_QUEUE_WAIT_TIME	Tiempo de espera	
 GLOBAL_GOLD_REWARD_ALREADY_CAPPED	Hoy ya has ganado {0} de oro.	
@@ -421,8 +706,8 @@ GLOBAL_HEALTHY_GAMING_CHINA_CAIS_ACTIVE	SAIC activo
 GLOBAL_HEALTHY_GAMING_CHINA_LESS_THAN_THREE_HOURS	您累计在线时间已满{0}小时。	
 GLOBAL_HEALTHY_GAMING_CHINA_MORE_THAN_FIVE_HOURS	您已进入不健康游戏时间，为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。	
 GLOBAL_HEALTHY_GAMING_CHINA_MORE_THAN_FIVE_HOURS_PHONE	您已进入不健康游戏时间，为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，\n您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防上当受骗。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。	
-GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号 文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心	
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_MESSAGE	抵制不良游戏，拒绝盗版游戏。 \n注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。	
+GLOBAL_HEALTHY_GAMING_CHINA_STARTUP_SUBTEXT	ISBN：978-7-900262-36-3 版署批号：新出审字[2013]1510号 沪网文[2017]9633-727号\n文网进字[2013]029号 著作权：暴雪娱乐有限公司 出版单位：金报电子音像出版中心	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_HOURS	您累计在线时间已满{0}小时，请您下线休息，做适当身体活动。	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_TO_FIVE_HOURS	您已经进入疲劳游戏时间，您的游戏收益将降为正常值的0%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。	
 GLOBAL_HEALTHY_GAMING_CHINA_THREE_TO_FIVE_HOURS_PHONE	您已经进入疲劳游戏时间，您的游戏收益将降为正常值的0%，为了您的健康，\n请尽快下线休息，做适当身体活动，合理安排学习生活。	
@@ -437,43 +722,158 @@ GLOBAL_HERO_LEVEL_REWARD_GOLD	{0} oro	0=amount
 GLOBAL_HERO_LEVEL_REWARD_GOLDEN_CARD	{1} {0}	0=flair 1=card name
 GLOBAL_HERO_WINS	Victorias: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
 GLOBAL_HERO_WINS_PAST_MAX	Victorias: {0}	0=number of games this class has won
-GLOBAL_HERO_WINS_PAST_MAX_PHONE	Victorias\n{0}	0=number of games this class has won
-GLOBAL_HERO_WINS_PHONE	Victorias\n{0}/{1}	0=number of games this class has won 1=number of wins to get golden
+GLOBAL_HERO_WINS_PAST_MAX_PHONE	Victorias: {0}	0=number of games this class has won
+GLOBAL_HERO_WINS_PHONE	Victorias: {0}/{1}	0=number of games this class has won 1=number of wins to get golden
 GLOBAL_HEROIC_BRAWL	Pelea heroica	
 GLOBAL_HIDE	Ocultar	
 GLOBAL_IN_PROGRESS_REWARD_CHEST_INSTRUCTIONS	¡Gana {0} |4(partida,partidas) más para obtener tu cofre de temporada!\n(Se desbloqueará el mes que viene)	
 GLOBAL_JOIN	Unirse	
 GLOBAL_KEYWORD_ADAPT	Adaptación	
 GLOBAL_KEYWORD_ADAPT_TEXT	Escoge un bonus de entre 3 posibles.	
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS	Balística avanzada	
+GLOBAL_KEYWORD_ADVANCED_BALLISTICS_TEXT	Cada vez que ataca, otorga +{0} p. de ataque a tus otros esbirros.	
+GLOBAL_KEYWORD_ALLIANCE	Alianza	
+GLOBAL_KEYWORD_ALLIANCE_TEXT	La Alianza incluye: draenei, enanos, gnomos, humanos, elfos de la noche y huargen.	
+GLOBAL_KEYWORD_ALLIED	Aliado	
+GLOBAL_KEYWORD_ALLIED_TEXT	Tu héroe pasa a ser de la clase aliada después de seleccionar este tesoro.	
+GLOBAL_KEYWORD_ATTACK_MERC	Ataque	
+GLOBAL_KEYWORD_ATTACK_REF_TEXT_MERC	Ataca a un personaje y recibe daño del enemigo.	
+GLOBAL_KEYWORD_ATTACK_TEXT_MERC	Ataca a un personaje y recibe daño del enemigo.	
 GLOBAL_KEYWORD_AUTOATTACK	Autoataque	
 GLOBAL_KEYWORD_AUTOATTACK_TEXT	No puede atacar, pero hace algo al final de tu turno.	
 GLOBAL_KEYWORD_AUTOCAST	Lanzamiento automático	
 GLOBAL_KEYWORD_AUTOCAST_TEXT	Este poder de héroe DEBE usarse en cada turno.	
+GLOBAL_KEYWORD_AVENGE	Vengar a (X)	
+GLOBAL_KEYWORD_AVENGE_TEXT	Hace algo después de que mueran en combate X esbirros amistosos.	
+GLOBAL_KEYWORD_BACON_ACTIVATE	Activar (X)	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TEXT	Una vez por turno, haz clic para gastar X de oro y activar un efecto.	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP	Activar (X)	
+GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP_TEXT	Una vez por turno, haz clic para gastar X de oro y activar un efecto.	
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS	Palabras clave adicionales	
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT	Provocar, Escudo divino, Renacer, Ponzoña, Viento furioso, Sigilo	
+GLOBAL_KEYWORD_BACON_BOUNTY	Contrato	
+GLOBAL_KEYWORD_BACON_BOUNTY_TEXT	Un hechizo de taberna de nivel 3 disponible cuando hay piratas en la sala.	
+GLOBAL_KEYWORD_BACON_BUDDY	Colega	
+GLOBAL_KEYWORD_BACON_BUDDY_TEXT	Un poderoso esbirro exclusivo para cada poder de héroe.	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY	Consigue a tu colega	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2	Consigue dos colegas	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT	Victoria o empate: cuesta (3) de oro menos.\nDerrota: cuesta (2) de oro menos.	
+GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT	Victoria o empate: cuesta (3) de oro menos.\nDerrota: cuesta (2) de oro menos.	
+GLOBAL_KEYWORD_BACON_CHROMADRAKE	Cromadraco	
+GLOBAL_KEYWORD_BACON_CHROMADRAKE_TEXT	Uno de los cinco dragones con distintos Gritos de batalla.	
+GLOBAL_KEYWORD_BACON_CONSUME	Consumir	
+GLOBAL_KEYWORD_BACON_CONSUME_TEXT	Elimina un esbirro para obtener sus estadísticas.	
+GLOBAL_KEYWORD_BACON_DEITY	Deidad	
+GLOBAL_KEYWORD_BACON_DEITY_TEXT	Después de que mueran 4 aberraciones amistosas en cada combate, despierta a un {0}/{1} {2}.	
+GLOBAL_KEYWORD_BACON_DISCOUNTED	Con descuento	
+GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT	Este abalorio cuesta (1) cristal menos.	
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS	Bonificación de elemental	
+GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS_TEXT	Otorga {0} adicional	
+GLOBAL_KEYWORD_BACON_FODDER	Aperitivo	
+GLOBAL_KEYWORD_BACON_FODDER_COUNT	Aperitivos en el Refrescar	
+GLOBAL_KEYWORD_BACON_FODDER_COUNT_TEXT	Aperitivos en tu próximo Refrescar: {0}.	
+GLOBAL_KEYWORD_BACON_FODDER_TEXT	Mientras está en la taberna, se da de comer a un demonio amistoso aleatorio.	
+GLOBAL_KEYWORD_BACON_FREEZE	Congelación	
+GLOBAL_KEYWORD_BACON_FREEZE_TEXT	Los esbirros congelados permanecen en la tienda el próximo turno.	
+GLOBAL_KEYWORD_BACON_PASS	Pasar	
+GLOBAL_KEYWORD_BACON_PASS_TEXT	Envía la carta a la mano de tu compañero.	
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS	Bonificación pirata	
+GLOBAL_KEYWORD_BACON_PIRATE_BONUS_TEXT	Otorga {0} adicional	
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION	Creación de Putricidio	
+GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT	No se puede convertir en triple.	
+GLOBAL_KEYWORD_BACON_QUEST	Misión	
+GLOBAL_KEYWORD_BACON_QUEST_TEXT	Complétala para obtener una recompensa.	
+GLOBAL_KEYWORD_BACON_RALLY	Alentar	
+GLOBAL_KEYWORD_BACON_RALLY_TEXT	Hace algo cada vez que ataca.	
+GLOBAL_KEYWORD_BACON_REBORN	Renacer	
+GLOBAL_KEYWORD_BACON_REBORN_TEXT	Invoca una copia con 1 p. de salud la primera vez que muere.	
+GLOBAL_KEYWORD_BACON_STEALTH	Sigilo	
+GLOBAL_KEYWORD_BACON_STEALTH_TEXT	No se puede atacar hasta que ataca.	
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS	Bonificación de hechizo de taberna	
+GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS_TEXT	Otorga {0} adicional	
+GLOBAL_KEYWORD_BACON_TIMEWARP	Asincronía	
+GLOBAL_KEYWORD_BACON_TIMEWARP_TEXT	Una tienda especial en la que se pueden comprar cartas únicas pagando con Cronio.	
+GLOBAL_KEYWORD_BACON_TRINKET	Abalorio	
+GLOBAL_KEYWORD_BACON_TRINKET_TEXT	Una poderosa bonificación que se puede comprar en un turno concreto.	
 GLOBAL_KEYWORD_BATTLECRY	Grito de batalla	
 GLOBAL_KEYWORD_BATTLECRY_TEXT	Esta carta hace algo al jugarla desde tu mano.	
+GLOBAL_KEYWORD_BATTLECRY_TEXT_MERC	Hace algo cuando lo juegas desde tu mano o cuando un mercenario lo invoca.	
+GLOBAL_KEYWORD_BENCH_MERC	Banquillo	
+GLOBAL_KEYWORD_BENCH_MERC_TEXT	Hace algo mientras este mercenario está en el banquillo.	
+GLOBAL_KEYWORD_BLEED	Sangrar	
+GLOBAL_KEYWORD_BLEED_TEXT	Los personajes que sangran reciben daño al final de cada turno. El sangrado se puede eliminar restaurando salud.	
+GLOBAL_KEYWORD_BLOOD_GEM	Gema de sangre	
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT	Un hechizo que otorga {0} a un esbirro.	
+GLOBAL_KEYWORD_BLOOD_GEM_TEXT_ADDITIONAL	\nLas tuyas otorgan {0}.	
+GLOBAL_KEYWORD_BONUSEFFECTS	Efectos adicionales	
+GLOBAL_KEYWORD_BONUSEFFECTS_TEXT	Escudo divino, Robo de vida, Veneno, Renacer, Embestir, Esquivo, Provocar, Viento furioso	
 GLOBAL_KEYWORD_BOSS	Jefe	
 GLOBAL_KEYWORD_BOSS_TEXT	Los jugadores colaboran para vencer al jefe.	
+GLOBAL_KEYWORD_CADUCEUS_REACTOR	Reactor caduceo	
+GLOBAL_KEYWORD_CADUCEUS_REACTOR_TEXT	<b>Último aliento:</b> Otorga +{0}/+{0} a tu primer esbirro por la izquierda.	
 GLOBAL_KEYWORD_CASTS_WHEN_DRAWN	Este hechizo se lanza al robarlo	
 GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT	Este hechizo se lanza al robarlo y luego roba otra carta.	
 GLOBAL_KEYWORD_CHARGE	Cargar	
+GLOBAL_KEYWORD_CHARGE_MERC	Cargar	
+GLOBAL_KEYWORD_CHARGE_MERC_TEXT	Ataca a un objetivo seleccionado inmediatamente después de ser invocado.	
 GLOBAL_KEYWORD_CHARGE_TEXT	Puede atacar inmediatamente.	
+GLOBAL_KEYWORD_COLOSSAL	Colosal +X	
+GLOBAL_KEYWORD_COLOSSAL_TEXT	Cuando se invoca, genera X apéndices adicionales.	
 GLOBAL_KEYWORD_COMBO	Combo	
+GLOBAL_KEYWORD_COMBO_MERC	Combo	
 GLOBAL_KEYWORD_COMBO_TEXT	Otorga un bonus si ya has jugado una carta este turno.	
+GLOBAL_KEYWORD_COMBO_TEXT_MERC	Una bonificación si tu grupo ya ha jugado una facultad este turno.	
+GLOBAL_KEYWORD_CONTRABAND	Contrabando	
+GLOBAL_KEYWORD_CONTRABAND_TEXT	Recibe una carta poderosa. Mete una carta de tu mano en tu mazo como pago.	
+GLOBAL_KEYWORD_CORPSE	Cadáver	
+GLOBAL_KEYWORD_CORPSE_TEXT	Recurso obtenido cuando muere un esbirro amistoso.	
+GLOBAL_KEYWORD_CORRUPT	Corrupción	
+GLOBAL_KEYWORD_CORRUPT_TEXT	Mejora en la mano tras jugar una carta de coste mayor.	
+GLOBAL_KEYWORD_CORRUPTEDCARD	Corrupta	
+GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT	Mejorada por una carta de coste mayor.	
 GLOBAL_KEYWORD_COUNTER	Contrarrestar	
 GLOBAL_KEYWORD_COUNTER_TEXT	Una carta contrarrestada no tiene efecto.	
+GLOBAL_KEYWORD_CRAFT	Ensamblar	
+GLOBAL_KEYWORD_CRAFT_TEXT	Obtienes un esbirro aleatorio. Cambia la mitad de su texto.	
+GLOBAL_KEYWORD_CRITICAL_DAMAGE	Daño crítico	
+GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT	Recibe el doble de daño de otros tipos.	
 GLOBAL_KEYWORD_CTHUN	C'Thun, dios antiguo	
 GLOBAL_KEYWORD_CTHUN_TEXT	C'Thun recibe beneficios independientemente de dónde se encuentre, ¡hasta si está en tu mazo!	
+GLOBAL_KEYWORD_DARKGIFT	Don siniestro	
+GLOBAL_KEYWORD_DARKGIFT_BONUS	Bonificación de Don siniestro	
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI	Don siniestro	
+GLOBAL_KEYWORD_DARKGIFT_BONUS_MULTI_TEXT	Este esbirro tiene {0} <b>Dones siniestros</b>	
+GLOBAL_KEYWORD_DARKGIFT_TEXT	Un beneficio añadido a un esbirro.	
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST	Caballero de la Muerte turista	
+GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT	Tu mazo puede contener cartas de caballero de la Muerte de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_DEATHBLOW	Letal	
+GLOBAL_KEYWORD_DEATHBLOW_TEXT	Hace algo cuando mata a un personaje.	
 GLOBAL_KEYWORD_DEATHRATTLE	Último aliento	
 GLOBAL_KEYWORD_DEATHRATTLE_TEXT	Hace algo al morir.	
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST	Cazador de demonios turista	
+GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT	Tu mazo puede contener cartas de cazador de demonios de Peligro en el Paraíso.	
 GLOBAL_KEYWORD_DISCOVER	Descubre	
+GLOBAL_KEYWORD_DISCOVER_MERC	Descubre	
 GLOBAL_KEYWORD_DISCOVER_TEXT	Elige una de tres cartas para añadir a tu mano.	
+GLOBAL_KEYWORD_DISCOVER_TEXT_MERC	Elige una facultad entre tres para lanzarla este turno.	
 GLOBAL_KEYWORD_DIVINE_SHIELD	Escudo divino	
-GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	La primera vez que un esbirro con escudo recibe daño, lo ignora.	
-GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	La primera vez que este esbirro recibe daño, lo ignora.	
+GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT	La primera vez que un personaje con escudo recibe daño, lo ignora.	
+GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT	La primera vez que recibe daño, lo ignora.	
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS	[WIP] No se puede descubrir.	
+GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS_TEXT	[WIP] No se puede descubrir.	
 GLOBAL_KEYWORD_DORMANT	Letargo	
 GLOBAL_KEYWORD_DORMANT_TEXT	Intocable para ambos jugadores.	
+GLOBAL_KEYWORD_DREDGE	Draga	
+GLOBAL_KEYWORD_DREDGE_TEXT	Mira las 3 cartas inferiores de tu mazo.\nColoca una encima.	
+GLOBAL_KEYWORD_DRUID_TOURIST	Druida Turista	
+GLOBAL_KEYWORD_DRUID_TOURIST_TEXT	Tu mazo puede contener cartas de druida de Peligro en el Paraíso.	
 GLOBAL_KEYWORD_ECHO	Eco	
 GLOBAL_KEYWORD_ECHO_TEXT	Esta carta se puede volver a usar en el turno en el que la juegas. Las copias no pueden costar menos de (1) cristal.	
+GLOBAL_KEYWORD_ELUSIVE	Esquivo	
+GLOBAL_KEYWORD_ELUSIVE_REF_TEXT	No puede ser objetivo de hechizos ni de poderes de héroe.	
+GLOBAL_KEYWORD_ELUSIVE_TEXT	No puede ser objetivo de hechizos ni de poderes de héroe.	
+GLOBAL_KEYWORD_ELVES_MERC	Elfos	
+GLOBAL_KEYWORD_ELVES_MERC_TEXT	Elfos incluye: elfo de sangre y elfo de la noche	
 GLOBAL_KEYWORD_EMPOWER	Convoca	
 GLOBAL_KEYWORD_EMPOWER_PRIEST	Convoca: sacerdote	
 GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT	Usa el poder de Galakrond. <i>(Añade un esbirro de sacerdote aleatorio a tu mano).</i>	
@@ -488,103 +888,371 @@ GLOBAL_KEYWORD_EMPOWER_WARLOCK	Convoca: brujo
 GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT	Usa el poder de Galakrond. <i>(Invoca a dos diablillos 1/1).</i>	
 GLOBAL_KEYWORD_EMPOWER_WARRIOR	Convoca: guerrero	
 GLOBAL_KEYWORD_EMPOWER_WARRIOR_TEXT	Usa el poder de Galakrond. <i>(Otorga a tu héroe +3 p. de ataque este turno).</i>	
-GLOBAL_KEYWORD_ENRAGED	Enfurecer	
-GLOBAL_KEYWORD_ENRAGED_TEXT	Mientras esté dañado, este esbirro tiene un poder nuevo.	
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP	Enfurecer	
+GLOBAL_KEYWORD_ENRAGED_TOOLTIP_TEXT	Mientras esté dañado, este esbirro tiene un poder nuevo.	
 GLOBAL_KEYWORD_EVILZUG	Lacayo	
 GLOBAL_KEYWORD_EVILZUG_TEXT	Los lacayos son esbirros de coste 1 con Grito de batalla.	
+GLOBAL_KEYWORD_EXCAVATE	Excavar	
+GLOBAL_KEYWORD_EXCAVATE_COMMON	Común	
+GLOBAL_KEYWORD_EXCAVATE_EPIC	Épica	
+GLOBAL_KEYWORD_EXCAVATE_GAMEPLAY	Cava para buscar tesoros cada vez menos comunes. Se reinicia tras alcanzar el nivel de rareza {0}.\nSiguiente: {1}.	
+GLOBAL_KEYWORD_EXCAVATE_LEGENDARY	<b>Legendaria</b>	
+GLOBAL_KEYWORD_EXCAVATE_RARE	Poco común	
+GLOBAL_KEYWORD_EXCAVATE_REF_TEXT	Cava para buscar tesoros cada vez menos comunes. Se reinicia tras alcanzar el mayor nivel de rareza.	
+GLOBAL_KEYWORD_EXCAVATE_TEXT	Cava para buscar tesoros cada vez menos comunes. Se reinicia tras alcanzar el mayor nivel de rareza.	
+GLOBAL_KEYWORD_EXPLORER_MERC	Expedicionario	
+GLOBAL_KEYWORD_EXPLORER_MERC_TEXT	Los expedicionarios son Reno, Brann, Elise, Finley y Expedicionario amalgama.	
+GLOBAL_KEYWORD_FABLED	Renombre	
+GLOBAL_KEYWORD_FABLED_TEXT	También añade 2 cartas únicas a tu mazo inicial.	
+GLOBAL_KEYWORD_FABLEDPLUS	Renombre+	
+GLOBAL_KEYWORD_FABLEDPLUS_TEXT	También añade 9 cartas únicas a tu mazo inicial.	
 GLOBAL_KEYWORD_FATIGUE	Fatiga	
 GLOBAL_KEYWORD_FATIGUE_TEXT	Daño recibido al robar de un mazo vacío.	
+GLOBAL_KEYWORD_FINALE	Desenlace	
+GLOBAL_KEYWORD_FINALE_TEXT	Bonificación si esto gasta todo tu maná restante.	
 GLOBAL_KEYWORD_FLOOPY	Flema Salívez	
 GLOBAL_KEYWORD_FLOOPY_TEXT	Se transforma cuando juegas un esbirro.	
+GLOBAL_KEYWORD_FORGE	Forja	
+GLOBAL_KEYWORD_FORGE_TEXT	Arrástrala hasta tu mazo para gastar (2) cristales de maná y obtener una mejora.	
+GLOBAL_KEYWORD_FORGED	Forjado	
+GLOBAL_KEYWORD_FORGED_TEXT	Mejorada tras arrastrarla hasta tu mazo y gastar (2) cristales de maná.	
 GLOBAL_KEYWORD_FREEZE	Congelación	
 GLOBAL_KEYWORD_FREEZE_TEXT	Los personajes congelados no pueden atacar durante un turno.	
+GLOBAL_KEYWORD_FREEZE_TEXT_MERC	Los personajes congelados pierden su siguiente facultad este turno.	
+GLOBAL_KEYWORD_FRENZY	Frenesí	
+GLOBAL_KEYWORD_FRENZY_TEXT	Un efecto que ocurre una sola vez después de sobrevivir al daño.	
 GLOBAL_KEYWORD_FROZEN	Congelado	
 GLOBAL_KEYWORD_FROZEN_TEXT	Pierde su siguiente ataque.	
+GLOBAL_KEYWORD_FROZEN_TEXT_MERC	Pierde su siguiente facultad.	
 GLOBAL_KEYWORD_GALAKROND	Galakrond	
 GLOBAL_KEYWORD_GALAKROND_COLLECTION_TEXT	Puedes colocar esta carta en un mazo de sacerdote, pícaro, chamán, brujo o guerrero.	
+GLOBAL_KEYWORD_GIGANTIC	Gigantificado	
+GLOBAL_KEYWORD_GIGANTIC_TEXT	Una copia 8/8 de coste 8 de otra carta.	
+GLOBAL_KEYWORD_GIGANTIFY	Gigantificar	
+GLOBAL_KEYWORD_GIGANTIFY_TEXT	Obtienes una copia 8/8 de coste 8 de esta carta.	
 GLOBAL_KEYWORD_GRIMY_GOONS	Matones Mugrientos	
-GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT	Puedes colocar esta carta en un mazo de cazador, paladín o guerrero.	
-GLOBAL_KEYWORD_HALL_OF_FAME	Salón de la fama	
-GLOBAL_KEYWORD_HALL_OF_FAME_TEXT	Las cartas que se incluyan en un conjunto especial ya no se podrán usar en el formato estándar.	
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI	Matones Mugrientos (multi)	
+GLOBAL_KEYWORD_GRIMY_GOONS_MULTI_TEXT	Esta carta pertenece a la facción Matones Mugrientos y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_GRIMY_GOONS_TEXT	Esta carta pertenece a la facción Matones Mugrientos.	
+GLOBAL_KEYWORD_HEALING_POWER	Poder de sanación	
+GLOBAL_KEYWORD_HEALING_POWER_TEXT	Tus facultades de sanación restauran salud adicional.	
+GLOBAL_KEYWORD_HERALD	Proclama	
+GLOBAL_KEYWORD_HERALD_DEATH_KNIGHT_TEXT	Invoca el apéndice de Onyxia como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_DEMON_HUNTER_TEXT	Invoca el apéndice de Azshara como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_ROGUE_TEXT	Invoca el apéndice de Sinestra como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_SHAMAN_TEXT	Invoca el apéndice de Al'Akir como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_TEXT	Invoca el apéndice de tu Colosal como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_WARLOCK_TEXT	Invoca el apéndice de Cho'gall como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HERALD_WARRIOR_TEXT	Invoca el apéndice de Ragnaros como un soldado. Este mejora cada 2 veces que se Proclama.	
+GLOBAL_KEYWORD_HONORABLEKILL	Muerte con honor	
+GLOBAL_KEYWORD_HONORABLEKILL_TEXT	Inflige daño letal exacto en tu turno para obtener un bonus.	
+GLOBAL_KEYWORD_HORDE	Horda	
+GLOBAL_KEYWORD_HORDE_TEXT	La Horda incluye: elfos de sangre, goblins, medio orcos, ogros, orcos, tauren, trols y no-muertos.	
+GLOBAL_KEYWORD_HUNTER_TOURIST	Cazador Turista	
+GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT	Tu mazo puede contener cartas de cazador de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_IMBUE	Intensifica	
+GLOBAL_KEYWORD_IMBUE_TEXT	Obtienes un nuevo poder de héroe que mejora cada vez que se Intensifica.	
 GLOBAL_KEYWORD_IMMUNE	Inmune	
-GLOBAL_KEYWORD_IMMUNE_REF_TEXT	No se puede dañar a los personajes inmunes.	
-GLOBAL_KEYWORD_IMMUNE_TEXT	No se puede dañar.	
+GLOBAL_KEYWORD_IMMUNE_REF_TEXT	Los personajes inmunes no pueden ser objetivo de enemigos ni recibir daño.	
+GLOBAL_KEYWORD_IMMUNE_TEXT	No puede ser objetivo de enemigos ni recibir daño.	
+GLOBAL_KEYWORD_INFUSE	Imbuir	
+GLOBAL_KEYWORD_INFUSE_TEXT	Mejora en la mano después de que mueran X esbirros amistosos.	
+GLOBAL_KEYWORD_INFUSED	Imbuida	
+GLOBAL_KEYWORD_INFUSED_TEXT	Mejorada en la mano después de que hayan muerto X esbirros amistosos.	
 GLOBAL_KEYWORD_INSPIRE	Inspirar	
 GLOBAL_KEYWORD_INSPIRE_TEXT	Hace algo después de usar el poder de héroe.	
+GLOBAL_KEYWORD_IS_HERO_PASSIVE	Pasivo	
+GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT	Un efecto permanente.	
 GLOBAL_KEYWORD_JADE_GOLEM	Gólem de jade	
 GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT	Tu primer gólem de jade es 1/1. Cada gólem siguiente tendrá +1/+1.	
 GLOBAL_KEYWORD_JADE_GOLEM_TEXT	Cada gólem de jade tendrá +1/+1 con respecto al anterior.	
 GLOBAL_KEYWORD_JADE_LOTUS	Loto de Jade	
-GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT	Puedes colocar esta carta en un mazo de druida, pícaro o chamán.	
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI	Loto de Jade (multi)	
+GLOBAL_KEYWORD_JADE_LOTUS_MULTI_TEXT	Esta carta pertenece a la facción Loto de Jade y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_JADE_LOTUS_TEXT	Esta carta pertenece a la facción Loto de Jade.	
 GLOBAL_KEYWORD_KABAL	Kabal	
-GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT	Puedes colocar esta carta en un mazo de sacerdote, mago o brujo.	
+GLOBAL_KEYWORD_KABAL_MULTI	Kabal (multi)	
+GLOBAL_KEYWORD_KABAL_MULTI_TEXT	Esta carta pertenece a la facción Kabal y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_KABAL_TEXT	Esta carta pertenece a la facción Kabal.	
+GLOBAL_KEYWORD_KINDRED	Afinidad	
+GLOBAL_KEYWORD_KINDRED_TEXT	Una bonificación si has jugado el mismo tipo de esbirro o escuela de hechizos el turno anterior.	
 GLOBAL_KEYWORD_LIFESTEAL	Robo de vida	
 GLOBAL_KEYWORD_LIFESTEAL_TEXT	El daño infligido sana a tu héroe.	
+GLOBAL_KEYWORD_LOCKED	Bloqueado	
+GLOBAL_KEYWORD_LOCKED_TEXT	No jugable hasta que juegues una carta adyacente de tu mano.	
+GLOBAL_KEYWORD_MADNESS	Locura	
+GLOBAL_KEYWORD_MADNESS_TEXT	Consigues un efecto continuo aleatorio este turno y el siguiente.	
+GLOBAL_KEYWORD_MAGE_TOURIST	Mago Turista	
+GLOBAL_KEYWORD_MAGE_TOURIST_TEXT	Tu mazo puede contener cartas de mago de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_MANATHIRST	Sed de maná (X)	
+GLOBAL_KEYWORD_MANATHIRST_TEXT	Una bonificación si tienes (X) cristales de maná.	
 GLOBAL_KEYWORD_MEGAWINDFURY	Megaviento furioso	
 GLOBAL_KEYWORD_MEGAWINDFURY_TEXT	Puede atacar cuatro veces cada turno.	
+GLOBAL_KEYWORD_MINI	Mini	
+GLOBAL_KEYWORD_MINI_REF_TEXT	Una copia 1/1 de coste 1 de otra carta.	
+GLOBAL_KEYWORD_MINI_TEXT	Una copia 1/1 de coste 1 de otra carta.	
+GLOBAL_KEYWORD_MINIATURIZE	Miniaturizar	
+GLOBAL_KEYWORD_MINIATURIZE_TEXT	Obtienes una copia 1/1 de coste 1 de esta carta.	
 GLOBAL_KEYWORD_MINION_TYPE_REFERENCE	Tipo de esbirro	
 GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT	Bestia, demonio, dragón, robot, múrloc, pirata y tótem.	
 GLOBAL_KEYWORD_MODULAR	Magnetismo	
-GLOBAL_KEYWORD_MODULAR_TEXT	Juega esta carta a la izquierda de un robot para fusionar a ambos esbirros.	
+GLOBAL_KEYWORD_MODULAR_TEXT	Se fusionan con un robot al ponerlas en juego a su izquierda.	
+GLOBAL_KEYWORD_MULTICLASS	Multiclase ({0})	Argument is number of classes the card can be used in (ex: 4)
+GLOBAL_KEYWORD_MULTICLASS_SEARCH_TOKEN	Multiclase	
+GLOBAL_KEYWORD_MULTICLASS_TEXT	Se puede usar en {0}.	Argument is a comma separated list of classes the card can be used in
 GLOBAL_KEYWORD_OFFHAND	Mano izquierda	
 GLOBAL_KEYWORD_OFFHAND_TEXT	Indestructible. No se puede encantar.	
+GLOBAL_KEYWORD_OLDGOD	Dios Antiguo	
+GLOBAL_KEYWORD_OLDGOD_TEXT	En lugar de atacar, usa 2 de 4 habilidades. <i>Un <b>Dios Antiguo</b> por mazo.</i>	
 GLOBAL_KEYWORD_OUTCAST	Proscrito	
 GLOBAL_KEYWORD_OUTCAST_TEXT	Otorga un bonus si se juega desde el extremo izquierdo o derecho de la mano.	
+GLOBAL_KEYWORD_OVERHEAL	Sobrecuración	
+GLOBAL_KEYWORD_OVERHEAL_TEXT	Bonificación si la curación supera tu salud total.	
 GLOBAL_KEYWORD_OVERKILL	Arrasar	
 GLOBAL_KEYWORD_OVERKILL_TEXT	Inflige exceso de daño en tu turno para obtener un bonus.	
 GLOBAL_KEYWORD_OVERLOAD	Sobrecarga: X	
 GLOBAL_KEYWORD_OVERLOAD_REF_TEXT	Las cartas con Sobrecarga limitarán tu maná el próximo turno.	
 GLOBAL_KEYWORD_OVERLOAD_TEXT	Tienes X cristales menos de maná en el siguiente turno.	
+GLOBAL_KEYWORD_PALADIN_TOURIST	Paladín Turista	
+GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT	Tu mazo puede contener cartas de paladín de Peligro en el Paraíso.	
 GLOBAL_KEYWORD_PASSIVE	Pasivo	
 GLOBAL_KEYWORD_PASSIVE_TEXT	Un efecto permanente para la aventura actual.	
 GLOBAL_KEYWORD_POISONOUS	Veneno	
 GLOBAL_KEYWORD_POISONOUS_TEXT	Destruye a cualquier esbirro al que inflige daño.	
+GLOBAL_KEYWORD_PREPARE	Preparar	
+GLOBAL_KEYWORD_PREPARE_TEXT	Arrastra la carta a tu mazo para gastar el maná que te sobre. El siguiente turno, se descontará a la carta la cantidad de maná gastada\n(¡y 1 cristal más!).	
+GLOBAL_KEYWORD_PREPARED	Preparada	
+GLOBAL_KEYWORD_PREPARED_TEXT	Gasta {0} cristales para descontarla en {1}.	
+GLOBAL_KEYWORD_PREPARING	Preparándose	
+GLOBAL_KEYWORD_PREPARING_TEXT	Has gastado {0} cristales para descontarla en {1}.\nBloqueada en la mano este turno.	
+GLOBAL_KEYWORD_PRIEST_TOURIST	Sacerdote Turista	
+GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT	Tu mazo puede contener cartas de sacerdote de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_PROTOSS	Protoss	
+GLOBAL_KEYWORD_PROTOSS_MULTI	Protoss (multi)	
+GLOBAL_KEYWORD_PROTOSS_MULTI_TEXT	Esta carta pertenece a la facción protoss y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_PROTOSS_TEXT	Esta carta pertenece a la facción protoss.	
+GLOBAL_KEYWORD_PROVOKE	Burlar	
+GLOBAL_KEYWORD_PROVOKE_TEXT	La primera vez que recibe un ataque en cada combate, antes hace algo.	
 GLOBAL_KEYWORD_QUEST	Misión	
 GLOBAL_KEYWORD_QUEST_TEXT	Empieza en tu mano. Complétala para obtener una recompensa.	
+GLOBAL_KEYWORD_QUESTLINE	Cadena	
+GLOBAL_KEYWORD_QUESTLINE_TEXT	Empieza en tu mano. Complétala para obtener una recompensa ¡hasta 3 veces!	
+GLOBAL_KEYWORD_QUICKDRAW	Robo rápido	
+GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT	Recibes una bonificación si esta carta ha llegado a tu mano durante este turno.	
+GLOBAL_KEYWORD_QUICKDRAW_TEXT	Recibes una bonificación si esta carta ha llegado a tu mano durante este turno.	
 GLOBAL_KEYWORD_REBORN	Renacer	
 GLOBAL_KEYWORD_REBORN_TEXT	Resucita con 1 p. de salud la primera vez que muere.	
 GLOBAL_KEYWORD_RECRUIT	Recluta	
 GLOBAL_KEYWORD_RECRUIT_TEXT	Invoca a un esbirro de tu mazo.	
+GLOBAL_KEYWORD_REFRESH	Refrescar	
+GLOBAL_KEYWORD_REFRESH_COUNT	Cantidad de refrescares	
+GLOBAL_KEYWORD_REFRESH_COUNT_TEXT	{0} |4(Refrescar,Refrescares) gratis más.	
+GLOBAL_KEYWORD_REFRESH_MERC	Reponer	
+GLOBAL_KEYWORD_REFRESH_MERC_TEXT	Reduce la espera (X) p.	
+GLOBAL_KEYWORD_REFRESH_TEXT	Sustituye las cartas de la taberna por cartas nuevas.	
+GLOBAL_KEYWORD_REVIVE	Revive (X)	
+GLOBAL_KEYWORD_REVIVE_TEXT	Revive (X) turnos después de morir.	
+GLOBAL_KEYWORD_REWIND	Rebobinar	
+GLOBAL_KEYWORD_REWIND_TEXT	Se puede volver a jugar una vez con un resultado posiblemente distinto.	
+GLOBAL_KEYWORD_ROGUE_TOURIST	Pícaro Turista	
+GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT	Tu mazo puede contener cartas de pícaro de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_ROOT	Enraizar	
+GLOBAL_KEYWORD_ROOT_TEXT	Los personajes enraizados no pueden atacar.	
 GLOBAL_KEYWORD_RUSH	Embestir	
 GLOBAL_KEYWORD_RUSH_TEXT	Puede atacar a esbirros inmediatamente.	
+GLOBAL_KEYWORD_RUSH_TEXT_MERC	Ataca inmediatamente después de ser invocado.	
 GLOBAL_KEYWORD_SECRET	Secreto	
 GLOBAL_KEYWORD_SECRET_TEXT	Oculto hasta que se realiza una acción concreta en el turno de tu oponente.	
+GLOBAL_KEYWORD_SHAMAN_TOURIST	Chamán Turista	
+GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT	Tu mazo puede contener cartas de chamán de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_SHATTER	Destrozar	
+GLOBAL_KEYWORD_SHATTER_TEXT	Se divide en dos mitades que se recombinan al estar adyacentes en la mano.	
+GLOBAL_KEYWORD_SHATTERED	Destrozada	
+GLOBAL_KEYWORD_SHATTERED_TEXT	Se recombina con su otra mitad al estar ambas adyacentes en la mano.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_POISONOUS_TEXT	Añade <b>Veneno</b>.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_SPELL_DAMAGE_TEXT	Añade <b>+1 p. de daño con hechizos</b>.	
+GLOBAL_KEYWORD_SHIFTING_ADDS_STEALTH_TEXT	Añade <b>Sigilo</b>.	
 GLOBAL_KEYWORD_SHIFTING_MINION_TEXT	Se transforma en un esbirro nuevo al comienzo de tu turno.	
 GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT	Se transforma en un hechizo nuevo al comienzo de tu turno.	
 GLOBAL_KEYWORD_SHIFTING_TEXT	Se transforma en una carta nueva al comienzo de tu turno.	
+GLOBAL_KEYWORD_SHIFTING_TOP_TEXT	Se transforma en la primera carta de tu mazo.	
 GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT	Se transforma en un arma nueva al comienzo de tu turno.	
 GLOBAL_KEYWORD_SHRINE	Efigie	
 GLOBAL_KEYWORD_SHRINE_TEXT	Revive 3 turnos después de morir.	
 GLOBAL_KEYWORD_SIDEQUEST	Misión secundaria	
 GLOBAL_KEYWORD_SIDEQUEST_TEXT	Complétala para obtener una recompensa.	
 GLOBAL_KEYWORD_SILENCE	Silencio	
+GLOBAL_KEYWORD_SILENCE_MERC	Silenciar	
+GLOBAL_KEYWORD_SILENCE_MERC_TEXT	Elimina todas las facultades, equipo y tesoros de una carta.	
 GLOBAL_KEYWORD_SILENCE_TEXT	Elimina todas las facultades de una carta.	
 GLOBAL_KEYWORD_SPAREPART	Piezas de repuesto	
 GLOBAL_KEYWORD_SPAREPART_TEXT	Las piezas de repuesto son hechizos con efectos menores que cuestan 1 cristal de maná.	
+GLOBAL_KEYWORD_SPELLBURST	Magia súbita	
+GLOBAL_KEYWORD_SPELLBURST_TEXT	Un efecto que ocurre una sola vez después de que lances un hechizo.	
+GLOBAL_KEYWORD_SPELLCOMBO_MERC	Combo de hechizo	
+GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC	Una bonificación si otro mercenario amistoso ha jugado un hechizo de la escuela especificada este turno.	
+GLOBAL_KEYWORD_SPELLCOMBO_TEXT_MERC	Una bonificación si otro mercenario amistoso ha jugado un hechizo de la escuela especificada este turno.	
+GLOBAL_KEYWORD_SPELLCRAFT	Hechicería	
+GLOBAL_KEYWORD_SPELLCRAFT_TEXT	Obtienes un hechizo temporal cada turno.	
 GLOBAL_KEYWORD_SPELLPOWER	Daño con hechizos	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE	Daño con hechizos Arcanos	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_MERC	Daño Arcano	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT	Tus hechizos Arcanos infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT_MERC	Las facultades Arcanas de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT	Tus cartas de hechizos Arcanos infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_ARCANE_TEXT_MERC	Las facultades Arcanas de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL	Daño con hechizos Viles	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_MERC	Daño Vil	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT	Tus hechizos Viles infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT_MERC	Las facultades Viles de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT	Tus cartas de hechizos Viles infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FEL_TEXT_MERC	Las facultades Viles de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE	Daño con hechizos de Fuego	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_MERC	Daño de Fuego	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT	Tus hechizos de Fuego infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT_MERC	Las facultades de Fuego de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT	Tus cartas de hechizos de Fuego infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FIRE_TEXT_MERC	Las facultades de Fuego de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST	Daño con hechizos de Escarcha	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_MERC	Daño de Escarcha	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT	Tus hechizos de Escarcha infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT_MERC	Las facultades de Escarcha de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT	Tus cartas de hechizos de Escarcha infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_FROST_TEXT_MERC	Las facultades de Escarcha de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY	Daño con hechizos Sagrados	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_MERC	Daño Sagrado	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT	Tus hechizos Sagrados infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT_MERC	Las facultades Sagradas de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT	Tus cartas de hechizos Sagrados infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_HOLY_TEXT_MERC	Las facultades Sagradas de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE	Daño con hechizos de Naturaleza	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_MERC	Daño de Naturaleza	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT	Tus hechizos de Naturaleza infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT_MERC	Las facultades de Naturaleza de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT	Tus cartas de hechizos de Naturaleza infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_NATURE_TEXT_MERC	Las facultades de Naturaleza de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL	Daño con hechizos físicos	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_REF_TEXT	Tus hechizos físicos infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_TEXT	Tus cartas de hechizos físicos infligen {0} p. de daño adicional.	0=amount of spell damage
 GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT	Tus hechizos infligen daño extra.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW	Daño con hechizos de las Sombras	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_MERC	Daño de las Sombras	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT	Tus hechizos de las Sombras infligen daño adicional.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT_MERC	Las facultades de las Sombras de tu personaje infligen más daño.	
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT	Tus cartas de hechizos de las Sombras infligen {0} p. de daño adicional.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLPOWER_SHADOW_TEXT_MERC	Las facultades de las Sombras de tu personaje infligen más daño.	
 GLOBAL_KEYWORD_SPELLPOWER_TEXT	Tus cartas de hechizos infligen {0} p. de daño extra.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE	Resistencia a lo Arcano	
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT	Recibe menos daño de facultades Arcanas.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_TEXT	Recibe {0} p. menos de daño de facultades Arcanas.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL	Resistencia vil	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT	Recibe menos daño de facultades Viles.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_TEXT	Recibe {0} p. menos de daño de facultades Viles.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE	Resistencia al Fuego	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT	Recibe menos daño de facultades de Fuego.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_TEXT	Recibe {0} p. menos de daño de facultades de Fuego.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST	Resistencia a la Escarcha	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT	Recibe menos daño de facultades de Escarcha.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_TEXT	Recibe {0} p. menos de daño de facultades de Escarcha.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY	Resistencia Sagrada	
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT	Recibe menos daño de facultades Sagradas.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_TEXT	Recibe {0} p. menos de daño de facultades Sagradas.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC	Resistencia a hechizos	
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_REF_TEXT	Recibe menos daño de todas las facultades.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_TEXT	Recibe {0} p. menos de daño de todas las facultades.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE	Resistencia a la Naturaleza	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT	Recibe menos daño de facultades de Naturaleza.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_TEXT	Recibe {0} p. menos de daño de facultades de Naturaleza.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW	Resistencia a las Sombras	
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT	Recibe menos daño de facultades de las Sombras.	
+GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_TEXT	Recibe {0} p. menos de daño de facultades de las Sombras.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE	Debilidad Arcana	
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT	Recibe más daño de facultades Arcanas.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_TEXT	Recibe {0} p. más de daño de facultades Arcanas.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL	Debilidad vil	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT	Recibe más daño de facultades Viles.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_TEXT	Recibe {0} p. más de daño de facultades Viles.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE	Debilidad al Fuego	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT	Recibe más daño de facultades de Fuego.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_TEXT	Recibe {0} p. más de daño de facultades de Fuego.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST	Debilidad a la Escarcha	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT	Recibe más daño de facultades de Escarcha.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_TEXT	Recibe {0} p. más de daño de facultades de Escarcha.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY	Debilidad a lo Sagrado	
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT	Recibe más daño de facultades Sagradas.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_TEXT	Recibe {0} p. de daño más de facultades Sagradas.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC	Debilidad a hechizos	
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT	Recibe más daño de todas las facultades.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_TEXT	Recibe {0} p. más de daño de todas las facultades.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE	Debilidad a la Naturaleza	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT	Recibe más daño de facultades de Naturaleza.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_TEXT	Recibe {0} p. más de daño de facultades de Naturaleza.	0=amount of spell damage
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW	Debilidad a las Sombras	
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT	Recibe más daño de facultades de las Sombras.	
+GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_TEXT	Recibe {0} p. más de daño de facultades de las Sombras.	0=amount of spell damage
+GLOBAL_KEYWORD_STARSHIP	Nave	
+GLOBAL_KEYWORD_STARSHIP_TEXT	Tiene las estadísticas y efectos de tus piezas muertas. ¡Haz clic para lanzarla!	
 GLOBAL_KEYWORD_START_OF_COMBAT	Comienzo del combate	
 GLOBAL_KEYWORD_START_OF_COMBAT_TEXT	Hace algo al comienzo de la fase de combate.	
 GLOBAL_KEYWORD_START_OF_GAME	Inicio de partida	
 GLOBAL_KEYWORD_START_OF_GAME_TEXT	Hace algo antes del primer turno.	
 GLOBAL_KEYWORD_STEALTH	Sigilo	
 GLOBAL_KEYWORD_STEALTH_REF_TEXT	No se puede atacar ni seleccionar como objetivo hasta que ataca.	
+GLOBAL_KEYWORD_STEALTH_REF_TEXT_MERC	No se puede atacar ni seleccionar como objetivo hasta que use una facultad.	
 GLOBAL_KEYWORD_STEALTH_TEXT	No se puede atacar ni seleccionar como objetivo hasta que ataca.	
+GLOBAL_KEYWORD_STEALTH_TEXT_MERC	No se puede atacar ni seleccionar como objetivo hasta que use una facultad.	
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN	Se invoca al robarla	
+GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT	Esta carta se invoca al robarla y luego roba otra carta.	
 GLOBAL_KEYWORD_TAUNT	Provocar	
 GLOBAL_KEYWORD_TAUNT_REF_TEXT	Los enemigos deben atacar a los esbirros que tengan Provocar.	
+GLOBAL_KEYWORD_TAUNT_REF_TEXT_Merc	Los enemigos deben atacar a los personajes que tengan Provocar.	
 GLOBAL_KEYWORD_TAUNT_TEXT	Los enemigos deben atacar a este esbirro.	
+GLOBAL_KEYWORD_TEMPORARY	Temporal	
+GLOBAL_KEYWORD_TEMPORARY_TEXT	Se descarta al final de tu turno.	
+GLOBAL_KEYWORD_TERRAN	Terran	
+GLOBAL_KEYWORD_TERRAN_MULTI	Terran (multi)	
+GLOBAL_KEYWORD_TERRAN_MULTI_TEXT	Esta carta pertenece a la facción terran y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_TERRAN_TEXT	Esta carta pertenece a la facción terran.	
+GLOBAL_KEYWORD_TITAN	Titán	
+GLOBAL_KEYWORD_TITAN_TEXT	Haz clic en un titán para usar 1 de sus 3 facultades en lugar de atacar.	
+GLOBAL_KEYWORD_TOOL	Herramienta	
+GLOBAL_KEYWORD_TOOL_TEXT	Un elemento con una habilidad activa.	
+GLOBAL_KEYWORD_TRADE	Comerciable	
+GLOBAL_KEYWORD_TRADE_TEXT	Arrástrala hasta tu mazo para gastar (1) cristal de maná y robar una carta nueva.	
 GLOBAL_KEYWORD_TWINSPELL	Hechizo doble	
 GLOBAL_KEYWORD_TWINSPELL_TEXT	Se puede lanzar dos veces.	
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER	Runas necesarias	
+GLOBAL_KEYWORD_ULDIR_QUARANTINE_TRACKER_TEXT	\n\n\n	
+GLOBAL_KEYWORD_UNDECIPHERED	Sin descifrar	
+GLOBAL_KEYWORD_UNDECIPHERED_TEXT	Entra en Locura con esta carta en la mano para obtener una bonificación.	
+GLOBAL_KEYWORD_UNDECYPHERED	Carta de Locura	
+GLOBAL_KEYWORD_UNDECYPHERED_TEXT	Obtienes un efecto continuo aleatorio.	
+GLOBAL_KEYWORD_VENOMOUS	Ponzoña	
+GLOBAL_KEYWORD_VENOMOUS_TEXT	Destruye el primer esbirro al que inflige daño en cada combate.	
+GLOBAL_KEYWORD_WARLOCK_TOURIST	Brujo Turista	
+GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT	Tu mazo puede contener cartas de brujo de Peligro en el Paraíso.	
+GLOBAL_KEYWORD_WARRIOR_TOURIST	Guerrero Turista	
+GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT	Tu mazo puede contener cartas de guerrero de Peligro en el Paraíso.	
 GLOBAL_KEYWORD_WILD	Salvaje	
 GLOBAL_KEYWORD_WILD_TEXT	Las cartas salvajes son cartas del pasado de Hearthstone que ya no se pueden usar en el formato estándar.	
 GLOBAL_KEYWORD_WINDFURY	Viento furioso	
 GLOBAL_KEYWORD_WINDFURY_TEXT	Puede atacar dos veces cada turno.	
+GLOBAL_KEYWORD_WINDFURY_TEXT_MERC	Siempre que ataca, lo hace dos veces.	
+GLOBAL_KEYWORD_YAMATO_CANNON	Cañón yamato	
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT	<b>Comienzo del combate:</b> Inflige {0} p. de daño al esbirro enemigo con más salud.	
+GLOBAL_KEYWORD_YAMATO_CANNON_TEXT_ALT	<b>Comienzo del combate:</b> Inflige {0} p. de daño al esbirro enemigo con más salud dos veces.	
+GLOBAL_KEYWORD_ZERG	Zerg	
+GLOBAL_KEYWORD_ZERG_MULTI	Zerg (multi)	
+GLOBAL_KEYWORD_ZERG_MULTI_TEXT	Esta carta pertenece a la facción zerg y se puede usar en {0} clases.	
+GLOBAL_KEYWORD_ZERG_TEXT	Esta carta pertenece a la facción zerg.	
 GLOBAL_LANGUAGE_CHANGE_CONFIRM_MESSAGE	Se interrumpirá tu actividad actual. ¿Quieres continuar?	
 GLOBAL_LANGUAGE_CHANGE_CONFIRM_TITLE	¿Cambiar el idioma?	
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITH_SIZE_MESSAGE	Para cambiar el idioma, es necesario descargar {0} aproximadamente. ¿Quieres continuar?	
+GLOBAL_LANGUAGE_CHANGE_CONFIRM_WITHOUT_SIZE_MESSAGE	¿Quieres cambiar el idioma? Los archivos necesarios ya están en tu dispositivo.	
+GLOBAL_LANGUAGE_CHANGE_DELETE_AND_DOWNLOAD	Sustituir	
+GLOBAL_LANGUAGE_CHANGE_DELETE_OLD_MESSAGE	La descarga del nuevo idioma requiere {0}, pero solo tienes {1} de espacio disponible. Bastaría con eliminar el idioma actual ({2}) para liberar el espacio suficiente. ¿Quieres eliminarlo y descargar el nuevo?	
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_MESSAGE	Necesitas {0} de espacio libre en tu dispositivo para continuar.	
 GLOBAL_LANGUAGE_CHANGE_OUT_OF_SPACE_TITLE	¡Falta espacio!	
-GLOBAL_LANGUAGE_DOWNLOAD_VOICE_PACK	Conjunto de voces descargado	
 GLOBAL_LANGUAGE_DROPDOWN	Idioma	
 GLOBAL_LANGUAGE_NATIVE_DEDE	Deutsch	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ENGB	English (UK)	The name of the language IN THAT LANGUAGE.
@@ -598,11 +1266,14 @@ GLOBAL_LANGUAGE_NATIVE_KOKR	한국어	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_PLPL	Polski	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_PTBR	Português (Brasil)	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_RURU	Русский	The name of the language IN THAT LANGUAGE.
-GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the laugnage IN THAT LANGUAGE.
+GLOBAL_LANGUAGE_NATIVE_THTH	ภาษาไทย	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ZHCN	中文（简体）	The name of the language IN THAT LANGUAGE.
 GLOBAL_LANGUAGE_NATIVE_ZHTW	繁體中文(台灣)	The name of the language IN THAT LANGUAGE.
 GLOBAL_LEAVE	Abandonar	
 GLOBAL_LEAVE_SPECTATOR_MODE	Abandonar	
+GLOBAL_LEAVE_TUTORIAL	Abandonar tutorial	
+GLOBAL_LETTUCE_LOBBY_TITLE	Elige cómo jugar	
+GLOBAL_LETTUCE_REWARD_BANNER_TEXT	Recompensa de Mercenarios	
 GLOBAL_LOCATIONS	Más información	
 GLOBAL_LOGIN	Iniciar sesión	
 GLOBAL_LOGIN_CONFIRM_MESSAGE	Perderás tu progreso actual. ¿Quieres continuar?	
@@ -641,21 +1312,43 @@ GLOBAL_MEDAL_9	Caballero Mano de Plata
 GLOBAL_MEDAL_ARENA_TOOLTIP_BODY	Esta es la mejor llave que has ganado en la Arena hasta la fecha.\nVictorias: {0}	0=num wins
 GLOBAL_MEDAL_REWARD_CONGRATULATIONS	¡Felicidades!	
 GLOBAL_MEDAL_REWARD_DESCRIPTION	Medalla ganada la semana pasada	
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Tu mejor rango actual es estándar.	
-GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Tu mejor rango actual es salvaje.	
-GLOBAL_MEDAL_TOOLTIP_BODY	¡Gana partidas para alcanzar el siguiente rango!	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_CLASSIC	Rango clásico: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_STANDARD	Rango en estándar: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_TWIST	Rango de Giro: {0}	
+GLOBAL_MEDAL_TOOLTIP_BEST_RANK_WILD	Rango en salvaje: {0}	
 GLOBAL_MEDAL_TOOLTIP_BODY_ARENA_GRAND_MASTER	¡Has triunfado en la Arena!	
+GLOBAL_MEDAL_TOOLTIP_BODY_CLASSIC	¡Gana partidas clásicas para alcanzar el siguiente rango!	
 GLOBAL_MEDAL_TOOLTIP_BODY_LEGEND	¡Eres una leyenda! Tu posición dentro de este rango cambiará con cada partida.	
+GLOBAL_MEDAL_TOOLTIP_BODY_STANDARD	¡Gana partidas estándares para alcanzar el siguiente rango!	
+GLOBAL_MEDAL_TOOLTIP_BODY_TWIST	¡Gana partidas de Giro para alcanzar el siguiente rango!	
+GLOBAL_MEDAL_TOOLTIP_BODY_WILD	¡Gana partidas salvajes para alcanzar el siguiente rango!	
 GLOBAL_MEDAL_TOOLTIP_HEADER	Medalla: {0}	0=medal name
 GLOBAL_MEDAL_TOURNAMENT_TOOLTIP_BODY	Entre el {0}% mejor del juego con rango de la temporada	0=rank percentile
+GLOBAL_MERCENARIES	Mercenarios	
+GLOBAL_MERCENARIES_COOP	Mercenarios cooperativo	
+GLOBAL_MERCENARY_FACTION_ALLIANCE	Alianza	
+GLOBAL_MERCENARY_FACTION_EMPIRE	Imperio	
+GLOBAL_MERCENARY_FACTION_EXPLORER	Expedicionario	
+GLOBAL_MERCENARY_FACTION_HORDE	Horda	
+GLOBAL_MERCENARY_FACTION_LEGION	Legión	
+GLOBAL_MERCENARY_FACTION_PIRATE	Pirata	
+GLOBAL_MERCENARY_FACTION_SCOURGE	Plaga	
+GLOBAL_MINI_SET_BAR	Cuevas de los Lamentos	
+GLOBAL_MINI_SET_DMF	Carreras de la Luna Negra	
+GLOBAL_MINI_SET_ONY	Guarida de Onyxia	
+GLOBAL_MINI_SET_REV	Fauces y perjuicios	
+GLOBAL_MINI_SET_RLK	Regreso a Naxxramas	
+GLOBAL_MINI_SET_SW	Minas de la Muerte	
+GLOBAL_MINION_TYPES	Tipos	
 GLOBAL_MOBILE_ERROR_ANDROID_PHONE_DETECTED	Lo sentimos, pero Hearthstone solo se puede ejecutar en tabletas Android de 6 pulgadas o más.	
 GLOBAL_MOBILE_ERROR_BREAKING_NEWS	Última hora:\n\n{0}	
+GLOBAL_MOBILE_ERROR_GAMESERVER_CONNECT	Hemos visto que no has podido unirte a una partida con una conexión móvil. Consulta este artículo de ayuda para obtener más información.	
 GLOBAL_MOBILE_ERROR_LOGON_WEB_TIMEOUT	Ha pasado un tiempo desde tu última actividad en Hearthstone. Se te ha desconectado.	
 GLOBAL_MOBILE_ERROR_NETWORK_DISCONNECT	Se te ha desconectado.	
 GLOBAL_MOBILE_ERROR_NETWORK_SPAM	Se te ha desconectado por enviar demasiadas solicitudes demasiado rápido.	
 GLOBAL_MOBILE_ERROR_NETWORK_UTIL_TIMEOUT	Tu conexión ha expirado al solicitar datos de los servidores de Hearthstone.	
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	Lo sentimos; Hearthstone requiere un iPhone 4s o un iPod Touch 5 o posterior.	
-GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	Lo sentimos; Hearthstone requiere un iPad 2 o posterior.	
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_PHONE_DETECTED	Lo sentimos; Hearthstone requiere un iPhone 6s o un iPod Touch 7 o posterior.	
+GLOBAL_MOBILE_ERROR_UNSUPPORTED_IOS_TABLET_DETECTED	Lo sentimos; Hearthstone requiere un iPad 5, un iPad Air 2 o un iPad mini 4 o posterior.	
 GLOBAL_MOBILE_LOG_IN_TOOLTIP	Si tienes una cuenta, ¡inicia sesión!	
 GLOBAL_MOBILE_LOGIN_POINTER	Inicia sesión aquí	
 GLOBAL_MOBILE_RESTART_APPLICATION	Reinicia la aplicación.	
@@ -666,6 +1359,9 @@ GLOBAL_MOBILECHAT_NOTIFICATION_TURN_COUNTDOWN	¡Se acaba el tiempo!
 GLOBAL_MOBILECHAT_NOTIFICATION_YOUR_TURN	¡Tu turno!	
 GLOBAL_MOBILECHAT_RETURN_TO_GAME	Cerrar	
 GLOBAL_MOBILECHAT_RETURN_TO_MENU	Volver al menú	
+GLOBAL_MODULE_ADVENTURE	Aventuras	Module name for adventure
+GLOBAL_MODULE_BGS	Campos de batalla	Module name for battlegrounds
+GLOBAL_MODULE_MERC	Mercenarios	Module name for merc
 GLOBAL_MORE	Más	
 GLOBAL_MY_NUM_WINS	{0}	0=number of games this player has won
 GLOBAL_NOT_AVAILABLE	No disponible	
@@ -674,10 +1370,20 @@ GLOBAL_OFFLINE	Desconectado
 GLOBAL_OKAY	Aceptar	
 GLOBAL_ON	Sí	
 GLOBAL_OPTIONS	Opciones	
+GLOBAL_OPTIONS_ADVANCED_LABEL	Avanzado	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE	Aparición de cartas distintivas	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_DYNAMIC	Dar prioridad al texto	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_OFF	No mostrar nunca el texto	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_ON	Mostrar siempre el texto	
+GLOBAL_OPTIONS_ADVANCED_SIGNATURE_RARELY	Dar prioridad al arte	
 GLOBAL_OPTIONS_CARDBACK_LABEL	Elige el dorso de tus cartas	
 GLOBAL_OPTIONS_CHOOSE_CARD_BACK	Elige un dorso de carta	
 GLOBAL_OPTIONS_CINEMATIC	Escena de vídeo	
 GLOBAL_OPTIONS_CREDITS	Créditos	
+GLOBAL_OPTIONS_GRAPHICS_FPS_DEFAULT	Baja	
+GLOBAL_OPTIONS_GRAPHICS_FPS_HIGH	Alta	
+GLOBAL_OPTIONS_GRAPHICS_FPS_LABEL	Tasa de fotogramas	
+GLOBAL_OPTIONS_GRAPHICS_FPS_MEDIUM	Media	
 GLOBAL_OPTIONS_GRAPHICS_FULLSCREEN_LABEL	Pantalla completa	
 GLOBAL_OPTIONS_GRAPHICS_LABEL	Gráficos	
 GLOBAL_OPTIONS_GRAPHICS_QUALITY_HIGH	Alta	
@@ -694,42 +1400,126 @@ GLOBAL_OPTIONS_PRIVACY_POLICY	Configurar privacidad
 GLOBAL_OPTIONS_PUBLIC_CHAT_ENABLED	Chat hostil	
 GLOBAL_OPTIONS_RESTORE_PURCHASES	Restaurar compras	
 GLOBAL_OPTIONS_RESTORE_PURCHASES_POPUP_TEXT	¿No encuentras algo que has comprado? Asegúrate de que estás en la cuenta correcta.	
-GLOBAL_OPTIONS_SKIP_NPR	Omitir aprendizaje	
+GLOBAL_OPTIONS_SCREEN_SHAKE	Activar temblor de pantalla	
+GLOBAL_OPTIONS_SKIP_NPR	Omitir aprendiz	
 GLOBAL_OPTIONS_SKIP_TO_RANK_25	Saltar al rango 25	
+GLOBAL_OPTIONS_SOUND_AMBIENT_SOUNDS_VOLUME_LABEL	Sonido ambiente	
+GLOBAL_OPTIONS_SOUND_DIALOG_VOLUME_LABEL	Diálogos	
 GLOBAL_OPTIONS_SOUND_IN_BACKGROUND	Sonido en segundo plano	
 GLOBAL_OPTIONS_SOUND_LABEL	Sonido	
 GLOBAL_OPTIONS_SOUND_MASTER_VOLUME_LABEL	Volumen general	
+GLOBAL_OPTIONS_SOUND_MONO	Sonido mono	
 GLOBAL_OPTIONS_SOUND_MUSIC_VOLUME_LABEL	Volumen de la música	
+GLOBAL_OPTIONS_SOUND_OPTIONS_LABEL	Opciones de sonido	
+GLOBAL_OPTIONS_SOUND_RESET_DEFAULTS	Restablecer predeterminados	
+GLOBAL_OPTIONS_SOUND_SOUND_EFFECT_VOLUME_LABEL	Efectos de sonido	
 GLOBAL_OPTIONS_SPECTATOR_OPEN_JOIN	Permitir a mis amigos observar mis partidas	
+GLOBAL_PERSONAL_INFO_APP_ID	App Install ID	Label for showing their unqiue application install ID
+GLOBAL_PERSONAL_INFO_DEVICE_ID	Device Unique ID	Label for showing their device's unique id
+GLOBAL_PERSONAL_INFO_DEVICE_MODEL	Device Mode	Label for showing their device model
+GLOBAL_PERSONAL_INFO_DEVICE_NAME	Device Name	Label for showing their device name
+GLOBAL_PERSONAL_INFO_DEVICE_TYPE	Device Type	Label for showing their device type (Console/Handheld/Desktop)
+GLOBAL_PERSONAL_INFO_LOCALE	Idioma	Label for showing their locale setting
+GLOBAL_PERSONAL_INFO_OS_VERSION	Os Version	Label for showing their operating system version
+GLOBAL_PERSONAL_INFO_REGION	Connected Battle.net Region	Label for showing their locale setting
 GLOBAL_PLAY	Jugar	
 GLOBAL_PLAY_RANKED	Jugar	
 GLOBAL_PLAY_STANDARD	Jugar en estándar	
+GLOBAL_PLAY_WAITING	Esperando	
 GLOBAL_PLAY_WILD	Jugar en salvaje	
+GLOBAL_PLAYER_MIGRATION_RESTART_BODY	Hay que actualizar tu cuenta.\nReinicia el juego.	
+GLOBAL_PLAYER_MIGRATION_RESTART_HEADER	Hay que actualizar la cuenta	
 GLOBAL_PLAYER_PLAYER	Jugador	this is the word for generic "Player" - this will be used when there a player's name is unknown at the time.
 GLOBAL_PRACTICE_MAX_LEVEL_REACHED	Nivel máximo en modo Práctica	
+GLOBAL_PRIVACY_PERSONAL_INFO_BUTTON_CN	Personal Info	Text for a button to show personal information collected by the game for CN users
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_BODY	Personal Info is not available right now.\nPlease try again later.	
+GLOBAL_PRIVACY_PERSONAL_INFO_ERROR_TITLE	No disponible	Title for dialog telling users personal information is unavailable
+GLOBAL_PRIVACY_REGISTRATION_BUTTON_CN	沪B2-20080012-20A	Button text for registration information. Should not be translated
+GLOBAL_PRIVACY_SDK_BUTTON_CN	3rd Party Info	Text for a button to show 3rd party sdk information for CN users
+GLOBAL_PROGRAMNAME_ARCADECOLLECTION	Colección arcade de Blizzard	
 GLOBAL_PROGRAMNAME_BLACKOPS4	Black Ops 4	
-GLOBAL_PROGRAMNAME_DESTINY2	Destiny 2	
+GLOBAL_PROGRAMNAME_BLACKOPSCOLDWAR	Black Ops Cold War	
+GLOBAL_PROGRAMNAME_CALLOFDUTY	Call of Duty	
+GLOBAL_PROGRAMNAME_CODVANGUARD	Call of Duty: Vanguard	
+GLOBAL_PROGRAMNAME_CRASHBANDICOOT4	Crash Bandicoot 4	
+GLOBAL_PROGRAMNAME_DIABLO2R	Diablo II: Resurrected	
 GLOBAL_PROGRAMNAME_DIABLO3	Diablo III	
+GLOBAL_PROGRAMNAME_DIABLO4	Diablo IV	
+GLOBAL_PROGRAMNAME_DIABLOIMMORTAL	Diablo Immortal	
 GLOBAL_PROGRAMNAME_HEARTHSTONE	Hearthstone	
 GLOBAL_PROGRAMNAME_HEROES	Heroes of the Storm	
 GLOBAL_PROGRAMNAME_MODERNWARFARE	Modern Warfare	
+GLOBAL_PROGRAMNAME_MODERNWARFARE2	Modern Warfare II	
 GLOBAL_PROGRAMNAME_MODERNWARFARE2_REMASTER	MW2CR	
+GLOBAL_PROGRAMNAME_OUTERWORLDS2	The Outer Worlds 2	
 GLOBAL_PROGRAMNAME_OVERWATCH	Overwatch	
+GLOBAL_PROGRAMNAME_OVERWATCH2	Overwatch 2	
 GLOBAL_PROGRAMNAME_PHOENIX	Conectado	
 GLOBAL_PROGRAMNAME_STARCRAFT	StarCraft	
 GLOBAL_PROGRAMNAME_STARCRAFT2	StarCraft II	
 GLOBAL_PROGRAMNAME_WARCRAFT3	<i>Warcraft III: Reforged</i>	
+GLOBAL_PROGRAMNAME_WARCRAFTARCLIGHTRUMBLE	Warcraft Rumble	
 GLOBAL_PROGRAMNAME_WOW	World of Warcraft	
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION	{0} completado	
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_DATE	{0:yyyy/MM/dd}	see http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx
+GLOBAL_PROGRESSION_ACHIEVEMENT_COMPLETION_PERCENTAGE	{0}%	
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP	Descarga {0} para visualizar los logros.	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_LOCKED_TOOLTIP_TITLE	{0}	{0}=Localised game mode name
+GLOBAL_PROGRESSION_ACHIEVEMENT_SUBCATEGORY_NAME	{0} - {1}	
+GLOBAL_PROGRESSION_ACHIEVEMENT_TILE_LOCKED_MESSAGE	Descarga {0} para visualizar	{0}=Localised game mode name
+GLOBAL_PROGRESSION_BATTLEGROUNDS_QUESTS_POPUP_TITLE	Tus misiones semanales	
+GLOBAL_PROGRESSION_DAILY_QUESTS_POPUP_TITLE	Tus misiones	
+GLOBAL_PROGRESSION_EVENT_QUESTS_POPUP_TITLE	Tus misiones de evento	
+GLOBAL_PROGRESSION_POINTS	{0} de renombre de proeza	
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP	El mayor número de victorias conseguido en la Arena.	
+GLOBAL_PROGRESSION_PROFILE_ARENA_STAT_TOOLTIP_TITLE	Arena	
+GLOBAL_PROGRESSION_PROFILE_ARENA_WINS	{0} |4(victoria,victorias)	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP	Sube en la clasificación ganando partidas. ¡Si quedas entre los cuatro primeros, cuenta como una victoria en las misiones!	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_STAT_TOOLTIP_TITLE	Campos de batalla	
+GLOBAL_PROGRESSION_PROFILE_BATTLEGROUNDS_TOP4	{0} |4(vez,veces) entre los cuatro primeros	
+GLOBAL_PROGRESSION_PROFILE_GAME_MODES	Modos de juego	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP	Muestra el rango JcJ y el número de recompensas completadas en el modo Mercenarios.	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_STAT_TOOLTIP_TITLE	Mercenarios	
+GLOBAL_PROGRESSION_PROFILE_MERCENARIES_TOTAL_BOUNTIES	{0} |4(contrato,contratos) en total	
+GLOBAL_PROGRESSION_PROFILE_PLAY_MODE	Hearthstone tradicional	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TITLE	Duelos aficionados	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP	Muestra tu mejor clasificación en los modos aficionado y heroico de Duelos.	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_CASUAL_STAT_TOOLTIP_TITLE	Duelos (modo aficionado)	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TITLE	Duelos heroicos	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP	Muestra tu mejor clasificación en los modos aficionado y heroico de Duelos.	
+GLOBAL_PROGRESSION_PROFILE_PVPDR_HEROIC_STAT_TOOLTIP_TITLE	Duelos (modo heroico)	
+GLOBAL_PROGRESSION_PROFILE_RANKED_STAT_TOOLTIP	Número total de victorias en partidas con rango.	
+GLOBAL_PROGRESSION_PROFILE_TOTAL_WINS	{0} |4(victoria,victorias totales)	
+GLOBAL_PROGRESSION_PROFILE_WINS_PLURAL	Victorias totales	
+GLOBAL_PROGRESSION_PROFILE_WINS_SINGULAR	Victoria	
+GLOBAL_PROGRESSION_PROGRESS_MESSAGE	{0} / {1}	
+GLOBAL_PROGRESSION_QUEST_TIME_UNTIL_NEXT	Nueva misión en\n{0}	
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP	¡Sube de rango cada mes y aumenta el nivel de tus clases para conseguir magníficas recompensas!	
+GLOBAL_PROGRESSION_RANKED_REWARDS_TOOLTIP_TITLE	Recompensas	
+GLOBAL_PROGRESSION_REWARD_SUMMARY	{0}\n{1}	
+GLOBAL_PROGRESSION_REWARD_TRACK_XP	{0} PE de recompensa	
+GLOBAL_PROGRESSION_TIER_MESSAGE	{0}/{1}	
+GLOBAL_PROGRESSION_TOOLTIP_CLASS_DEFAULT_DESC	Nivel {0}	
+GLOBAL_PROGRESSION_TOOLTIP_GOLDEN_WINS_DESC	¡Gana {0} partidas en el modo con rango o la Arena con la clase {1} para conseguir la versión dorada de su héroe clásico!	{0}=win count {1}=class name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DESC	¡Gana {0} partidas en el modo con rango o la Arena con la clase {1} para conseguir a {2}!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_PREMIUM_WINS_DONE_DESC	¡Al ganar {0} partidas en el modo con rango o la Arena con la clase {1}, has conseguido a {2}!	{0}=win count {1}=class name {2}=hero card name
+GLOBAL_PROGRESSION_TOOLTIP_TOTAL_CLASS_WINS	Victorias totales con {0}	{0}=class name
+GLOBAL_PROGRESSION_WEEKLY_QUESTS_POPUP_TITLE	Tus misiones semanales	
+GLOBAL_PVPDR_SEASON_ERROR_NOT_ACTIVE	Lo sentimos. La temporada de Duelos solicitada ya no está disponible. Inténtalo más tarde.	
 GLOBAL_QUEST_PROGRESS_COUNT	{0}/{1}	0=progress,1=max progress
 GLOBAL_QUIT	Salir	
+GLOBAL_RACE_ABERRATION	Aberración	
+GLOBAL_RACE_ABERRATION_BATTLEGROUNDS	Aberraciones	
 GLOBAL_RACE_ALL	Todos	
 GLOBAL_RACE_ALL_BATTLEGROUNDS	Amalgamas	This should be the plural of DAL_087t
 GLOBAL_RACE_BLOODELF	Elfo de sangre	
 GLOBAL_RACE_BLOODELF_BATTLEGROUNDS	Elfos de sangre	
+GLOBAL_RACE_CELESTIAL	Celestial	
+GLOBAL_RACE_CENTAUR	Centauro	
 GLOBAL_RACE_DEMON	Demonio	
 GLOBAL_RACE_DEMON_BATTLEGROUNDS	Demonios	
-GLOBAL_RACE_DRAENEI	Fuego	
-GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Fuego	
+GLOBAL_RACE_DRAENEI	Draenei	
+GLOBAL_RACE_DRAENEI_BATTLEGROUNDS	Draenei	
 GLOBAL_RACE_DRAGON	Dragón	
 GLOBAL_RACE_DRAGON_BATTLEGROUNDS	Dragones	
 GLOBAL_RACE_DWARF	Enano	
@@ -738,39 +1528,57 @@ GLOBAL_RACE_EGG	Huevo
 GLOBAL_RACE_EGG_BATTLEGROUNDS	Huevos	
 GLOBAL_RACE_ELEMENTAL	Elemental	
 GLOBAL_RACE_ELEMENTAL_BATTLEGROUNDS	Elementales	
+GLOBAL_RACE_FURBOLG	Fúrbolg	
+GLOBAL_RACE_GNOLL	Gnoll	
 GLOBAL_RACE_GNOME	Gnomo	
 GLOBAL_RACE_GNOME_BATTLEGROUNDS	Gnomos	
 GLOBAL_RACE_GOBLIN	Goblin	
 GLOBAL_RACE_GOBLIN_BATTLEGROUNDS	Goblins	
+GLOBAL_RACE_GOLEM	Gólem	
+GLOBAL_RACE_GRONN	Gronn	
+GLOBAL_RACE_HALFORC	Semiorco	
+GLOBAL_RACE_HARPY	Arpía	
+GLOBAL_RACE_HIGHELF	Elfo noble	
 GLOBAL_RACE_HUMAN	Humano	
 GLOBAL_RACE_HUMAN_BATTLEGROUNDS	Humanos	
+GLOBAL_RACE_LOCK	Cerradura	
 GLOBAL_RACE_MECHANICAL	Robot	
 GLOBAL_RACE_MECHANICAL_BATTLEGROUNDS	Robots	
 GLOBAL_RACE_MIXED_BATTLEGROUNDS	Esbirros mezclados	
+GLOBAL_RACE_MULTILINE_DELIMITER	{0} / {1}	
 GLOBAL_RACE_MURLOC	Múrloc	
 GLOBAL_RACE_MURLOC_BATTLEGROUNDS	Múrlocs	
+GLOBAL_RACE_NAGA	Naga	
+GLOBAL_RACE_NAGA_BATTLEGROUNDS	Naga	
 GLOBAL_RACE_NERUBIAN	Nerubiano	
 GLOBAL_RACE_NERUBIAN_BATTLEGROUNDS	Nerubianos	
 GLOBAL_RACE_NIGHTELF	Elfo de la noche	
 GLOBAL_RACE_NIGHTELF_BATTLEGROUNDS	Elfos de la noche	
 GLOBAL_RACE_OGRE	Ogro	
 GLOBAL_RACE_OGRE_BATTLEGROUNDS	Ogros	
+GLOBAL_RACE_OLDGOD	Dios antiguo	
 GLOBAL_RACE_ORC	Orco	
 GLOBAL_RACE_ORC_BATTLEGROUNDS	Orcos	
+GLOBAL_RACE_OWLKIN	Búhico	
+GLOBAL_RACE_PANDAREN	Pandaren	
 GLOBAL_RACE_PET	Bestia	
 GLOBAL_RACE_PET_BATTLEGROUNDS	Bestias	
 GLOBAL_RACE_PIRATE	Pirata	
 GLOBAL_RACE_PIRATE_BATTLEGROUNDS	Piratas	
+GLOBAL_RACE_QUILBOAR	Jabaespín	
+GLOBAL_RACE_QUILBOARS_BATTLEGROUNDS	Jabaespín	
 GLOBAL_RACE_SCOURGE	Plaga	
 GLOBAL_RACE_SCOURGE_BATTLEGROUNDS	Plaga	
 GLOBAL_RACE_TAUREN	Tauren	
 GLOBAL_RACE_TAUREN_BATTLEGROUNDS	Tauren	
 GLOBAL_RACE_TOTEM	Tótem	
 GLOBAL_RACE_TOTEM_BATTLEGROUNDS	Tótems	
+GLOBAL_RACE_TREANT	Antárbol	
 GLOBAL_RACE_TROLL	Trol	
 GLOBAL_RACE_TROLL_BATTLEGROUNDS	Trols	
 GLOBAL_RACE_UNDEAD	No-muerto	
 GLOBAL_RACE_UNDEAD_BATTLEGROUNDS	No-muertos	
+GLOBAL_RACE_VULPERA	Vulpera	
 GLOBAL_RACE_WORGEN	Huargen	
 GLOBAL_RACE_WORGEN_BATTLEGROUNDS	Huargen	
 GLOBAL_RANK_CANT_LOSE_LEVEL	No puedes bajar de este rango.	
@@ -779,12 +1587,14 @@ GLOBAL_RANK_SCRUB_RANK_DESC	En este rango no se pierden estrellas.
 GLOBAL_RANK_STAR_MULT	¡Bonus de estrellas! x{0}	
 GLOBAL_RANK_STAR_MULT_STREAK	¡Bonus de racha de victorias! x2	
 GLOBAL_RANK_WIN_STREAK	Racha de victorias: ¡toma una estrella!	
+GLOBAL_RANKED	Con rango	
 GLOBAL_RARITY_COMMON	Común	
 GLOBAL_RARITY_EPIC	Épica	
 GLOBAL_RARITY_FREE	Gratis	
 GLOBAL_RARITY_LEGENDARY	Legendaria	
 GLOBAL_RARITY_RARE	Poco común	
 GLOBAL_RECONNECT_EXIT_BUTTON	Salir	
+GLOBAL_RECONNECT_FAIL_MODE_NOT_AVAILABLE	No se puede reconectar con el juego. El modo {0} no se ha descargado.	{0}=Name of the mode, (e.g. Battlegrounds, Mercenaries, Solo Adventures)
 GLOBAL_RECONNECT_RECONNECTED	Se ha restaurado la conexión con tu partida. Reanudando...	
 GLOBAL_RECONNECT_RECONNECTED_HEADER	Conexión restaurada	
 GLOBAL_RECONNECT_RECONNECTED_LOGIN	Se ha restaurado la conexión con tu última partida. Reanudando...	
@@ -793,7 +1603,18 @@ GLOBAL_RECONNECT_RECONNECTING_HEADER	Restaurando conexión
 GLOBAL_RECONNECT_RECONNECTING_LOGIN	Te has desconectado de tu última partida. Restaurando la conexión...	
 GLOBAL_RECONNECT_TIMEOUT	No se ha podido restaurar la conexión con tu partida.	
 GLOBAL_RECONNECT_TIMEOUT_HEADER	Error	
+GLOBAL_REDUNDANT_NDE_BODY	Acabas de obtener la versión {0} de |4(esta carta, estas cartas).\n¿Quieres cambiar la |4(versión, versión) {1} por |4(otra carta {3} de {2} aleatoria, otras cartas {3} de {2} aleatorias)?	0=Newly Acquired Premium, 1=Premium to reroll, 2=reroll set name, 3=card rarity
+GLOBAL_REDUNDANT_NDE_BODY_DUPLICATE_SIGNATURE	Acabas de obtener una carta legendaria distintiva repetida. \n¿Quieres regenerar una carta legendaria dorada {0} aleatoria?	0=reroll set name
+GLOBAL_REDUNDANT_NDE_BODY_MULTIPLE_PREMIUMS	Acabas de obtener la versión {0} de esta carta.\n¿Quieres cambiar las versiones {1}/{2} por otras cartas {4} de {3} aleatorias?	0=Newly Acquired Premium, 1=Higher premium to reroll, 2=Lower premium to reroll, 3=reroll set name, 4=card rarity
+GLOBAL_REDUNDANT_NDE_BUTTON_DECLINE	No, gracias	
+GLOBAL_REDUNDANT_NDE_BUTTON_REROLL	¡Cambiar!	
+GLOBAL_REDUNDANT_NDE_DOUBLE_BODY	Acabas de obtener las versiones [PH Premium] de esta carta.\n¿Quieres cambiar las versiones [PH Premium] por otras aleatorias de tipo [PH RARITY] [PH SET]?	
+GLOBAL_REDUNDANT_NDE_REROLL_RESULT_HEADER	¡Carta cambiada!	
+GLOBAL_REDUNDANT_NDE_TITLE	¿Cambiar |4(carta, cartas) {0}?	0=card premium to reroll
+GLOBAL_REDUNDANT_NDE_TITLE_DUPLICATE_SIGNATURE	¿Quieres regenerar la carta legendaria distintiva repetida?	
+GLOBAL_REDUNDANT_NDE_TITLE_MULTIPLE_PREMIUMS	¿Cambiar cartas {0}/{1}?	0=higher card premium to reroll, 1=lower card premium to reroll
 GLOBAL_REFRESH	Actualizar	
+GLOBAL_REFUND_ARENA_TICKET_HEADLINE	¡Entrada reembolsada!	
 GLOBAL_REGION_AMERICAS	América y Sudeste Asiático	
 GLOBAL_REGION_ASIA	Asia	
 GLOBAL_REGION_CHINA	China	
@@ -803,19 +1624,33 @@ GLOBAL_REMAINING_DATETIME	Tiempo restante: {0}	0=time string
 GLOBAL_REMINDER_CARDBACK_SEASON_END_DIALOG	Gana {0} |4(partida,partidas) para obtener el dorso de carta de la temporada.	
 GLOBAL_REMINDER_CHEST_QUESTION_MARK	?	Label for unearned chest, assuming "?" universally means unknown, it doesn't need to be localized
 GLOBAL_REMINDER_CHEST_SEASON_END_DIALOG	Gana 5 partidas para obtener tu cofre de temporada.	
+GLOBAL_REPORT_DETAIL_ADVERTISEMENT	Publicidad	
+GLOBAL_REPORT_DETAIL_BATTLETAG	BattleTag	
+GLOBAL_REPORT_DETAIL_BOTTING	Uso de bots	
+GLOBAL_REPORT_DETAIL_HACKING	Hackeo	
+GLOBAL_REPORT_DETAIL_HARASSMENT	Acoso	
+GLOBAL_REPORT_DETAIL_INTENTIONALLY_LOSING_DERANKING	Perder a propósito	
+GLOBAL_REPORT_DETAIL_SPAM	Spam	
+GLOBAL_REPORT_REASON_CHEATING	Trampas	
+GLOBAL_REPORT_REASON_INAPPROPRIATE_CHAT	Chat inapropiado	
+GLOBAL_REPORT_REASON_INAPPROPRIATE_NAME	Nombre inapropiado	
 GLOBAL_RESTART	Reiniciar	
 GLOBAL_RESUME_GAME	Continuar	
 GLOBAL_RETRY	Reintentar	
 GLOBAL_RETURNING_PLAYER_GENERATED_DECK	Mazo del tabernero	
 GLOBAL_REWARD_ARCANE_DUST_HEADLINE	¡Polvo Arcano obtenido!	
 GLOBAL_REWARD_ARCANE_ORBS_HEADLINE	¡Orbes Arcanos obtenidos!	
+GLOBAL_REWARD_ARENA_TICKET	Entrada de la Arena	
 GLOBAL_REWARD_ARENA_TICKET_ADMIT	ENTRADA	the word 'admit' in capital letters - displayed like "Admit 1" and looks like a movie/fair ticket. this is the Arena Ticket reward visual.
 GLOBAL_REWARD_ARENA_TICKET_AUTHORIZED_BY	Autorizado por	a label that shows up in the Arena Ticket under the Player's name indicating this ticket reward was granted by some guy.
 GLOBAL_REWARD_ARENA_TICKET_ENTRANT	Participante	a label that shows up in the Arena Ticket under the Player's name to say this person is allowed entrance into the Arena.
-GLOBAL_REWARD_ARENA_TICKET_HEADLINE	¡Pase de Arena gratis!	
+GLOBAL_REWARD_ARENA_TICKET_HEADLINE	¡Entrada gratis!	
 GLOBAL_REWARD_ARENA_TICKET_LABEL	La Arena	
 GLOBAL_REWARD_ARENA_TICKET_STORE_COUNT_1	1	
-GLOBAL_REWARD_ARENA_TICKET_TITLE	Arena	
+GLOBAL_REWARD_ARENA_TICKET_TITLE	Taberna	
+GLOBAL_REWARD_BATTLEGROUNDS_GUIDE_HEADLINE	Posadero de Campos de batalla desbloqueado	
+GLOBAL_REWARD_BATTLEGROUNDS_HERO_HEADLINE	Héroe de Campos de batalla desbloqueado	
+GLOBAL_REWARD_BG_TOKEN_HEADLINE	¡|4(Ficha de Campos de batalla obtenida, Fichas de Campos de batalla obtenidas)!	
 GLOBAL_REWARD_BONUS_CHALLENGE_HEADLINE	Desafío final desbloqueado	
 GLOBAL_REWARD_BOOSTER_DETAILS_OUT_OF_BAND	{0} |4(sobre añadido,sobres añadidos) a tu cuenta desde fuera del juego.	0=count
 GLOBAL_REWARD_BOOSTER_DETAILS_PRESALE_OUT_OF_BAND	¡Tu compra web de {0} |4(sobre,sobres) pronto estará disponible!	0=count
@@ -830,7 +1665,7 @@ GLOBAL_REWARD_CARD_DETAILS_TUTORIAL02	Ha sido impresionante.
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL03	¡Estás en racha!	
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL04	Ha sido increíble.	
 GLOBAL_REWARD_CARD_DETAILS_TUTORIAL05	¡Magnífico!	
-GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	¡Alucinante!	
+GLOBAL_REWARD_CARD_DETAILS_TUTORIAL06	¡Bien hecho!	
 GLOBAL_REWARD_CARD_HEADLINE	¡Recompensa!	
 GLOBAL_REWARD_CARD_LEVEL_UP	Se desbloquea al alcanzar el nivel {0} con el {1}	0=# level, 1=class
 GLOBAL_REWARD_CHEST_HEADER	¡Has conseguido recompensas del modo con rango!	
@@ -851,6 +1686,7 @@ GLOBAL_REWARD_CLASS_CHALLENGE_DETAIL	{0}	0=first class
 GLOBAL_REWARD_CLASS_CHALLENGE_DETAIL_DOUBLE	{0} y {1}	0=first class, 1=second class
 GLOBAL_REWARD_CLASS_CHALLENGE_HEADLINE	|4(Desafío de clase desbloqueado,Desafíos de clase desbloqueados)	
 GLOBAL_REWARD_CORE_CARD_DETAILS	{0}/{1} cartas de {2} desbloqueadas	0=# cards unlocked, 1=# cards possible to unlock, 2=class
+GLOBAL_REWARD_FIERY_HEART_MOUNT_HEADLINE	Montura Corazón ígneo	
 GLOBAL_REWARD_FORGE_DETAILS_OUT_OF_BAND	Se |4(ha,han) añadido {0} |4(entrada,entradas) a la Arena desde fuera del juego.	0=count
 GLOBAL_REWARD_FORGE_HEADLINE	Entrada a la Arena añadida	
 GLOBAL_REWARD_FORGE_UNLOCKED_HEADLINE	¡Arena desbloqueada!	
@@ -865,6 +1701,11 @@ GLOBAL_REWARD_HERO_DETAILS	{0}/{1} héroes desbloqueados
 GLOBAL_REWARD_HERO_HEADLINE	Has desbloqueado al {0}	
 GLOBAL_REWARD_HEROES_CARD_MOUNT_HEADLINE	Montura carta de Hearthstone	
 GLOBAL_REWARD_PROGRESS	{0}/{1} victorias	0=current wins,1=required wins
+GLOBAL_REWARD_SARGE_TALE_HEADLINE	Montura de La historia de Sarge	
+GLOBAL_ROLE_CASTER	Taumaturgo	
+GLOBAL_ROLE_FIGHTER	Luchador	
+GLOBAL_ROLE_TANK	Protector	
+GLOBAL_RUNE_REQUIREMENT_POPUP_TEXT	Estos son los requisitos de runas.	
 GLOBAL_SCAN	Escanear	
 GLOBAL_SCREENSHOT_COMPLETE	Captura de pantalla guardada en el escritorio	
 GLOBAL_SCREENSHOT_COMPLETE_SPECIFIC_DIRECTORY	Captura de pantalla guardada en {0}	0=The directory that the file was saved to
@@ -884,7 +1725,7 @@ GLOBAL_SEASON_END_RANK_LABEL	Has alcanzado el rango
 GLOBAL_SEASON_END_STAR_MULTIPLIER_LABEL	Bonus de estrellas	
 GLOBAL_SEASON_END_STAR_MULTIPLIER_TITLE	Con tus logros en partidas con rango de la última temporada has conseguido	
 GLOBAL_SEASON_END_WELCOME	Bienvenido	
-GLOBAL_SET_CORE	Conjunto básico	
+GLOBAL_SET_BASIC	Conjunto Básico	
 GLOBAL_SET_EXPERT1	Conjunto clásico	
 GLOBAL_SET_ROTATION_ROLLOVER_BODY_DESKTOP	¡Es un año nuevo en Hearthstone!\nReinicia el juego para unirte a la celebración.	
 GLOBAL_SET_ROTATION_ROLLOVER_BODY_MOBILE	¡Es un año nuevo en Hearthstone!\nReiniciando el juego para unirte a la celebración.	
@@ -892,16 +1733,19 @@ GLOBAL_SET_ROTATION_ROLLOVER_HEADER	¡Feliz Año Nuevo!
 GLOBAL_SHOW	Mostrar	
 GLOBAL_SHUTDOWN_TOAST	<color=#{0}>Los servicios de Blizzard se cerrarán en {1} min</color>	0=color, 1=minutes
 GLOBAL_SKIP	Saltar	
-GLOBAL_SKIP_TUTORIAL	Abandonar tutorial	
+GLOBAL_SKIP_TUTORIAL	Saltar tutorial	
+GLOBAL_SOCIAL_ALERT_FRIEND_OFFLINE	{0} se ha desconectado.	0=Battletag
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT	<color=#{0}>{1}</color> ha completado <color=#FFD451>{2}</color>	0=name color,1=player name,2=achievement name
+GLOBAL_SOCIAL_TOAST_FRIEND_ACHIEVEMENT_TIER	<color=#{0}>{1}</color> ha completado <color=#FFD451>{2} (nivel {3})</color>	0=name color,1=player name,2=achievement name,3=tier
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_COMPLETE	<color=#{0}>{1}</color> acaba de terminar de competir en la Arena. ({2}-{3})	0=name color,1=player name,2=Arena Wins,3=Arena Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START	<color=#{0}>{1}</color> ha empezado a competir en la Arena.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_ARENA_START_WITH_MANY_WINS	¡<color=#{0}>{1}</color> acaba de iniciar una partida de Arena y ya lleva {2} victorias!	0=name color,1=player name,2=Arena Wins
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_COMPLETE	<color=#{0}>{1}</color> acaba de terminar de competir en la Anfitaberna. ({2}-{3})	0=name color,1=player name,2=Brawl Wins,3=Brawl Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START	<color=#{0}>{1}</color> ha empezado a competir en la Anfitaberna.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_BRAWLISEUM_START_WITH_MANY_WINS	¡<color=#{0}>{1}</color> acaba de iniciar una partida de Anfitaberna y ya lleva {2} victorias!	0=name color,1=player name,2=Brawl Wins
+GLOBAL_SOCIAL_TOAST_FRIEND_DEATH_KNIGHT_LEVEL	<color=#{0}>{1}</color> se ha convertido en caballero de la Muerte de nivel {2}.	0=name color,1=player name,2=level
+GLOBAL_SOCIAL_TOAST_FRIEND_DEMON_HUNTER_LEVEL	<color=#{0}>{1}</color> se ha convertido en cazador de demonios de nivel {2}.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_DRUID_LEVEL	<color=#{0}>{1}</color> ahora es un druida de nivel {2}.	0=name color,1=player name,2=level
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK	¡<color=#{0}>{1}</color> ha alcanzado el rango {2}!	0=name color,1=player name,2=medal rank
-GLOBAL_SOCIAL_TOAST_FRIEND_GAINED_RANK_WILD	¡<color=#{0}>{1}</color> ha alcanzado el rango {2} en formato salvaje!	0=name color,1=player name,2=medal rank
 GLOBAL_SOCIAL_TOAST_FRIEND_GOLDEN_LEGENDARY	¡<color=#{0}>{1}</color> ha conseguido una carta <color=#{3}>{2} dorada</color>!	0=name color,1=player name,2=card name,3=Golden Color
 GLOBAL_SOCIAL_TOAST_FRIEND_HEROIC_BRAWL_COMPLETE	<color=#{0}>{1}</color> acaba de terminar una pelea heroica ({2}-{3}).	0=name color,1=player name,2=Heroic brawl Wins,3=Heroic brawl Losses
 GLOBAL_SOCIAL_TOAST_FRIEND_HEROIC_BRAWL_START	<color=#{0}>{1}</color> ha empezado una pelea heroica.	0=name color,1=player name
@@ -915,8 +1759,10 @@ GLOBAL_SOCIAL_TOAST_FRIEND_ONLINE	<color=#{0}>{1}</color> se ha conectado.	0=nam
 GLOBAL_SOCIAL_TOAST_FRIEND_PALADIN_LEVEL	<color=#{0}>{1}</color> ahora es un paladín de nivel {2}.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_PRIEST_LEVEL	<color=#{0}>{1}</color> ahora es un sacerdote de nivel {2}.	0=name color,1=player name,2=level
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED	¡<color=#{0}>{1}</color> ha conseguido {2}!	0=name color,1=player name,2=medal name
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_CLASSIC	¡<color=#{0}>{1}</color> ha conseguido {2} en el formato clásico!	0=name color,1=player name,2=medal name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_EARNED_WILD	¡<color=#{0}>{1}</color> ha conseguido {2} en formato salvaje!	0=name color,1=player name,2=medal name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND	¡<color=#{0}>{1}</color> ha alcanzado el rango de LEYENDA!	0=name color,1=player name
+GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_CLASSIC	¡<color=#{0}>{1}</color> ha alcanzado el rango de LEYENDA en el formato clásico!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_RANK_LEGEND_WILD	¡<color=#{0}>{1}</color> ha alcanzado el rango de LEYENDA en formato salvaje!	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_REQUEST	<color=#{0}>{1}</color> te ha enviado una solicitud de amistad.	0=name color,1=player name
 GLOBAL_SOCIAL_TOAST_FRIEND_ROGUE_LEVEL	<color=#{0}>{1}</color> ahora es un pícaro de nivel {2}.	0=name color,1=player name,2=level
@@ -945,13 +1791,26 @@ GLOBAL_SPECTATOR_REMOVED_PROMPT_TEXT	Se te ha impedido observar.
 GLOBAL_SPECTATOR_SERVER_REJECTED_HEADER	Espectador desconectado	
 GLOBAL_SPECTATOR_SERVER_REJECTED_TEXT	Es posible que la partida que intentas observar ya esté llena o haya terminado, o puede que los espectadores hayan sido bloqueados recientemente.	
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_HEADER	Modo Espectador	
-GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Esperas a que comience la próxima partida.\n\n{0} está... {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Play Mode")
+GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT	Esperas a que comience la próxima partida.\n\n{0} está... {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_STATUS_* and PRESENCE_SCENARIO_*_NORMAL_SCENARIO_* from PRESENCE.txt (e.g. "Jane Doe is Heading into Traditional Hearthstone")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_BATTLING	Esperas a que comience la próxima partida.\n\n{0} está luchando contra {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_HEROIC_* from PRESENCE.txt (e.g. "Jane Doe is Battling Heroic Gothik the Harvester")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_ENTERING	Esperas a que comience la próxima partida.\n\n{0} está entrando en {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_ADVENTURE_MODE_* from PRESENCE.txt (e.g. "Jane Doe is entering Naxxramas")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_OFFLINE	Esperas a que comience la próxima partida.\n\n{0} está desconectado	0=player name; shown when player is offline.
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_ONLINE	Esperas a que comience la próxima partida.\n\n{0} está conectado	0=player name; shown when there is no current activity string available.
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TEXT_PLAYING	Esperas a que comience la próxima partida.\n\n{0} está jugando al {1}	0=player name, 1=player's current activity -- will be filled in with values PRESENCE_SCENARIO_*_CLASS_CHALLENGE_* from PRESENCE.txt (e.g. "Jane Doe is playing Naxxramas Paladin Challenge")
 GLOBAL_SPECTATOR_WAITING_FOR_NEXT_GAME_TIMEOUT	El jugador al que estás observando ha tardado demasiado en empezar la próxima partida. Se ha cancelado el modo Espectador.	
+GLOBAL_SPELL_SCHOOL_ARCANE	Arcano	
+GLOBAL_SPELL_SCHOOL_FEL	Vil	
+GLOBAL_SPELL_SCHOOL_FIRE	Fuego	
+GLOBAL_SPELL_SCHOOL_FROST	Escarcha	
+GLOBAL_SPELL_SCHOOL_GREATER_TRINKET	Mayor	
+GLOBAL_SPELL_SCHOOL_HOLY	Sagrado	
+GLOBAL_SPELL_SCHOOL_LESSER_TRINKET	Menor	
+GLOBAL_SPELL_SCHOOL_NATURE	Naturaleza	
+GLOBAL_SPELL_SCHOOL_PHYSICAL_COMBAT	Ataque	
+GLOBAL_SPELL_SCHOOL_SHADOW	Sombras	
+GLOBAL_SPELL_SCHOOL_SPELLCRAFT	Hechicería	
+GLOBAL_SPELL_SCHOOL_TAVERN	Taberna	
+GLOBAL_SPELL_SCHOOL_UPGRADE	Mejora	
 GLOBAL_SPLASH_CLOSED_RECONNECTING	Restaurando la conexión...	
 GLOBAL_SPLASH_CLOSED_SIGN_TITLE	Cerrado	
 GLOBAL_STANDARD	Estándar	
@@ -964,12 +1823,19 @@ GLOBAL_SWITCH_ACCOUNT	Cambiar de cuenta
 GLOBAL_TAVERN_BRAWL	Pelea de taberna	
 GLOBAL_TAVERN_BRAWL_ERROR_NOT_ACTIVE	Lo sentimos; esta pelea de taberna no está activa en estos momentos. Espera unos minutos y vuelve a intentarlo.	
 GLOBAL_TAVERN_BRAWL_ERROR_SEASON_INCREMENTED	Lo sentimos, este evento de pelea de taberna ha acabado. ¡Pero pronto habrá uno nuevo!	
+GLOBAL_TIER_ANY	Cualquiera	
+GLOBAL_TIERS	Niveles	
 GLOBAL_TOOLTIP_FRIEND_BUTTON_DESC	Charla con tus amigos y desafíalos a un duelo.	
 GLOBAL_TOOLTIP_FRIEND_BUTTON_HEADER	Amigos	
 GLOBAL_TOOLTIP_MENU_DESC	Aquí puedes consultar las opciones, salir del juego y más.	
 GLOBAL_TOOLTIP_MENU_HEADER	Menú del juego	
 GLOBAL_TOOLTIP_MENU_OFFLINE_DESC	Estás sin conexión. Haz clic aquí para volver a conectarte.	
 GLOBAL_TOOLTIP_MENU_OFFLINE_HEADER	Sin conexión	
+GLOBAL_TOOLTIP_MODE_CASUAL	Disfruta de cualquier modo de juego usando cualquier mazo sin que afecte a tu rango.	
+GLOBAL_TOOLTIP_MODE_STANDARD	Desafía a una partida a jugadores con una habilidad semejante a la tuya.	
+GLOBAL_TOOLTIP_MODE_TWIST	Juega a Hearthstone con un conjunto de reglas que cambia cada temporada.	
+GLOBAL_TOOLTIP_MODE_TWIST_SEASON_DISABLED	Juega a Hearthstone con un conjunto de reglas que cambia cada temporada. Este modo de juego estará bloqueado hasta que empiece la próxima temporada.	
+GLOBAL_TOOLTIP_MODE_WILD	Combate a tus oponentes con cartas de cualquier conjunto.	
 GLOBAL_TUTORIAL_ATTACK	Ataque	
 GLOBAL_TUTORIAL_ATTACKER	Atacante	
 GLOBAL_TUTORIAL_COST	Coste	
@@ -977,15 +1843,41 @@ GLOBAL_TUTORIAL_DEFENDER	Defensor
 GLOBAL_TUTORIAL_HEALTH	Salud	
 GLOBAL_TUTORIAL_HERO_POWER	Poder de héroe	
 GLOBAL_TUTORIAL_MINION	Esbirro	
+GLOBAL_TUTORIAL_REPLAY_HEADER	Reglas de Hearthstone	
 GLOBAL_TUTORIAL_TAUNT	Provocar	
 GLOBAL_TUTORIAL_TAUNT_DESCRIPTION	Los enemigos deben atacar a este esbirro	
 GLOBAL_TUTORIAL_USED	Utilizado	
 GLOBAL_TUTORIAL_YOUR_MANA	Tu maná	
 GLOBAL_TUTORIAL_YOUR_TURN	Tu turno	
+GLOBAL_TWIST	Giro	
+GLOBAL_TWIST_LOCKED	Giro (bloqueado)	
+GLOBAL_TWIST_LOCKED_DESC	Este modo de juego estará bloqueado hasta que empiece la próxima temporada dentro de\n{0}.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_116	Dale un giro a tus partidas con este nuevo formato; ¡crea un mazo usando solo cartas de clase desde Cenizas de Terrallende en adelante!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_117	Dale un giro a tus partidas con este nuevo formato; ¡crea un mazo usando solo cartas de clase desde Cenizas de Terrallende en adelante!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_119	Adéntrate en las Cavernas del Tiempo y construye un mazo usando todas las expansiones desde el conjunto Antiguo hasta Mafias de Gadgetzan.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_120	Esta vez, crea un mazo de entre 30 y 40 cartas de los conjuntos que van desde el Antiguo hasta Mafias de Gadgetzan más Las Cavernas del Tiempo, ¡y todos los jugadores comienzan con p. de salud equivalentes al número de cartas de su mazo!	
+GLOBAL_TWIST_SEASON_DESCRIPTION_121	¡Viaja al pasado, cuando los dinosaurios vagaban por el mundo! Un'Goro vuelve con nuevas actualizaciones y se ha unido al resto de los conjuntos del formato Maravillas.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_124	¿No tienes legendarias? ¡No pasa nada! Prepara el mejor mazo que puedas solo con cartas comunes de todas las expansiones hasta el Año del Dragón y del conjunto Esencial.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_125	¡Vuelve a vivir los diez años de Hearthstone! Empezando con el conjunto Antiguo, iremos añadiendo un conjunto nuevo cada día hasta llegar a Duelo en las Tierras Inhóspitas.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_128	Entra en acción directamente con uno de los héroes de Mirífico, que incluyen mazos multiclase ya creados, nuevos poderes de héroe y facultades pasivas.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_129	Entra en acción directamente con uno de los héroes de Mirífico, que incluyen mazos multiclase ya creados, nuevos poderes de héroe y facultades pasivas.	
+GLOBAL_TWIST_SEASON_DESCRIPTION_137	¡Juega con un amigo contra dos jugadores!	
+GLOBAL_TWIST_SEASON_TITLE_116	Nueva era	
+GLOBAL_TWIST_SEASON_TITLE_117	Nueva era	
+GLOBAL_TWIST_SEASON_TITLE_119	Maravillas	
+GLOBAL_TWIST_SEASON_TITLE_120	Maravillas XL	
+GLOBAL_TWIST_SEASON_TITLE_121	Regreso a Un'Goro	
+GLOBAL_TWIST_SEASON_TITLE_124	Comunes	
+GLOBAL_TWIST_SEASON_TITLE_125	Avance rápido	
+GLOBAL_TWIST_SEASON_TITLE_128	Héroes de Mirífico	
+GLOBAL_TWIST_SEASON_TITLE_129	Héroes de Mirífico	
+GLOBAL_TWIST_SEASON_TITLE_137	2c2	
+GLOBAL_UNINSTALL_MODULE_POPUP_PROMPT	¿Quieres desinstalar {0}?	{0}=Module name to uninstall (e.g. Battlegrounds)
 GLOBAL_UPDATE	Actualizar	
 GLOBAL_VERSION	Versión	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT	Esperando a que el oponente restaure la conexión... ({0} min {1} s)\nPuedes ir al menú del juego para finalizar la partida.	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_HEADER	Partida pausada	
 GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_SPECTATOR	Esperando a que se el oponente restaure la conexión... ({0} min {1} s)	
+GLOBAL_WARNING_GENERIC_HEADER	Aviso	
 GLOBAL_WILD	Salvaje	
 GLOBAL_WINS	Victorias	

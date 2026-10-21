@@ -12,7 +12,7 @@ TUTORIAL01_JAINA_03	C’est à vous, GNOLL.
 TUTORIAL01_JAINA_04	Vous allez le regretter !	
 TUTORIAL01_JAINA_05	Excellent.	
 TUTORIAL01_JAINA_06	Ha ! Un autre serviteur, pile ce qu’il me fallait.	
-TUTORIAL01_JAINA_07	Vous êtes exactement là où je voulais.	
+TUTORIAL01_JAINA_07	Vous êtes exactement là où je le souhaitais.	
 TUTORIAL01_JAINA_09	Ha ha ! Et maintenant, à la gorge !	
 TUTORIAL01_JAINA_10	5 en Attaque ? Ce truc est énorme !	
 TUTORIAL01_JAINA_13	Vous retournez en prison, Lardeur.	
@@ -29,7 +29,7 @@ TUTORIAL02_JAINA_05	J’ai besoin de plus de mana avant de pouvoir jouer ça.
 TUTORIAL02_JAINA_07	De nouvelles cartes ! Excellent !	
 TUTORIAL02_JAINA_08	Ahh. J’ai récupéré mon mana.	
 TUTORIAL02_MILLHOUSE_01	Mais… ? Je voulais commencer !	
-TUTORIAL02_MILLHOUSE_02	Jaina… Préparez-vous à affronter le puissant Millhouse Tempête-de-mana !	
+TUTORIAL02_MILLHOUSE_02	Jaina… Préparez-vous à affronter le puissant Milhouse Tempête-de-mana !	
 TUTORIAL02_MILLHOUSE_03	Qu’est-ce que c’est que ce serviteur ? Un Murloc ? Bah ah ah ah ah !	
 TUTORIAL02_MILLHOUSE_04	Oh ! Oh ! Cette carte est incroyable !	
 TUTORIAL02_MILLHOUSE_05	Attendez que j’aie plus de mana !	
@@ -102,7 +102,7 @@ TUTORIAL05_JAINA_05	Concentrez-vous sur Illidan !
 TUTORIAL05_JAINA_06	Ne perdez pas de temps ! Achevez-le !	
 TUTORIAL06_CHO_01	Oh ! Jaina ! C’est un plaisir de vous voir.	
 TUTORIAL06_CHO_02	Montrez-moi ce que vous avez appris.	
-TUTORIAL06_CHO_03	Bien ! Bien !	
+TUTORIAL06_CHO_03	Bien !	
 TUTORIAL06_CHO_04	Oh ! Finement joué.	
 TUTORIAL06_CHO_05	La guerre ne devrait être qu’un ultime recours.	
 TUTORIAL06_CHO_06	Peut-être.	
@@ -128,6 +128,42 @@ VO_BRANN_OPEN_WING_2_03	Salutations, l’ami ! Je suis Brann Barbe-de-Bronze, l
 VO_BRANN_SCARVASH_PREGAME_ALT_06	Uldaman est infesté de troggs ! Nous allons devoir les combattre pour atteindre le pommeau !	
 VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02	Le démon Malsabot. La pièce la plus dangereuse de l’exposition. Approchez avec prudence.	
 VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02	Le conservateur est désolé. Veuillez l’aider à capturer les créatures.	
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	Je vais faire en sorte qu’ils restent sagement où ils sont.	
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	Un serviteur de perdu, une pièce d’or de gagnée.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	Super ! Je vais enfin pouvoir renouveler mon stock de serviteurs !	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	Aha ! Passons aux choses sérieuses !	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	Excellent ! Comme ça, je peux faire venir des serviteurs plus puissants.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	Hé hé, voilà qui promet !	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	Oh ho ! Vous passez à la vitesse supérieure !	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	Pile-poil ce que vous recherchiez.	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	Bien joué ! J’ai hâte de voir ce que ça va donner.	
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	Beau travail ! Continuez sur votre lancée !	
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	C’est l’heure du combat ! Vos serviteurs attaquent automatiquement, de gauche à droite.	
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	Du travail bien fait ! Vous êtes une vraie source d’inspiration pour tous !	
+VO_DALA_BOSS_99h_Male_Human_General_02	J’ai de nouvelles recrues à vous proposer !	
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	Vos serviteurs se chargeront des combats, mais ils ont besoin d’un commandant à poigne !	
+VO_DALA_BOSS_99h_Male_Human_Hire_01	Allez-y, engagez une de ces recrues.	
+VO_DALA_BOSS_99h_Male_Human_Hire_02	Engagez une recrue tant que vous le pouvez.	
+VO_DALA_BOSS_99h_Male_Human_Idle_02	Ne dépensez pas bêtement votre argent… mais dépensez-le quand même !	
+VO_DALA_BOSS_99h_Male_Human_Idle_03	C’est un vrai plaisir que de vous voir à l’œuvre.	
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	Bienvenue sur le champ de bataille ! Huit combattants y participent, mais un seul en sortira vainqueur !	
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	Ha, je vois ce que vous voulez faire !	
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	L’important, c’est de jouer des serviteurs.	
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	Il est temps de mettre cette recrue au travail.	
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	Ici, vous pouvez recruter de nouveaux serviteurs. Choisissez bien !	
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	Vous pouvez améliorer la taverne pour avoir accès à de plus puissants serviteurs.	
+VO_DALA_BOSS_99h_Male_Human_Triple_01	Engager ce serviteur vous permettra d’en fusionner trois.	
+VO_DALA_BOSS_99h_Male_Human_Triple_02	On dirait que vous pouvez obtenir un triplé gagnant !	
+VO_DALA_BOSS_99h_Male_Human_Triple_03	Ouah, un trois-en-un ! Voilà votre récompense.	
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	Vous devriez penser à améliorer la taverne, sinon vous perdrez du terrain sur vos adversaires !	
+VO_DEATH_KNIGHT_DECK_BUILDING_CAN_ADD_ANY_RUNE	Vous pouvez maintenant ajouter des runes de n’importe quel type à votre deck.	
+VO_DEATH_KNIGHT_DECK_BUILDING_CANNOT_ADD_RUNES	Vous pouvez ajouter des cartes runiques incompatibles à votre deck lorsque vous le créez. Vous devrez toutefois remplir toutes les exigences runiques avant de pouvoir l’utiliser en jeu.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_1	Tout ce que je suis : colère, cruauté, vengeance… Je vous en fais don, chevalier.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_2	En tant que champion immortel à mon service, vous apporterez un nouvel âge sombre pour le FLÉAU !	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_3	Et vous commencerez par construire votre premier deck de chevalier de la mort.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_4	La plupart des cartes de chevalier de la mort ont une rune associée : de Sang, de Givre ou d’Impiété.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_5	Votre deck contient trois emplacements pour les runes. Vous pouvez utiliser trois runes d’un seul type, une de chaque ou toute autre combinaison.	
+VO_DEATH_KNIGHT_DECK_BUILDING_TRIPLE_RUNES	Les cartes avec trois runes d’un même type sont extrêmement puissantes, mais vous ne pouvez pas ajouter de cartes avec d’autres runes dans votre deck.	
 VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04	Les Naga ont Finley ! Vite, avant qu’il soit dévoré !	
 VO_ELISE_STAFF_CLICK_DONE_65	Le bâton de l’Origine ! Grâce à votre héroïsme, le bâton reconstitué repose désormais en sécurité dans le hall des Explorateurs !	
 VO_ELISE_STAFF_CLICK_EARLY_64	Nous avons enfin une piste pour le bâton de l’Origine ! Ce serait la pièce maîtresse du musée !	
@@ -137,10 +173,16 @@ VO_ELISE_WING_4_OPEN_08	Rafaam s’est emparé du bâton et du musée. Il donne 
 VO_ILLIDAN_RETURNING_PLAYER_MISSION_INTRO	C’était il y a dix mille ans, à quelques siècles près…	
 VO_ILLIDAN_RETURNING_PLAYER_QUEST1	Explorez les souvenirs de trois de mes combats, et je vous récompenserai.	
 VO_INNKEEPER_1ST_HUB_06	Vous pouvez débloquer de nouveaux héros en mode Entraînement.	
+VO_INNKEEPER_2v2_ALLY_DEFEATED	Votre partenaire a perdu.	
+VO_INNKEEPER_2v2_ALLY_OPPONENT_DEFEATED	L’adversaire de votre partenaire a perdu !	
+VO_INNKEEPER_2v2_PORTAL_PASS_TUTORIAL	Servez-vous du portail pour passer des cartes à votre partenaire !	
 VO_INNKEEPER_ARENA_1ST_REWARD	Oh, beau travail ! N’hésitez pas à retenter votre chance dans l’Arène si vous avez suffisamment d’or !	
 VO_INNKEEPER_ARENA_3RD_LOSS	C’était votre 3e défaite. Utilisez votre clé pour découvrir ce que vous avez gagné !	
 VO_INNKEEPER_BASIC_DONE1_11	Vous avez obtenu toutes les cartes de base pour cette classe !	
 VO_INNKEEPER_BASIC_DONE2_12	Maintenant, il vous faut des paquets de cartes pour améliorer votre deck !	
+VO_INNKEEPER_CLASSIC_DECK_WARNING	Ce deck est uniquement jouable en mode Classique.	
+VO_INNKEEPER_CLASSIC_PLAY_CLASSIC_MODE_ONLY	Si vous créez un deck classique, vous ne pourrez l’utiliser que dans le mode Classique !	
+VO_INNKEEPER_CLASSIC_TAKES_YOU_BACK_ORIGINAL_HEARTHSTONE	Le mode Classique vous ramène à la version originelle de Hearthstone.	
 VO_INNKEEPER_CM_DECK_FINISH_30	Ce deck a l’air bien équilibré. Allez vite le tester !	
 VO_INNKEEPER_CM_LCLICK	Faites un clic droit sur une carte pour la voir de plus près.	
 VO_INNKEEPER_CM_LCLICK_HERO	Faites un clic droit sur un héros pour le voir de plus près.	
@@ -172,6 +214,7 @@ VO_INNKEEPER_PRACTICE_INST1_07	Pour débloquer des héros, vous devez les vaincr
 VO_INNKEEPER_PRACTICE_INST2_08	Personnellement, je choisirais Uther, le paladin !	
 VO_INNKEEPER_RETURNING_PLAYER_INNKEEPER_CHALLENGE_INTRO	Trois adversaires vous attendent_!	
 VO_INNKEEPER_RETURNING_PLAYER_QUEST1	Je vous ai préparé trois quêtes pour commencer. Voici la première_!	
+VO_INNKEEPER_STANDARD_DECK_WARNING	Ce deck est uniquement jouable en mode Standard.	
 VO_INNKEEPER_STEALTH_TAUNT3_22	Quand un serviteur possède Camouflage, il ne peut pas utiliser Provocation.	
 VO_INNKEEPER_TAVERNBRAWL_DESC1_29	Les règles sont différentes toutes les semaines !	
 VO_INNKEEPER_TAVERNBRAWL_DESC2_30	Toutes les semaines, vous jouez avec de nouvelles règles complètement folles !	
@@ -179,9 +222,10 @@ VO_INNKEEPER_TAVERNBRAWL_PUSH_32	Hé vous, vous avez déjà tenté votre chance 
 VO_INNKEEPER_TAVERNBRAWL_WELCOME1_27	Bienvenue au Bras de fer !	
 VO_INNKEEPER_TOURNY_END_15	Le tournoi hebdomadaire est terminé !	
 VO_INNKEEPER_TOURNY_END1_27	Votre médaille a été réinitialisée, vous pouvez à nouveau obtenir des médailles et des paquets cette semaine !	
+VO_INNKEEPER_TWIST_DECK_WARNING	Ce deck peut uniquement être utilisé dans le mode Imprévu.	
 VO_INNKEEPER_UNLOCKED_ALL_HEROES	Bien joué ! Vous avez débloqué les neuf héros !	
 VO_INNKEEPER_UNRANKED_16	Les parties non classées n’affectent pas votre classement, mais ne vous permettent pas d’obtenir de récompenses gratuites !	
-VO_INNKEEPER_WILD_DECK_WARNING	Ce deck est uniquement pour des parties en mode Libre.	
+VO_INNKEEPER_WILD_DECK_WARNING	Ce deck peut uniquement être utilisé dans le mode Libre.	
 VO_INNKEEPER_WILD_GAME	Une partie Libre ! Oh, préparez-vous : vous allez voir d’anciennes cartes !	
 VO_KAR_WING_1_OPEN_MOROES_MALE_HUMAN	Ce malheureux incident de portail a laissé la tour sens dessus dessous_! Nous devons secourir Medivh avant que de nouveaux invités arrivent_!	
 VO_KAR_WING_2_OPEN_BARNES_MALE_HUMAN	Juste à temps pour la répétition en costumes_! Je suis Barnes, le régisseur, et vous devez absolument regarder notre spectacle. Je vous préviens, le public va sans doute devoir participer. Amusez-vous bien_!	
@@ -280,3 +324,83 @@ VO_TUTORIAL_01_ANNOUNCER_02	Qui acceptera ce défi ?
 VO_TUTORIAL_01_ANNOUNCER_03	Oh_! Le fléau d’Elwynn_! Lardeur, le gnoll_!	
 VO_TUTORIAL_01_ANNOUNCER_04	Approchez, approchez !	
 VO_TUTORIAL_01_ANNOUNCER_05	Que le combat commence !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_01	Il va falloir la mériter, petite humaine.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_02	Je prouverai que je suis le plus grand en vous éliminant !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnArmorUp_01	Ha ! Vos sorts ne font pas le poids face à mes armes et mon armure.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnFieryWarAxePlayed_01	Dites bonjour à ma grande amie.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnSpellPlayed_01	Mon armure résiste à tous les sorts.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_01	Je vais en finir rapidement !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_02	Rien ne peut m’arrêter !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_03	Guerriers ! Abattez-la !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_04	Ressentez ma FUREUR !	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_05	POUR LA HORDE !	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_FULL_MINIONS_01	Mon plateau est plein. Impossible de jouer d’autres serviteurs pour l’instant.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_GENERIC_01	Je ne peux pas faire ça.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_HEROPOWER_01	Je ne peux utiliser mon pouvoir héroïque qu’une fois par tour.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NEEDMANA_01	J’ai pas assez de mana pour ça.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NOMANA_01	Mes cristaux de mana seront rechargés au prochain tour. Alors, je pourrai jouer d’autres cartes.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_PLAY_01	Je ne peux pas encore jouer ça.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_SUMMON_SICKNESS_01	Je dois laisser à ce serviteur le temps de se préparer.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TARGET_01	Il me faut une cible pour jouer cette carte.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TAUNT_01	Je dois d’abord attaquer les serviteurs avec Provocation.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD_01	Je dois jouer quelques serviteurs.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD2_01	Je suis sans défense !	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_FULLBOARD_01	Il y a beaucoup trop de serviteurs ! Je dois d’abord m’occuper d’eux.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_SPECIALMINION_01	Je dois trouver un moyen de neutraliser ce serviteur.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_GARROSH_01	Garrosh est à découvert ! Je devrais l’éliminer en premier.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_LICHKING_01	Le roi-liche est puissant, je ferais mieux de me concentrer sur lui.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_REXXAR_01	Je devrais me concentrer sur l’élimination de Rexxar…	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SECOND_MINION_01	Un autre serviteur ! C’est exactement ce qu’il me fallait !	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SPELL_01	Une carte de sort ! Je ne peux l’utiliser qu’une fois, il faut que ce soit au bon moment…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_01	Vous avez les cartes que je cherche, Rexxar.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_02	J’en ai besoin pour vaincre le roi-liche.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_03	Rexxar, j’ai besoin de vos cartes pour vaincre le roi-liche.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_04	Le roi-liche gagne en puissance. Accordez-moi votre force.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_05	Garrosh, je n’ai pas le temps pour ça.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_06	Votre règne de terreur s’achève aujourd’hui, roi-liche.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_07	Mais moi, j’ai une carte supplémentaire !	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawAOESpell_01	Cette carte sera parfaite pour gérer ses serviteurs.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawFireball_01	Un sort de feu ! Exactement ce qu’il me fallait.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawLegendary_01	Une carte légendaire ! Elle est très puissante…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyFullBoard_01	Je peux vider le plateau en un seul sort.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyMinionsFrozen_01	Ses serviteurs ne peuvent plus attaquer désormais.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnNoTauntMinions_01	Il me faut un autre serviteur avec Provocation…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedHuffer_01	Il est gros. Je ferais mieux de m’en occuper.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedKingKrush_01	Ça risque de poser problème.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayToMySide_01	Encore des serviteurs ? Mais combien en a-t-il ?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_01	Un serviteur ! Je devrais le jouer pour lancer la partie.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_02	Les points de vie de Rexxar sont bas. Je peux lui porter le coup de grâce !	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_03	Vous êtes exactement là où je voulais.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_04	Ses serviteurs sont trop rapides !	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_05	Moi aussi, j’ai quelques tours dans mon sac.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_06	Je dois le ralentir…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_07	Il est temps d’en finir !	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_08	Un serviteur avec Provocation ! Ça devrait le retenir un moment.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_09	Je brûlerai vos serviteurs !	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_10	Pas cette fois.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_11	Comment fait-il pour invoquer autant de serviteurs ?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_12	Je dois juste tenir un peu plus longtemps…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_01	J’ai gagné ! En route vers la prochaine bataille.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_02	La bataille finale approche.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_03	C’est terminé. Mais il reste encore beaucoup de batailles à mener…	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_04	J’ai réussi ! Je vais enfin pouvoir jouer.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_01	Ce deck est faible, et vous allez perdre.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_02	Le froid s’insinue au plus profond de l’âme, tout comme moi.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostmournePlayed_01	Deuillegivre a faim.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostwyrmsFuryPlayed_01	J’ai moi aussi le contrôle du givre.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_01	Vous avez appris de nouveaux tours, mais ils ne vous seront d’aucune utilité.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_02	La fin est inéluctable.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_03	Vous avez gelé mes serviteurs. Quelle ironie !	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_04	LEVEZ-VOUS, MES SERVITEURS !	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_FirstHeroPower_01	Le Fléau se lève.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_01	Leur place est dans la nature.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_02	<_Grogne._> Dans ce cas, que la traque commence !	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_03	<_Grogne._> Que la traque commence.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_04	Je suis Rexxar, le chasseur.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_05	J’utilise des bêtes et des sorts pour attaquer de manière agressive.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCharge_01	Ce serviteur avec Charge peut attaquer n’importe quel personnage adverse dès que vous le jouez.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCompanion_01	Misha, Leokk, Souffleur, avec moi !	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedArcaneShot_01	Je vous ai en ligne de mire.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedStonetuskBoar_01	Mes sangliers vont mettre un terme rapide à ce combat.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayRush_01	Ce serviteur avec Ruée peut attaquer n’importe quel autre serviteur dès que vous le jouez.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayUnleash_01	Lâchez les chiens !	

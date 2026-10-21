@@ -15,6 +15,7 @@ TUTORIAL_TOOLTIP_DECK_DESCRIPTION	En cada turno robas una carta aleatoria de tu 
 TUTORIAL_TOOLTIP_ENEMYDECK_DESC	Tu adversario roba una carta en cada turno.	
 TUTORIAL_TOOLTIP_HISTORY_DESC	Este es un registro de eventos del juego.	
 TUTORIAL_TOOLTIP_HISTORY_HEADLINE	Historial	
+TUTORIAL_WANTED	Se busca	
 TUTORIAL01_HELP_01	Si te quedas sin Salud, pierdes.	
 TUTORIAL01_HELP_02	Esta carta se jugó en el turno anterior.	
 TUTORIAL01_HELP_03	¡Aplasta a este gnoll!	
@@ -34,7 +35,7 @@ TUTORIAL01_HELP_16	¡Comienza!
 TUTORIAL01_HELP_17	¡Haz clic sobre él!	
 TUTORIAL01_HELP_17_TOUCH	¡Toca sobre él!	
 TUTORIAL01_HELP_18	¡Cartas gratis!	
-TUTORIAL02_HELP_01	Todos los turnos ganas un Cristal de maná.	
+TUTORIAL02_HELP_01	Ganas un Cristal de maná en todos los turnos. 	
 TUTORIAL02_HELP_02	Todas las cartas tienen un costo de maná.	
 TUTORIAL02_HELP_03	Los Cristales de maná que hayas usado se recargarán en cada turno.	
 TUTORIAL02_HELP_04	Tienes {0} de maná.	
@@ -61,3 +62,20 @@ TUTORIAL06_HELP_01	Eremita Cho
 TUTORIAL06_HELP_02	Cuando los esbirros pelean unos contra otros, *ambos* reciben daño.	
 TUTORIAL06_HELP_03	Los esbirros con "Grito de batalla" tienen habilidades especiales cuando los juegas.	
 TUTORIAL06_HELP_04	Mata a los esbirros enemigos antes de que se conviertan en un problema.	
+TUTR_HELPER_Fight_01_AttackHero	¡Ataca a Rexxar con tu esbirro!	
+TUTR_HELPER_Fight_01_AttackHuffer	¡Ataca al esbirro enemigo!	
+TUTR_HELPER_Fight_01_HeroPower	¡Usa tu Poder de héroe en ese esbirro!	
+TUTR_HELPER_Fight_01_HistoryTiles	Revisa el historial para ver las acciones anteriores.	
+TUTR_HELPER_Fight_01_Mana	El maná aumenta cada ronda. Las cartas tienen un costo de maná.	
+TUTR_HELPER_Fight_01_Mana_02	Tus Cristales de maná se restablecen cada ronda.	
+TUTR_HELPER_Fight_01_MinionsDestroyed	Los esbirros se infligen daño entre sí al atacarse.	
+TUTR_HELPER_Fight_01_PlayCard	¡Para jugar con este esbirro, arrástralo al tablero!	
+TUTR_HELPER_Fight_01_PlayHuffer	El valor de Ataque a la izquierda es el daño que un esbirro inflige a los enemigos.	
+TUTR_HELPER_Fight_01_PlayHuffer_02	El valor de Salud a la derecha es el daño que puede recibir antes de morir.	
+TUTR_HELPER_Fight_01_PlayMinion	Puedes pasar por encima de las cartas para leer sus habilidades.	
+TUTR_HELPER_Fight_01_PlayMinion_Mobile	Toca y mantén pulsado sobre una carta para leer sus habilidades.	
+TUTR_HELPER_Fight_01_PlaySpell	¡Arrastra este hechizo sobre el esbirro enemigo para destruirlo!	
+TUTR_HELPER_Fight_01_PlayTaunt	Los esbirros tienen que destruir primero a los enemigos con Provocación.	
+TUTR_HELPER_Fight_01_PlayWeapon	Las armas pierden Durabilidad cuando el héroe ataca.	
+TUTR_HELPER_Fight_01_SpellIgnoresTaunt	Los hechizos ignoran los efectos de Provocación.	
+TUTR_HELPER_Fight_01_WinCondition	Para ganar debes hacer que tu adversario llegue a 0 de Salud.	

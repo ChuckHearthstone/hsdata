@@ -128,6 +128,42 @@ VO_BRANN_OPEN_WING_2_03	Привет, коллега! Я – Бранн Брон
 VO_BRANN_SCARVASH_PREGAME_ALT_06	Ульдаман кишит троггами! Нам придется отбиваться от них по пути к навершию.	
 VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02	Демон Больное Копыто. Самый опасный экспонат. Соблюдайте осторожность.	
 VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02	Смотрителю очень... жаль. Помогите вернуть животных.	
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	А вот этих я придержу до следующего раза.	
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	Минус одно существо, плюс один золотой.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	Здорово! Давай наймем кого-нибудь посильнее.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	Да, сыграем по-крупному!	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	Отлично! Теперь можно призывать существ помощнее.	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	Вот это уже разговор!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	Хо-хо! Все лучше и лучше!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	Как раз то, что тебе надо.	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	Замечательно сыграно! Посмотрим, что будет дальше.	
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	Неплохо сыграно! Теперь развивай успех.	
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	Начнем битву! Твои существа атакуют сами, слева направо.	
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	Блестяще! Ты — пример для всех нас!	
+VO_DALA_BOSS_99h_Male_Human_General_02	У меня новые рекруты, выбирай!	
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	Твои существа будут драться сами, но им нужен хороший командир.	
+VO_DALA_BOSS_99h_Male_Human_Hire_01	Не стесняйся, найми кого-нибудь.	
+VO_DALA_BOSS_99h_Male_Human_Hire_02	Лучше найми кого-нибудь, пока можешь.	
+VO_DALA_BOSS_99h_Male_Human_Idle_02	Трать золото с умом. Но все-таки трать!	
+VO_DALA_BOSS_99h_Male_Human_Idle_03	Видеть тебя за работой — одно удовольствие!	
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	Добро пожаловать на поля сражений! Восемь командиров выставят армии, но только один уйдет с короной!	
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	Мне нравится ход твоих мыслей.	
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	Хорошо, когда есть, что разыграть.	
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	А теперь пусть поработает как следует.	
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	Здесь ты можешь набирать бойцов в свою армию. Выбирай с умом!	
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	Можешь улучшить таверну, чтобы привлечь существ помощнее.	
+VO_DALA_BOSS_99h_Male_Human_Triple_01	Наймешь это существо — и будет триплет.	
+VO_DALA_BOSS_99h_Male_Human_Triple_02	О, похоже на триплет!	
+VO_DALA_BOSS_99h_Male_Human_Triple_03	Эй, это же триплет! Держи награду.	
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	Советую улучшить таверну. Иначе соперники тебя обойдут!	
+VO_DEATH_KNIGHT_DECK_BUILDING_CAN_ADD_ANY_RUNE	Теперь ты можешь добавить в колоду любую руну.	
+VO_DEATH_KNIGHT_DECK_BUILDING_CANNOT_ADD_RUNES	При создании колоды ты можешь добавлять в нее любые карты — но колоду нельзя будет использовать, пока связанные с рунами требования не будут выполнены.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_1	Все, что составляет мою сущность: злость, безжалостность, отмщение — я вкладываю в тебя, достойнейший рыцарь.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_2	Как мой бессмертный защитник, ты возвестишь о начале новой эры. Эры Плети!	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_3	И для начала ты составишь свою первую колоду рыцаря смерти.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_4	У большинства рыцарей смерти есть своя руна: кровь, лед или нечестивость.	
+VO_DEATH_KNIGHT_DECK_BUILDING_INTRO_5	В колоде есть три ячейки для рун. Ты можешь использовать три одинаковые руны, по одной каждого вида или любое сочетание.	
+VO_DEATH_KNIGHT_DECK_BUILDING_TRIPLE_RUNES	Карты, для которых нужна тройная руна, очень сильны, но с ними нельзя использовать карты других рун.	
 VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04	Наги поймали Финли! Торопись, исследователь, иначе его съедят заживо!	
 VO_ELISE_STAFF_CLICK_DONE_65	Посох Созидания! Благодаря твоей отваге теперь он украсит Зал Исследователей!	
 VO_ELISE_STAFF_CLICK_EARLY_64	Мы наконец-то напали на след Посоха Созидания! Он станет центральным экспонатом нашего музея!	
@@ -137,10 +173,16 @@ VO_ELISE_WING_4_OPEN_08	Рафаам украл посох и захватил �
 VO_ILLIDAN_RETURNING_PLAYER_MISSION_INTRO	Это случилось десять тысяч лет назад... или около того...	
 VO_ILLIDAN_RETURNING_PLAYER_QUEST1	Загляни в мои воспоминания о трех битвах — и получи награду.	
 VO_INNKEEPER_1ST_HUB_06	В режиме тренировки тебя ждут другие герои!	
+VO_INNKEEPER_2v2_ALLY_DEFEATED	Твой союзник побежден.	
+VO_INNKEEPER_2v2_ALLY_OPPONENT_DEFEATED	Противник твоего союзника побежден.	
+VO_INNKEEPER_2v2_PORTAL_PASS_TUTORIAL	Передавай союзнику карты через портал!	
 VO_INNKEEPER_ARENA_1ST_REWARD	Это было здорово! Можешь посетить Арену снова, если у тебя будет достаточно золота!	
 VO_INNKEEPER_ARENA_3RD_LOSS	Это было третье поражение. Используй свой призовой ключ, чтобы получить награду!	
 VO_INNKEEPER_BASIC_DONE1_11	Теперь у тебя есть все базовые карты этого класса!	
 VO_INNKEEPER_BASIC_DONE2_12	Тебе нужны комплекты карт, чтобы улучшить колоду!	
+VO_INNKEEPER_CLASSIC_DECK_WARNING	Эта колода подходит только для игры в классическом формате.	
+VO_INNKEEPER_CLASSIC_PLAY_CLASSIC_MODE_ONLY	Классической колодой можно играть только в классическом формате!	
+VO_INNKEEPER_CLASSIC_TAKES_YOU_BACK_ORIGINAL_HEARTHSTONE	Классический режим позволяет сыграть в самую первую версию Hearthstone.	
 VO_INNKEEPER_CM_DECK_FINISH_30	Мне нравится твоя колода. Давай испытаем ее в деле!	
 VO_INNKEEPER_CM_LCLICK	Щелкни правой кнопкой по карте, чтобы рассмотреть ее поближе.	
 VO_INNKEEPER_CM_LCLICK_HERO	Щелкните по герою правой кнопкой, чтобы рассмотреть его подробнее.	
@@ -172,6 +214,7 @@ VO_INNKEEPER_PRACTICE_INST1_07	Чтобы играть за других гер�
 VO_INNKEEPER_PRACTICE_INST2_08	Лично я бы выбрал паладина Утера!	
 VO_INNKEEPER_RETURNING_PLAYER_INNKEEPER_CHALLENGE_INTRO	С тобой хотят сразиться целых три гостя!	
 VO_INNKEEPER_RETURNING_PLAYER_QUEST1	У меня для тебя три задания. Итак, вот первое!	
+VO_INNKEEPER_STANDARD_DECK_WARNING	Эта колода подходит только для игры в стандартном формате.	
 VO_INNKEEPER_STEALTH_TAUNT3_22	Замаскированное существо не может провоцировать.	
 VO_INNKEEPER_TAVERNBRAWL_DESC1_29	Каждую неделю – новые правила!	
 VO_INNKEEPER_TAVERNBRAWL_DESC2_30	Каждую неделю мы придумываем новые правила!	
@@ -179,6 +222,7 @@ VO_INNKEEPER_TAVERNBRAWL_PUSH_32	А вот тебе доводилось уча�
 VO_INNKEEPER_TAVERNBRAWL_WELCOME1_27	Добро пожаловать на Потасовку!	
 VO_INNKEEPER_TOURNY_END_15	Еженедельный турнир окончен!	
 VO_INNKEEPER_TOURNY_END1_27	Твой медальный счет обнулен. На этой неделе ты можешь снова завоевывать медали и комплекты!	
+VO_INNKEEPER_TWIST_DECK_WARNING	Эта колода подходит только для игры в режиме «Твист».	
 VO_INNKEEPER_UNLOCKED_ALL_HEROES	Теперь у тебя есть все девять героев. Вот здорово!	
 VO_INNKEEPER_UNRANKED_16	Эти партии не повлияют на твой рейтинг, но и призы тут выиграть не получится!	
 VO_INNKEEPER_WILD_DECK_WARNING	Эта колода подходит только для игры в вольном формате.	
@@ -280,3 +324,83 @@ VO_TUTORIAL_01_ANNOUNCER_02	Кто примет ее вызов?
 VO_TUTORIAL_01_ANNOUNCER_03	Это же кошмар Элвиннского леса – гнолл Дробитель!	
 VO_TUTORIAL_01_ANNOUNCER_04	Всем приготовиться!	
 VO_TUTORIAL_01_ANNOUNCER_05	Битва начинается!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_01	Победу надо заслужить, человечишка.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Introduction_02	Я величайший вождь! Я раздавлю тебя и докажу это!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnArmorUp_01	Ха! Куда твоим заклинаниям до моего оружия и доспехов.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnFieryWarAxePlayed_01	Поздоровайся с моим большим другом.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_OnSpellPlayed_01	Мои доспехи отразят любое заклинание.	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_01	Этот бой долго не продлится!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_02	Меня ничто не остановит!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_03	Воины! В атаку!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_04	Ощути мой гнев!	
+VO_TUTR_Garrosh_GarroshHellscream_Orc_InGame_Turn_05	ЗА ОРДУ!	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_FULL_MINIONS_01	Нет места на поле. Я не могу разыграть больше существ.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_GENERIC_01	Не могу.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_HEROPOWER_01	Я могу применить силу героя только раз за ход.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NEEDMANA_01	У меня не хватает маны.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_NOMANA_01	Кристаллы маны восстановятся на следующем ходу. Тогда я смогу разыграть больше карт.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_PLAY_01	Я пока не могу разыграть эту карту.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_SUMMON_SICKNESS_01	Это существо будет готово не раньше следующего хода.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TARGET_01	Мне нужна цель, чтобы разыграть эту карту.	
+VO_TUTR_Jaina_JainaProudmoore_Human_ERROR_TAUNT_01	Я должна атаковать существо с «Провокацией».	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD_01	Пора разыгрывать существ.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_EMPTYBOARD2_01	У меня нет защиты!	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_FULLBOARD_01	На поле очень много существ! Сначала они, потом все остальное.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_ENEMY_SPECIALMINION_01	Надо придумать, как обезвредить это существо.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_GARROSH_01	Гаррош уязвим! Надо добить его первым.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_LICHKING_01	Король-лич сильнее. Нужно в первую очередь победить его.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_HEROFOCUS_REXXAR_01	Сейчас лучше ударить по Рексару...	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SECOND_MINION_01	Еще одно существо! Я как раз такое искала.	
+VO_TUTR_Jaina_JainaProudmoore_Human_HELPER_SPELL_01	Карта заклинания! Я могу применить ее только раз. Нельзя тратить ее зря...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_01	Мне нужны твои карты, Рексар.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_02	Они нужны мне, чтобы одолеть Короля-лича.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_03	Рексар, мне нужны твои карты, чтобы победить Короля-лича.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_04	Сила Короля-лича растет. Помоги мне его побороть.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_05	Я не хочу тратить время попусту, Гаррош.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_06	Я положу конец твоей тирании, Король-лич.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Introduction_07	Но у меня будет еще одна карта!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawAOESpell_01	Отличная карта против его существ.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawFireball_01	Заклинание огня. Очень удачно.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnDrawLegendary_01	Легендарная карта! В ней большая сила...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyFullBoard_01	Я могу расчистить все поле одним заклинанием.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnEnemyMinionsFrozen_01	Теперь его существа не могут атаковать.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnNoTauntMinions_01	Мне нужно найти еще одно существо с «Провокацией», чтобы защититься от его атак.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedHuffer_01	Надо вывести этого зверюгу из игры.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayedKingKrush_01	Придется повозиться.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_OnPlayToMySide_01	Опять? Сколько же у него зверей...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_01	Существо! Надо разыграть его и начать матч.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_02	У Рексара мало здоровья. Я могу его добить!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_03	Ты у меня на крючке.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_04	Какие у него быстрые существа!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_05	У меня у самой есть парочка козырей.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_06	Надо его затормозить...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_07	Последний удар!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_08	Существо с «Провокацией»! Отвлечет его на время.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_09	Я выжгу тьму из твоих слуг!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_10	Не выйдет.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_11	Как он призывает столько существ?	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_Turn_12	Надо еще чуть-чуть продержаться...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_01	Я победила! Но следующий бой уже скоро.	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_02	Начнем решающую битву!	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_03	Я пережила эту битву. Но она — лишь одна из многих...	
+VO_TUTR_Jaina_JainaProudmoore_Human_InGame_VictoryPostExplosion_04	Победа! Теперь можно наконец начать игру.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_01	Такая слабая колода обречена на поражение.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Introduction_02	Холод сковывает твою душу. Первый ход за мной.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostmournePlayed_01	Ледяная Скорбь жаждет крови.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_OnFrostwyrmsFuryPlayed_01	Я тоже повелеваю силой льда.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_01	Новые глупые фокусы тебе не помогут.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_02	Тебе не избежать гибели.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_03	Зачем замораживать моих воинов? Даже я не такой жестокий.	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_04	ВОССТАНЬТЕ, СЛУГИ МОИ!	
+VO_TUTR_LichKing_LichKing_Undead_InGame_Turn_FirstHeroPower_01	Да воцарится Плеть.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_01	Им место в дикой природе.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_02	<рычание> Тогда начнем охоту!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_03	<рычание> Да начнется охота.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_04	Я — охотник Рексар.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_Introduction_05	Мои звери и заклинания атакуют любого по моему приказу.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCharge_01	У этого существа рывок. Оно может атаковать любого противника сразу после выхода на поле.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayCompanion_01	Миша, Леокк, Хаффер! Ко мне!	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedArcaneShot_01	Ты у меня на прицеле.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayedStonetuskBoar_01	Мои верные вепри скоро закончат этот бой.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayRush_01	Это существо с натиском. Оно может атаковать существ врага сразу, а не ждать следующего хода.	
+VO_TUTR_Rexxar_Rexxar_Orc_InGame_OnPlayUnleash_01	Спустить псов!	

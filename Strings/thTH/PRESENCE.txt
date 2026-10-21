@@ -1,4 +1,6 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	กำลังอ่าน Book of Heroes	
+PRESENCE_ADVENTURE_MODE_BOM	กำลังอ่าน Book of Mercenaries	
 PRESENCE_ADVENTURE_MODE_BOT	กำลังดูห้องแล็บของด็อกเตอร์บูม	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	การทดสอบคลาสของแบล็คร็อค	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Blackrock Mountain (ระดับฮีโร่)	
@@ -21,8 +23,189 @@ PRESENCE_ADVENTURE_MODE_NAXX_CLASS_CHALLENGE	การทดสอบคลา�
 PRESENCE_ADVENTURE_MODE_NAXX_HEROIC	 Naxxramas (ระดับฮีโร่)	
 PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	 Naxxramas	
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	กำลังเดินทางกลับด้วยความยินดี!	
+PRESENCE_ADVENTURE_MODE_RLK	กำลังท่องอดีตของอาธัส!	
 PRESENCE_ADVENTURE_MODE_TRL	กำลังเตรียมตัวตะลุมบอน...	
 PRESENCE_ADVENTURE_MODE_ULD	กำลังวางแผนออกเดินทาง	
+PRESENCE_SCENARIO_BOH_FIGHT_01	กำลังโน้มน้าวอาร์คเมจแอนโทไนดัส	
+PRESENCE_SCENARIO_BOH_FIGHT_02	กำลังพบปะเจ้าชายเคลธาส	
+PRESENCE_SCENARIO_BOH_FIGHT_03	กำลังโต้เถียงกับเจ้าชายอาร์ธัส	
+PRESENCE_SCENARIO_BOH_FIGHT_04	กำลังห้ามปรามกรอมแมช เฮลสครีม	
+PRESENCE_SCENARIO_BOH_FIGHT_05	กำลังหลอกล่ออาร์คิมอนด์	
+PRESENCE_SCENARIO_BOH_FIGHT_06	กำลังปกป้องเธอรามอร์	
+PRESENCE_SCENARIO_BOH_FIGHT_07	กำลังกล่าวโทษธรอล	
+PRESENCE_SCENARIO_BOH_FIGHT_08	กำลังขับไล่กลุ่มซันรีฟเวอร์	
+PRESENCE_SCENARIO_BOH10_FIGHT_01	กำลังเผชิญหน้าเจ้าชาย	
+PRESENCE_SCENARIO_BOH10_FIGHT_02	กำลังขโมยจากไทคอนเดรียส	
+PRESENCE_SCENARIO_BOH10_FIGHT_03	กำลังบุกสุสานซาร์เกราส	
+PRESENCE_SCENARIO_BOH10_FIGHT_04	กำลังทะเลาะกับมัลฟิวเรียน	
+PRESENCE_SCENARIO_BOH10_FIGHT_05	กำลังกอบกู้เอาท์แลนด์	
+PRESENCE_SCENARIO_BOH10_FIGHT_06	กำลังสบประมาทอานูบาแรค	
+PRESENCE_SCENARIO_BOH10_FIGHT_07	กำลังดวลกับอาร์ธัส	
+PRESENCE_SCENARIO_BOH10_FIGHT_08	กำลังถูกอะคามาหักหลัง	
+PRESENCE_SCENARIO_BOH11_FIGHT_01	กำลังเริ่มการเดินทาง	
+PRESENCE_SCENARIO_BOH11_FIGHT_02	กำลังขับไล่โจรสลัด	
+PRESENCE_SCENARIO_BOH11_FIGHT_03	กำลังต่อรองกับฮุคทัสค์	
+PRESENCE_SCENARIO_BOH11_FIGHT_04	กำลังซ่อมเรือลิเวียธัน	
+PRESENCE_SCENARIO_BOH11_FIGHT_05A	กำลังต้านทานพายุ	
+PRESENCE_SCENARIO_BOH11_FIGHT_05B	กำลังชิงเรือเวสเปอร์คืน	
+PRESENCE_SCENARIO_BOH11_FIGHT_06	กำลังช่วยกัปตันมายา	
+PRESENCE_SCENARIO_BOH11_FIGHT_07	กำลังจับคราเคน	
+PRESENCE_SCENARIO_BOH11_FIGHT_08	กำลังซ่อมเรือลิเวียธันอีกครั้ง	
+PRESENCE_SCENARIO_BOH11_FIGHT_09A	กำลังถูกเมอร์ล็อคคุกคาม	
+PRESENCE_SCENARIO_BOH11_FIGHT_09B	กำลังเข้าร่วมงานรวมญาติ	
+PRESENCE_SCENARIO_BOH11_FIGHT_10A	กำลังโต้เถียงกับนากา	
+PRESENCE_SCENARIO_BOH11_FIGHT_10B	กำลังพิสูจน์ตัวเอง	
+PRESENCE_SCENARIO_BOH11_FIGHT_11	กำลังรำลึกอดีต	
+PRESENCE_SCENARIO_BOH11_FIGHT_12	กำลังเผชิญหน้าปัจจุบัน	
+PRESENCE_SCENARIO_BOH11_FIGHT_13	กำลังถูกจองจำในพระราชวังนิรันดร์	
+PRESENCE_SCENARIO_BOH11_FIGHT_14	กำลังซ่อมเรือลิเวียธันครั้งสุดท้าย	
+PRESENCE_SCENARIO_BOH11_FIGHT_15	กำลังรับมือเซนรา	
+PRESENCE_SCENARIO_BOH11_FIGHT_16	กำลังแก้เบื่อให้ราชินีอัซชารา	
+PRESENCE_SCENARIO_BOH11_PROLOGUE	กำลังรับสมัครลูกเรือ	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	กำลังโต้แย้งว่าควรลงมือ	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	กำลังโน้มน้าวผู้นำชนเผ่า	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	กำลังผูกมิตรกับมิชา	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	กำลังกู้เกียรติยศของมอกริน	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	กำลังสืบสวนร่วมกับเจน่า	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	กำลังช่วยเบน บลัดฮูฟ	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	กำลังต้านการรุกรานของเดลิน	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	กำลังปกป้องชาวมอคนาธัล	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	กำลังพบปะเกรทมาเธอร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	กำลังโต้เถียงกับเรห์การ์	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	กำลังพิชิตนอร์ธเรนด์	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	กำลังดับไฟในออร์กริมมาร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	กำลังดวลมัคโกรา	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	กำลังโจมตีเธอรามอร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	กำลังลั่นระฆังสวรรค์	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	กำลังถูกปิดล้อมในออร์กริมมาร์	
+PRESENCE_SCENARIO_BOH4_FIGHT_01	กำลังทำให้อาร์คบิชอปฟาโอลประทับใจ	
+PRESENCE_SCENARIO_BOH4_FIGHT_02	กำลังป้องกันลอร์เดรอน	
+PRESENCE_SCENARIO_BOH4_FIGHT_03	กำลังดวลกับเวร็อค เซาร์แฟง	
+PRESENCE_SCENARIO_BOH4_FIGHT_04	กำลังทำลายประตูมิติมืด	
+PRESENCE_SCENARIO_BOH4_FIGHT_05	กำลังช่วยชาวบ้านจากเบลดมาสเตอร์	
+PRESENCE_SCENARIO_BOH4_FIGHT_06	กำลังเข้าช่วยเหลือฮาร์ทเกลน	
+PRESENCE_SCENARIO_BOH4_FIGHT_07	กำลังฝ่าฟันอุปสรรคไปที่สตรัทโฮล์ม	
+PRESENCE_SCENARIO_BOH4_FIGHT_08	กำลังเผชิญหน้ากับอาร์ธัส	
+PRESENCE_SCENARIO_BOH5_FIGHT_01	กำลังทำให้แวเรี่ยนผิดหวัง	
+PRESENCE_SCENARIO_BOH5_FIGHT_02	กำลังหว่านล้อมเจน่า	
+PRESENCE_SCENARIO_BOH5_FIGHT_03	กำลังเจรจาสงบศึกกับมอยร่า	
+PRESENCE_SCENARIO_BOH5_FIGHT_04	กำลังเรียนรู้จากเวเลน	
+PRESENCE_SCENARIO_BOH5_FIGHT_05	กำลังหลบหนีจากเงื้อมมือของนาซกริม	
+PRESENCE_SCENARIO_BOH5_FIGHT_06	กำลังแก้ปริศนาของราชาวานร	
+PRESENCE_SCENARIO_BOH5_FIGHT_07	กำลังถือค้อนเสียงประสาน	
+PRESENCE_SCENARIO_BOH5_FIGHT_08	กำลังต่อสู้เพื่อลอร์เดรอน	
+PRESENCE_SCENARIO_BOH6_FIGHT_01	กำลังฝึกฝนสำหรับลานประลอง	
+PRESENCE_SCENARIO_BOH6_FIGHT_02	กำลังแสดงฝีมือให้เฮลก้าชม	
+PRESENCE_SCENARIO_BOH6_FIGHT_03	กำลังเผชิญหน้ากับมือสังหาร	
+PRESENCE_SCENARIO_BOH6_FIGHT_04	กำลังกำลังถูกปีศาจสิงร่าง	
+PRESENCE_SCENARIO_BOH6_FIGHT_05	กำลังเจรจาทางการทูต	
+PRESENCE_SCENARIO_BOH6_FIGHT_06	กำลังสอบสวนกาโรน่า	
+PRESENCE_SCENARIO_BOH6_FIGHT_07	กำลังเผชิญหน้าลัทธิค้อนสนธยา	
+PRESENCE_SCENARIO_BOH6_FIGHT_08	กำลังเรียนรู้ความลับของคฤหาสน์เรเวนโฮลท์	
+PRESENCE_SCENARIO_BOH7_FIGHT_01	กำลังทำเงินให้แบล็คมัวร์	
+PRESENCE_SCENARIO_BOH7_FIGHT_02	กำลังฝึกเป็นชาแมน	
+PRESENCE_SCENARIO_BOH7_FIGHT_03	กำลังคุยกับคนแปลกหน้า	
+PRESENCE_SCENARIO_BOH7_FIGHT_04	กำลังเผชิญหน้าแมนโนรอธ	
+PRESENCE_SCENARIO_BOH7_FIGHT_05	กำลังเอาชนะอาร์คิมอนด์	
+PRESENCE_SCENARIO_BOH7_FIGHT_06	กำลังจัดการเดธวิง	
+PRESENCE_SCENARIO_BOH7_FIGHT_07	กำลังหยุดยั้งเจน่า	
+PRESENCE_SCENARIO_BOH7_FIGHT_08	กำลังถอดถอนแกร์รอช	
+PRESENCE_SCENARIO_BOH8_FIGHT_01	กำลังรับคำชี้แนะ	
+PRESENCE_SCENARIO_BOH8_FIGHT_02	กำลังสู้กับเบิร์นนิ่งลีเจียน	
+PRESENCE_SCENARIO_BOH8_FIGHT_03	กำลังทะเลาะกับน้องชาย	
+PRESENCE_SCENARIO_BOH8_FIGHT_04	กำลังช่วยนอร์ดราสซิล	
+PRESENCE_SCENARIO_BOH8_FIGHT_05	กำลังทะเลาะกับน้องชายอีกครั้ง	
+PRESENCE_SCENARIO_BOH8_FIGHT_06	กำลังเผชิญหน้าฝันร้ายสีมรกต	
+PRESENCE_SCENARIO_BOH8_FIGHT_07	กำลังป้องกันภูเขาไฮจัล	
+PRESENCE_SCENARIO_BOH8_FIGHT_08	กำลังปกป้องเทลดราสซิล	
+PRESENCE_SCENARIO_BOH9_FIGHT_01	กำลังถูกไล่ออกจากเผ่า	
+PRESENCE_SCENARIO_BOH9_FIGHT_02	กำลังวิงวอนต่อบัลลังก์พลังธาตุ	
+PRESENCE_SCENARIO_BOH9_FIGHT_03	กำลังเข้าพบเนอร์ซูล	
+PRESENCE_SCENARIO_BOH9_FIGHT_04	กำลังครอบงำชนเผ่า	
+PRESENCE_SCENARIO_BOH9_FIGHT_05	กำลังฟังคำชักชวนของเมดิฟห์	
+PRESENCE_SCENARIO_BOH9_FIGHT_06	กำลังเผชิญความโกรธของออร์กริม	
+PRESENCE_SCENARIO_BOH9_FIGHT_07	กำลังพบกับเทรอนกอร์อีกครั้ง	
+PRESENCE_SCENARIO_BOH9_FIGHT_08	กำลังค้นหาในสุสานซาร์เกราส	
+PRESENCE_SCENARIO_BOM_FIGHT_01	กำลังสู้กับบรูคาน	
+PRESENCE_SCENARIO_BOM_FIGHT_02	กำลังทัศนาจรกับกัฟ	
+PRESENCE_SCENARIO_BOM_FIGHT_03	กำลังปราบศพยักษ์คืนชีพ	
+PRESENCE_SCENARIO_BOM_FIGHT_04	กำลังล่าศัตรูหายาก	
+PRESENCE_SCENARIO_BOM_FIGHT_05	กำลังเก็บกู้ผลึก	
+PRESENCE_SCENARIO_BOM_FIGHT_06	กำลังท้าชนทวินเบรด	
+PRESENCE_SCENARIO_BOM_FIGHT_07	กำลังตามหาฟีกลี	
+PRESENCE_SCENARIO_BOM_FIGHT_08	กำลังเผชิญหน้าแกร์รอช	
+PRESENCE_SCENARIO_BOM10_FIGHT_01	กำลังไว้ทุกข์ให้ทหารรับจ้าง	
+PRESENCE_SCENARIO_BOM10_FIGHT_02	กำลังเรียนรู้จากลอร์เธมาร์	
+PRESENCE_SCENARIO_BOM10_FIGHT_03	กำลังตามเรื่องกับราชาแวเรี่ยน	
+PRESENCE_SCENARIO_BOM10_FIGHT_04	กำลังเข้าถ้ำของโอนิกเซีย	
+PRESENCE_SCENARIO_BOM10_FIGHT_05	กำลังอยู่ในกลุ่มลูกมังกร	
+PRESENCE_SCENARIO_BOM10_FIGHT_06	กำลังต่อกรกับนางพญามังกร	
+PRESENCE_SCENARIO_BOM10_FIGHT_07	กำลังซิ่งหนีศัตรู	
+PRESENCE_SCENARIO_BOM10_FIGHT_08	กำลังต่อรองกับนารู	
+PRESENCE_SCENARIO_BOM2_FIGHT_01	กำลังเฝ้าดูหอตรวจการณ์	
+PRESENCE_SCENARIO_BOM2_FIGHT_02	กำลังหลอกล่อเซเรน่า	
+PRESENCE_SCENARIO_BOM2_FIGHT_03	กำลังเจอเจ้าถิ่น	
+PRESENCE_SCENARIO_BOM2_FIGHT_04	กำลังทำให้ครบโควต้าวันนี้	
+PRESENCE_SCENARIO_BOM2_FIGHT_05	กำลังปล้นเชรดเดอร์	
+PRESENCE_SCENARIO_BOM2_FIGHT_06	กำลังลักลอบเข้าไป	
+PRESENCE_SCENARIO_BOM2_FIGHT_07	กำลังรับมือทั้งแปด	
+PRESENCE_SCENARIO_BOM2_FIGHT_08	กำลังถือผลึกแสง	
+PRESENCE_SCENARIO_BOM3_FIGHT_01	กำลังช่วยฮามูล	
+PRESENCE_SCENARIO_BOM3_FIGHT_02	กำลังหารอยแยก	
+PRESENCE_SCENARIO_BOM3_FIGHT_03	กำลังปะทะเผ่าโคลคาร์	
+PRESENCE_SCENARIO_BOM3_FIGHT_04	กำลังปกป้องแสน็ปจอว์	
+PRESENCE_SCENARIO_BOM3_FIGHT_05	กำลังมองหากลุ่ม	
+PRESENCE_SCENARIO_BOM3_FIGHT_06	กำลังสู้กับแฟงลอร์ด	
+PRESENCE_SCENARIO_BOM3_FIGHT_07	กำลังเผชิญหน้ามิวทานัส	
+PRESENCE_SCENARIO_BOM3_FIGHT_08	กำลังเจรจากับนาราเล็กซ์	
+PRESENCE_SCENARIO_BOM4_FIGHT_01	กำลังพิทักษ์พาลาดิน	
+PRESENCE_SCENARIO_BOM4_FIGHT_02	กำลังเผชิญหน้าคนผ่าเหล่า	
+PRESENCE_SCENARIO_BOM4_FIGHT_03	กำลังคิดเรื่องแก้แค้น	
+PRESENCE_SCENARIO_BOM4_FIGHT_04	กำลังจัดตั้งปาร์ตี้	
+PRESENCE_SCENARIO_BOM4_FIGHT_05	กำลังบู๊กับเบิร์นนิ่งเบลด	
+PRESENCE_SCENARIO_BOM4_FIGHT_06	กำลังตั้งแคมป์กับคาซากัส	
+PRESENCE_SCENARIO_BOM4_FIGHT_07	กำลังฟาดฟันกับไฟร์เบลด	
+PRESENCE_SCENARIO_BOM4_FIGHT_08	กำลังท้าดวลกับแทมซิน	
+PRESENCE_SCENARIO_BOM5_FIGHT_01	กำลังย้อนความเดิมกับเคอร์ทรัส	
+PRESENCE_SCENARIO_BOM5_FIGHT_02	กำลังต่อรองกับฮุคทัสค์	
+PRESENCE_SCENARIO_BOM5_FIGHT_03	กำลังบุกเข้าสตอร์มวินด์	
+PRESENCE_SCENARIO_BOM5_FIGHT_04	กำลังสู้กับสหาย	
+PRESENCE_SCENARIO_BOM5_FIGHT_05	กำลังท้าชนคนขายชีส	
+PRESENCE_SCENARIO_BOM5_FIGHT_06	กำลังสาดเวทใส่ไซเรลลา	
+PRESENCE_SCENARIO_BOM5_FIGHT_07	กำลังเปิดตัวอเนเธรอน	
+PRESENCE_SCENARIO_BOM5_FIGHT_08	กำลังครอบงำคอร์นีเลียส	
+PRESENCE_SCENARIO_BOM6_FIGHT_01	กำลังประมือกันระหว่างพี่น้อง	
+PRESENCE_SCENARIO_BOM6_FIGHT_02	กำลังดวลกับดีมอนฮันเตอร์	
+PRESENCE_SCENARIO_BOM6_FIGHT_03	กำลังกลับบ้าน	
+PRESENCE_SCENARIO_BOM6_FIGHT_04	กำลังปกป้องเขตคนแคระ	
+PRESENCE_SCENARIO_BOM6_FIGHT_05	กำลังช่วยเพื่อน	
+PRESENCE_SCENARIO_BOM6_FIGHT_06	กำลังโจมตีอเนเธรอน	
+PRESENCE_SCENARIO_BOM6_FIGHT_07	กำลังสู้กับอสูรกาย	
+PRESENCE_SCENARIO_BOM6_FIGHT_08	กำลังเผชิญหน้ากับแทมซิน	
+PRESENCE_SCENARIO_BOM7_FIGHT_01	กำลังตะลุมบอนกับบ็อบ	
+PRESENCE_SCENARIO_BOM7_FIGHT_02	กำลังเผยโฉมหน้าคนทรยศ	
+PRESENCE_SCENARIO_BOM7_FIGHT_03	กำลังห้ำหั่นกับฮ็อกเกอร์	
+PRESENCE_SCENARIO_BOM7_FIGHT_04	กำลังแหกคุก	
+PRESENCE_SCENARIO_BOM7_FIGHT_05	กำลังเดินเข้าเดดไมนส์	
+PRESENCE_SCENARIO_BOM7_FIGHT_06	กำลังซัดกับมิสเตอร์สไมท์	
+PRESENCE_SCENARIO_BOM7_FIGHT_07	กำลังเข้าครัวกับคุกกี้	
+PRESENCE_SCENARIO_BOM7_FIGHT_08	กำลังรุมอัดเอ็ดวิน	
+PRESENCE_SCENARIO_BOM8_FIGHT_01	กำลังวางมวยกับแวนดาร์	
+PRESENCE_SCENARIO_BOM8_FIGHT_02	กำลังออกสำรวจไอรอนดีป	
+PRESENCE_SCENARIO_BOM8_FIGHT_03	กำลังชุลมุนกับชนเผ่า	
+PRESENCE_SCENARIO_BOM8_FIGHT_04	กำลังทำกับข้าวข้างกองไฟ	
+PRESENCE_SCENARIO_BOM8_FIGHT_05	กำลังอยู่ในทุ่งสงคราม	
+PRESENCE_SCENARIO_BOM8_FIGHT_06	กำลังสกัดศัตรูบนสะพาน	
+PRESENCE_SCENARIO_BOM8_FIGHT_07	กำลังช่วยทหารรับจ้างจากน้ำแข็ง	
+PRESENCE_SCENARIO_BOM8_FIGHT_08	กำลังรับรู้เรื่องไม่ลับ	
+PRESENCE_SCENARIO_BOM9_FIGHT_01	กำลังดวลกับเดรดลิช	
+PRESENCE_SCENARIO_BOM9_FIGHT_02	กำลังเคลียร์แคมป์ไฟ	
+PRESENCE_SCENARIO_BOM9_FIGHT_03	กำลังออกศึกกับไอค์แมน	
+PRESENCE_SCENARIO_BOM9_FIGHT_04	กำลังเอาเทียนไป	
+PRESENCE_SCENARIO_BOM9_FIGHT_05	กำลังอาวรณ์อดีต	
+PRESENCE_SCENARIO_BOM9_FIGHT_06	กำลังล่ามโซ่โลโคลาร์	
+PRESENCE_SCENARIO_BOM9_FIGHT_07	กำลังยุติความขัดแย้ง	
+PRESENCE_SCENARIO_BOM9_FIGHT_08	กำลังจบเรื่อง	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	กำลังไขปริศนา	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	กำลังไขปริศนา	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	กำลังไขปริศนา	
@@ -299,6 +482,10 @@ PRESENCE_SCENARIO_NAXX_NORMAL_SCENARIO_THADDIUS	กำลังสู้กั�
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_1	กำลังเดินทางกลับด้วยความยินดี!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_2	กำลังเดินทางกลับด้วยความยินดี!	
 PRESENCE_SCENARIO_RETURNING_PLAYER_CHALLENGE_3	กำลังเดินทางกลับด้วยความยินดี!	
+PRESENCE_SCENARIO_RLK_FIGHT_01	กำลังถือฟรอสต์มอร์น	
+PRESENCE_SCENARIO_RLK_FIGHT_02	กำลังเผชิญหน้าอาจารย์	
+PRESENCE_SCENARIO_RLK_FIGHT_03	กำลังบุกซิลเวอร์มูน	
+PRESENCE_SCENARIO_RLK_FIGHT_04	กำลังขึ้นครองบัลลังก์เยือกแข็ง	
 PRESENCE_SCENARIO_TRL_DUNGEON	กำลังตะลุมบอนในกูรูบาชิอารีน่า	
 PRESENCE_SCENARIO_ULD_01_CITY	กำลังสำรวจนครสาบสูญ	
 PRESENCE_SCENARIO_ULD_01_CITY_HEROIC	กำลังสำรวจนครสาบสูญ	
@@ -327,15 +514,40 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	กำลังอยู่ใน Battlegro
 PRESENCE_STATUS_COLLECTION	กำลังดูคอลเลกชันการ์ด	
 PRESENCE_STATUS_CRAFTING	กำลังสร้างการ์ด	
 PRESENCE_STATUS_DECKEDITOR	กำลังจัดเด็ค	
+PRESENCE_STATUS_DUELS_PURCHASE	กำลังคิดจะเริ่มเล่นโหมดดวลเดือด	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	กำลังไปที่เกมท้าประลอง Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	กำลังเตรียมตัวสู้กับเพื่อน	
 PRESENCE_STATUS_FRIENDLY_GAME	กำลังสู้กับเพื่อน	
 PRESENCE_STATUS_HUB	กำลังอยู่ที่เมนูหลัก	
 PRESENCE_STATUS_LOGIN	กำลังเริ่มเกม	
+PRESENCE_STATUS_MERCENARIES_COLLECTION	กำลังดูคอลเลกชันทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_GAME	กำลังสู้กับเพื่อนในโหมดทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_FRIENDLY_LOBBY	กำลังเตรียมตัวสู้กับเพื่อน	
+PRESENCE_STATUS_MERCENARIES_GAME	กำลังต่อสู้ในแมตช์ทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_MAP	กำลังสำรวจแผนที่ของทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_PLAY_SCREEN	กำลังเลือกทีมทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_QUEUE	กำลังค้นหาคู่ต่อสู้ในโหมดทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_TEAM_EDITOR	กำลังตั้งทีมทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE	กำลังอยู่ในหมู่บ้านทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_BUILDING_MANAGER	อยู่ที่โรงงานทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_MAILBOX	อยู่ที่กล่องจดหมายทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_BOUNTIES	อยู่ที่กระดานล่าค่าหัวทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVE_ZONES	อยู่ที่จุดเดินทางทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_PVP	อยู่ที่สังเวียนต่อสู้ทหารรับจ้าง	
+PRESENCE_STATUS_MERCENARIES_VILLAGE_TASKBOARD	อยู่ที่กระดานภารกิจทหารรับจ้าง	
 PRESENCE_STATUS_PACKOPENING	กำลังเปิดซองการ์ด!!!!	
-PRESENCE_STATUS_PLAY_DECKPICKER	กำลังไปที่โหมดแข่งขัน	
-PRESENCE_STATUS_PLAY_GAME	กำลังสู้อยู่ในโหมดแข่งขัน	
+PRESENCE_STATUS_PLAY_BATTLEGROUNDS_DUOS	กำลังแข่งขันใน Battlegrounds ดูโอส์!	
+PRESENCE_STATUS_PLAY_CASUAL_CLASSIC	กำลังต่อสู้ในโหมดปกติคลาสสิค!	
+PRESENCE_STATUS_PLAY_CASUAL_STANDARD	กำลังต่อสู้ในโหมดปกติมาตรฐาน!	
+PRESENCE_STATUS_PLAY_CASUAL_TWIST	กำลังต่อสู้ในโหมดทวิสต์ปกติ!	
+PRESENCE_STATUS_PLAY_CASUAL_WILD	กำลังต่อสู้ในโหมดปกติอิสระ!	
+PRESENCE_STATUS_PLAY_DECKPICKER	กำลังไปที่โหมด Hearthstone ดั้งเดิม	
+PRESENCE_STATUS_PLAY_GAME	กำลังสู้อยู่ในโหมด Hearthstone ดั้งเดิม	
 PRESENCE_STATUS_PLAY_QUEUE	กำลังค้นหาคู่ต่อสู้	
+PRESENCE_STATUS_PLAY_RANKED_CLASSIC	กำลังต่อสู้ในโหมดจัดอันดับคลาสสิค!	
+PRESENCE_STATUS_PLAY_RANKED_STANDARD	กำลังต่อสู้ในโหมดจัดอันดับมาตรฐาน!	
+PRESENCE_STATUS_PLAY_RANKED_TWIST	กำลังต่อสู้ในโหมดทวิสต์จัดอันดับ!	
+PRESENCE_STATUS_PLAY_RANKED_WILD	กำลังต่อสู้ในโหมดจัดอันดับอิสระ!	
 PRESENCE_STATUS_PRACTICE_DECKPICKER	กำลังไปที่โหมดฝึกฝน	
 PRESENCE_STATUS_PRACTICE_GAME	กำลังฝึกเล่นกับเจ้าของโรงแรม	
 PRESENCE_STATUS_QUESTLOG	กำลังดูบันทึกเควสต์	
@@ -354,6 +566,8 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	กำลังชม Naxx
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	กำลังชมการต่อสู้ใน Naxxramas!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	กำลังชมการต่อสู้ในลานประลอง	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	กำลังชมแมตช์ Battlegrounds	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	กำลังชม Book of Heroes	
+PRESENCE_STATUS_SPECTATING_GAME_BOM	กำลังชม Book of Mercenaries	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	กำลังร่วมทดลองกับคู่หู	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	กำลังชม Trial by Felfire	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	กำลังชมบททดสอบ Trial by Felfire	
@@ -366,9 +580,19 @@ PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	กำลังชมการต่อ
 PRESENCE_STATUS_SPECTATING_GAME_GIL	กำลังชมการล่ามอนสเตอร์	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	กำลังชมการต่อสู้กับฮากาธา	
 PRESENCE_STATUS_SPECTATING_GAME_LOOT	ดูการผจญภัยในดันเจี้ยน	
-PRESENCE_STATUS_SPECTATING_GAME_PLAY	กำลังชมการต่อสู้ในโหมดแข่งขัน	
+PRESENCE_STATUS_SPECTATING_GAME_MERCENARIES	กำลังดูการต่อสู้ของทหารรับจ้าง	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY	กำลังชมการต่อสู้ในโหมด Hearthstone ดั้งเดิม	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_CLASSIC	กำลังชมการต่อสู้โหมดคลาสสิคปกติ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_STANDARD	กำลังชมการต่อสู้โหมดมาตรฐานปกติ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_TWIST	กำลังชมการต่อสู้โหมดทวิสต์ปกติ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_CASUAL_WILD	กำลังชมการต่อสู้โหมดอิสระปกติ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_CLASSIC	กำลังชมการต่อสู้โหมดคลาสสิคจัดอันดับ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_STANDARD	กำลังชมการต่อสู้โหมดมาตรฐานจัดอันดับ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_TWIST	กำลังชมการต่อสู้โหมดทวิสต์จัดอันดับ	
+PRESENCE_STATUS_SPECTATING_GAME_PLAY_RANKED_WILD	กำลังชมการต่อสู้โหมดอิสระจัดอันดับ	
 PRESENCE_STATUS_SPECTATING_GAME_PRACTICE	กำลังชมเกมในโหมดฝึกฝน	
 PRESENCE_STATUS_SPECTATING_GAME_RETURNING_PLAYER_CHALLENGE	กำลังชมสหายที่เดินทางกลับ!	
+PRESENCE_STATUS_SPECTATING_GAME_RLK	กำลังชมบทนำ	
 PRESENCE_STATUS_SPECTATING_GAME_TAVERN_BRAWL	กำลังชมเกมในโหมดท้าประลอง	
 PRESENCE_STATUS_SPECTATING_GAME_TRL	กำลังชมการตะลุมบอน	
 PRESENCE_STATUS_SPECTATING_GAME_TUTORIAL	กำลังชมเกมในโหมดสอนเล่น	
@@ -383,11 +607,9 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	กำลังค้นหาคู่ต่
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	กำลังไปที่โหมดท้าประลอง	
 PRESENCE_STATUS_TUTORIAL_GAME	กำลังพยายามเอาชนะ {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	กำลังเริ่มเล่นเกมเป็นครั้งแรก	
+PRESENCE_STATUS_VIEWING_JOURNAL	กำลังดูบันทึก	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	รอให้คู่ต่อสู้กลับเข้าเกม	
 PRESENCE_STATUS_WELCOMEQUESTS	กำลังเลือกเควสต์ใหม่!	
-PRESENCE_TUTORIAL_CHO	ลอร์วอล์คเกอร์ โช	
-PRESENCE_TUTORIAL_HEMET	เฮเม็ต เนซิงเวรี	
-PRESENCE_TUTORIAL_HOGGER	ฮ็อกเกอร์	
-PRESENCE_TUTORIAL_ILLIDAN	อิลลิดัน สตอร์มเรจ	
-PRESENCE_TUTORIAL_MILLHOUSE	มิลเฮาส์ มานาสตอร์ม	
-PRESENCE_TUTORIAL_MUKLA	คิงมุคล่า	
+PRESENCE_TUTORIAL_GARROSH	แกร์รอช เฮลสครีม	
+PRESENCE_TUTORIAL_LICH_KING	ลิชคิง	
+PRESENCE_TUTORIAL_REXXAR	เร็กซ์ซาร์	

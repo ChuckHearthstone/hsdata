@@ -15,14 +15,15 @@ TUTORIAL_TOOLTIP_DECK_DESCRIPTION	คุณจะจั่วการ์ดห�
 TUTORIAL_TOOLTIP_ENEMYDECK_DESC	ฝ่ายตรงข้ามก็จะจั่วการ์ดหนึ่งใบ[b]ในแต่ละเทิร์น 	
 TUTORIAL_TOOLTIP_HISTORY_DESC	นี่คือบันทึกเหตุการณ์[b]ในเกม	
 TUTORIAL_TOOLTIP_HISTORY_HEADLINE	ประวัติ	
+TUTORIAL_WANTED	ประกาศจับ	
 TUTORIAL01_HELP_01	ถ้าพลังชีวิตของคุณหมด คุณจะเป็นฝ่ายแพ้	
 TUTORIAL01_HELP_02	การ์ดใบนี้ใช้\nไปเมื่อเทิร์นที่แล้ว	
-TUTORIAL01_HELP_03	จัดการโนลตัวนี้ซะ!	
+TUTORIAL01_HELP_03	จัดการโนลล์ตัวนี้ซะ!	
 TUTORIAL01_HELP_04	มินเนี่ยนจะต้องรอหนึ่งเทิร์น\nจึงจะโจมตีได้	
 TUTORIAL01_HELP_05	โจมตีฮ็อกเกอร์!	
 TUTORIAL01_HELP_06	ใช้ทุกอย่างที่มี\nเพื่อจัดการฮ็อกเกอร์!	
 TUTORIAL01_HELP_07	เก็บใบนั้นไว้สำหรับศัตรู!	
-TUTORIAL01_HELP_08	ไม่ต้องสนใจโนลกระจอกตัวนั้น แล้วจัดการฮ็อกเกอร์ซะ	
+TUTORIAL01_HELP_08	ไม่ต้องสนใจโนลล์กระจอกตัวนั้น แล้วจัดการฮ็อกเกอร์ซะ	
 TUTORIAL01_HELP_09	เมื่อพลังชีวิตของฮ็อกเกอร์หมด คุณจะเป็นฝ่ายชนะ	
 TUTORIAL01_HELP_10	โจมตีด้วยมินเนี่ยน[b]ของคุณ!	
 TUTORIAL01_HELP_11	คลิกเพื่อโจมตี	
@@ -61,3 +62,20 @@ TUTORIAL06_HELP_01	ลอร์วอล์คเกอร์ โช
 TUTORIAL06_HELP_02	เมื่อมินเนี่ยนต่อสู้กัน *ทั้งคู่* จะได้รับความเสียหาย	
 TUTORIAL06_HELP_03	มินเนี่ยนที่ความสามารถ "คำรามสู้ศึก" จะทำบางอย่างเมื่อคุณส่งลงจากมือ	
 TUTORIAL06_HELP_04	ฆ่ามินเนี่ยนของฝ่ายตรงข้ามก่อนที่พวกมันจะกลายเป็นตัวปัญหา!	
+TUTR_HELPER_Fight_01_AttackHero	โจมตีเร็กซ์ซาร์ด้วย[b]มินเนี่ยน[b]ของ[b]คุณ!	
+TUTR_HELPER_Fight_01_AttackHuffer	โจมตีมินเนี่ยนศัตรู!	
+TUTR_HELPER_Fight_01_HeroPower	ใช้พลังฮีโร่ของคุณ[b]ใส่มินเนี่ยนตัวนั้น!	
+TUTR_HELPER_Fight_01_HistoryTiles	แถบประวัติแสดง[b]การกระทำที่ผ่านมา	
+TUTR_HELPER_Fight_01_Mana	มานาเพิ่มขึ้นทุกรอบ การเล่นการ์ดต้องใช้มานา	
+TUTR_HELPER_Fight_01_Mana_02	คริสตัลมานาจะฟื้นฟู[b]กลับมาทุกรอบ	
+TUTR_HELPER_Fight_01_MinionsDestroyed	มินเนี่ยนสร้างความเสียหาย[b]ให้[b]กัน[b]และ[b]กัน[b]เมื่อ[b]โจมตี	
+TUTR_HELPER_Fight_01_PlayCard	ลากมินเนี่ยนใบนี้ลง[b]สนามเพื่อเล่นมัน	
+TUTR_HELPER_Fight_01_PlayHuffer	ค่าพลังโจมตีทางซ้าย[b]คือ[b]ความ[b]เสียหาย[b]ที่[b]มินเนี่ยน[b]สร้าง[b]ให้[b]ศัตรู	
+TUTR_HELPER_Fight_01_PlayHuffer_02	ค่าพลังชีวิตทางขวา[b]คือ[b]ความ[b]เสียหาย[b]ที่มัน[b]รับได้[b]ก่อน[b]ตาย	
+TUTR_HELPER_Fight_01_PlayMinion	วางเคอร์เซอร์เหนือการ์ด[b]เพื่อดูความสามารถของมัน	
+TUTR_HELPER_Fight_01_PlayMinion_Mobile	แตะค้างที่การ์ดเพื่อดูความสามารถของมัน	
+TUTR_HELPER_Fight_01_PlaySpell	ลากเวทมนตร์นี้[b]ไปที่มินเนี่ยนศัตรู[b]เพื่อทำลายมัน!	
+TUTR_HELPER_Fight_01_PlayTaunt	มินเนี่ยนต้องทำลาย[b]ศัตรูที่มียั่วยุก่อน	
+TUTR_HELPER_Fight_01_PlayWeapon	อาวุธเสียความทนทาน[b]เมื่อฮีโร่โจมตี	
+TUTR_HELPER_Fight_01_SpellIgnoresTaunt	เวทมนตร์[b]ไม่สนใจ[b]ยั่วยุ	
+TUTR_HELPER_Fight_01_WinCondition	คุณต้องลดพลังชีวิตของคู่ต่อสู้[b]ให้เหลือ 0 เพื่อชนะเกม	
