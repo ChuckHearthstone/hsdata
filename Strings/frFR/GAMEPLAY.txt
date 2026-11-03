@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Pas dans cette partie :
 GAMEPLAY_TOOLTIP_BLOOD	Sang	
 GAMEPLAY_TOOLTIP_CORPSES	Cadavres	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Ressource obtenue lorsqu’un serviteur allié meurt.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Inflige 7 points de dégâts répartis de façon aléatoire entre les adversaires.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Inflige 6 points de dégâts répartis de façon aléatoire entre les adversaires.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Courroux de C’Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Donne +2/+3 à deux autres serviteurs alliés aléatoires.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Donne +2/+2 à deux autres serviteurs alliés aléatoires.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Domaine de C’Thun	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Vol de vie</b>\nInflige 5 points de dégâts à un serviteur adverse.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Regard de C’Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Invoque deux fanatiques 2/3 avec </b>Provocation<b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Invoque deux fanatiques 2/2 avec </b>Provocation<b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Serviteurs de C’Thun	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Vous avez {0} |4(carte,cartes) dans votre deck.	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Vous disposez d’un portail infini de Démons.	

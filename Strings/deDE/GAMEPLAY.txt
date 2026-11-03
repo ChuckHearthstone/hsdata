@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Nicht in diesem Spiel:
 GAMEPLAY_TOOLTIP_BLOOD	Blut	
 GAMEPLAY_TOOLTIP_CORPSES	Leichen	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Ihr erhaltet diese Ressource, wenn ein befreundeter Diener stirbt.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Verursacht 7_Schaden, der zufällig auf Gegner aufgeteilt wird.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Verursacht 6 Schaden, der zufällig auf Feinde verteilt wird.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	C’Thuns Zorn	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Verleiht 2_zufälligen anderen befreundeten Dienern +2/+3.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Verleiht 2 zufälligen anderen befreundeten Dienern +2/+2.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	C’Thuns Reich	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Lebensentzug</b>.\nFügt einem feindlichen Diener 5_Schaden zu.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	C’Thuns Blick	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Ruft zwei Fanatiker (2/3) mit <b>Spott</b> herbei.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Ruft 2 Fanatiker (2/2) mit </b>Spott<b> herbei.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	C’Thuns Diener	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Ihr habt {0} |4(Karte,Karten) in Eurem Deck.	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Ihr habt ein endloses Dämonenportal.	

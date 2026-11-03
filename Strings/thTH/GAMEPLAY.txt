@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	ไม่มีในเกม
 GAMEPLAY_TOOLTIP_BLOOD	เลือด	
 GAMEPLAY_TOOLTIP_CORPSES	ศพ	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	ทรัพยากรที่ได้รับเมื่อ[b]มินเนี่ยนฝ่ายคุณตาย	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	สร้างความเสียหาย 7_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	สร้างความเสียหาย 6_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	โทสะของคาธูน	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	สุ่มมอบ_+2/+3 ให้มินเนี่ยนฝ่ายคุณ[b]สองตัว	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	สุ่มมอบ_+2/+2 ให้มินเนี่ยนฝ่ายคุณ[b]ตัวอื่นสองตัว	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	เขตแดนของคาธูน	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>สูบชีวิต</b>\nสร้างความเสียหาย_5_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	การจับจ้องของคาธูน	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	เรียกสาวก_2/3 ที่มี_</b>ยั่วยุ<b>_สองตัว	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	เรียกสาวกคลั่ง_2/2 ที่มี </b>ยั่วยุ<b> สองตัว	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	ข้ารับใช้ของคาธูน	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	คุณมีการ์ด {0}_ใบ[b]ในเด็คของคุณ	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	คุณมีประตูมิติปีศาจนับไม่ถ้วน	

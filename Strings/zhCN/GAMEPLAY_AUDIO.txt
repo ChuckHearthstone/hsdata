@@ -12897,7 +12897,7 @@ VO_HERO_08cs_Male_Undead_Trigger_TheScourge_01	随从们，来我身边！
 VO_HERO_08cs_Male_Undead_Well_Played_01	有趣。不过我得继续实验了。	
 VO_HERO_08cs_Male_Undead_Wow_01	多么强大的力量！	
 VO_HERO_08cx_Male_Titan_Attack_01	众神之父的怒火！	
-VO_HERO_08cx_Male_Titan_Concede_01	这是你你应得的胜利。	
+VO_HERO_08cx_Male_Titan_Concede_01	这是你应得的胜利。	
 VO_HERO_08cx_Male_Titan_Death_01	<死亡>	
 VO_HERO_08cx_Male_Titan_ERROR_FULL_MINIONS_01	没有容纳随从的位置了。	
 VO_HERO_08cx_Male_Titan_ERROR_GENERIC_01	不可如此。	

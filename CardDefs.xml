@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CardDefs build="255790">
+<CardDefs build="256589">
 <Entity CardID="AIBot_DemonHunterTrainee_001_hb" ID="91661" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
 		<deDE>Dämonenjägerlehrling</deDE>
@@ -50834,33 +50834,32 @@ para variar.</esES>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
 		<deDE>&lt;b&gt;Alter Gott.&lt;/b&gt; &lt;b&gt;Kampfschrei:&lt;/b&gt; Beendet Euren Zug. Yogg-Saron erhält einen zusätzlichen Zug für Euch. &lt;i&gt;(Einmal pro Spiel)&lt;/i&gt;</deDE>
-		<enUS>&lt;b&gt;Old God.&lt;/b&gt; &lt;b&gt;Battlecry:&lt;/b&gt; End your turn. Yogg-saron takes
+		<enUS>&lt;b&gt;Old God.&lt;/b&gt; &lt;b&gt;Battlecry:&lt;/b&gt; End your turn. Yogg-Saron takes
 an extra turn for you. &lt;i&gt;(Once per game)&lt;/i&gt;</enUS>
-		<esES>[x]&lt;b&gt;Dios Antiguo.&lt;/b&gt;
-&lt;b&gt;Grito de batalla:&lt;/b&gt;
+		<esES>&lt;b&gt;Dios Antiguo.&lt;/b&gt; &lt;b&gt;Grito de batalla:&lt;/b&gt;
 Acaba tu turno.
 Otorga un turno más a Yogg-Saron.
-&lt;i&gt;(Una vez por partida)&lt;/i&gt;.</esES>
+&lt;i&gt;(Una_vez_por_partida)&lt;/i&gt;.</esES>
 		<esMX>&lt;b&gt;Dios antiguo.&lt;/b&gt;
-&lt;b&gt;Grito de batalla:&lt;/b&gt; termina tu turno. Yogg-saron juega un turno adicional por ti.
+&lt;b&gt;Grito de batalla:&lt;/b&gt; termina tu turno. Yogg-Saron juega un turno adicional por ti.
 &lt;i&gt;(Una vez por partida).&lt;/i&gt;</esMX>
 		<frFR>&lt;b&gt;Dieu très ancien&lt;/b&gt;
-&lt;b&gt;Cri de guerre_:&lt;/b&gt; met fin à votre tour. Yogg-saron joue un tour supplémentaire pour vous. &lt;i&gt;(Une fois par partie.)&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Dio Antico&lt;/b&gt;. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; termina il tuo turno. Yogg-Saron gioca un turno aggiuntivo al posto tuo. &lt;i&gt;(Una volta per partita)&lt;/i&gt;</itIT>
+&lt;b&gt;Cri de guerre_:&lt;/b&gt; met fin à votre tour. Yogg-Saron joue un tour supplémentaire pour vous. &lt;i&gt;(Une fois par partie.)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Dio Antico&lt;/b&gt;.
+&lt;b&gt;Grido di Battaglia:&lt;/b&gt; termina il tuo turno. Yogg-Saron gioca un turno aggiuntivo al posto tuo. &lt;i&gt;(Una volta per partita)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;旧神&lt;/b&gt;
 &lt;b&gt;雄叫び:&lt;/b&gt;_自分のターンを
 終了する。ヨグ＝サロンが
 代わりにもう1ターン分行動する。
 &lt;i&gt;（対戦中1回のみ）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;고대 신&lt;/b&gt;, &lt;b&gt;전투의 함성:&lt;/b&gt;
+		<koKR>&lt;b&gt;고대 신&lt;/b&gt;, &lt;b&gt;전투의 함성&lt;/b&gt;:
 내 턴을 끝냅니다. 요그사론이 나를 대신해서 한 번 더 턴을 진행합니다.
 &lt;i&gt;(게임당 1회만 가능)&lt;/i&gt;</koKR>
 		<plPL>&lt;b&gt;Przedwieczny Bóg&lt;/b&gt;
 &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zakończ turę.
 Yogg-Saron rozegra za_ciebie dodatkową_turę. &lt;i&gt;(Raz_na_grę).&lt;/i&gt;</plPL>
 		<ptBR>&lt;b&gt;Deus Antigo.&lt;/b&gt; &lt;b&gt;Grito de Guerra:&lt;/b&gt; Encerre seu turno. Yogg-Saron joga um turno extra por você. &lt;i&gt;(Uma vez por partida)&lt;/i&gt;</ptBR>
-		<ruRU>&lt;b&gt;Древний бог.&lt;/b&gt; &lt;b&gt;Боевой клич:&lt;/b&gt; вы заканчиваете ход. Йогг-Сарон делает дополнительный ход
-[x]__за вас. &lt;i&gt;(Один раз за игру.)&lt;/i&gt;</ruRU>
+		<ruRU>&lt;b&gt;Древний бог.&lt;/b&gt; &lt;b&gt;Боевой клич:&lt;/b&gt; вы заканчиваете ход. Йогг-Сарон делает еще один ход за вас. &lt;i&gt;(Один раз за матч.)&lt;/i&gt;</ruRU>
 		<thTH>&lt;b&gt;เทพโบราณ&lt;/b&gt;_&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt; จบเทิร์นของคุณ_ย็อกก์-ซารอน[b]เล่นให้คุณเพิ่มอีกหนึ่งเทิร์น &lt;i&gt;(หนึ่งครั้งต่อเกม)&lt;/i&gt;</thTH>
 		<zhCN>&lt;b&gt;古神&lt;/b&gt;
 &lt;b&gt;战吼：&lt;/b&gt;结束你的回合。尤格-萨隆为你进行一个额外回合。&lt;i&gt;（每局对战限一次）&lt;/i&gt;</zhCN>
@@ -51194,55 +51193,34 @@ Yogg-Saron</ptBR>
 		<zhTW>黑暗輔祭</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Wenn Ihr mit dieser Karte auf der Hand 2_Schattenzauber gewirkt habt, könnt Ihr eine Fähigkeit von C’Thun auslösen. &lt;i&gt;(Noch {0}!)&lt;/i&gt;@&lt;b&gt;Kampfschrei:&lt;/b&gt; Wenn Ihr mit dieser Karte auf der Hand 2_Schattenzauber gewirkt habt, könnt Ihr eine Fähigkeit von C’Thun auslösen. &lt;i&gt;(Bereit!)&lt;/i&gt;@&lt;b&gt;Kampfschrei:&lt;/b&gt; Wenn Ihr mit dieser Karte auf der Hand 2_Schattenzauber gewirkt habt, könnt Ihr eine Fähigkeit von C’Thun auslösen.</deDE>
-		<enUS>[x]&lt;b&gt;Battlecry:&lt;/b&gt; If you've cast 2
-Shadow spells while holding
-this, choose a C'Thun ability
-to trigger. &lt;i&gt;({0} left!)&lt;/i&gt;@[x]&lt;b&gt;Battlecry:&lt;/b&gt; If you've cast 2
-Shadow spells while holding
-this, choose a C'Thun ability
-to trigger. &lt;i&gt;(Ready)&lt;/i&gt;@[x]&lt;b&gt;Battlecry:&lt;/b&gt; If you've cast 2
-Shadow spells while holding
-this, choose a C'Thun ability
-to trigger.</enUS>
-		<esES>&lt;b&gt;Grito de batalla:&lt;/b&gt; Si has lanzado 2_hechizos de las Sombras con esta carta en tu mano, elige una habilidad de C'Thun para activarla. &lt;i&gt;(¡{0} más!)&lt;/i&gt;.@&lt;b&gt;Grito de batalla:&lt;/b&gt; Si has lanzado 2_hechizos de las Sombras con esta carta en tu mano, elige una habilidad de C'Thun para activarla. &lt;i&gt;(Listo)&lt;/i&gt;.@&lt;b&gt;Grito de batalla:&lt;/b&gt; Si has lanzado 2_hechizos de las Sombras con esta carta en tu mano, elige una habilidad de C'Thun para activarla.</esES>
-		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; si lanzaste 2 hechizos de las Sombras mientras tenías esta carta, elige una habilidad de C'Thun para activarla. &lt;i&gt;(¡Solo {0} más!).&lt;/i&gt;@&lt;b&gt;Grito de batalla:&lt;/b&gt; si lanzaste 2 hechizos de las Sombras mientras tenías esta carta, elige una habilidad de C'Thun para activarla. &lt;i&gt;(¡Listo!).&lt;/i&gt;@&lt;b&gt;Grito de batalla:&lt;/b&gt; si lanzaste 2 hechizos de las Sombras mientras tenías esta carta, elige una habilidad de C'Thun para activarla.</esMX>
-		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; si vous avez lancé 2_sorts d’ombre avec cette carte en main, choisissez une capacité de C’Thun à déclencher. &lt;i&gt;(Encore_{0}_!)&lt;/i&gt;@&lt;b&gt;Cri de guerre_:&lt;/b&gt; si vous avez lancé 2_sorts d’ombre avec cette carte en main, choisissez une capacité de C’Thun à déclencher. &lt;i&gt;(C’est prêt_!)&lt;/i&gt;@&lt;b&gt;Cri de guerre_:&lt;/b&gt; si vous avez lancé 2_sorts d’ombre avec cette carte en main, choisissez une capacité de C’Thun à déclencher.</frFR>
-		<itIT>&lt;b&gt;Grido di Battaglia:&lt;/b&gt; se hai lanciato 2 Magie d'Ombra mentre avevi questa carta in mano, scegli un'abilità di C'thun da attivare. &lt;i&gt;(Ancora {0}!)&lt;/i&gt;@&lt;b&gt;Grido di Battaglia:&lt;/b&gt; se hai lanciato 2 Magie d'Ombra mentre avevi questa carta in mano, scegli un'abilità di C'thun da attivare. &lt;i&gt;(Pronto)&lt;/i&gt;@&lt;b&gt;Grido di Battaglia:&lt;/b&gt; se hai lanciato 2 Magie d'Ombra mentre avevi questa carta in mano, scegli un'abilità di C'thun da attivare.</itIT>
+		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Wenn Ihr mit dieser Karte auf der Hand einen Schattenzauber gewirkt habt, könnt Ihr eine Fähigkeit von C’Thun auslösen.</deDE>
+		<enUS>[x]&lt;b&gt;Battlecry:&lt;/b&gt; If you've cast a
+Shadow spell while holding
+this, choose a C'Thun
+ability to trigger.</enUS>
+		<esES>&lt;b&gt;Grito de batalla:&lt;/b&gt; Si has lanzado
+un hechizo de Sombras con
+esta carta en la mano, elige
+una facultad de C'Thun para activarla.</esES>
+		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; si lanzaste un hechizo de las Sombras mientras tenías esta carta en la mano, elige una_habilidad de
+C'Thun para activar.</esMX>
+		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; si vous avez lancé un sort d’ombre avec cette carte en main, choisissez une capacité de C’Thun à déclencher.</frFR>
+		<itIT>&lt;b&gt;Grido di Battaglia:&lt;/b&gt; se hai lanciato una Magia d'Ombra mentre avevi questa carta in mano, scegli un'abilità di C'thun da attivare.</itIT>
 		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;
-これが手札にある間に自分が
-影呪文を2回使っていたら
-クトゥーンの能力を1つ選んで
-______発動する。&lt;i&gt;（あと{0}回！）&lt;/i&gt;@[x]&lt;b&gt;雄叫び:&lt;/b&gt;
-これを手札に持つ間に自分が
-影呪文を2回使っていたら
-クトゥーンの能力を1つ選んで
-____発動する。&lt;i&gt;（準備完了）&lt;/i&gt;@[x]&lt;b&gt;雄叫び:&lt;/b&gt;
-これを手札に持つ間に自分が
-影呪文を2回使っていたら
-クトゥーンの能力を1つ選んで
-発動する。</jaJP>
-		<koKR>&lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다.
-&lt;i&gt;({0}개 남음!)&lt;/i&gt;@&lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다.
-&lt;i&gt;(준비 완료)&lt;/i&gt;@&lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 있을 때 암흑 주문을 2개 시전했으면, 크툰 능력을 선택해 발동시킵니다.</koKR>
-		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Jeśli udało ci_się rzucić 2_zaklęcia_Cienia, mając tę_kartę w_ręce, wybierz zdolność C'Thuna, aby_ją_aktywować. &lt;i&gt;(Jeszcze_{0}!)&lt;/i&gt;@&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Jeśli udało ci_się rzucić 2_zaklęcia_Cienia, mając tę_kartę w_ręce, wybierz zdolność C'Thuna, aby_ją_aktywować. &lt;i&gt;(Gotowe!)&lt;/i&gt;@&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Jeśli udało ci_się rzucić 2_zaklęcia_Cienia, mając_tę_kartę w_ręce, wybierz_zdolność C'Thuna, aby_ją_aktywować.</plPL>
-		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt; Se você lançar 2 feitiços de Sombra enquanto tiver este card na mão, escolha uma habilidade de C'Thun para ativar. &lt;i&gt;(Resta: {0}!)&lt;/i&gt;@&lt;b&gt;Grito de Guerra:&lt;/b&gt; Se você lançar 2 feitiços de Sombra enquanto tiver este card na mão, escolha uma habilidade de C'Thun para ativar. &lt;i&gt;(Pronto)&lt;/i&gt;@&lt;b&gt;Grito de Guerra:&lt;/b&gt; Se você lançar 2 feitiços de Sombra enquanto tiver este card na mão, escolha uma habilidade de C'Thun para ativar.</ptBR>
-		<ruRU>[x]&lt;b&gt;Боевой клич:&lt;/b&gt; применив 2
-заклинания Тьмы с этой картой
-в руке, вы выбираете
-и применяете способность
-К'Туна. &lt;i&gt;(Еще {0}!)&lt;/i&gt;@[x]&lt;b&gt;Боевой клич:&lt;/b&gt; применив 2
-заклинания Тьмы с этой картой
-в руке, вы выбираете
-и применяете способность
-К'Туна. &lt;i&gt;(Готово!)&lt;/i&gt;@[x]&lt;b&gt;Боевой клич:&lt;/b&gt; применив
-2 заклинания Тьмы
-с этой картой в руке, вы
-выбираете и применяете
-способность К'Туна.</ruRU>
-		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_ถ้าคุณเคยร่ายเวทมนตร์[b]ความมืด_2_ใบขณะมีการ์ดนี้_[b]อยู่ในมือ_เลือกใช้ความสามารถ[b]คาธูนหนึ่งอย่าง_&lt;i&gt;(อีก_{0}_ใบ!)&lt;/i&gt;@&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_ถ้าคุณเคยร่ายเวทมนตร์[b]ความมืด_2_ใบขณะมีการ์ดนี้_[b]อยู่ในมือ_เลือกใช้ความสามารถ[b]คาธูนหนึ่งอย่าง_&lt;i&gt;(พร้อม)&lt;/i&gt;@&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_ถ้าคุณเคยร่าย[b]เวทมนตร์ความมืด_2_ใบขณะ[b]มีการ์ดนี้อยู่ในมือ_เลือกใช้ความ[b]สามารถคาธูนหนึ่งอย่าง</thTH>
-		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。&lt;i&gt;（还剩{0}个！）&lt;/i&gt;@&lt;b&gt;战吼：&lt;/b&gt;如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。&lt;i&gt;（已就绪！）&lt;/i&gt;@&lt;b&gt;战吼：&lt;/b&gt;如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。</zhCN>
-		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;若你於此牌在手中時施放了2個暗影法術，選擇一個克蘇恩技能觸發。&lt;i&gt;(還差{0}個！)&lt;/i&gt;@&lt;b&gt;戰吼：&lt;/b&gt;若你於此牌在手中時施放了2個暗影法術，選擇一個克蘇恩技能觸發。&lt;i&gt;(準備完成！)&lt;/i&gt;@&lt;b&gt;戰吼：&lt;/b&gt;若你於此牌在手中時施放了2個暗影法術，選擇一個克蘇恩技能觸發。</zhTW>
+これが手札にある間に
+自分が影呪文を使っていたら
+クトゥーンの能力を1つ
+選んで発動する。</jaJP>
+		<koKR>&lt;b&gt;전투의 함성&lt;/b&gt;: 내 손에 있을 때 암흑 주문을 시전했으면, 크툰 능력을 선택해 발동시킵니다.</koKR>
+		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Jeśli udało ci_się rzucić zaklęcie_Cienia, mając_tę_kartę w_ręce, wybierz_zdolność C’Thuna, aby_ją_aktywować.</plPL>
+		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt;
+Se você lançar um feitiço de Sombra enquanto tiver este card na mão, escolha uma habilidade de C'Thun para ativar.</ptBR>
+		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; если вы
+разыграли заклинание Тьмы с_этой картой в руке, К'Тун применяет способность по вашему выбору.</ruRU>
+		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt; ถ้าคุณเคยร่าย[b]เวทมนตร์ความมืดขณะมีการ์ดนี้[b]อยู่ในมือ_เลือกใช้ความสามารถ[b]คาธูนหนึ่งอย่าง</thTH>
+		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;如果你在本牌在你手中时施放过暗影法术，选择并触发一项克苏恩的技能。</zhCN>
+		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;若你於此牌在手中時施放了暗影法術，選擇一個
+克蘇恩技能觸發</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Die Alten Götter kommen. Die Alten Götter kommen!</deDE>
@@ -51261,7 +51239,7 @@ ____発動する。&lt;i&gt;（準備完了）&lt;/i&gt;@[x]&lt;b&gt;雄叫び:&
 		<zhTW>古神要來了。古神要來了！</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Ivo Campelo da Silva</Tag>
-	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="2"/>
+	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="1"/>
 	<Tag enumID="45" name="HEALTH" type="Int" value="2"/>
 	<Tag enumID="47" name="ATK" type="Int" value="3"/>
 	<Tag enumID="48" name="COST" type="Int" value="3"/>
@@ -51292,34 +51270,43 @@ ____発動する。&lt;i&gt;（準備完了）&lt;/i&gt;@[x]&lt;b&gt;雄叫び:&
 		<zhTW>『帝國之眼』克蘇恩</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Alter Gott.&lt;/b&gt; Wenn Ihr alle 4 C'Thun-Fähigkeiten in diesem Spiel ausgelöst habt, verdreifachen sich die Fähigkeiten dieses Dieners.</deDE>
-		<enUS>&lt;b&gt;Old God.&lt;/b&gt; If you've triggered all 4 C'Thun abilities this game, this minion's abilities are tripled.</enUS>
-		<esES>&lt;b&gt;Dios Antiguo&lt;/b&gt;
-Si has activado las 4 facultades
-de C'Thun en esta partida, las_facultades de este_esbirro se triplican.</esES>
-		<esMX>&lt;b&gt;Dios antiguo&lt;/b&gt;
-Si activaste las 4 habilidades de_C'Thun en esta partida, las_habilidades de este esbirro se triplican.</esMX>
+		<deDE>&lt;b&gt;Alter Gott.&lt;/b&gt; Wenn Ihr alle 4 C’Thun-Fähigkeiten in diesem Spiel ausgelöst habt, vervierfachen sich die Fähigkeiten dieses Dieners.</deDE>
+		<enUS>[x]&lt;b&gt;Old God.&lt;/b&gt; If you've triggered
+all 4 C'Thun abilities this
+game, this minion's abilities
+are quadrupled.</enUS>
+		<esES>&lt;b&gt;Dios Antiguo.&lt;/b&gt; Si has
+activado las 4 facultades de C'Thun en esta partida, las facultades de este esbirro se cuadruplican.</esES>
+		<esMX>&lt;b&gt;Dios antiguo.&lt;/b&gt;
+Si activaste las 4 habilidades de_C'Thun en esta partida, las_habilidades de este esbirro se cuadriplican.</esMX>
 		<frFR>&lt;b&gt;Dieu très ancien&lt;/b&gt;
-Si vous avez déclenché les 4_capacités de C’Thun pendant cette_partie, les capacités de ce serviteur sont triplées.</frFR>
-		<itIT>&lt;b&gt;Dio Antico&lt;/b&gt;.
-Se hai attivato tutte e 4 le abilità di C'thun in questa partita, le abilità di questo servitore sono triplicate.</itIT>
+Si vous avez déclenché les 4 capacités de C’Thun pendant cette partie, les_capacités_de_ce_serviteur sont quadruplées.</frFR>
+		<itIT>[x]&lt;b&gt;Dio Antico&lt;/b&gt;.
+Se hai attivato tutte e 4 le abilità di
+C'thun in questa partita, le abilità
+di questo servitore sono
+quadruplicate.</itIT>
 		<jaJP>[x]&lt;b&gt;旧神&lt;/b&gt;
 この対戦でクトゥーンの
 4つの能力をすべて発動させると
 このミニオンの能力が
-3倍になる。</jaJP>
+4倍になる。</jaJP>
 		<koKR>&lt;b&gt;고대 신&lt;/b&gt;, 이번 게임에서
-내가 크툰 능력 4개를 모두 발동시키면, 이 하수인의 효과가 3배가 됩니다.</koKR>
+내가 크툰 능력 4개를 모두 발동시켰으면, 이 하수인의 효과가 4배가 됩니다.</koKR>
 		<plPL>&lt;b&gt;Przedwieczny Bóg&lt;/b&gt;
-Jeśli w_tej grze aktywujesz wszystkie 4_zdolności C'Thuna, zdolności tego stronnika są_potrajane.</plPL>
-		<ptBR>&lt;b&gt;Deus Antigo.&lt;/b&gt; Se você ativou todas as 4 habilidades de C'Thun nesta partida, as habilidades deste lacaio são triplicadas.</ptBR>
-		<ruRU>&lt;b&gt;Древний бог.&lt;/b&gt; Если вы активировали все 4 способности К'Туна в этом матче, эффекты способностей этого существа утраиваются.</ruRU>
-		<thTH>&lt;b&gt;เทพโบราณ&lt;/b&gt; ถ้าคุณใช้ความสามารถของคาธูน[b]ครบ_4_อย่างในเกมนี้_เอฟเฟกต์ของ[b]มินเนี่ยนตัวนี้เพิ่มขึ้นสามเท่า</thTH>
+Jeśli udało ci_się aktywować w_tej_grze wszystkie_4 zdolności C'Thuna, zdolności tego_stronnika są_czterokrotnie_zwiększone.</plPL>
+		<ptBR>&lt;b&gt;Deus Antigo.&lt;/b&gt; Se você ativou todas as 4 habilidades de C'Thun nesta partida, as habilidades deste lacaio_são_quadruplicadas.</ptBR>
+		<ruRU>[x]&lt;b&gt;Древний бог.&lt;/b&gt; Если вы активировали
+все 4 способности К'Туна в этом
+матче, эффекты способностей
+этого существа усиливаются
+в четыре раза.</ruRU>
+		<thTH>&lt;b&gt;เทพโบราณ&lt;/b&gt; ถ้าคุณใช้ความสามารถของคาธูน[b]ครบ_4_อย่างในเกมนี้_เอฟเฟกต์ของ[b]มินเนี่ยนตัวนี้เพิ่มขึ้นสี่เท่า</thTH>
 		<zhCN>&lt;b&gt;古神&lt;/b&gt;
-如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为三倍。</zhCN>
+如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为四倍。</zhCN>
 		<zhTW>&lt;b&gt;古神&lt;/b&gt;。在本賽局中如果觸發克蘇恩的全部4個
 技能，此手下的
-技能效果三倍</zhTW>
+技能效果為四倍</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>„Amitut, Hüter von Amitus“/2 + (2*„Bebrüten“)/2 + („Der Unkennbare“/3)</deDE>
@@ -51328,7 +51315,7 @@ Jeśli w_tej grze aktywujesz wszystkie 4_zdolności C'Thuna, zdolności tego str
 		<esMX>&quot;4m1tut, Guard14na d3 e0n3s&quot; + &quot;1ncub4r&quot; + &quot;L0 1nc0gnosc1bl3&quot;</esMX>
 		<frFR>Amitut, garde d’Amitus</frFR>
 		<itIT>&quot;Amitut, Keeper of Amitus&quot;/2 + (2*&quot;Incubate&quot;)/2 + (2*&quot;The Unknowable One&quot;/3)</itIT>
-		<jaJP>&quot;アミタスの番人アミトゥト&quot;/2 + (2*&quot;孵卵&quot;)/2 + (2*&quot;不可知なる者&quot;/3)</jaJP>
+		<jaJP>&quot;アミタスの番人アミトゥト&quot;/2 + &quot;孵卵&quot;/2 + &quot;不可知なる者&quot;/3</jaJP>
 		<koKR>&quot;아미투스의 수호자 아미투트&quot;/2 + (2*&quot;부화&quot;)/2 + (2*&quot;불가지의 존재&quot;/3)</koKR>
 		<plPL>„Amitut, Strażniczka Amitus”/2 + (2*„Inkubacja”)/2 + (2*„Nieodgadniona”/3)</plPL>
 		<ptBR>&quot;Amitut, Keeper of Amitus&quot;/2 + (2*&quot;Incubate&quot;)/2 + (2*&quot;The Unknowable One&quot;/3)</ptBR>
@@ -51373,31 +51360,31 @@ Jeśli w_tej grze aktywujesz wszystkie 4_zdolności C'Thuna, zdolności tego str
 		<zhTW>克蘇恩之怒</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Verursacht 7 Schaden, der zufällig auf Feinde verteilt wird.@Verursacht 21 Schaden, der zufällig auf Feinde verteilt wird.</deDE>
-		<enUS>Deal 7 damage randomly split among enemies.@Deal 21 damage randomly split among enemies.</enUS>
-		<esES>Inflige 7 p. de daño
-que se reparte aleatoriamente entre_los_enemigos.@Inflige 21 p. de daño
+		<deDE>Verursacht 6 Schaden, der zufällig auf Feinde verteilt wird.@Verursacht 24 Schaden, der zufällig auf Feinde verteilt wird.</deDE>
+		<enUS>Deal 6 damage randomly split among enemies.@Deal 24 damage randomly split among enemies.</enUS>
+		<esES>Inflige 6 p. de daño
+que se reparte aleatoriamente entre_los_enemigos.@Inflige 24 p. de daño
 que se reparte aleatoriamente entre_los_enemigos.</esES>
-		<esMX>Inflige 7 de daño dividido aleatoriamente entre los enemigos.@Inflige 21 de daño dividido aleatoriamente entre los enemigos.</esMX>
-		<frFR>Inflige 7_points de_dégâts répartis de façon aléatoire entre les_adversaires.@Inflige 21_points de_dégâts répartis de façon aléatoire entre les_adversaires.</frFR>
-		<itIT>Infligge 7 danni suddivisi casualmente tra i nemici.@Infligge 21 danni suddivisi casualmente tra i nemici.</itIT>
-		<jaJP>[x]合計7ダメージを
+		<esMX>Inflige 6 de daño dividido aleatoriamente entre los enemigos.@Inflige 24 de daño dividido aleatoriamente entre los enemigos.</esMX>
+		<frFR>Inflige 6_points de_dégâts répartis de façon aléatoire entre les_adversaires.@Inflige 24_points de_dégâts répartis de façon aléatoire entre les_adversaires.</frFR>
+		<itIT>Infligge 6 danni suddivisi casualmente tra i nemici.@Infligge 24 danni suddivisi casualmente tra i nemici.</itIT>
+		<jaJP>[x]合計6ダメージを
 敵にランダムに
-振り分ける。@[x]合計21ダメージを
+振り分ける。@[x]合計24ダメージを
 敵にランダムに
 振り分ける。</jaJP>
-		<koKR>적들에게 7의 피해를 무작위로 나누어 입힙니다.@적들에게 21의 피해를 무작위로 나누어 입힙니다.</koKR>
-		<plPL>Rozdziel losowo 7_pkt._obrażeń między_wrogów.@Rozdziel losowo 21_pkt._obrażeń między_wrogów.</plPL>
-		<ptBR>Cause 7 de dano dividido aleatoriamente entre os inimigos.@Cause 21 de dano dividido aleatoriamente entre os inimigos.</ptBR>
-		<ruRU>[x]Наносит 7 ед. урона,
+		<koKR>적들에게 6의 피해를 무작위로 나누어 입힙니다.@적들에게 24의 피해를 무작위로 나누어 입힙니다.</koKR>
+		<plPL>Rozdziel losowo 6_pkt._obrażeń między_wrogów.@Rozdziel losowo 24_pkt._obrażeń między_wrogów.</plPL>
+		<ptBR>Cause 6 de dano dividido aleatoriamente entre os_inimigos.@Cause 24 de dano dividido aleatoriamente entre os_inimigos.</ptBR>
+		<ruRU>[x]Наносит 6 ед. урона,
 случайно распределяемого
-между противниками.@[x]Наносит 21 ед. урона,
+между противниками.@[x]Наносит 24 ед. урона,
 случайно распределяемого
 между противниками.</ruRU>
-		<thTH>สร้างความเสียหาย 7_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด@สร้างความเสียหาย 21_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด</thTH>
-		<zhCN>造成7点伤害，随机分配到所有敌人身上。@造成21点伤害，随机分配到所有敌人身上。</zhCN>
-		<zhTW>[x]造成7點傷害，
-隨機分給敵人@[x]造成21點傷害，
+		<thTH>สร้างความเสียหาย 6_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด@สร้างความเสียหาย 24_แต้มโดยสุ่มแบ่งกัน[b]ระหว่างศัตรูทั้งหมด</thTH>
+		<zhCN>造成6点伤害，随机分配到所有敌人身上。@造成24点伤害，随机分配到所有敌人身上。</zhCN>
+		<zhTW>[x]造成6點傷害，
+隨機分給敵人@[x]造成24點傷害，
 隨機分給敵人</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Kevin Sidharta</Tag>
@@ -51428,36 +51415,36 @@ que se reparte aleatoriamente entre_los_enemigos.</esES>
 		<zhTW>克蘇恩領域</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Verleiht 2 zufälligen anderen befreundeten Dienern +2/+3.@Verleiht 2 zufälligen anderen befreundeten Dienern +6/+9.</deDE>
+		<deDE>Verleiht 2 zufälligen anderen befreundeten Dienern +2/+2.@Verleiht 2 zufälligen anderen befreundeten Dienern +8/+8.</deDE>
 		<enUS>[x]Give two other random
-friendly minions +2/+3.@[x]Give two other random
-friendly minions +6/+9.</enUS>
-		<esES>Otorga +2/+3 a otros_dos esbirros amistosos aleatorios.@Otorga +6/+9 a otros_dos esbirros amistosos_aleatorios.</esES>
-		<esMX>Otorga +2/+3
-a otros dos esbirros aliados aleatorios.@Otorga +6/+9
+friendly minions +2/+2.@[x]Give two other random
+friendly minions +8/+8.</enUS>
+		<esES>Otorga +2/+2 a otros_dos esbirros amistosos aleatorios.@Otorga +8/+8 a otros dos esbirros amistosos aleatorios.</esES>
+		<esMX>Otorga +2/+2
+a otros dos esbirros aliados aleatorios.@Otorga +8/+8
 a otros dos esbirros aliados aleatorios.</esMX>
-		<frFR>Donne_+2/+3 à deux_autres serviteurs alliés aléatoires.@Donne_+6/+9 à deux_autres serviteurs alliés aléatoires.</frFR>
-		<itIT>+2/+3 ad altri due tuoi servitori casuali.@+6/+9 ad altri due tuoi servitori casuali.</itIT>
+		<frFR>Donne_+2/+2 à deux_autres serviteurs alliés aléatoires.@Donne_+8/+8 à deux_autres serviteurs alliés aléatoires.</frFR>
+		<itIT>+2/+2 ad altri due tuoi servitori casuali.@+8/+8 ad altri due tuoi servitori casuali.</itIT>
 		<jaJP>[x]自分以外のランダムな
 味方のミニオン2体に
-__+2/+3を付与する。@[x]自分以外のランダムな
+__+2/+2を付与する。@[x]自分以外のランダムな
 味方のミニオン2体に
-__+6/+9を付与する。</jaJP>
+__+8/+8を付与する。</jaJP>
 		<koKR>[x]다른 무작위 아군
 하수인 둘에게
-+2/+3을 부여합니다.@[x]다른 무작위
++2/+2를 부여합니다.@[x]다른 무작위
 아군 하수인 둘에게
-+6/+9를 부여합니다.</koKR>
-		<plPL>Daj_dwóm_innym losowym przyjaznym stronnikom_+2/+3.@Daj_dwóm_innym losowym przyjaznym stronnikom_+6/+9.</plPL>
-		<ptBR>Conceda +2/+3 a
-dois outros lacaios aliados_aleatórios.@Conceda +6/+9 a
++8/+8을 부여합니다.</koKR>
+		<plPL>Daj_dwóm_innym_losowym przyjaznym_stronnikom +2/+2.@Daj_dwóm_innym_losowym przyjaznym_stronnikom +8/+8.</plPL>
+		<ptBR>Conceda +2/+2 a
+dois outros lacaios aliados_aleatórios.@Conceda +8/+8 a
 dois outros lacaios aliados_aleatórios.</ptBR>
-		<ruRU>Два других случайных ваших существа получают +2/+3.@Два других случайных ваших существа получают +6/+9.</ruRU>
-		<thTH>สุ่มมอบ_+2/+3 ให้มินเนี่ยนฝ่ายคุณ[b]ตัวอื่นสองตัว@สุ่มมอบ_+6/+9 ให้มินเนี่ยนฝ่ายคุณ[b]ตัวอื่นสองตัว</thTH>
-		<zhCN>随机使两个其他友方随从获得+2/+3。@随机使两个其他友方随从获得+6/+9。</zhCN>
+		<ruRU>Два других случайных ваших существа получают +2/+2.@Два других случайных ваших существа получают +8/+8.</ruRU>
+		<thTH>สุ่มมอบ_+2/+2 ให้มินเนี่ยนฝ่ายคุณ[b]ตัวอื่นสองตัว@สุ่มมอบ_+8/+8 ให้มินเนี่ยนฝ่ายคุณ[b]ตัวอื่นสองตัว</thTH>
+		<zhCN>随机使两个其他友方随从获得+2/+2。@随机使两个其他友方随从获得+8/+8。</zhCN>
 		<zhTW>[x]賦予另外兩個隨機
-友方手下+2/+3@[x]賦予另外兩個隨機
-友方手下+6/+9</zhTW>
+友方手下+2/+2@[x]賦予另外兩個隨機
+友方手下+8/+8</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Kevin Sidharta</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="2"/>
@@ -51487,20 +51474,20 @@ dois outros lacaios aliados_aleatórios.</ptBR>
 		<zhTW>憎惡</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>+2/+3</deDE>
-		<enUS>+2/+3</enUS>
-		<esES>+2/+3.</esES>
-		<esMX>+2/+3</esMX>
-		<frFR>+2/+3.</frFR>
-		<itIT>+2/+3</itIT>
-		<jaJP>+2/+3</jaJP>
-		<koKR>+2/+3</koKR>
-		<plPL>+2/+3.</plPL>
-		<ptBR>+2/+3</ptBR>
-		<ruRU>+2/+3</ruRU>
-		<thTH>+2/+3</thTH>
-		<zhCN>+2/+3</zhCN>
-		<zhTW>+2/+3</zhTW>
+		<deDE>+2/+2</deDE>
+		<enUS>+2/+2</enUS>
+		<esES>+2/+2</esES>
+		<esMX>+2/+2</esMX>
+		<frFR>+2/+2.</frFR>
+		<itIT>+2/+2.</itIT>
+		<jaJP>+2/+2</jaJP>
+		<koKR>+2/+2</koKR>
+		<plPL>+2/+2</plPL>
+		<ptBR>+2/+2</ptBR>
+		<ruRU>+2/+2</ruRU>
+		<thTH>+2/+2</thTH>
+		<zhCN>+2/+2</zhCN>
+		<zhTW>+2/+2</zhTW>
 	</Tag>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
@@ -51524,20 +51511,20 @@ dois outros lacaios aliados_aleatórios.</ptBR>
 		<zhTW>憎惡</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>+6/+9</deDE>
-		<enUS>+6/+9</enUS>
-		<esES>+6/+9.</esES>
-		<esMX>+6/+9</esMX>
-		<frFR>+6/+9.</frFR>
-		<itIT>+6/+9</itIT>
-		<jaJP>+6/+9</jaJP>
-		<koKR>+6/+9</koKR>
-		<plPL>+6/+9.</plPL>
-		<ptBR>+6/+9</ptBR>
-		<ruRU>+6/+9</ruRU>
-		<thTH>+6/+9</thTH>
-		<zhCN>+6/+9</zhCN>
-		<zhTW>+6/+9</zhTW>
+		<deDE>+8/+8</deDE>
+		<enUS>+8/+8</enUS>
+		<esES>+8/+8</esES>
+		<esMX>+8/+8</esMX>
+		<frFR>+8/+8.</frFR>
+		<itIT>+8/+8.</itIT>
+		<jaJP>+8/+8</jaJP>
+		<koKR>+8/+8</koKR>
+		<plPL>+8/+8</plPL>
+		<ptBR>+8/+8</ptBR>
+		<ruRU>+8/+8</ruRU>
+		<thTH>+8/+8</thTH>
+		<zhCN>+8/+8</zhCN>
+		<zhTW>+8/+8</zhTW>
 	</Tag>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
@@ -51563,46 +51550,48 @@ dois outros lacaios aliados_aleatórios.</ptBR>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
 		<deDE>&lt;b&gt;Lebensentzug&lt;/b&gt;.
 Fügt einem feindlichen Diener 5 Schaden zu.@&lt;b&gt;Lebensentzug&lt;/b&gt;.
-Fügt einem feindlichen Diener 15 Schaden zu.</deDE>
+Fügt einem feindlichen Diener 20 Schaden zu.</deDE>
 		<enUS>&lt;b&gt;Lifesteal&lt;/b&gt;
 Deal 5 damage to an enemy minion.@&lt;b&gt;Lifesteal&lt;/b&gt;
-Deal 15 damage to an enemy minion.</enUS>
-		<esES>&lt;b&gt;Robo de vida.&lt;/b&gt; Inflige 5 p. de daño a un esbirro enemigo.@&lt;b&gt;Robo de vida.&lt;/b&gt; Inflige 15 p. de daño a un esbirro enemigo.</esES>
+Deal 20 damage to an enemy minion.</enUS>
+		<esES>&lt;b&gt;Robo de vida&lt;/b&gt;
+Inflige 5 p. de daño a un esbirro enemigo.@&lt;b&gt;Robo de vida&lt;/b&gt;
+Inflige 20 p. de daño a un esbirro enemigo.</esES>
 		<esMX>&lt;b&gt;Robavida&lt;/b&gt;
 Inflige 5 de daño a un esbirro enemigo.@&lt;b&gt;Robavida&lt;/b&gt;
-Inflige 15 de daño a un esbirro enemigo.</esMX>
+Inflige 20 de daño a un esbirro enemigo.</esMX>
 		<frFR>&lt;b&gt;Vol de vie&lt;/b&gt;
 Inflige 5 points de dégâts à un serviteur adverse.@&lt;b&gt;Vol de vie&lt;/b&gt;
-Inflige_15_points de_dégâts à un serviteur_adverse.</frFR>
+Inflige_20_points de_dégâts à un serviteur_adverse.</frFR>
 		<itIT>[x]&lt;b&gt;Furto Vitale&lt;/b&gt;.
 Infligge 5 danni a
 un servitore nemico.@[x]&lt;b&gt;Furto Vitale&lt;/b&gt;.
-Infligge 15 danni a
+Infligge 20 danni a
 un servitore nemico.</itIT>
 		<jaJP>[x]&lt;b&gt;生命奪取&lt;/b&gt;
 敵のミニオン1体に
-___5ダメージを与える。@&lt;b&gt;[x]生命奪取&lt;/b&gt;
+5ダメージを与える。@[x]&lt;b&gt;生命奪取&lt;/b&gt;
 敵のミニオン1体に
-___15ダメージを与える。</jaJP>
+20ダメージを与える。</jaJP>
 		<koKR>&lt;b&gt;생명력 흡수&lt;/b&gt;
 적 하수인에게 5의 피해를 줍니다.@&lt;b&gt;생명력 흡수&lt;/b&gt;
-적 하수인에게 15의 피해를 줍니다.</koKR>
+적 하수인에게 20의 피해를 줍니다.</koKR>
 		<plPL>&lt;b&gt;Kradzież życia&lt;/b&gt;
 Zadaj 5_pkt._obrażeń wrogiemu_stronnikowi.@&lt;b&gt;Kradzież życia&lt;/b&gt;
-Zadaj 15_pkt._obrażeń wrogiemu_stronnikowi.</plPL>
+Zadaj 20_pkt._obrażeń wrogiemu_stronnikowi.</plPL>
 		<ptBR>&lt;b&gt;Roubar Vida&lt;/b&gt;
 Cause 5 de dano a um lacaio inimigo.@&lt;b&gt;Roubar Vida&lt;/b&gt;
-Cause 15 de dano a um lacaio inimigo.</ptBR>
+Cause 20 de dano a um lacaio inimigo.</ptBR>
 		<ruRU>&lt;b&gt;Похищение жизни&lt;/b&gt;
 Наносит 5 ед. урона существу противника.@&lt;b&gt;Похищение жизни&lt;/b&gt;
-Наносит 15 ед. урона существу противника.</ruRU>
-		<thTH>&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_5_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว@&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_15_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว</thTH>
-		<zhCN>&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成5点伤害。@&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成15点伤害。</zhCN>
+Наносит 20 ед. урона существу противника.</ruRU>
+		<thTH>&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_5_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว@&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_20_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว</thTH>
+		<zhCN>&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成5点伤害。@&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成20点伤害。</zhCN>
 		<zhTW>&lt;b&gt;生命竊取&lt;/b&gt;
 對一個敵方手下
 造成5點傷害@&lt;b&gt;生命竊取&lt;/b&gt;
 對一個敵方手下
-造成15點傷害</zhTW>
+造成20點傷害</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Luke Mancini</Tag>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -51633,30 +51622,28 @@ Cause 15 de dano a um lacaio inimigo.</ptBR>
 		<zhTW>克蘇恩僕從</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Ruft 2 Fanatiker (2/3)
-mit &lt;b&gt;Spott&lt;/b&gt; herbei.@Ruft 2 Fanatiker (6/9)
-mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
-		<enUS>Summon two 2/3 Fanatics with &lt;b&gt;Taunt&lt;/b&gt;.@Summon two 6/9 Fanatics with &lt;b&gt;Taunt&lt;/b&gt;.</enUS>
-		<esES>Invoca a dos fanáticos 2/3_con &lt;b&gt;Provocar&lt;/b&gt;.@Invoca a dos fanáticos 6/9 con &lt;b&gt;Provocar&lt;/b&gt;.</esES>
-		<esMX>Invoca dos Fanáticos 2/3 con &lt;b&gt;Provocación&lt;/b&gt;.@Invoca dos Fanáticos 6/9 con &lt;b&gt;Provocación&lt;/b&gt;.</esMX>
-		<frFR>Invoque deux fanatiques_2/3 avec_&lt;b&gt;Provocation&lt;/b&gt;.@Invoque deux fanatiques_6/9 avec_&lt;b&gt;Provocation&lt;/b&gt;.</frFR>
-		<itIT>Evoca due Fanatici 2/3 con &lt;b&gt;Provocazione&lt;/b&gt;.@Evoca due Fanatici 6/9 con &lt;b&gt;Provocazione&lt;/b&gt;.</itIT>
+		<deDE>Ruft 2 Fanatiker (2/2) mit &lt;b&gt;Spott&lt;/b&gt; herbei.@Ruft 2 Fanatiker (8/8) mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
+		<enUS>Summon two 2/2 Fanatics with &lt;b&gt;Taunt&lt;/b&gt;.@Summon two 8/8 Fanatics with &lt;b&gt;Taunt&lt;/b&gt;.</enUS>
+		<esES>Invoca a dos fanáticos 2/2_con &lt;b&gt;Provocar&lt;/b&gt;.@Invoca a dos fanáticos 8/8_con &lt;b&gt;Provocar&lt;/b&gt;.</esES>
+		<esMX>Invoca dos Fanáticos 2/2 con &lt;b&gt;Provocación&lt;/b&gt;.@Invoca dos Fanáticos 8/8 con &lt;b&gt;Provocación&lt;/b&gt;.</esMX>
+		<frFR>Invoque deux fanatiques_2/2 avec_&lt;b&gt;Provocation&lt;/b&gt;.@Invoque deux fanatiques_8/8 avec_&lt;b&gt;Provocation&lt;/b&gt;.</frFR>
+		<itIT>Evoca due Fanatici 2/2 con &lt;b&gt;Provocazione&lt;/b&gt;.@Evoca due Fanatici 8/8 con &lt;b&gt;Provocazione&lt;/b&gt;.</itIT>
 		<jaJP>[x]&lt;b&gt;挑発&lt;/b&gt;を持つ
-2/3の狂信者2体を
+2/2の狂信者2体を
 召喚する。@[x]&lt;b&gt;挑発&lt;/b&gt;を持つ
-6/9の狂信者2体を
+8/8の狂信者2体を
 召喚する。</jaJP>
 		<koKR>&lt;b&gt;도발&lt;/b&gt; 능력이 있는
-2/3 광신자를 둘 소환합니다.@&lt;b&gt;도발&lt;/b&gt; 능력이 있는
-6/9 광신자를 둘 소환합니다.</koKR>
-		<plPL>Przyzwij dwie Fanatyczki_2/3 z_&lt;b&gt;Prowokacją&lt;/b&gt;.@Przyzwij dwie Fanatyczki_6/9 z_&lt;b&gt;Prowokacją&lt;/b&gt;.</plPL>
-		<ptBR>Evoque dois Fanáticos 2/3 com &lt;b&gt;Provocar&lt;/b&gt;.@Evoque dois Fanáticos 6/9 com &lt;b&gt;Provocar&lt;/b&gt;.</ptBR>
-		<ruRU>Призывает двух фанатиков 2/3 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.@Призывает двух фанатиков 6/9 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.</ruRU>
-		<thTH>เรียกสาวก 2/3 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว@เรียกสาวก 6/9 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว</thTH>
-		<zhCN>召唤两个2/3并具有&lt;b&gt;嘲讽&lt;/b&gt;的狂热者。@召唤两个6/9并具有&lt;b&gt;嘲讽&lt;/b&gt;的狂热者。</zhCN>
+2/2 광신자를 둘 소환합니다.@&lt;b&gt;도발&lt;/b&gt; 능력이 있는
+8/8 광신자를 둘 소환합니다.</koKR>
+		<plPL>Przyzwij dwie Fanatyczki_2/2 z_&lt;b&gt;Prowokacją&lt;/b&gt;.@Przyzwij dwie Fanatyczki_8/8 z_&lt;b&gt;Prowokacją&lt;/b&gt;.</plPL>
+		<ptBR>Evoque dois Fanáticos 2/2 com &lt;b&gt;Provocar&lt;/b&gt;.@Evoque dois Fanáticos 8/8 com_&lt;b&gt;Provocar&lt;/b&gt;.</ptBR>
+		<ruRU>Призывает двух фанатиков 2/2 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.@Призывает двух фанатиков 8/8 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.</ruRU>
+		<thTH>เรียกสาวกคลั่ง 2/2 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว@เรียกสาวกคลั่ง 8/8 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว</thTH>
+		<zhCN>召唤两个2/2并具有&lt;b&gt;嘲讽&lt;/b&gt;的狂热者。@召唤两个8/8并具有&lt;b&gt;嘲讽&lt;/b&gt;的狂热者。</zhCN>
 		<zhTW>召喚兩個有
-&lt;b&gt;嘲諷&lt;/b&gt;的2/3狂熱者@召喚兩個有
-&lt;b&gt;嘲諷&lt;/b&gt;的6/9狂熱者</zhTW>
+&lt;b&gt;嘲諷&lt;/b&gt;的2/2狂熱者@召喚兩個有
+&lt;b&gt;嘲諷&lt;/b&gt;的8/8狂熱者</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Stefan Bogdasarov</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="2"/>
@@ -51702,7 +51689,7 @@ mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
 		<zhCN>&lt;b&gt;嘲讽&lt;/b&gt;</zhCN>
 		<zhTW>&lt;b&gt;嘲諷&lt;/b&gt;</zhTW>
 	</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="2"/>
 	<Tag enumID="47" name="ATK" type="Int" value="2"/>
 	<Tag enumID="48" name="COST" type="Int" value="2"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -51730,46 +51717,49 @@ mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
 		<deDE>&lt;b&gt;Lebensentzug&lt;/b&gt;.
-Fügt einem feindlichen Diener 5_Schaden zu.@&lt;b&gt;Lebensentzug&lt;/b&gt;.
-Fügt einem feindlichen Diener 15_Schaden zu.</deDE>
+Fügt einem feindlichen Diener 5 Schaden zu.@&lt;b&gt;Lebensentzug&lt;/b&gt;.
+Fügt einem feindlichen Diener 20 Schaden zu.</deDE>
 		<enUS>&lt;b&gt;Lifesteal&lt;/b&gt;
 Deal 5 damage to an enemy minion.@&lt;b&gt;Lifesteal&lt;/b&gt;
-Deal 15 damage to an enemy minion.</enUS>
-		<esES>&lt;b&gt;Robo de vida.&lt;/b&gt; Inflige 5 p. de daño a un esbirro enemigo.@&lt;b&gt;Robo de vida.&lt;/b&gt; Inflige 15 p. de daño a un_esbirro enemigo.</esES>
+Deal 20 damage to an enemy minion.</enUS>
+		<esES>&lt;b&gt;Robo de vida&lt;/b&gt;
+Inflige 5 p. de daño a un esbirro enemigo.@&lt;b&gt;Robo de vida&lt;/b&gt;
+Inflige 20 p. de daño a un esbirro enemigo.</esES>
 		<esMX>&lt;b&gt;Robavida&lt;/b&gt;
 Inflige 5 de daño a un esbirro enemigo.@&lt;b&gt;Robavida&lt;/b&gt;
-Inflige 15 de daño a un esbirro enemigo.</esMX>
+Inflige 20 de daño a un esbirro enemigo.</esMX>
 		<frFR>&lt;b&gt;Vol de vie&lt;/b&gt;
 Inflige 5 points de dégâts à un serviteur adverse.@&lt;b&gt;Vol de vie&lt;/b&gt;
-Inflige_15_points de_dégâts à un serviteur_adverse.</frFR>
+Inflige_20_points de_dégâts à un serviteur_adverse.</frFR>
 		<itIT>[x]&lt;b&gt;Furto Vitale&lt;/b&gt;.
 Infligge 5 danni a
 un servitore nemico.@[x]&lt;b&gt;Furto Vitale&lt;/b&gt;.
-Infligge 15 danni a
+Infligge 20 danni a
 un servitore nemico.</itIT>
 		<jaJP>[x]&lt;b&gt;生命奪取&lt;/b&gt;
 敵のミニオン1体に
 5ダメージを与える。@[x]&lt;b&gt;生命奪取&lt;/b&gt;
 敵のミニオン1体に
-15ダメージを与える。</jaJP>
+20ダメージを与える。</jaJP>
 		<koKR>&lt;b&gt;생명력 흡수&lt;/b&gt;
 적 하수인에게 5의 피해를 줍니다.@&lt;b&gt;생명력 흡수&lt;/b&gt;
-적 하수인에게 15의 피해를 줍니다.</koKR>
+적 하수인에게 20의 피해를 줍니다.</koKR>
 		<plPL>&lt;b&gt;Kradzież życia&lt;/b&gt;
 Zadaj 5_pkt._obrażeń wrogiemu_stronnikowi.@&lt;b&gt;Kradzież życia&lt;/b&gt;
-Zadaj 15_pkt._obrażeń wrogiemu_stronnikowi.</plPL>
+Zadaj 20_pkt._obrażeń wrogiemu_stronnikowi.</plPL>
 		<ptBR>&lt;b&gt;Roubar Vida&lt;/b&gt;
 Cause 5 de dano a um lacaio inimigo.@&lt;b&gt;Roubar Vida&lt;/b&gt;
-Cause 15 de dano a um lacaio inimigo.</ptBR>
+Cause 20 de dano a um lacaio inimigo.</ptBR>
 		<ruRU>&lt;b&gt;Похищение жизни&lt;/b&gt;
 Наносит 5 ед. урона существу противника.@&lt;b&gt;Похищение жизни&lt;/b&gt;
-Наносит 15 ед. урона существу противника.</ruRU>
-		<thTH>&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_5_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว@&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_15_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว</thTH>
-		<zhCN>&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成5点伤害。@&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成15点伤害。</zhCN>
+Наносит 20 ед. урона существу противника.</ruRU>
+		<thTH>&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_5_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว@&lt;b&gt;สูบชีวิต&lt;/b&gt; สร้างความเสียหาย_20_แต้ม[b]ให้มินเนี่ยนศัตรูหนึ่งตัว</thTH>
+		<zhCN>&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成5点伤害。@&lt;b&gt;吸血&lt;/b&gt;。对一个敌方随从造成20点伤害。</zhCN>
 		<zhTW>&lt;b&gt;生命竊取&lt;/b&gt;
-對一個敵方手下造成5點傷害@&lt;b&gt;生命竊取&lt;/b&gt;
 對一個敵方手下
-造成15點傷害</zhTW>
+造成5點傷害@&lt;b&gt;生命竊取&lt;/b&gt;
+對一個敵方手下
+造成20點傷害</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Luke Mancini</Tag>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -52280,7 +52270,7 @@ El efecto continúa hacia la izquierda y derecha con (1) menos de reducción.</e
 	<Tag enumID="342" name="ARTISTNAME" type="String">Mooncolony</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="7"/>
 	<Tag enumID="47" name="ATK" type="Int" value="9"/>
-	<Tag enumID="48" name="COST" type="Int" value="9"/>
+	<Tag enumID="48" name="COST" type="Int" value="10"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
@@ -52660,7 +52650,7 @@ ____攻撃する度その呪文を使う。</jaJP>
 		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; вы &lt;b&gt;раскапываете&lt;/b&gt; заклинание. Превращает его в оружие 3/3 за ту же стоимость, которое применяет его
 с каждой атакой.</ruRU>
 		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_&lt;b&gt;ค้นพบ&lt;/b&gt;_เวทมนตร์[b]หนึ่งใบ_เปลี่ยนมันเป็นอาวุธ_3/3 ค่าร่ายเท่ากับที่ร่ายเวทมนตร์นั้น[b]ทุกครั้งที่โจมตี</thTH>
-		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;&lt;b&gt;发现&lt;/b&gt;一个法术，并将其变形成为一张法力值消耗相同的3/3的武器牌。每当用该武器攻击时，都会施放该法术。</zhCN>
+		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;&lt;b&gt;发现&lt;/b&gt;一个法术，并将其变形成为一张法力值消耗相同的3/3的武器牌。每次用该武器攻击后，都会施放该法术。</zhCN>
 		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;
 &lt;b&gt;發現&lt;/b&gt;一個法術。將其變形為相同消耗的3/3武器，每次攻擊都會施放該法術</zhTW>
 	</Tag>
@@ -52851,27 +52841,28 @@ $1點傷害</zhTW>
 		<zhTW>召喚儀式</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Ruft in @ Zügen 2 C’Thraxxi (3/5) mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
+		<deDE>Ruft in @ Zügen 2 C’Thraxxi (2/4) mit &lt;b&gt;Spott&lt;/b&gt; herbei.</deDE>
 		<enUS>In @ turns, summon
-two 3/5 C'thraxxi
+two 2/4 C'thraxxi
 with &lt;b&gt;Taunt&lt;/b&gt;.</enUS>
-		<esES>Dentro de @ turnos, invoca dos C'Thraxxi 3/5 con &lt;b&gt;Provocar&lt;/b&gt;.</esES>
-		<esMX>En @ turnos, invoca dos C'thraxxi 3/5 con_&lt;b&gt;Provocación&lt;/b&gt;.</esMX>
-		<frFR>Dans @_|4(tour,tours), invoque deux C’thraxxi_3/5 avec &lt;b&gt;Provocation&lt;/b&gt;.</frFR>
-		<itIT>Tra @ turni, evoca due C'thraxxi 3/5 con &lt;b&gt;Provocazione&lt;/b&gt;.</itIT>
+		<esES>Dentro de @ turnos, invoca dos C'Thraxxi 2/4
+con &lt;b&gt;Provocar&lt;/b&gt;.</esES>
+		<esMX>En @ turnos, invoca dos C'thraxxi 2/4 con_&lt;b&gt;Provocación&lt;/b&gt;.</esMX>
+		<frFR>Dans @_|4(tour,tours), invoque deux C’thraxxi_2/4 avec &lt;b&gt;Provocation&lt;/b&gt;.</frFR>
+		<itIT>Tra @ turni, evoca due C'thraxxi 2/4 con &lt;b&gt;Provocazione&lt;/b&gt;.</itIT>
 		<jaJP>[x]@ターン後
-&lt;b&gt;挑発&lt;/b&gt;を持つ3/5の
+&lt;b&gt;挑発&lt;/b&gt;を持つ2/4の
 クトラクシを2体
 召喚する。</jaJP>
 		<koKR>[x]@턴 후에, &lt;b&gt;도발&lt;/b&gt; 능력이
-있는 3/5 크트락시를
+있는 2/4 크트락시를
 둘 소환합니다.</koKR>
-		<plPL>Za_@_|4(turę,tury,tur) przyzwij dwóch C'Thraxów_3/5 z_&lt;b&gt;Prowokacją&lt;/b&gt;.</plPL>
-		<ptBR>Em @ turnos, evoque dois C'thraxxi 3/5 com &lt;b&gt;Provocar&lt;/b&gt;.</ptBR>
-		<ruRU>Через @ |4(ход,хода,ходов) вы призываете двух к'тракси 3/5 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.</ruRU>
-		<thTH>ใน_@_เทิร์น เรียกคาแธรกซี_3/5 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว</thTH>
-		<zhCN>@回合后，召唤两个3/5并具有&lt;b&gt;嘲讽&lt;/b&gt;的克拉西斯。</zhCN>
-		<zhTW>在@回合後，召喚兩個有&lt;b&gt;嘲諷&lt;/b&gt;的3/5克蘇拉希</zhTW>
+		<plPL>Za_@_|4(turę,tury,tur) przyzwij dwóch C’Thraxów_2/4 z_&lt;b&gt;Prowokacją&lt;/b&gt;.</plPL>
+		<ptBR>Em @ turnos, evoque dois C'thraxxi 2/4 com &lt;b&gt;Provocar&lt;/b&gt;.</ptBR>
+		<ruRU>Через @ |4(ход,хода,ходов) вы призываете двух к'тракси 2/4 с_&lt;b&gt;«Провокацией»&lt;/b&gt;.</ruRU>
+		<thTH>ใน_@_เทิร์น เรียกคาแธรกซี_2/4 ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;_สองตัว</thTH>
+		<zhCN>@回合后，召唤两个2/4并具有&lt;b&gt;嘲讽&lt;/b&gt;的克拉西斯。</zhCN>
+		<zhTW>在@回合後，召喚兩個有&lt;b&gt;嘲諷&lt;/b&gt;的2/4克蘇拉希</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Ihr beide habt 2 Züge Zeit, um Euch abzutrocknen und an den Esstisch zu setzen.</deDE>
@@ -52941,9 +52932,9 @@ with &lt;b&gt;Taunt&lt;/b&gt;.</enUS>
 		<zhTW>&lt;b&gt;嘲諷&lt;/b&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">James Ryman</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="5"/>
-	<Tag enumID="47" name="ATK" type="Int" value="3"/>
-	<Tag enumID="48" name="COST" type="Int" value="4"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="4"/>
+	<Tag enumID="47" name="ATK" type="Int" value="2"/>
+	<Tag enumID="48" name="COST" type="Int" value="3"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="190" name="TAUNT" type="Int" value="1"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="9"/>
@@ -53720,8 +53711,8 @@ Invoca un soldado
 		<jaJP>[x]このカードの数字は全て
 自分の残りマナ数に等しい。
 &lt;b&gt;聖なる盾&lt;/b&gt;を持つ
-@/@の兵士を
-1体召喚する。</jaJP>
+@/@の兵士単体を
+召喚する。</jaJP>
 		<koKR>[x]이 카드에 적힌 모든 숫자가
 내 남은 마나와 같습니다.
 &lt;b&gt;천상의 보호막&lt;/b&gt; 능력이 있는
@@ -55020,7 +55011,7 @@ ___It attacks the original.</enUS>
 ____それも&lt;b&gt;凍結&lt;/b&gt;させる。</jaJP>
 		<koKR>적을 &lt;b&gt;빙결&lt;/b&gt; 상태로 만듭니다. 비용이 5인 무작위 하수인을 소환하고 &lt;b&gt;빙결&lt;/b&gt;시킵니다.</koKR>
 		<plPL>&lt;b&gt;Zamroź&lt;/b&gt; wroga. Przyzwij losowego_stronnika o_koszcie_(5) i_&lt;b&gt;Zamroź&lt;/b&gt;_go.</plPL>
-		<ptBR>&lt;b&gt;Congele&lt;/b&gt; um inimigo. Evoque um lacaio aleatório de Custo_4 e &lt;b&gt;Congele-o&lt;/b&gt;.</ptBR>
+		<ptBR>&lt;b&gt;Congele&lt;/b&gt; um inimigo. Evoque um lacaio aleatório de Custo_5 e &lt;b&gt;Congele-o&lt;/b&gt;.</ptBR>
 		<ruRU>&lt;b&gt;Замораживает&lt;/b&gt; противника. Призывает случайное существо за (5) и &lt;b&gt;замораживает&lt;/b&gt; его.</ruRU>
 		<thTH>&lt;b&gt;แช่แข็ง&lt;/b&gt;_ศัตรูหนึ่งตัว สุ่มเรียกมินเนี่ยนค่าร่าย_5 หนึ่งใบแล้ว_&lt;b&gt;แช่แข็ง&lt;/b&gt;_มัน</thTH>
 		<zhCN>&lt;b&gt;冻结&lt;/b&gt;一个敌人。随机召唤一个法力值消耗为（5）的随从并&lt;b&gt;冻结&lt;/b&gt;该随从。</zhCN>
@@ -55151,28 +55142,30 @@ ____1つ選んで発動する。</jaJP>
 		<zhTW>不穩定原型</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;&lt;b&gt;Wiederkehr&lt;/b&gt;&lt;/b&gt;. &lt;b&gt;Todesröcheln:&lt;/b&gt;&amp; Verleiht allen Dienern auf Eurer Hand +1/+1.</deDE>
-		<enUS>[x]&lt;b&gt;&lt;b&gt;Reborn&lt;/b&gt;
-&lt;/b&gt;&lt;b&gt;Deathrattle:&lt;/b&gt;&amp; Give all
-minions in your
-hand +1/+1.</enUS>
-		<esES>&lt;b&gt;&lt;b&gt;Renacer&lt;/b&gt; &lt;/b&gt;&lt;b&gt;Último aliento:&lt;/b&gt;&amp; Otorga +1/+1 a todos los esbirros en tu mano.</esES>
-		<esMX>&lt;b&gt;&lt;b&gt;Renacer&lt;/b&gt; &lt;/b&gt;&lt;b&gt;Estertor:&lt;/b&gt;&amp; otorga +1/+1_a todos los esbirros de tu mano.</esMX>
+		<deDE>&lt;b&gt;Wiederkehr&lt;/b&gt;. &lt;b&gt;Todesröcheln:&lt;/b&gt;&amp; Verleiht allen Dienern auf Eurer Hand +1_Angriff.</deDE>
+		<enUS>[x]&lt;b&gt;Reborn&lt;/b&gt;
+&lt;b&gt;Deathrattle:&lt;/b&gt;&amp; Give all
+minions in your hand
++1 Attack.</enUS>
+		<esES>&lt;b&gt;Renacer&lt;/b&gt;, &lt;b&gt;Último aliento:&lt;/b&gt;&amp; Otorga +1 p. de ataque a todos los esbirros en tu mano.</esES>
+		<esMX>&lt;b&gt;Renacer&lt;/b&gt; &lt;b&gt;Estertor:&lt;/b&gt;&amp; otorga +1_de Ataque a todos los esbirros de tu mano.</esMX>
 		<frFR>&lt;b&gt;Réincarnation&lt;/b&gt;
-&lt;b&gt;Râle d’agonie:&lt;/b&gt;&amp; donne_+1/+1 à tous les serviteurs de votre main.</frFR>
-		<itIT>&lt;b&gt;Rinascita&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt;&amp; +1/+1 ai servitori nella tua mano.</itIT>
-		<jaJP>[x]&lt;b&gt;&lt;b&gt;蘇り&lt;/b&gt;&lt;/b&gt;、&lt;b&gt;断末魔:&lt;/b&gt;&amp;
-自分の手札の
+&lt;b&gt;Râle d’agonie_:&lt;/b&gt;&amp; donne +1_ATQ à tous les serviteurs de votre main.</frFR>
+		<itIT>&lt;b&gt;Rinascita&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; &amp; +1 Attacco ai servitori nella tua mano.</itIT>
+		<jaJP>[x]&lt;b&gt;蘇り&lt;/b&gt;、&lt;b&gt;断末魔:&lt;/b&gt;
+&amp;自分の手札の
 ミニオン全てに
-_____+1/+1を付与する。_</jaJP>
-		<koKR>&lt;b&gt;&lt;b&gt;환생&lt;/b&gt;, &lt;/b&gt;&lt;b&gt;죽음의 메아리&lt;/b&gt;:&amp; 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.</koKR>
-		<plPL>&lt;b&gt;&lt;b&gt;Odrodzenie&lt;/b&gt;
-&lt;/b&gt;&lt;b&gt;Agonia:&lt;/b&gt;&amp; daj_wszystkim stronnikom w_twojej_ręce_+1/+1.</plPL>
-		<ptBR>&lt;b&gt;&lt;b&gt;Renascer&lt;/b&gt;. &lt;/b&gt;&lt;b&gt;Último Suspiro:&lt;/b&gt;&amp; Conceda +1/+1 a todos os lacaios na sua mão.</ptBR>
-		<ruRU>&lt;b&gt;&lt;b&gt;Перерождение&lt;/b&gt;&lt;/b&gt;. &lt;b&gt;Предсмертный хрип:&lt;/b&gt;&amp; существа у вас в руке получают +1/+1.</ruRU>
-		<thTH>&lt;b&gt;&lt;b&gt;คืนชีพ&lt;/b&gt;&lt;/b&gt;_&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;&amp; มอบ_+1/+1_ให้มินเนี่ยน[b]ทั้งหมดในมือคุณ</thTH>
-		<zhCN>&lt;b&gt;&lt;b&gt;复生&lt;/b&gt;&lt;/b&gt;。&lt;b&gt;亡语：&lt;/b&gt;&amp;使你手牌中的所有随从牌获得+1/+1。</zhCN>
-		<zhTW>&lt;b&gt;&lt;b&gt;重生&lt;/b&gt;、&lt;/b&gt;&lt;b&gt;死亡之聲：&lt;/b&gt;&amp;賦予你手中全部手下+1/+1</zhTW>
+_____攻撃力+1を付与する。_</jaJP>
+		<koKR>&lt;b&gt;환생&lt;/b&gt;, &lt;b&gt;죽음의 메아리&lt;/b&gt;:&amp; 내 손에 있는 모든 하수인에게 공격력을 +1 부여합니다.</koKR>
+		<plPL>&lt;b&gt;Odrodzenie&lt;/b&gt;
+&lt;b&gt;Agonia:&lt;/b&gt;&amp; Daj wszystkim stronnikom w_twojej_ręce +1_do_ataku.</plPL>
+		<ptBR>&lt;b&gt;Renascer&lt;/b&gt;, &lt;b&gt;Último Suspiro:&lt;/b&gt;&amp; Conceda +1 de Ataque a todos os lacaios na sua mão.</ptBR>
+		<ruRU>&lt;b&gt;Перерождение&lt;/b&gt; &lt;b&gt;Предсмертный хрип:&lt;/b&gt;&amp; существа у вас в руке получают +1 к атаке.</ruRU>
+		<thTH>&lt;b&gt;คืนชีพ&lt;/b&gt; &lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;&amp; มอบพลังโจมตี +1 ให้[b]มินเนี่ยนทั้งหมดในมือคุณ</thTH>
+		<zhCN>&lt;b&gt;复生&lt;/b&gt;。&lt;b&gt;亡语：&lt;/b&gt;&amp;使你手牌中的所有随从牌获得+1攻击力。</zhCN>
+		<zhTW>[X]&lt;b&gt;重生&lt;b&gt;
+&lt;/b&gt;死亡之聲：&lt;/b&gt;&amp;賦予你手中
+全部手下+1攻擊力</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Ich erkenne Magenschmerzen, wenn ich sie sehe_...</deDE>
@@ -55237,20 +55230,20 @@ _____+1/+1を付与する。_</jaJP>
 		<zhTW>強化</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>+1/+1.</deDE>
-		<enUS>+1/+1</enUS>
-		<esES>+1/+1.</esES>
-		<esMX>+1/+1</esMX>
-		<frFR>+1/+1.</frFR>
-		<itIT>+1/+1.</itIT>
-		<jaJP>+1/+1</jaJP>
-		<koKR>+1/+1</koKR>
-		<plPL>+1/+1.</plPL>
-		<ptBR>+1/+1</ptBR>
-		<ruRU>+1/+1.</ruRU>
-		<thTH>+1/+1</thTH>
-		<zhCN>+1/+1</zhCN>
-		<zhTW>+1/+1</zhTW>
+		<deDE>+1_Angriff.</deDE>
+		<enUS>+1 Attack.</enUS>
+		<esES>+1 p. de ataque.</esES>
+		<esMX>+1 de Ataque.</esMX>
+		<frFR>+1_ATQ.</frFR>
+		<itIT>+1 Attacco.</itIT>
+		<jaJP>攻撃力+1</jaJP>
+		<koKR>공격력 +1</koKR>
+		<plPL>+1_do_ataku.</plPL>
+		<ptBR>+1 de Ataque.</ptBR>
+		<ruRU>+1 к атаке.</ruRU>
+		<thTH>พลังโจมตี +1</thTH>
+		<zhCN>+1攻击力。</zhCN>
+		<zhTW>+1攻擊力</zhTW>
 	</Tag>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="3"/>
@@ -55712,34 +55705,37 @@ che giochi ne ripete l'effetto!)&lt;/i&gt;</itIT>
 		<zhTW>長老真言：顯現</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Ruft eine Leerenschwinge (5/5) mit &lt;b&gt;Lebensentzug&lt;/b&gt; herbei. &lt;i&gt;(Beim nächsten Schattenzauber, den Ihr ausspielt, wird dies wiederholt!)&lt;/i&gt;</deDE>
-		<enUS>Summon a 5/5 Voidwing with &lt;b&gt;Lifesteal&lt;/b&gt;. &lt;i&gt;(The next Shadow spell you play repeats this!)&lt;/i&gt;</enUS>
-		<esES>Invoca un Alavacua 5/5 con &lt;b&gt;Robo de vida&lt;/b&gt;. &lt;i&gt;(¡El_siguiente hechizo de_las_Sombras que
+		<deDE>Ruft 2 Leerenschwingen (3/4) mit &lt;b&gt;Lebensentzug&lt;/b&gt; herbei. &lt;i&gt;(Beim nächsten Schattenzauber, den Ihr ausspielt, wird dies wiederholt!)&lt;/i&gt;</deDE>
+		<enUS>Summon two 3/4 Voidwings with &lt;b&gt;Lifesteal&lt;/b&gt;. &lt;i&gt;(The next Shadow spell you play repeats this!)&lt;/i&gt;</enUS>
+		<esES>Invoca dos Alavacuas 3/4 con &lt;b&gt;Robo de vida&lt;/b&gt;. &lt;i&gt;(¡El_siguiente hechizo de_las_Sombras que
 juegues repite esto!)&lt;/i&gt;.</esES>
-		<esMX>Invoca un Alavacío 5/5 con &lt;b&gt;Robavida&lt;/b&gt;.
+		<esMX>Invoca dos Alavacíos 3/4 con &lt;b&gt;Robavida&lt;/b&gt;.
 &lt;i&gt;(¡El próximo hechizo de las Sombras que juegues repite esta acción!).&lt;/i&gt;</esMX>
-		<frFR>Vous invoquez 1_aile_du_Vide_5/5 avec &lt;b&gt;Vol_de vie&lt;/b&gt;. &lt;i&gt;(Le prochain sort d’ombre que vous jouez répète_cet effet_!)&lt;/i&gt;</frFR>
-		<itIT>[x]Evoca un'Ala del Vuoto
-5/5 con &lt;b&gt;Furto Vitale&lt;/b&gt;.
+		<frFR>Vous invoquez deux_ailes_du_Vide_3/4 avec &lt;b&gt;Vol_de vie&lt;/b&gt;. &lt;i&gt;(Le prochain sort d’ombre que vous jouez répète_cet effet_!)&lt;/i&gt;</frFR>
+		<itIT>[x]Evoca due Ali del Vuoto
+3/4 con &lt;b&gt;Furto Vitale&lt;/b&gt;.
 &lt;i&gt;(La prossima Magia d'Ombra
 che giochi ne ripete l'effetto!)&lt;/i&gt;</itIT>
-		<jaJP>[x]&lt;b&gt;生命奪取&lt;/b&gt;を持つ5/5の
+		<jaJP>[x]&lt;b&gt;生命奪取&lt;/b&gt;を持つ3/4の
 「ヴォイドウィング」を
 1体召喚する。
 &lt;i&gt;（次に使う影呪文で
 これを繰り返す！）&lt;/i&gt;</jaJP>
 		<koKR>[x]&lt;b&gt;생명력 흡수&lt;/b&gt; 능력이 있는
-5/5 공허날개를 소환합니다.
+3/4 공허날개를 둘 소환합니다.
 &lt;i&gt;(다음에 내가 내는 암흑 주문이
 이 능력을 반복합니다!)&lt;/i&gt;</koKR>
-		<plPL>Przyzwij Pustkoskrzydłego_5/5 z_&lt;b&gt;Kradzieżą_życia&lt;/b&gt;. &lt;i&gt;(Następne_zagrane przez_ciebie zaklęcie_Cienia powtarza ten_efekt!)&lt;/i&gt;</plPL>
-		<ptBR>Evoque um Asa do Caos 5/5 com &lt;b&gt;Roubar Vida&lt;/b&gt;.
+		<plPL>Przyzwij dwóch_Pustkoskrzydłych_3/4 z_&lt;b&gt;Kradzieżą_życia&lt;/b&gt;. &lt;i&gt;(Następne_zagrane_przez_ciebie zaklęcie_Cienia powtarza_ten_efekt!)&lt;/i&gt;</plPL>
+		<ptBR>Evoque duas Asas do Caos 3/4 com &lt;b&gt;Roubar Vida&lt;/b&gt;.
 &lt;i&gt;(O próximo feitiço de Sombra que você jogar repete este_efeito!)&lt;/i&gt;</ptBR>
-		<ruRU>Призывает безднокрыла 5/5 с &lt;b&gt;«Похищением жизни»&lt;/b&gt;. &lt;i&gt;(Следующее заклинание Тьмы, которое вы разыграете,
+		<ruRU>[x]Призывает двух безднокрылов
+3/4 с &lt;b&gt;«Похищением жизни»&lt;/b&gt;.
+&lt;i&gt;(Следующее заклинание Тьмы,
+которое вы разыграете,
 повторит этот эффект!)&lt;/i&gt;</ruRU>
-		<thTH>เรียกวอยด์วิง_5/5_ที่มี &lt;b&gt;สูบชีวิต&lt;/b&gt;_&lt;i&gt;(ทำซ้ำเมื่อคุณเล่น[b]เวทมนตร์ความมืด[b]ใบถัดไป!)&lt;/i&gt;</thTH>
-		<zhCN>召唤一只5/5并具有&lt;b&gt;吸血&lt;/b&gt;的虚翼龙鹰。&lt;i&gt;（你使用的下一张暗影法术牌会重复此效果！）&lt;/i&gt;</zhCN>
-		<zhTW>召喚一個有&lt;b&gt;生命竊取&lt;/b&gt;的5/5虛空之翼&lt;i&gt;(你打出的下一個暗影法術重複此效果！)&lt;/i&gt;</zhTW>
+		<thTH>เรียกวอยด์วิง_3/4_ที่มี_&lt;b&gt;สูบชีวิต&lt;/b&gt; สองตัว &lt;i&gt;(ทำซ้ำเมื่อคุณเล่น[b]เวทมนตร์ความมืดใบถัดไป!)&lt;/i&gt;</thTH>
+		<zhCN>召唤两只3/4并具有&lt;b&gt;吸血&lt;/b&gt;的虚翼龙鹰。&lt;i&gt;（你使用的下一张暗影法术牌会重复此效果！）&lt;/i&gt;</zhCN>
+		<zhTW>召喚兩個有&lt;b&gt;生命竊取&lt;/b&gt;的3/4虛空之翼&lt;i&gt;(你打出的下一個暗影法術重複此效果！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Ich mag keine Leereneier mit Speck.</deDE>
@@ -55823,9 +55819,9 @@ che giochi ne ripete l'effetto!)&lt;/i&gt;</itIT>
 		<zhTW>&lt;b&gt;生命竊取&lt;/b&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Zoltan Boros</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="5"/>
-	<Tag enumID="47" name="ATK" type="Int" value="5"/>
-	<Tag enumID="48" name="COST" type="Int" value="5"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="4"/>
+	<Tag enumID="47" name="ATK" type="Int" value="3"/>
+	<Tag enumID="48" name="COST" type="Int" value="3"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="6"/>
 	<Tag enumID="200" name="CARDRACE" type="Int" value="20"/>
@@ -56959,8 +56955,8 @@ en cada turno.</esES>
 		<itIT>Infligge $2 danni a un servitore nemico casuale cinque volte.</itIT>
 		<jaJP>[x]ランダムな敵の
 ミニオン1体に
-$2ダメージを
-5回与える。</jaJP>
+$2ダメージを与える。
+____これを5回繰り返す。_</jaJP>
 		<koKR>[x]무작위 적 하수인에게
 피해를 $2 줍니다.
 다섯 번 발동합니다.</koKR>
@@ -57546,7 +57542,7 @@ $2点伤害。</zhCN>
 		<zhTW>卑微的被遺忘者，還妄想扮演領主…我命令你跪下！</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Jaemin Kim</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="4"/>
 	<Tag enumID="47" name="ATK" type="Int" value="3"/>
 	<Tag enumID="48" name="COST" type="Int" value="2"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
@@ -57555,7 +57551,7 @@ $2点伤害。</zhCN>
 	<Tag enumID="203" name="RARITY" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="685" name="LIFESTEAL" type="Int" value="1"/>
-	<Tag enumID="2196" name="COST_BLOOD" type="Int" value="2"/>
+	<Tag enumID="2196" name="COST_BLOOD" type="Int" value="3"/>
 </Entity>
 <Entity CardID="BE_287" ID="130341" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -57585,7 +57581,7 @@ Roba @ p. de salud entre los enemigos con menos salud. &lt;i&gt;Mejora con las r
 		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; roba @ de Salud dividida entre los enemigos con menos Salud.
 &lt;i&gt;Mejora con las Runas de sangre que hayas jugado.&lt;/i&gt;</esMX>
 		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; vole @_PV répartis entre les adversaires aux PV les plus bas. &lt;i&gt;S’améliore pour chaque rune de sang que vous avez jouée.&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Grido di Battaglia:&lt;/b&gt; ruba @ Salute suddivisa tra i nemici con meno Salute. &lt;i&gt;Migliora con le carte con una Runa del Sangue giocate.&lt;/i&gt;</itIT>
+		<itIT>&lt;b&gt;Grido di Battaglia:&lt;/b&gt; ruba @ Salute suddivisa tra i nemici con meno Salute. &lt;i&gt;Migliora con le Rune del Sangue giocate.&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;
 最も体力が低い敵から順に
 合計@体力を奪う。
@@ -57611,7 +57607,7 @@ Roba @ p. de salud entre los enemigos con menos salud. &lt;i&gt;Mejora con las r
 		<esES>G'huun cambió de clase en_cuanto se enteró de que los_caballeros de la Muerte tenían_runas de sangre.</esES>
 		<esMX>G'huun se cambió de clase de inmediato al enterarse de que los Caballeros de la muerte tenían Runas de sangre.</esMX>
 		<frFR>G’huun a immédiatement changé de classe en apprenant que les chevaliers de la mort avaient des runes de sang.</frFR>
-		<itIT>G'huun ha cambiato classe non appena ha scoperto che i Cavalieri della Morte aveano le Rune del Sangue.</itIT>
+		<itIT>G'huun ha cambiato classe non appena ha scoperto che i Cavalieri della Morte avevano le Rune del Sangue.</itIT>
 		<jaJP>デスナイトに血のルーンがあると知ったグフーンは、即クラス変更した。</jaJP>
 		<koKR>그훈은 죽음의 기사에게 혈기 룬이 있는 것을 알고 바로 직업을 바꾸었습니다.</koKR>
 		<plPL>Gdy G'huun dowiedział się, że rycerze śmierci mają runy Krwi, od razu zmienił klasę.</plPL>
@@ -58817,7 +58813,7 @@ aquí! Oh, oh...</esES>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Mauricio Herrera</Tag>
 	<Tag enumID="32" name="TRIGGER_VISUAL" type="Int" value="1"/>
 	<Tag enumID="45" name="HEALTH" type="Int" value="2"/>
-	<Tag enumID="47" name="ATK" type="Int" value="2"/>
+	<Tag enumID="47" name="ATK" type="Int" value="3"/>
 	<Tag enumID="48" name="COST" type="Int" value="3"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="3"/>
@@ -58890,7 +58886,7 @@ Get an 'Overdrive'.</enUS>
 		<zhTW>miM rof tnuocca ton did tolp s'noraS-ggoY tub ,htaed s'norimiM detartsehcro yllufsseccus noraS-ggoY ,noitiurF ot emoc ot ainnellim ynam ekat dluow ti hguohT</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Matt Dixon</Tag>
-	<Tag enumID="48" name="COST" type="Int" value="2"/>
+	<Tag enumID="48" name="COST" type="Int" value="1"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="3"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
@@ -59220,9 +59216,9 @@ _израсходованной броне.</ruRU>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Ivan Fomin</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="2"/>
-	<Tag enumID="45" name="HEALTH" type="Int" value="7"/>
-	<Tag enumID="47" name="ATK" type="Int" value="7"/>
-	<Tag enumID="48" name="COST" type="Int" value="7"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="6"/>
+	<Tag enumID="47" name="ATK" type="Int" value="6"/>
+	<Tag enumID="48" name="COST" type="Int" value="6"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="10"/>
@@ -61255,29 +61251,29 @@ de armadura.</esES>
 		<zhTW>亞基巨像</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Kostet (2) weniger für jede Karte mit &lt;b&gt;Combo&lt;/b&gt;, die in diesem Zug gespielt wurde. &lt;b&gt;Kampfschrei:&lt;/b&gt; Zieht eine Karte.</deDE>
+		<deDE>Kostet (2) weniger für jede Karte mit &lt;b&gt;Combo&lt;/b&gt;, die in diesem Zug gespielt wurde. &lt;b&gt;Kampfschrei:&lt;/b&gt; Zieht 2 Karten.</deDE>
 		<enUS>[x]Costs (2) less for each
 &lt;b&gt;Combo&lt;/b&gt; card played this turn.
-&lt;b&gt;Battlecry:&lt;/b&gt; Draw a card.</enUS>
-		<esES>Cuesta (2) cristales menos por cada carta con &lt;b&gt;Combo&lt;/b&gt; jugada este turno. &lt;b&gt;Grito de batalla:&lt;/b&gt; Roba una carta.</esES>
+&lt;b&gt;Battlecry:&lt;/b&gt; Draw 2 cards.</enUS>
+		<esES>Cuesta (2) cristales menos por cada carta con &lt;b&gt;Combo&lt;/b&gt; jugada este turno. &lt;b&gt;Grito de batalla:&lt;/b&gt; Roba 2 cartas.</esES>
 		<esMX>Cuesta (2) menos por cada carta con &lt;b&gt;Combo&lt;/b&gt; que hayas jugado en_este_turno.&lt;b&gt;
-Grito de batalla:&lt;/b&gt; roba una_carta.</esMX>
-		<frFR>Coûte (2)_|4(cristal,cristaux) de moins pour chaque carte avec &lt;b&gt;Combo&lt;/b&gt; jouée pendant ce tour. &lt;b&gt;Cri de guerre_:&lt;/b&gt; vous piochez une carte.</frFR>
-		<itIT>Costa (2) in meno per ogni carta con &lt;b&gt;Combo&lt;/b&gt; giocata in questo turno. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca una carta.</itIT>
+Grito de batalla:&lt;/b&gt; roba dos_cartas.</esMX>
+		<frFR>Coûte (2)_|4(cristal,cristaux) de moins pour chaque carte avec &lt;b&gt;Combo&lt;/b&gt; jouée pendant ce tour. &lt;b&gt;Cri de guerre_:&lt;/b&gt; vous piochez 2_cartes.</frFR>
+		<itIT>Costa (2) in meno per ogni carta con &lt;b&gt;Combo&lt;/b&gt; giocata in questo turno. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca 2 carte.</itIT>
 		<jaJP>[x]このターンに使用した
 &lt;b&gt;コンボ&lt;/b&gt;カード1枚につき
 コストが（2）減る。
 &lt;b&gt;雄叫び:&lt;/b&gt;
-カードを1枚引く。</jaJP>
-		<koKR>이번 턴에 낸 &lt;b&gt;연계&lt;/b&gt; 카드 하나당 비용이 (2)씩 감소합니다. &lt;b&gt;전투의 함성:&lt;/b&gt; 카드를 뽑습니다.</koKR>
+カードを2枚引く。</jaJP>
+		<koKR>이번 턴에 낸 &lt;b&gt;연계&lt;/b&gt; 카드 하나당 비용이 (2)씩 감소합니다. &lt;b&gt;전투의 함성&lt;/b&gt;: 카드를 2장 뽑습니다.</koKR>
 		<plPL>Kosztuje (2) mniej za_każdą_kartę_z_&lt;b&gt;Kombinacją&lt;/b&gt; zagraną_w_tej_turze.
-&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz_kartę.</plPL>
-		<ptBR>Custa (2) a menos para cada card de &lt;b&gt;Combo&lt;/b&gt; jogado neste turno. &lt;b&gt;Grito de Guerra:&lt;/b&gt; Compre um card.</ptBR>
-		<ruRU>Стоит на (2) меньше за каждую карту с &lt;b&gt;серией приемов&lt;/b&gt;, разыгранную на этом ходу. [x]_____&lt;b&gt;Боевой клич:&lt;/b&gt; вы берете карту.____</ruRU>
-		<thTH>ค่าร่ายลดลง_(2)_ต่อการ์ด &lt;b&gt;คอมโบ&lt;/b&gt;_แต่ละใบที่เล่นในเทิร์นนี้ &lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_จั่วการ์ดหนึ่งใบ</thTH>
-		<zhCN>在本回合中每使用过一张&lt;b&gt;连击&lt;/b&gt;牌，本牌的法力值消耗便减少（2）点。&lt;b&gt;战吼：&lt;/b&gt;抽一张牌。</zhCN>
+&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz_2_karty.</plPL>
+		<ptBR>Custa (2) a menos para cada card de &lt;b&gt;Combo&lt;/b&gt; jogado neste turno. &lt;b&gt;Grito de Guerra:&lt;/b&gt; Compre 2 cards.</ptBR>
+		<ruRU>Стоит на (2) меньше за каждую карту с &lt;b&gt;серией приемов&lt;/b&gt;, разыгранную на этом ходу. &lt;b&gt;Боевой клич:&lt;/b&gt; вы берете 2 карты.</ruRU>
+		<thTH>ค่าร่ายลดลง_(2)_ต่อการ์ด &lt;b&gt;คอมโบ&lt;/b&gt;_แต่ละใบที่เล่นในเทิร์นนี้ &lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_จั่วการ์ด_2_ใบ</thTH>
+		<zhCN>在本回合中每使用过一张&lt;b&gt;连击&lt;/b&gt;牌，本牌的法力值消耗便减少（2）点。&lt;b&gt;战吼：&lt;/b&gt;抽两张牌。</zhCN>
 		<zhTW>本回合打出的每張&lt;b&gt;連擊&lt;/b&gt;卡牌使消耗減少(2)。
-&lt;b&gt;戰吼：&lt;/b&gt;抽一張牌</zhTW>
+&lt;b&gt;戰吼：&lt;/b&gt;抽2張牌</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Die Regel „Es hat mehr Angst vor Euch, als Ihr vor ihm“ gilt hier NICHT.</deDE>
@@ -61326,24 +61322,31 @@ Grito de batalla:&lt;/b&gt; roba una_carta.</esMX>
 		<zhTW>亞基群聚蟲</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Erhaltet 2_Larven, die 1_kosten und als &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;&lt;/b&gt; eine Heldenfähigkeit einer anderen Klasse auslösen.</deDE>
-		<enUS>&lt;b&gt;Deathrattle:&lt;/b&gt; Get two 1-Cost Larvae with &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;s&lt;/b&gt; that trigger a Hero Power from another class.</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Obtienes dos_larvas de coste 1 con &lt;b&gt;Combos&lt;/b&gt; que activan un poder de héroe de otra clase.</esES>
-		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; obtienes dos Larvas de costo 1 con &lt;b&gt;Combos&lt;/b&gt; que activan un Poder de héroe de otra clase.</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; vous obtenez deux larves coûtant 1_cristal avec des &lt;b&gt;Combos&lt;/b&gt; qui déclenchent le pouvoir héroïque d’une autre classe.</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; ottieni due larve che costano 1 con &lt;b&gt;Combo&lt;/b&gt; che attivano un Potere Eroe di un'altra classe.</itIT>
-		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Erhaltet 2 Larven, die als &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;&lt;/b&gt; eine Heldenfähigkeit einer anderen Klasse auslösen. Sie kosten (0).</deDE>
+		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Get two Larvae
+with &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;s&lt;/b&gt; that trigger a
+Hero Power from another
+class. They cost (0).</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Obtienes dos larvas con &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;&lt;/b&gt; que activan un poder de héroe de otra clase.
+Cuestan (0) cristales.</esES>
+		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; obtienes dos Larvas con &lt;b&gt;&lt;b&gt;Combos&lt;/b&gt;&lt;/b&gt; que activan un Poder de héroe de otra clase. Cuestan (0).</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; vous obtenez deux_larves avec des &lt;b&gt;Combos&lt;/b&gt; qui déclenchent le pouvoir héroïque d’une autre classe. Elles coûtent (0)_|4(cristal,cristaux).</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; ottieni due larve con &lt;b&gt;&lt;b&gt;Combo&lt;/b&gt;&lt;/b&gt; che attivano un Potere Eroe di un'altra classe. Costano (0).</itIT>
+		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 別クラスのヒーローパワーを
-&lt;b&gt;&lt;b&gt;複数の&lt;/b&gt;コンボ&lt;/b&gt;として
-発動させるコスト1の
-幼虫を2体得る。</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 다른 직업의 영웅 능력을 발동시키는 &lt;b&gt;&lt;b&gt;연계&lt;/b&gt;&lt;/b&gt;를 가진, 비용이 1인 애벌레를 둘 얻습니다.</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Otrzymujesz dwie Larwy o_koszcie_(1) z_&lt;b&gt;&lt;b&gt;Kombinacjami&lt;/b&gt;&lt;/b&gt;, które_aktywują moc_specjalną innej_klasy.</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Receba duas Larvas de Custo 1 com &lt;b&gt;&lt;b&gt;Combos&lt;/b&gt;&lt;/b&gt; que ativam um Poder Heroico de outra classe.</ptBR>
-		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы получаете двух личинок за_(1) с &lt;b&gt;&lt;b&gt;«Сериями приемов»&lt;/b&gt;&lt;/b&gt;, которые применяют силу героя другого класса.</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_รับตัวอ่อนค่าร่าย_1 สองใบที่มี_&lt;b&gt;&lt;b&gt;คอมโบ&lt;/b&gt;&lt;/b&gt;_ที่บังคับ_[b]ใช้พลังฮีโร่จากคลาสอื่น</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;获取两张法力值消耗为（1）的幼虫。幼虫会以&lt;b&gt;&lt;b&gt;连击&lt;/b&gt;&lt;/b&gt;的形式触发一项另一职业的英雄技能。</zhCN>
-		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;獲得兩個消耗為1的幼蟲，其擁有可以觸發其他職業英雄能力的&lt;b&gt;&lt;b&gt;連擊&lt;/b&gt;&lt;/b&gt;效果</zhTW>
+発動する、&lt;b&gt;&lt;b&gt;複数の&lt;/b&gt;コンボ&lt;/b&gt;を
+持つ幼虫を2体得る。それらの
+コストは（0）。</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 다른 직업의 영웅 능력을 발동시키는 &lt;b&gt;&lt;b&gt;연계&lt;/b&gt;&lt;/b&gt;를 가진 애벌레를 둘 얻습니다.
+그 애벌레들의 비용이 (0)이 됩니다.</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Otrzymujesz dwie_Larwy z_&lt;b&gt;&lt;b&gt;Kombinacjami&lt;/b&gt;&lt;/b&gt;, które_aktywują moc_specjalną innej_klasy. Kosztują_(0).</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Receba duas Larvas com &lt;b&gt;&lt;b&gt;Combos&lt;/b&gt;&lt;/b&gt; que ativam um Poder Heroico de outra classe. Elas custam (0).</ptBR>
+		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы получаете двух личинок с &lt;b&gt;&lt;b&gt;«Сериями приемов»&lt;/b&gt;&lt;/b&gt;, которые применяют [x]силу героя другого класса.
+Они стоят (0).</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt; รับตัวอ่อนสองใบที่มี_&lt;b&gt;&lt;b&gt;คอมโบ&lt;/b&gt;&lt;/b&gt; ที่บังคับใช้พลังฮีโร่จากคลาสอื่น พวกมันมีค่าร่ายเป็น_(0)</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;获取两张以&lt;b&gt;&lt;b&gt;连击&lt;/b&gt;&lt;/b&gt;的形式触发一项另一职业英雄技能的幼虫。这两张幼虫的法力值消耗为（0）点。</zhCN>
+		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;獲得兩個幼蟲，其擁有可以觸發其他職業英雄能力的&lt;b&gt;&lt;b&gt;連擊&lt;/b&gt;&lt;/b&gt;效果。
+幼蟲消耗為(0)</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Da kommen wir ins Schwärmen.</deDE>
@@ -61362,9 +61365,9 @@ Grito de batalla:&lt;/b&gt; roba una_carta.</esMX>
 		<zhTW>看到我成群出動。他們就倉皇逃跑。</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Mike Sass</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="2"/>
-	<Tag enumID="47" name="ATK" type="Int" value="4"/>
-	<Tag enumID="48" name="COST" type="Int" value="3"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="4"/>
+	<Tag enumID="47" name="ATK" type="Int" value="5"/>
+	<Tag enumID="48" name="COST" type="Int" value="4"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="7"/>
 	<Tag enumID="200" name="CARDRACE" type="Int" value="20"/>
@@ -61470,8 +61473,9 @@ a la gente!</esES>
 		<frFR>Vous obtenez trois larves coûtant 1_cristal avec des &lt;b&gt;Combos&lt;/b&gt; qui déclenchent le_pouvoir héroïque d’une autre classe.</frFR>
 		<itIT>Ottieni tre larve che costano 1 con &lt;b&gt;Combo&lt;/b&gt; che attivano un Potere Eroe di un'altra classe.</itIT>
 		<jaJP>[x]別クラスのヒーローパワーを
-&lt;b&gt;&lt;b&gt;複数の&lt;/b&gt;コンボ&lt;/b&gt;として発動させるコスト1の
-幼虫を3体得る。</jaJP>
+ 発動する、&lt;b&gt;&lt;b&gt;複数の&lt;/b&gt;コンボ&lt;/b&gt;
+を持つコスト1の幼虫を
+3体得る。</jaJP>
 		<koKR>다른 직업의 영웅 능력을 발동시키는 &lt;b&gt;&lt;b&gt;연계&lt;/b&gt;&lt;/b&gt;를 가진, 비용이 1인 애벌레를 셋 얻습니다.</koKR>
 		<plPL>Otrzymujesz trzy Larwy o_koszcie_(1) z_&lt;b&gt;&lt;b&gt;Kombinacjami&lt;/b&gt;&lt;/b&gt;, które_aktywują moc_specjalną innej_klasy.</plPL>
 		<ptBR>Receba três Larvas de Custo 1 com &lt;b&gt;&lt;b&gt;Combos&lt;/b&gt;&lt;/b&gt; que ativam um Poder Heroico de outra classe.</ptBR>
@@ -61490,7 +61494,7 @@ a la gente!</esES>
 		<esMX>C'Thun c0mpr3nd1ó qu3, p4r4 qu3 3l 1mp3ri0 N3gr0 pud1er4 s0brev1v1r, ell4 debí4 s3r l4 pr1mer4 3n c4er. C'Thun 3ng3ndró un4 cr14tur4 c0n un s0l0 pr0pós1t0: l4 destrucc1ón de 4m</esMX>
 		<frFR>Gardez votre visage à bonne distance des œufs.</frFR>
 		<itIT>Co'-Tfhaulnl-.r-eCa'lTihzuend--sfpoarw-ntehde--aB-lcarceka-tEumrpei-rwei ttho--osnuer-vpiuvrep,o-sseh-ei-nw-omuilndd--nteheed--dteos-tbreu-ctthieo-nf-iorfs-tA-mt</itIT>
-		<jaJP>霊ク骸ト・ゥ虚ーノンヰは岬黒石のシ帝幻国幽の人未蛍来ヴをな守朱るうた気め呪に闇は体、骸彼響女虚か黒らだ倒車さ目な煉けとれ手ば骸な湊らだな澪い土と青気波づシい冥た霊。命こにう凪し生てなク金ト剣ゥ雨ーはンラは骸怪凛物刹を蛍生闇ん柊だば。シそ望れ狐の骸ただっ虚た葵一巽つ鈴のな目骸的ねは黙…骸ア凛ミ虚トーゥはト金を</jaJP>
+		<jaJP>ク骸ト・ゥ虚ーノンヰは岬黒石のシ帝幻国幽の人未蛍来ヴをな守朱るうた気め呪に闇は体、骸彼響女虚か黒らだ倒車さ目な煉けとれ手ば骸な湊らだな澪い土と青気波づシい冥た霊。命こにう凪し生てなク金ト剣ゥ雨ーはンラは骸怪凛物刹を蛍生闇ん柊だば。シそ望れ狐の骸ただっ虚た葵一巽つ鈴のな目骸的ねは黙…骸ア凛ミ虚トーゥはト金を</jaJP>
 		<koKR>크_툰크은툰_은검_은오_직제_국한이__가살지아_남목으적려을면__가자진신_이생_물먼을저__만쓰들러었져다야.__함바을로__알아았미다투.크_툰크은툰_은검_은오_직제_국한이__가살지아_남목으적려을면__가자진신_이생_물먼을저__만쓰들러었져다야.__함바을로__알아았미다투.</koKR>
 		<plPL>Co'-Tfhaulnl-.r-eCa'lTihzuend--sfpoarw-ntehde--aB-lcarceka-tEumrpei-rwei ttho--osnuer-vpiuvrep,o-sseh-ei-nw-omuilndd--nteheed--dteos-tbreu-ctthieo-nf-iorfs-tA-mt</plPL>
 		<ptBR>Co'-Tfhaulnl-.r-eCa'lTihzuend--sfpoarw-ntehde--aB-lcarceka-tEumrpei-rwei ttho--osnuer-vpiuvrep,o-sseh-ei-nw-omuilndd--nteheed--dteos-tbreu-ctthieo-nf-iorfs-tA-mt</ptBR>
@@ -61557,7 +61561,7 @@ __minions in your hand to 6.__</enUS>
 		<esMX>1tut. Lu3g0 d3 cumpl1r su c0met1d0, el r3cuerd0 d3 l4 cr14tur4 qu3dó 3n 3l 0lv1d0, h4st4 qu3 l0s d10ses 4nt1gu0s c0menz4r0n a susurr4r de nuev0.</esMX>
 		<frFR>Ce qui ne ressemble à rien est inconnaissable.</frFR>
 		<itIT>i-otw-uastsi.-a-fgAorfr-tg'eorrto-taterhn-e-a-uncnort-eitalot-butirhreed--laO-clacdro-umG'pould-isus-ahwuehadil-stipute-sro-etgdso-baarlg-,at-ilinat.</itIT>
-		<jaJP>旧・破神幻壊の霊す囁骸るき虚こがノと再ヰだびヱっ聞ソたこシ。え幻怪る霊物ま骸はで虚目忘ノ的れヰを去ヱ達らソ成れシした・、。幻</jaJP>
+		<jaJP>破・破滅幻壊さ霊すせ骸るる虚ここノとと再ヰ。びヱ怪聞ソ物こシがえ幻事る霊をま骸成で虚し忘ノたれヰ後去ヱ、らソそれシのた・存。幻在・破は幻壊旧霊す神骸るの虚こ囁ノときヰだがヱっ再ソたびシ。聞幻怪こ霊物え骸はる虚目まノ的でヰを忘ヱ達れソ成去シしら・、れ。幻た破神。</jaJP>
 		<koKR>통신보안.-이-생물은-목표를-달성한-후,-고대-신들이-다시-속삭이기-전까지-까맣게-잊혀졌다.</koKR>
 		<plPL>i-otw-uastsi.-a-fgAorfr-tg'eorrto-taterhn-e-a-uncnort-eitalot-butirhreed--laO-clacdro-umG'pould-isus-ahwuehadil-stipute-sro-etgdso-baarlg-,at-ilinat.</plPL>
 		<ptBR>i-otw-uastsi.-a-fgAorfr-tg'eorrto-taterhn-e-a-uncnort-eitalot-butirhreed--laO-clacdro-umG'pould-isus-ahwuehadil-stipute-sro-etgdso-baarlg-,at-ilinat.</ptBR>
@@ -64171,7 +64175,7 @@ Se você gastou 30 de Mana em lacaios nesta partida, receba &lt;b&gt;Imune&lt;/b
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="30"/>
 	<Tag enumID="45" name="HEALTH" type="Int" value="10"/>
 	<Tag enumID="47" name="ATK" type="Int" value="10"/>
-	<Tag enumID="48" name="COST" type="Int" value="10"/>
+	<Tag enumID="48" name="COST" type="Int" value="9"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1994"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
@@ -66434,7 +66438,7 @@ give both players a random spell.~GAMEPLAY_ASPROXY_BE_997</enUS>
 &lt;i&gt;（この効果によるものを除く）&lt;/i&gt;、
 &amp;両プレイヤーにランダムな
 呪文を1枚ずつ与える。</jaJP>
-		<koKR>&lt;i&gt;이 하수인&lt;/i&gt;이 아닌 카드가 내 손에 카드가 들어온 후에&amp; 두 플레이어 모두 무작위 주문을 손으로 가져옵니다.</koKR>
+		<koKR>&lt;i&gt;이 하수인&lt;/i&gt;이 아닌 카드가 내 손에 들어온 후에&amp; 두 플레이어 모두 무작위 주문을 손으로 가져옵니다.</koKR>
 		<plPL>Gdy karta &lt;i&gt;inna_niż_ta&lt;/i&gt; trafi do twojej_ręki,&amp; obaj_gracze otrzymują losowe_zaklęcie.</plPL>
 		<ptBR>Quando um card, &lt;i&gt;exceto este lacaio&lt;/i&gt;, entrar na sua mão,&amp; conceda um feitiço aleatório a ambos os jogadores.</ptBR>
 		<ruRU>После того как вы берете в руку любую карту, &lt;i&gt;кроме этой&lt;/i&gt;,&amp;
@@ -66816,7 +66820,7 @@ cuando esté disponible.</esES>
 		<esMX>Se puede obtener cuando esté disponible en los &lt;i&gt;Tesoros Feria de la Luna Negra&lt;/i&gt;.</esMX>
 		<frFR>Cette carte s’obtient quand elle est disponible dans les &lt;i&gt;trésors de la foire de Sombrelune&lt;/i&gt;.</frFR>
 		<itIT>Ottenibile quando disponibile in &lt;i&gt;Tesori della Fiera di Lunacupa&lt;/i&gt;.</itIT>
-		<jaJP>「&lt;i&gt;ダークムーン・フェアの宝物&lt;/i&gt;」での販売時に入手可能。</jaJP>
+		<jaJP>「&lt;i&gt;ダークムーン・フェアの宝物&lt;/i&gt;」での提供時に入手可能。</jaJP>
 		<koKR>&lt;i&gt;다크문 축제 보물&lt;/i&gt;로 나올 때 획득 가능</koKR>
 		<plPL>Do zdobycia po udostępnieniu w_&lt;i&gt;Skarbach_Festynu_Lunomroku&lt;/i&gt;.</plPL>
 		<ptBR>Possível de adquirir quando disponível em &lt;i&gt;Tesouros da Feira de Negraluna&lt;/i&gt;.</ptBR>
@@ -66893,36 +66897,36 @@ She's Azeroth.</enUS>
 		<zhTW>故事的開端是一個虛無造物做著該做的事，隱藏邪惡附著在自己的星球上。如今她的世界落入它們的掌控，她可不是普通的孩子。她是艾澤拉斯。</zhTW>
 	</Tag>
 	<Tag enumID="364" name="HOW_TO_EARN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」カードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>&lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote de cards de &lt;i&gt;Fuga do Castelo_Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt;</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;卡牌包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="365" name="HOW_TO_EARN_GOLDEN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus goldenen Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a golden &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre dorado de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas dorado de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes dorées d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte Dorate di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」ゴールデンカードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>황금 &lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu złotego pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote dourado de cards de &lt;i&gt;Fuga do Castelo Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из золотого комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt; สีทอง</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;金色包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》黃金卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Luke Mancini</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="5"/>
@@ -67031,36 +67035,36 @@ She's Azeroth.</enUS>
 		<zhTW>「欸，大家快來看喔，他們剛才連輸了五場耶！」</zhTW>
 	</Tag>
 	<Tag enumID="364" name="HOW_TO_EARN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」カードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>&lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote de cards de &lt;i&gt;Fuga do Castelo_Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt;</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;卡牌包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="365" name="HOW_TO_EARN_GOLDEN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus goldenen Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a golden &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre dorado de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas dorado de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes dorées d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte Dorate di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」ゴールデンカードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>황금 &lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu złotego pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote dourado de cards de &lt;i&gt;Fuga do Castelo Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из золотого комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt; สีทอง</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;金色包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》黃金卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Mooncolony</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="6"/>
@@ -67171,36 +67175,36 @@ $5ダメージを与える。
 		<zhTW>嗯，你知道缺了什麼嗎？在那個角落應該再放一座方尖碑。</zhTW>
 	</Tag>
 	<Tag enumID="364" name="HOW_TO_EARN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」カードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>&lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote de cards de &lt;i&gt;Fuga do Castelo_Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt;</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;卡牌包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="365" name="HOW_TO_EARN_GOLDEN" type="LocString">
-		<deDE>Kann durch Teilnahme an einem Sonderevent erhalten werden.</deDE>
-		<enUS>Obtainable by participating in a special event.</enUS>
-		<esES>Se obtiene al participar en un evento especial.</esES>
-		<esMX>Se obtiene al participar en un evento especial.</esMX>
-		<frFR>S’obtient en participant à un évènement spécial.</frFR>
-		<itIT>Ottenibile partecipando a un evento speciale.</itIT>
-		<jaJP>スペシャルイベントへの参加で入手可能。</jaJP>
-		<koKR>특별 이벤트에 참여하여 획득 가능</koKR>
-		<plPL>Do zdobycia za udział w_wydarzeniu_specjalnym.</plPL>
-		<ptBR>Obtido ao participar de um evento especial.</ptBR>
-		<ruRU>Можно получить в ходе особого события.</ruRU>
-		<thTH>หาได้จากการเข้าร่วมกิจกรรมพิเศษ</thTH>
-		<zhCN>参与特殊活动以获得该奖励。</zhCN>
-		<zhTW>透過參加特殊活動取得。</zhTW>
+		<deDE>Kann aus goldenen Kartenpackungen von &lt;i&gt;Flucht aus der Violetten Festung&lt;/i&gt; erhalten werden.</deDE>
+		<enUS>Earnable after opening a golden &lt;i&gt;Escape from Violet Hold&lt;/i&gt; card pack.</enUS>
+		<esES>Se puede conseguir tras abrir un sobre dorado de &lt;i&gt;Fuga del Bastión Violeta&lt;/i&gt;.</esES>
+		<esMX>Se puede obtener después de abrir un paquete de cartas dorado de &lt;i&gt;Escape del Bastión Violeta&lt;/i&gt;.</esMX>
+		<frFR>S’obtient après avoir ouvert un paquet de cartes dorées d’&lt;i&gt;Évasion du fort Pourpre&lt;/i&gt;.</frFR>
+		<itIT>Ottenibile aprendo una busta di carte Dorate di &lt;i&gt;Fuga dalla Fortezza Violacea&lt;/i&gt;.</itIT>
+		<jaJP>「&lt;i&gt;ヴァイオレット監獄脱出計画！&lt;/i&gt;」ゴールデンカードパックの開封後に獲得可能になる。</jaJP>
+		<koKR>황금 &lt;i&gt;보랏빛 요새 탈출 작전&lt;/i&gt; 카드 팩을 개봉한 후 획득 가능</koKR>
+		<plPL>Do zdobycia przy otwarciu złotego pakietu_kart z_&lt;i&gt;Ucieczki z_Purpurowej_Twierdzy&lt;/i&gt;.</plPL>
+		<ptBR>Possível de obter após abrir um pacote dourado de cards de &lt;i&gt;Fuga do Castelo Violeta&lt;/i&gt;.</ptBR>
+		<ruRU>Можно получить из золотого комплекта карт &lt;i&gt;«Побега из Аметистовой крепости»&lt;/i&gt;.</ruRU>
+		<thTH>ปลดล็อคได้หลังจากเปิดซองการ์ด &lt;i&gt;Escape from Violet Hold&lt;/i&gt; สีทอง</thTH>
+		<zhCN>打开&lt;i&gt;逃离紫罗兰监狱&lt;/i&gt;金色包后可解锁。</zhCN>
+		<zhTW>開啟&lt;i&gt;&lt;/i&gt;《紫羅蘭堡大逃亡》黃金卡牌包才有機會取得。</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Ian Ameling</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="5"/>
@@ -160082,10 +160086,40 @@ __長さを選択する。</jaJP>
 </Entity>
 <Entity CardID="CAP_405t1" ID="132837" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
+		<deDE>Verhaftet für Vernichtung</deDE>
 		<enUS>Detained for Destruction</enUS>
+		<esES>Detenido por destrucción</esES>
+		<esMX>Detención por destrucción</esMX>
+		<frFR>Détention pour destruction</frFR>
+		<itIT>Arresto per Vandalismo</itIT>
+		<jaJP>破壊行為で勾留</jaJP>
+		<koKR>파괴죄로 구금</koKR>
+		<plPL>Skazani na zagładę</plPL>
+		<ptBR>Detido por Destruição</ptBR>
+		<ruRU>Задержание за нападение</ruRU>
+		<thTH>ข้อหาบ่อนทำลาย</thTH>
+		<zhCN>毁伤获罪</zhCN>
+		<zhTW>扣留摧毀</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
+		<deDE>Zwingt jeden Diener, einen anderen Diener anzugreifen.</deDE>
 		<enUS>Force each minion to attack another minion.</enUS>
+		<esES>Obliga a cada esbirro a atacar a otro esbirro.</esES>
+		<esMX>Obliga a cada esbirro a atacar a otro esbirro.</esMX>
+		<frFR>Force chaque serviteur à attaquer un autre serviteur.</frFR>
+		<itIT>Costringe ogni servitore ad attaccarne un altro.</itIT>
+		<jaJP>[x]全てのミニオンに
+他のミニオン1体を
+攻撃させる。</jaJP>
+		<koKR>모든 하수인이 다른 하수인을 공격합니다.</koKR>
+		<plPL>Zmuś każdego stronnika do_zaatakowania innego_stronnika.</plPL>
+		<ptBR>Force cada lacaio a atacar outro.</ptBR>
+		<ruRU>[x]Заставляет каждое
+существо атаковать
+другое существо.</ruRU>
+		<thTH>บังคับให้[b]มินเนี่ยนทั้งหมด[b]โจมตีมินเนี่ยนตัวอื่น</thTH>
+		<zhCN>迫使每个随从攻击另一个随从。</zhCN>
+		<zhTW>強迫每個手下攻擊另一個手下</zhTW>
 	</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="3"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -160159,22 +160193,22 @@ inimigo aleatório.</ptBR>
 		<zhTW>走私判刑</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Stehlt 2 Karten von der Hand Eures Gegners.</deDE>
-		<enUS>Steal 2 cards from your opponent's hand.</enUS>
-		<esES>Roba 2 cartas de la mano de tu oponente.</esES>
-		<esMX>Roba 2 cartas de la mano de tu adversario.</esMX>
-		<frFR>Vole 2_cartes dans la main de votre adversaire.</frFR>
-		<itIT>Ruba 2 carte dalla mano dell'avversario.</itIT>
-		<jaJP>[x]相手の手札
-2枚を奪う。</jaJP>
-		<koKR>상대편의 손에서 카드를 2장 가져옵니다.</koKR>
-		<plPL>Wykradnij 2 karty z_ręki_przeciwnika.</plPL>
-		<ptBR>Roube 2 cards da
-mão do oponente.</ptBR>
-		<ruRU>Вы крадете 2 карты из_руки противника.</ruRU>
-		<thTH>ขโมยการ์ด 2_ใบจากมือคู่ต่อสู้</thTH>
-		<zhCN>偷取你对手的2张手牌。</zhCN>
-		<zhTW>從對手手中偷取2張牌</zhTW>
+		<deDE>Stehlt eine Karte von der Hand Eures Gegners.</deDE>
+		<enUS>Steal a card from your opponent's hand.</enUS>
+		<esES>Roba una carta de la mano de tu_oponente.</esES>
+		<esMX>Roba una carta de la mano de tu adversario.</esMX>
+		<frFR>Vole une carte dans la main de votre adversaire.</frFR>
+		<itIT>Ruba una carta dalla mano dell'avversario.</itIT>
+		<jaJP>[x]相手の手札から
+カードを1枚奪う。</jaJP>
+		<koKR>상대편의 손에서 카드를 가져옵니다.</koKR>
+		<plPL>Ukradnij kartę z ręki przeciwnika.</plPL>
+		<ptBR>Roube um card da mão do oponente.</ptBR>
+		<ruRU>Вы похищаете карту из_руки противника.</ruRU>
+		<thTH>ขโมยการ์ดหนึ่งใบ[b]จากมือคู่ต่อสู้</thTH>
+		<zhCN>偷取你对手的一张手牌。</zhCN>
+		<zhTW>從對手手中
+偷取一張卡牌</zhTW>
 	</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="1"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -160241,22 +160275,22 @@ mão do oponente.</ptBR>
 		<zhTW>虛晃毒襲</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Verleiht Dienern auf Eurer Hand und auf dem Schlachtfeld +3/+3.</deDE>
-		<enUS>Give minions in your hand and battlefield +3/+3.</enUS>
-		<esES>Otorga +3/+3 a los esbirros de tu mano y campo de batalla.</esES>
-		<esMX>Otorga +3/+3 a los esbirros de tu mano y el campo de batalla.</esMX>
-		<frFR>Donne_+3/+3 aux serviteurs de votre main et sur votre plateau.</frFR>
-		<itIT>+3/+3 ai servitori nella tua mano e sul tuo lato del campo.</itIT>
+		<deDE>Verleiht Dienern auf Eurer Hand und auf dem Schlachtfeld +2/+2.</deDE>
+		<enUS>Give minions in your hand and battlefield +2/+2.</enUS>
+		<esES>Otorga +2/+2 a los esbirros de tu mano y campo de batalla.</esES>
+		<esMX>Otorga +2/+2 a los esbirros de tu mano y el campo de batalla.</esMX>
+		<frFR>Donne_+2/+2 aux serviteurs de votre main et sur votre plateau.</frFR>
+		<itIT>+2/+2 ai servitori nella tua mano e sul tuo lato del campo.</itIT>
 		<jaJP>[x]自分の手札と陣地の
-ミニオン全てに
-+3/+3を付与する。</jaJP>
-		<koKR>내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.</koKR>
-		<plPL>Daj stronnikom w_twojej_ręce i_na_polu_bitwy_+3/+3.</plPL>
-		<ptBR>Conceda +3/+3 aos lacaios na sua mão e no campo de batalha.</ptBR>
-		<ruRU>Существа у вас в руке и на поле боя получают +3/+3.</ruRU>
-		<thTH>มอบ_+3/+3_ให้[b]มินเนี่ยนทั้งหมดใน[b]มือคุณและสนามฝั่งคุณ</thTH>
-		<zhCN>使你手牌中和战场上的随从获得+3/+3。</zhCN>
-		<zhTW>賦予你手中和戰場的手下+3/+3</zhTW>
+ミニオン全てに+2/+2を
+付与する。</jaJP>
+		<koKR>내 손과 전장에 있는 하수인들에게 +2/+2를 부여합니다.</koKR>
+		<plPL>Daj stronnikom w_twojej_ręce i_na_polu_bitwy_+2/+2.</plPL>
+		<ptBR>Conceda +2/+2 aos lacaios na sua mão e no campo de batalha.</ptBR>
+		<ruRU>Существа у вас в руке и на поле боя получают +2/+2.</ruRU>
+		<thTH>มอบ_+2/+2_ให้[b]มินเนี่ยนทั้งหมดใน[b]มือคุณและสนามฝั่งคุณ</thTH>
+		<zhCN>使你手牌中和战场上的随从获得+2/+2。</zhCN>
+		<zhTW>賦予你手中和戰場的手下+2/+2</zhTW>
 	</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="7"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
@@ -160283,20 +160317,20 @@ mão do oponente.</ptBR>
 		<zhTW>可疑匕首</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>+3/+3</deDE>
-		<enUS>+3/+3</enUS>
-		<esES>+3/+3</esES>
-		<esMX>+3/+3</esMX>
-		<frFR>+3/+3.</frFR>
-		<itIT>+3/+3</itIT>
-		<jaJP>+3/+3</jaJP>
-		<koKR>+3/+3</koKR>
-		<plPL>+3/+3.</plPL>
-		<ptBR>+3/+3</ptBR>
-		<ruRU>+3/+3</ruRU>
-		<thTH>+3/+3</thTH>
-		<zhCN>+3/+3</zhCN>
-		<zhTW>+3/+3</zhTW>
+		<deDE>+2/+2</deDE>
+		<enUS>+2/+2</enUS>
+		<esES>+2/+2</esES>
+		<esMX>+2/+2</esMX>
+		<frFR>+2/+2.</frFR>
+		<itIT>+2/+2.</itIT>
+		<jaJP>+2/+2</jaJP>
+		<koKR>+2/+2</koKR>
+		<plPL>+2/+2</plPL>
+		<ptBR>+2/+2</ptBR>
+		<ruRU>+2/+2</ruRU>
+		<thTH>+2/+2</thTH>
+		<zhCN>+2/+2</zhCN>
+		<zhTW>+2/+2</zhTW>
 	</Tag>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1988"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
@@ -160320,23 +160354,23 @@ mão do oponente.</ptBR>
 		<zhTW>罪犯契約</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Ruft 3 zufällige Diener herbei, die (3) kosten.</deDE>
-		<enUS>Summon three random 3-Cost minions.</enUS>
-		<esES>Invoca tres esbirros de coste 3 aleatorios.</esES>
-		<esMX>Invoca tres esbirros aleatorios de costo 3.</esMX>
-		<frFR>Invoque trois serviteurs aléatoires coûtant 3_cristaux.</frFR>
-		<itIT>Evoca tre servitori casuali che costano 3.</itIT>
-		<jaJP>[x]ランダムなコスト3の
+		<deDE>Ruft 3 zufällige Diener herbei, die (2) kosten.</deDE>
+		<enUS>Summon three random 2-Cost minions.</enUS>
+		<esES>Invoca tres esbirros de coste 2 aleatorios.</esES>
+		<esMX>Invoca tres esbirros aleatorios de costo 2.</esMX>
+		<frFR>Invoque trois serviteurs aléatoires coûtant 2_cristaux.</frFR>
+		<itIT>Evoca tre servitori casuali che costano 2.</itIT>
+		<jaJP>[x]ランダムなコスト2の
 ミニオン3体を
 召喚する。</jaJP>
-		<koKR>비용이 3인 무작위 하수인을 셋 소환합니다.</koKR>
-		<plPL>Przyzwij trzech losowych stronników o_koszcie_(3).</plPL>
-		<ptBR>Evoque três lacaios aleatórios de Custo 3.</ptBR>
+		<koKR>비용이 2인 무작위 하수인을 셋 소환합니다.</koKR>
+		<plPL>Przyzwij trzech losowych stronników o_koszcie_(2).</plPL>
+		<ptBR>Evoque três lacaios aleatórios de Custo 2.</ptBR>
 		<ruRU>[x]Призывает трех
-случайных существ за (3).</ruRU>
-		<thTH>สุ่มเรียกมินเนี่ยน[b]ค่าร่าย_3_สามตัว</thTH>
-		<zhCN>随机召唤三个法力值消耗为（3）的随从。</zhCN>
-		<zhTW>召喚三個消耗為3的隨機手下</zhTW>
+случайных существ за (2).</ruRU>
+		<thTH>สุ่มเรียกมินเนี่ยน[b]ค่าร่าย_2_สามตัว</thTH>
+		<zhCN>随机召唤三个法力值消耗为（2）的随从。</zhCN>
+		<zhTW>召喚三個消耗為2的隨機手下</zhTW>
 	</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="6"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1988"/>
@@ -175589,7 +175623,7 @@ $@ダメージを与える。
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Dmitry Bolotov</Tag>
 	<Tag enumID="2" name="TAG_SCRIPT_DATA_NUM_1" type="Int" value="1"/>
-	<Tag enumID="48" name="COST" type="Int" value="6"/>
+	<Tag enumID="48" name="COST" type="Int" value="5"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1980"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="10"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
@@ -225284,7 +225318,7 @@ ___3ダメージを与える。</jaJP>
 наносит 3_ед._урона вашему герою.</ruRU>
 		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;&amp; สร้างความเสียหาย 3_แต้มให้ฮีโร่ของคุณ</thTH>
 		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;&amp;对你的英雄造成3点伤害。</zhCN>
-		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;&amp;抽一張牌，對你的英雄造成3點傷害</zhTW>
+		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;&amp;對你的英雄造成3點傷害</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Wichtel können einfach nicht verstehen, warum Ihr es nicht so toll findet, in Brand gesteckt zu werden.</deDE>
@@ -256157,7 +256191,7 @@ des Tutorials freigeschaltet.</deDE>
 		<enUS>At the start of your turn,&amp; destroy ALL minions.</enUS>
 		<esES>Al comienzo de tu turno,&amp; destruye a todos los esbirros.</esES>
 		<esMX>Al comienzo de tu turno,&amp; destruye TODOS los esbirros.</esMX>
-		<frFR>À la fin de votre tour,&amp; détruit TOUS les serviteurs.</frFR>
+		<frFR>Au début de votre tour,&amp; détruit TOUS les serviteurs.</frFR>
 		<itIT>All'inizio del tuo turno,&amp; distrugge TUTTI i servitori.</itIT>
 		<jaJP>[x]自分のターンの開始時、
 &amp;全てのミニオンを
@@ -260403,28 +260437,28 @@ Se repite por cada diablillo que controles.</esES>
 		<zhTW>神秘訪客</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Verringert die Kosten von Karten, die Ihr von Eurem Gegner kopiert habt, um (3).</deDE>
-		<enUS>&lt;b&gt;Battlecry:&lt;/b&gt; Reduce the Cost of cards copied from your opponent by (3).</enUS>
+		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Verringert die Kosten von Karten, die Ihr von Eurem Gegner kopiert habt, um (2).</deDE>
+		<enUS>&lt;b&gt;Battlecry:&lt;/b&gt; Reduce the Cost of cards copied from your opponent by (2).</enUS>
 		<esES>[x]&lt;b&gt;Grito de batalla:&lt;/b&gt; Reduce
 el coste de las cartas
 copiadas a tu oponente
-en (3) cristales.</esES>
-		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; reduce en (3) el costo de las cartas que se copiaron de tu adversario.</esMX>
-		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; réduit le coût_des cartes copiées chez votre adversaire de (3)_|4(cristal,cristaux).</frFR>
+en (2) cristales.</esES>
+		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; reduce en (2) el costo de las cartas que se copiaron de tu adversario.</esMX>
+		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; réduit le coût_des cartes copiées chez votre adversaire de (2)_|4(cristal,cristaux).</frFR>
 		<itIT>[x]&lt;b&gt;Grido di Battaglia:&lt;/b&gt; riduce
-di (3) il costo delle carte
+di (2) il costo delle carte
 copiate dall'avversario.</itIT>
 		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;
 相手からコピーした
 カード全ての
-____コストを（3）減らす。_</jaJP>
-		<koKR>&lt;b&gt;전투의 함성:&lt;/b&gt; 상대편에게서 복사해온 카드들의 비용이 (3) 감소합니다.</koKR>
-		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zmniejsz koszt kart skopiowanych od_przeciwnika_o_(3).</plPL>
-		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt; Reduza em (3) o Custo dos cards copiados_do_oponente.</ptBR>
-		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; уменьшает стоимость карт, скопированных у противника, на (3).</ruRU>
-		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt; ลดค่าร่ายของ[b]การ์ดทั้งหมดที่คุณก๊อปปี้มา[b]จากคู่ต่อสู้ลง_(3)</thTH>
-		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;使你从对手处复制的卡牌的法力值消耗减少（3）点。</zhCN>
-		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;從對手複製而來的牌消耗降低(3)</zhTW>
+____コストを（2）減らす。_</jaJP>
+		<koKR>&lt;b&gt;전투의 함성&lt;/b&gt;: 상대편에게서 복사해온 카드들의 비용이 (2) 감소합니다.</koKR>
+		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zmniejsz koszt kart skopiowanych od_przeciwnika_o_(2).</plPL>
+		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt; Reduza em (2) o Custo dos cards copiados_do_oponente.</ptBR>
+		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; уменьшает стоимость карт, скопированных у противника, на (2).</ruRU>
+		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_ลดค่าร่ายของ[b]การ์ดทั้งหมดที่คุณก๊อปปี้มา[b]จากคู่ต่อสู้ลง_(2)</thTH>
+		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;使你从对手处复制的卡牌的法力值消耗减少（2）点。</zhCN>
+		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;從對手複製而來的牌消耗減少(2)</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Dave, wir sehen doch, dass der Brief gefälscht ist_– das ist deine Handschrift. Und nimm die blöde Kapuze ab, das ist echt peinlich.</deDE>
@@ -270038,24 +270072,28 @@ Gaste 4 &lt;b&gt;Cadáveres&lt;/b&gt; para conceder-lhes &lt;b&gt;Renascer&lt;/b
 		<zhTW>死亡侍僧</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Nachdem ein befreundeter Untoter gestorben ist:&amp; Zieht eine Karte.</deDE>
-		<enUS>After a friendly Undead dies,&amp; draw a card.</enUS>
-		<esES>Después de que muera un no-muerto amistoso,&amp; roba una carta.</esES>
-		<esMX>Después de que un No-muerto aliado muere,&amp; roba una carta.</esMX>
-		<frFR>Une fois qu’un Mort-vivant allié meurt,&amp; vous piochez une carte.</frFR>
-		<itIT>Dopo che è morto un tuo Non Morto,&amp; pesca una carta.</itIT>
+		<deDE>Zieht eine Karte, nachdem ein befreundeter Untoter gestorben ist.</deDE>
+		<enUS>After a friendly Undead dies, draw a card.</enUS>
+		<esES>Después de que muera
+un no-muerto amistoso, roba una carta.</esES>
+		<esMX>Después de que un
+No-muerto aliado muere, roba una carta.</esMX>
+		<frFR>Vous piochez une carte une fois qu’un Mort-vivant allié_meurt.</frFR>
+		<itIT>[x]Dopo che è morto un
+tuo Non Morto,
+pesca una carta.</itIT>
 		<jaJP>[x]味方のアンデッドが
-死亡した後、
-__&amp;カードを1枚引く。</jaJP>
-		<koKR>아군 언데드가 죽은 후에,&amp; 카드를 뽑습니다.</koKR>
-		<plPL>Gdy zginie przyjazny_Nieumarły,&amp; dobierz_kartę.</plPL>
-		<ptBR>Depois que um Morto-Vivo aliado morrer,&amp; compre um card.</ptBR>
+死亡した後
+____カードを1枚引く。</jaJP>
+		<koKR>아군 언데드가 죽은 후에, 카드를 뽑습니다.</koKR>
+		<plPL>Gdy zginie przyjazny_Nieumarły, dobierz_kartę.</plPL>
+		<ptBR>Depois que um Morto-Vivo aliado morrer, compre um_card.</ptBR>
 		<ruRU>[x]После того как ваше
-существо-нежить погибает,&amp;
+существо-нежить погибает,
 вы берете карту.</ruRU>
-		<thTH>หลังจากอันเดดฝ่ายคุณ[b]ตาย&amp;_จั่วการ์ดหนึ่งใบ</thTH>
-		<zhCN>在一个友方亡灵死亡后，&amp;抽一张牌。</zhCN>
-		<zhTW>在友方不死族死亡後，&amp;抽一張牌</zhTW>
+		<thTH>หลังจากอันเดดฝ่ายคุณ[b]ตาย_จั่วการ์ดหนึ่งใบ</thTH>
+		<zhCN>在一个友方亡灵死亡后，抽一张牌。</zhCN>
+		<zhTW>在友方不死族死亡後，抽一張牌</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Ich sehe tote Diener. Eine ganze MASSE toter Diener.</deDE>
@@ -270117,7 +270155,6 @@ __&amp;カードを1枚引く。</jaJP>
 	<Tag enumID="203" name="RARITY" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="858" name="80089" type="Int" value="80089"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="CORE_RLK_122" ID="111329" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -272600,32 +272637,37 @@ obtienes 3 p. de armadura.</esES>
 		<zhTW>大領主弗塔根</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Nachdem ein befreundeter Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren hat:&amp; Verleiht einem Diener auf Eurer Hand +5/+5.</deDE>
+		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Verleiht einem Diener auf Eurer Hand +5/+5, nachdem ein befreundeter Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren_hat.</deDE>
 		<enUS>[x]&lt;b&gt;Divine Shield&lt;/b&gt;
 After a friendly minion loses
-&lt;b&gt;Divine Shield&lt;/b&gt;,&amp; give a minion
+&lt;b&gt;Divine Shield&lt;/b&gt;, give a minion
 __in your hand +5/+5.</enUS>
-		<esES>&lt;b&gt;Escudo divino&lt;/b&gt; Después de que un esbirro amistoso pierda su &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +5/+5 a un esbirro de tu mano.</esES>
+		<esES>[x]&lt;b&gt;Escudo divino&lt;/b&gt;
+Después de que un esbirro amistoso
+pierda su &lt;b&gt;Escudo divino&lt;/b&gt;, otorga
++5 /+5 a un esbirro de tu mano.</esES>
 		<esMX>&lt;b&gt;Escudo divino&lt;/b&gt;
-Después de que un esbirro aliado pierde &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +5/+5 a un esbirro de tu mano.</esMX>
+Después de que un esbirro aliado pierde &lt;b&gt;Escudo divino&lt;/b&gt;, otorga +5/+5 a un esbirro de tu_mano.</esMX>
 		<frFR>&lt;b&gt;Bouclier divin&lt;/b&gt;
-Une fois qu’un serviteur allié a perdu &lt;b&gt;Bouclier divin&lt;/b&gt;,&amp; donne +5/+5 à un serviteur de votre main.</frFR>
-		<itIT>&lt;b&gt;Scudo Divino:&lt;/b&gt; dopo che un tuo servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;,&amp; +5/+5 a un servitore nella tua mano.</itIT>
-		<jaJP>[x]&lt;b&gt;聖なる盾。&lt;/b&gt;
+Une fois qu’un serviteur allié a_perdu &lt;b&gt;Bouclier divin&lt;/b&gt;, donne +5/+5 à un serviteur de votre main.</frFR>
+		<itIT>&lt;b&gt;Scudo Divino:&lt;/b&gt; dopo che un tuo servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;, +5/+5 a un servitore nella tua mano.</itIT>
+		<jaJP>[x]&lt;b&gt;聖なる盾&lt;/b&gt;
 味方のミニオンが
-&lt;b&gt;聖なる盾&lt;/b&gt;を失った後、
-&amp;自分の手札のミニオン
-____1体に+5/+5を付与する。_</jaJP>
-		<koKR>&lt;b&gt;천상의 보호막&lt;/b&gt;, 아군 하수인이 &lt;b&gt;천상의 보호막&lt;/b&gt;을 잃은 후에,&amp; 내 손에 있는 하수인에게 +5/+5를 부여합니다.</koKR>
-		<plPL>&lt;b&gt;Boska_tarcza&lt;/b&gt;
-Gdy przyjazny_stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_stronnikowi w_twojej_ręce_+5/+5.</plPL>
-		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que um lacaio aliado perder &lt;b&gt;Escudo Divino&lt;/b&gt;,&amp; conceda +5/+5 a um lacaio da sua mão.</ptBR>
+&lt;b&gt;聖なる盾&lt;/b&gt;を失った後
+自分の手札のミニオン
+______1体に+5/+5を付与する。__</jaJP>
+		<koKR>&lt;b&gt;천상의 보호막&lt;/b&gt;, 아군 하수인이 &lt;b&gt;천상의_보호막&lt;/b&gt;을 잃은 후에, 내 손에 있는 하수인에게 +5/+5를 부여합니다.</koKR>
+		<plPL>&lt;b&gt;Boska tarcza&lt;/b&gt;
+Gdy przyjazny stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;, daj_stronnikowi w_twojej_ręce_+5/+5.</plPL>
+		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que um lacaio aliado perder &lt;b&gt;Escudo Divino&lt;/b&gt;, conceda +5/+5 a um lacaio da sua mão.</ptBR>
 		<ruRU>&lt;b&gt;Божественный щит&lt;/b&gt;
-После того как ваше существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;,&amp; существо у вас в руке получает +5/+5.</ruRU>
-		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt; หลังจากมินเนี่ยนฝ่ายคุณเสีย &lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;&amp;_มอบ_+5/+5 ให้มินเนี่ยนหนึ่งใบในมือคุณ</thTH>
-		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;。在一个友方随从失去&lt;b&gt;圣盾&lt;/b&gt;后，&amp;使你手牌中的一张随从牌获得+5/+5。</zhCN>
+После того как ваше существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;, существо у вас в руке получает +5/+5.</ruRU>
+		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt; หลังจากมินเนี่ยนฝ่ายคุณเสีย &lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;_มอบ_+5/+5_ให้[b]มินเนี่ยนหนึ่งใบในมือคุณ</thTH>
+		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;
+在一个友方随从失去&lt;b&gt;圣盾&lt;/b&gt;后，使你手牌中的一张随从牌获得+5/+5。</zhCN>
 		<zhTW>&lt;b&gt;聖盾術&lt;/b&gt;
-在友方手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，&amp;賦予你手中一個手下+5/+5</zhTW>
+在友方手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，賦予你手中
+一個手下+5/+5</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>„Mein Glaube und mein Mut werden mich schützen. Und durch meine Ehre und mein Opfer wird sich ein anderer an meiner statt erheben.“</deDE>
@@ -272674,7 +272716,6 @@ Gdy przyjazny_stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_stronn
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="858" name="64546" type="Int" value="64546"/>
 	<Tag enumID="1413" name="DECK_RULE_COUNT_AS_COPY_OF_CARD_ID" type="Int" value="64546"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="CORE_SW_066" ID="102222" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -358264,29 +358305,29 @@ Depois que este lacaio atacar um lacaio inimigo, ele causa dano a TODOS os outro
 		<zhTW>蝙蝠面具</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>[x]Setzt die Werte eines be[d]freundeten Dieners auf 1/1.
-Füllt Eure Seite des Schlacht[d]felds mit Kopien davon.</deDE>
-		<enUS>Set a friendly minion's stats to 1/1. Fill your board with copies of it.</enUS>
-		<esES>Establece en 1/1 las estadísticas de un esbirro amistoso. Llena tu tablero de copias de ese esbirro.</esES>
-		<esMX>Establece las estadísticas de un esbirro aliado en 1/1. Llena tu tablero con copias de él.</esMX>
-		<frFR>Fait passer les_caractéristiques d’un serviteur allié à 1/1. Remplit votre plateau de copies de ce_serviteur.</frFR>
-		<itIT>Imposta le statistiche di un tuo servitore a 1/1. Riempie il tuo lato del
-campo con sue copie.</itIT>
-		<jaJP>[x]味方のミニオン1体の
+		<deDE>Setzt die Werte eines befreundeten nicht-&lt;b&gt;legendären&lt;/b&gt; Dieners auf 1/1. Füllt Eure Seite des Schlachtfelds mit Kopien davon.</deDE>
+		<enUS>Set a friendly non-&lt;b&gt;Legendary&lt;/b&gt; minion's stats to 1/1. Fill your board with copies of it.</enUS>
+		<esES>Establece en 1/1 las estadísticas de un esbirro &lt;b&gt;no_legendario&lt;/b&gt; amistoso. Llena tu tablero de copias de ese esbirro.</esES>
+		<esMX>Establece las estadísticas de un esbirro no_&lt;b&gt;Legendario&lt;/b&gt; aliado en 1/1. Llena tu tablero con copias_de_él.</esMX>
+		<frFR>Fait passer les_caractéristiques d’un serviteur non &lt;b&gt;légendaire&lt;/b&gt; allié à 1/1. Remplit votre plateau de copies de ce_serviteur.</frFR>
+		<itIT>Imposta le statistiche di un tuo servitore non &lt;b&gt;Leggendario&lt;/b&gt; a 1/1. Riempie il tuo lato del campo con sue copie.</itIT>
+		<jaJP>[x]&lt;b&gt;レジェンド&lt;/b&gt;ではない
+味方のミニオン1体の
 攻撃力・体力を1/1にする。
 自分の陣地にそのコピーを
-可能な限り召喚する。</jaJP>
-		<koKR>아군 하수인의 능력치를 1/1로 만듭니다. 그 하수인을 복사하여 내 전장을 가득 채웁니다.</koKR>
-		<plPL>Ustaw statystyki przyjaznego stronnika na_1/1. Zapełnij planszę jego_kopiami.</plPL>
-		<ptBR>Mude os atributos de um lacaio aliado para 1/1. Encha seu tabuleiro com cópias desse lacaio.</ptBR>
+_____可能な限り召喚する。</jaJP>
+		<koKR>&lt;b&gt;전설&lt;/b&gt; 하수인이 아닌 아군 하수인의 능력치를 1/1로 만듭니다. 그 하수인을 복사하여 내 전장을 가득 채웁니다.</koKR>
+		<plPL>Ustaw statystyki przyjaznego_nie&lt;b&gt;legendarnego&lt;/b&gt; stronnika_na_1/1. Zapełnij_planszę_jego_kopiami.</plPL>
+		<ptBR>Mude os atributos de um lacaio aliado que não é &lt;b&gt;Lendário&lt;/b&gt; para 1/1. Encha seu tabuleiro com cópias desse_lacaio.</ptBR>
 		<ruRU>[x]Характеристики вашего
-существа становятся
-равны 1/1. Заполняет
-вашу сторону его копиями.</ruRU>
-		<thTH>เปลี่ยนค่าพลังของมินเนี่ยน[b]ฝ่ายคุณหนึ่งตัวเป็น_1/1 เรียกร่างก๊อปปี้ของมัน[b]จนเต็มสนามฝั่งคุณ</thTH>
-		<zhCN>将一个友方随从的属性值变为1/1。用它的复制填满你的
-面板。</zhCN>
-		<zhTW>將一個友方手下的體質改為1/1，然後召喚其分身直到你場上的位置全滿</zhTW>
+&lt;b&gt;нелегендарного&lt;/b&gt; существа
+становятся равны 1/1.
+Заполняет вашу сторону
+его копиями.</ruRU>
+		<thTH>เปลี่ยนค่าพลังของมินเนี่ยน[b]ที่ไม่ใช่ระดับ &lt;b&gt;ตำนาน&lt;/b&gt; ฝ่ายคุณ[b]หนึ่งตัวเป็น_1/1 เรียกร่างก๊อปปี้[b]ของมันจนเต็มสนามฝั่งคุณ</thTH>
+		<zhCN>将一个非&lt;b&gt;传说&lt;/b&gt;友方随从的属性值变为1/1。用它的复制填满你的面板。</zhCN>
+		<zhTW>將一個友方
+非&lt;b&gt;傳說&lt;/b&gt;手下的體質改為1/1，然後召喚其分身直到你場上的位置全滿</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>DER KÖDER ZEIGT KEINE WIRKUNG MEHR.</deDE>
@@ -359062,42 +359103,35 @@ Custa (1) a menos para cada card que você jogou nesta partida que não tenha co
 		<zhTW>凱洛斯的蛋</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein leicht angeknackstes Ei herbei.
-&lt;i&gt;(Knackt es 5-mal an, um ein
-Wildtier (20/20) mit &lt;b&gt;Spott&lt;/b&gt; schlüpfen zu lassen!)&lt;/i&gt;</deDE>
-		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a
-slightly cracked Egg. &lt;i&gt;(Break
-5 times to hatch a 20/20
-Beast with &lt;b&gt;Taunt&lt;/b&gt;!)&lt;/i&gt;</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo un poco cascado. &lt;i&gt;(¡Cáscalo 5 veces para que salga una_bestia 20/20 con &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;.</esES>
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein leicht angeknackstes Ei herbei. &lt;i&gt;(Knackt es 5-mal an, um ein Wildtier (20/20) schlüpfen zu_lassen!)&lt;/i&gt;</deDE>
+		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon
+a slightly cracked Egg.
+&lt;i&gt;(Break 5 times to hatch
+into a 20/20 Beast!)&lt;/i&gt;</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt;
+Invoca un huevo un poco cascado.
+&lt;i&gt;(¡Cáscalo 5 veces para que salga una_bestia 20/20!)&lt;/i&gt;.</esES>
 		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Huevo
-ligeramente roto. &lt;i&gt;(¡Rómpelo 5 veces para que nazca_una_Bestia_ 20/20 con &lt;b&gt;Provocación&lt;/b&gt;!).&lt;/i&gt;</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf_légèrement fêlé. &lt;i&gt;(Brisez la_coquille 5_fois pour faire éclore une Bête_20/20 avec &lt;b&gt;Provocation&lt;/b&gt;_!)&lt;/i&gt;</frFR>
-		<itIT>[x]&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo
-leggermente incrinato. &lt;i&gt;(Rompilo
-5 volte per farlo schiudere e far
-fuoriuscire una Bestia 20/20
-con &lt;b&gt;Provocazione&lt;/b&gt;!)&lt;/i&gt;</itIT>
+ligeramente roto.
+&lt;i&gt;(¡Rómpelo 5 veces para que nazca_una_Bestia_20/20!).&lt;/i&gt;</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf légèrement fêlé. &lt;i&gt;(Brisez la coquille 5_fois pour faire éclore_une_Bête_20/20_!)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo leggermente incrinato. &lt;i&gt;(Rompilo 5 volte per farlo schiudere e far fuoriuscire una Bestia 20/20!)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 少しひび割れた卵を1個
 召喚する。&lt;i&gt;（5回破壊すると
-孵化して&lt;b&gt;挑発&lt;/b&gt;を持つ
-____20/20の獣になる！）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; 조금 금이 간 알을 소환합니다.
-&lt;i&gt;(5번 깨면 &lt;b&gt;도발&lt;/b&gt; 능력이 있는 20/20 야수가 나옵니다!)&lt;/i&gt;</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij lekko_popękane_jajo. &lt;i&gt;(Rozbij_je_5 razy, aby wykluło się w_Bestię 20/20 z_&lt;b&gt;Prowokacją&lt;/b&gt;!)&lt;/i&gt;</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt;
-Evoque um Ovo ligeiramente rachado. &lt;i&gt;(Quebre-o 5 vezes para chocar uma Fera 20/20 com &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;</ptBR>
+孵化して20/20の
+獣になる！）&lt;/i&gt;</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 조금 금이 간 알을 소환합니다. &lt;i&gt;(5번 깨면 부화하여 20/20 야수가 됩니다!)&lt;/i&gt;</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij_lekko_popękane_jajo. &lt;i&gt;(Rozbij_je_5_razy, aby_wykluła_się_z_niego Bestia_20/20!)&lt;/i&gt;</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Ovo ligeiramente rachado.
+&lt;i&gt;(Quebre-o 5 vezes para chocar uma Fera 20/20!)&lt;/i&gt;</ptBR>
 		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
 слегка надтреснутое яйцо.
 &lt;i&gt;(Разбейте 5 раз, чтобы
-вылупился зверь 20/20 с &lt;b&gt;«Провокацией»&lt;/b&gt;!)&lt;/i&gt;</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]เล็กน้อย_&lt;i&gt;(ทำไข่แตก_5_ครั้งเพื่อ[b]ฟักเป็นสัตว์_20/20_ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;!)&lt;/i&gt;</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚轻微开裂的蛋。&lt;i&gt;（破壳5次即可孵化为一只20/20并具有&lt;b&gt;嘲讽&lt;/b&gt;的野兽！）&lt;/i&gt;</zhCN>
-		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一顆
-稍微裂開的蛋
-&lt;i&gt;(打破5次以孵化出一個
-有&lt;b&gt;嘲諷&lt;/b&gt;的20/20野獸！)&lt;/i&gt;</zhTW>
+[x]вылупился зверь 20/20!)&lt;/i&gt;</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]เล็กน้อย_&lt;i&gt;(ทำไข่แตก_5_ครั้ง[b]เพื่อฟักเป็นสัตว์_20/20!)&lt;/i&gt;</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚轻微开裂的蛋。&lt;i&gt;（破壳5次即可孵化为一只20/20的野兽！）&lt;/i&gt;</zhCN>
+		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一顆稍微裂開的蛋&lt;i&gt;(打破5次以孵化出一個20/20野獸！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Khelos wartet seit tausenden von Jahren darauf, zu schlüpfen. Hoffentlich müsst Ihr nicht so lange warten.</deDE>
@@ -359126,7 +359160,6 @@ Evoque um Ovo ligeiramente rachado. &lt;i&gt;(Quebre-o 5 vezes para chocar uma F
 	<Tag enumID="217" name="DEATHRATTLE" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<ReferencedTag enumID="190" name="TAUNT" type="Int" value="1"/>
 </Entity>
 <Entity CardID="DINO_410t" ID="118495" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -359145,29 +359178,12 @@ Evoque um Ovo ligeiramente rachado. &lt;i&gt;(Quebre-o 5 vezes para chocar uma F
 		<zhCN>凯洛斯</zhCN>
 		<zhTW>凱洛斯</zhTW>
 	</Tag>
-	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Spott&lt;/b&gt;</deDE>
-		<enUS>&lt;b&gt;Taunt&lt;/b&gt;</enUS>
-		<esES>&lt;b&gt;Provocar&lt;/b&gt;</esES>
-		<esMX>&lt;b&gt;Provocación&lt;/b&gt;</esMX>
-		<frFR>&lt;b&gt;Provocation&lt;/b&gt;</frFR>
-		<itIT>&lt;b&gt;Provocazione&lt;/b&gt;</itIT>
-		<jaJP>&lt;b&gt;挑発&lt;/b&gt;</jaJP>
-		<koKR>&lt;b&gt;도발&lt;/b&gt;</koKR>
-		<plPL>&lt;b&gt;Prowokacja&lt;/b&gt;</plPL>
-		<ptBR>&lt;b&gt;Provocar&lt;/b&gt;</ptBR>
-		<ruRU>&lt;b&gt;Провокация&lt;/b&gt;</ruRU>
-		<thTH>&lt;b&gt;ยั่วยุ&lt;/b&gt;</thTH>
-		<zhCN>&lt;b&gt;嘲讽&lt;/b&gt;</zhCN>
-		<zhTW>&lt;b&gt;嘲諷&lt;/b&gt;</zhTW>
-	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Vlad Botos</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="20"/>
 	<Tag enumID="47" name="ATK" type="Int" value="20"/>
 	<Tag enumID="48" name="COST" type="Int" value="10"/>
 	<Tag enumID="114" name="ELITE" type="Int" value="1"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1952"/>
-	<Tag enumID="190" name="TAUNT" type="Int" value="1"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="12"/>
 	<Tag enumID="200" name="CARDRACE" type="Int" value="20"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="4"/>
@@ -359191,37 +359207,35 @@ Evoque um Ovo ligeiramente rachado. &lt;i&gt;(Quebre-o 5 vezes para chocar uma F
 		<zhTW>凱洛斯的蛋</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein stärker angeknackstes Ei herbei.
-&lt;i&gt;(Knackt es 4-mal an, um ein
-Wildtier (20/20) mit &lt;b&gt;Spott&lt;/b&gt; schlüpfen zu lassen!)&lt;/i&gt;</deDE>
-		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a
-more cracked Egg. &lt;i&gt;(Break
-4 times to hatch a 20/20
-Beast with &lt;b&gt;Taunt&lt;/b&gt;!)&lt;/i&gt;</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo más cascado. &lt;i&gt;(¡Cáscalo 4 veces para que salga una bestia_20/20 con &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;.</esES>
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein stärker angeknackstes Ei herbei. &lt;i&gt;(Knackt es noch 4-mal an, um ein Wildtier (20/20) schlüpfen zu_lassen!)&lt;/i&gt;</deDE>
+		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon
+a more cracked Egg.
+&lt;i&gt;(Break 4 more times to hatch
+into a 20/20 Beast!)&lt;/i&gt;</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo más cascado. &lt;i&gt;(¡Cáscalo 4 veces más para que salga una_bestia 20/20!)&lt;/i&gt;.</esES>
 		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Huevo
-notablemente roto. &lt;i&gt;(¡Rómpelo 4_veces más para que nazca_una_Bestia_20/20 con &lt;b&gt;Provocación&lt;/b&gt;!).&lt;/i&gt;</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf_davantage fêlé. &lt;i&gt;(Brisez la_coquille encore 4_fois pour faire_éclore_une_Bête_20/20 avec &lt;b&gt;Provocation&lt;/b&gt;_!)&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo più incrinato. &lt;i&gt;(Rompilo 4 volte per farlo schiudere e far fuoriuscire una Bestia 20/20 con &lt;b&gt;Provocazione&lt;/b&gt;!)&lt;/i&gt;</itIT>
+notablemente roto.
+&lt;i&gt;(¡Rómpelo 4_veces más para que nazca_una_Bestia_20/20!).&lt;/i&gt;</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf davantage fêlé. &lt;i&gt;(Brisez la coquille encore 4_fois pour faire éclore une Bête_20/20_!)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo più incrinato. &lt;i&gt;(Rompilo altre 4 volte per farlo schiudere e far fuoriuscire una Bestia 20/20!)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 さらにひび割れた卵を1個
-召喚する。&lt;i&gt;（4回破壊すると
-孵化して&lt;b&gt;挑発&lt;/b&gt;を持つ
-____20/20の獣になる！）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; 조금 더 금이 간 알을 소환합니다.
-&lt;i&gt;(4번 깨면 &lt;b&gt;도발&lt;/b&gt; 능력이 있는 20/20 야수가 나옵니다!)&lt;/i&gt;</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij bardziej_popękane_jajo. &lt;i&gt;(Rozbij_je_4 razy, aby wykluło się w_Bestię 20/20 z_&lt;b&gt;Prowokacją&lt;/b&gt;!)&lt;/i&gt;</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Ovo mais rachado. &lt;i&gt;(Quebre-o 4 vezes para chocar uma Fera 20/20 com &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;</ptBR>
-		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
+召喚する。&lt;i&gt;（あと4回破壊
+すると孵化して20/20の
+獣になる！）&lt;/i&gt;</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 조금 더 금이 간 알을 소환합니다.&lt;i&gt;(4번 더 깨면 부화하여 20/20 야수가 됩니다!)&lt;/i&gt;</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij_bardziej_popękane_jajo. &lt;i&gt;(Rozbij_je jeszcze 4_razy, aby_wykluła_się_z_niego Bestia_20/20!)&lt;/i&gt;</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Ovo mais rachado.
+&lt;i&gt;(Quebre-o mais 4 vezes para chocar uma Fera 20/20!)&lt;/i&gt;</ptBR>
+		<ruRU>[x]&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
 еще более надтреснутое яйцо.
 &lt;i&gt;(Разбейте 4 раза, чтобы
-вылупился зверь 20/20 с &lt;b&gt;«Провокацией»&lt;/b&gt;!)&lt;/i&gt;</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]พอควร_&lt;i&gt;(ทำไข่แตก_4_ครั้งเพื่อ[b]ฟักเป็นสัตว์_20/20_ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;!)&lt;/i&gt;</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚开裂加剧的蛋。&lt;i&gt;（再破壳4次即可孵化为一只20/20并具有&lt;b&gt;嘲讽&lt;/b&gt;的野兽！）&lt;/i&gt;</zhCN>
+вылупился зверь 20/20!)&lt;/i&gt;</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]พอควร_&lt;i&gt;(ทำไข่แตกอีก_4_ครั้ง[b]เพื่อฟักเป็นสัตว์_20/20!)&lt;/i&gt;</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚开裂加剧的蛋。&lt;i&gt;（再破壳4次即可孵化为一只20/20的野兽！）&lt;/i&gt;</zhCN>
 		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一顆
 更加裂開的蛋
-&lt;i&gt;(再打破4次以孵化出一個
-有&lt;b&gt;嘲諷&lt;/b&gt;的20/20野獸！)&lt;/i&gt;</zhTW>
+&lt;i&gt;(再打破4次以孵化出一個20/20的野獸！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Vlad Botos</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
@@ -359233,7 +359247,6 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="217" name="DEATHRATTLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<ReferencedTag enumID="190" name="TAUNT" type="Int" value="1"/>
 </Entity>
 <Entity CardID="DINO_410t3" ID="122543" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -359253,40 +359266,35 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 		<zhTW>凱洛斯的蛋</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein stark angeknackstes Ei herbei.
-&lt;i&gt;(Knackt es 3-mal an, um ein
-Wildtier (20/20) mit &lt;b&gt;Spott&lt;/b&gt; schlüpfen zu lassen!)&lt;/i&gt;</deDE>
-		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a
-very cracked Egg. &lt;i&gt;(Break
-3 times to hatch a 20/20
-Beast with &lt;b&gt;Taunt&lt;/b&gt;!)&lt;/i&gt;</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo muy cascado. &lt;i&gt;(¡Cáscalo 3 veces para que salga una bestia_20/20 con &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;.</esES>
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein stark angeknackstes Ei herbei. &lt;i&gt;(Knackt es noch 3-mal an, um ein Wildtier (20/20) schlüpfen zu_lassen!)&lt;/i&gt;</deDE>
+		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon
+a very cracked Egg.
+&lt;i&gt;(Break 3 more times to hatch
+into a 20/20 Beast!)&lt;/i&gt;</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo muy cascado. &lt;i&gt;(¡Cáscalo 3 veces más para que salga una_bestia 20/20!)&lt;/i&gt;.</esES>
 		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Huevo
-muy roto. &lt;i&gt;(¡Rómpelo 3_veces más para que nazca_una_Bestia_20/20 con &lt;b&gt;Provocación&lt;/b&gt;!).&lt;/i&gt;</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un_œuf_très fêlé. &lt;i&gt;(Brisez la coquille encore 3_fois pour faire_éclore_une_Bête_20/20 avec &lt;b&gt;Provocation&lt;/b&gt;_!)&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca
-un Uovo molto incrinato. &lt;i&gt;(Rompilo
-3 volte per farlo schiudere e far fuoriuscire una Bestia 20/20
-con &lt;b&gt;Provocazione&lt;/b&gt;!)&lt;/i&gt;</itIT>
+muy roto.
+&lt;i&gt;(¡Rómpelo 3_veces más para que nazca_una_Bestia_20/20!).&lt;/i&gt;</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf très fêlé. &lt;i&gt;(Brisez la coquille encore 3_fois pour faire éclore une Bête_20/20_!)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo molto incrinato. &lt;i&gt;(Rompilo altre 3 volte per farlo schiudere e far fuoriuscire una Bestia 20/20!)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 だいぶひび割れた卵を1個
-召喚する。&lt;i&gt;（3回破壊すると
-孵化して&lt;b&gt;挑発&lt;/b&gt;を持つ
-____20/20の獣になる！）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; 금이 많이 간 알을 소환합니다.
-&lt;i&gt;(3번 깨면 &lt;b&gt;도발&lt;/b&gt; 능력이 있는 20/20 야수가 나옵니다!)&lt;/i&gt;</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij bardzo_popękane_jajo. &lt;i&gt;(Rozbij_je_3 razy, aby wykluło się w_Bestię 20/20 z_&lt;b&gt;Prowokacją&lt;/b&gt;!)&lt;/i&gt;</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Ovo muito rachado. &lt;i&gt;(Quebre-o 3 vezes para chocar uma Fera 20/20 com &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;</ptBR>
-		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
+召喚する。&lt;i&gt;（あと3回破壊
+すると孵化して20/20の
+獣になる！）&lt;/i&gt;</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 금이 많이 간 알을 소환합니다.&lt;i&gt;(3번 더 깨면 부화하여 20/20 야수가 됩니다!)&lt;/i&gt;</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij_bardzo_popękane_jajo. &lt;i&gt;(Rozbij_je jeszcze 3_razy, aby_wykluła_się_z_niego Bestia_20/20!)&lt;/i&gt;</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Ovo muito rachado.
+&lt;i&gt;(Quebre-o mais 3 vezes para chocar uma Fera 20/20!)&lt;/i&gt;</ptBR>
+		<ruRU>[x]&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
 потрескавшееся яйцо.
 &lt;i&gt;(Разбейте 3 раза, чтобы
-вылупился зверь 20/20 с &lt;b&gt;«Провокацией»&lt;/b&gt;!)&lt;/i&gt;</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]มากๆ_&lt;i&gt;(ทำไข่แตก_3_ครั้งเพื่อ[b]ฟักเป็นสัตว์_20/20_ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;!)&lt;/i&gt;</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚严重开裂的蛋。&lt;i&gt;（再破壳3次即可孵化为一只20/20并具有&lt;b&gt;嘲讽&lt;/b&gt;的野兽！）&lt;/i&gt;</zhCN>
+вылупился зверь 20/20!)&lt;/i&gt;</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]มากๆ_&lt;i&gt;(ทำไข่แตกอีก_3_ครั้ง[b]เพื่อฟักเป็นสัตว์_20/20!)&lt;/i&gt;</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚严重开裂的蛋。&lt;i&gt;（再破壳3次即可孵化为一只20/20的野兽！）&lt;/i&gt;</zhCN>
 		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一顆
-相當裂開的蛋
-&lt;i&gt;(再打破3次以孵化出一個
-有&lt;b&gt;嘲諷&lt;/b&gt;的20/20野獸！)&lt;/i&gt;</zhTW>
+非常裂開的蛋
+&lt;i&gt;(再打破3次以孵化出一個20/20的野獸！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Vlad Botos</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
@@ -359298,7 +359306,6 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="217" name="DEATHRATTLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<ReferencedTag enumID="190" name="TAUNT" type="Int" value="1"/>
 </Entity>
 <Entity CardID="DINO_410t4" ID="122545" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -359318,39 +359325,35 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 		<zhTW>凱洛斯的蛋</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein äußerst angeknackstes Ei herbei.
-&lt;i&gt;(Knackt es 2-mal an, um ein
-Wildtier (20/20) mit &lt;b&gt;Spott&lt;/b&gt; schlüpfen zu lassen!)&lt;/i&gt;</deDE>
-		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon the
-most cracked Egg. &lt;i&gt;(Break
-2 times to hatch a 20/20
-Beast with &lt;b&gt;Taunt&lt;/b&gt;!)&lt;/i&gt;</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un huevo cascadísimo. &lt;i&gt;(¡Cáscalo 2 veces para que salga una bestia_20/20 con &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;.</esES>
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft ein äußerst angeknackstes Ei herbei. &lt;i&gt;(Knackt es noch 2-mal an, um ein Wildtier (20/20) schlüpfen zu_lassen!)&lt;/i&gt;</deDE>
+		<enUS>[x]&lt;b&gt;Deathrattle:&lt;/b&gt; Summon
+the most cracked Egg.
+&lt;i&gt;(Break 2 more times to hatch
+into a 20/20 Beast!)&lt;/i&gt;</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca el huevo más cascado. &lt;i&gt;(¡Cáscalo 2 veces más para que salga una_bestia 20/20!)&lt;/i&gt;.</esES>
 		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Huevo
-completamente roto. &lt;i&gt;(¡Rómpelo 2_veces más para que nazca_una_Bestia_20/20 con &lt;b&gt;Provocación&lt;/b&gt;!).&lt;/i&gt;</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf_extrêmement fêlé. &lt;i&gt;(Brisez la_coquille encore 2_fois pour faire_éclore_une_Bête_20/20 avec &lt;b&gt;Provocation&lt;/b&gt;_!)&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un
-Uovo più incrinato che mai. &lt;i&gt;(Rompilo
-2 volte per farlo schiudere e far fuoriuscire una Bestia 20/20
-con &lt;b&gt;Provocazione&lt;/b&gt;!)&lt;/i&gt;</itIT>
+completamente roto.
+&lt;i&gt;(¡Rómpelo 2_veces más para que nazca_una_Bestia_20/20!).&lt;/i&gt;</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un œuf extrêmement fêlé. &lt;i&gt;(Brisez la coquille encore 2_fois pour faire éclore_une_Bête_20/20_!)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Uovo più incrinato che mai. &lt;i&gt;(Rompilo altre 2 volte per farlo schiudere e far fuoriuscire una Bestia 20/20!)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 大きくひび割れた卵を1個
-召喚する。&lt;i&gt;（2回破壊すると
-孵化して&lt;b&gt;挑発&lt;/b&gt;を持つ
-____20/20の獣になる！）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; 금이 제일 많이 간 알을 소환합니다.&lt;i&gt;(2번 깨면 &lt;b&gt;도발&lt;/b&gt; 능력이 있는 20/20 야수가 나옵니다!)&lt;/i&gt;</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij najbardziej_popękane_jajo. &lt;i&gt;(Rozbij_je_2 razy, aby wykluło się w_Bestię 20/20 z_&lt;b&gt;Prowokacją&lt;/b&gt;!)&lt;/i&gt;</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque o Ovo mais rachado. &lt;i&gt;(Quebre-o 2 vezes para chocar uma Fera 20/20 com &lt;b&gt;Provocar&lt;/b&gt;!)&lt;/i&gt;</ptBR>
-		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
+召喚する。&lt;i&gt;（あと2回破壊
+すると孵化して20/20の
+獣になる！）&lt;/i&gt;</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 금이 제일 많이 간 알을 소환합니다. &lt;i&gt;(2번 더 깨면 부화하여 20/20 야수가 됩니다!)&lt;/i&gt;</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij_najbardziej_popękane_jajo. &lt;i&gt;(Rozbij_je jeszcze 2_razy, aby_wykluła_się_z_niego Bestia_20/20!)&lt;/i&gt;</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque o Ovo mais_rachado.
+&lt;i&gt;(Quebre-o mais 2 vezes para chocar uma Fera 20/20!)&lt;/i&gt;</ptBR>
+		<ruRU>[x]&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает
 сильно потрескавшееся яйцо.
 &lt;i&gt;(Разбейте 2 раза, чтобы
-вылупился зверь 20/20 с &lt;b&gt;«Провокацией»&lt;/b&gt;!)&lt;/i&gt;</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]สุดๆ_&lt;i&gt;(ทำไข่แตก_2_ครั้งเพื่อ[b]ฟักเป็นสัตว์_20/20_ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt;!)&lt;/i&gt;</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚完全裂开的蛋。&lt;i&gt;（再破壳2次即可孵化为一只20/20并具有&lt;b&gt;嘲讽&lt;/b&gt;的野兽！）&lt;/i&gt;</zhCN>
+вылупился зверь 20/20!)&lt;/i&gt;</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียกไข่ที่ร้าว[b]สุดๆ_&lt;i&gt;(ทำไข่แตกอีก_2_ครั้ง[b]เพื่อฟักเป็นสัตว์_20/20!)&lt;/i&gt;</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一枚完全裂开的蛋。&lt;i&gt;（再破壳2次即可孵化为一只20/20的野兽！）&lt;/i&gt;</zhCN>
 		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一顆
-幾乎裂開的蛋
-&lt;i&gt;(再打破2次以孵化出一個
-有&lt;b&gt;嘲諷&lt;/b&gt;的20/20野獸！)&lt;/i&gt;</zhTW>
+就要裂開的蛋
+&lt;i&gt;(再打破2次以孵化出一個20/20的野獸！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Vlad Botos</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
@@ -359362,7 +359365,6 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="217" name="DEATHRATTLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<ReferencedTag enumID="190" name="TAUNT" type="Int" value="1"/>
 </Entity>
 <Entity CardID="DINO_410t5" ID="122546" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -359382,35 +359384,29 @@ ____20/20の獣になる！）&lt;/i&gt;</jaJP>
 		<zhTW>凱洛斯的蛋</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Khelos (20/20) mit &lt;b&gt;Spott&lt;/b&gt; herbei. &lt;i&gt;(Knackt es an, um ihn schlüpfen zu lassen!)&lt;/i&gt;</deDE>
-		<enUS>&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a
-20/20 Khelos with &lt;b&gt;Taunt&lt;/b&gt;.
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Khelos (20/20) herbei. &lt;i&gt;(Knackt es an, um ihn schlüpfen zu lassen!)&lt;/i&gt;</deDE>
+		<enUS>&lt;b&gt;Deathrattle:&lt;/b&gt; Summon
+a 20/20 Khelos.
 &lt;i&gt;(Break to hatch!)&lt;/i&gt;</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un_Khelos 20/20 con &lt;b&gt;Provocar&lt;/b&gt;. &lt;i&gt;(¡Cáscalo para que salga!)&lt;/i&gt;.</esES>
-		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Khelos 20/20 con &lt;b&gt;Provocación&lt;/b&gt;. &lt;i&gt;(¡Rómpelo para que eclosione!).&lt;/i&gt;</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un_Khelos 20/20 avec &lt;b&gt;Provocation&lt;/b&gt;. &lt;i&gt;(Brisez la coquille pour le faire_éclore_!)&lt;/i&gt;</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt;
-evoca un Khelos 20/20 con &lt;b&gt;Provocazione&lt;/b&gt;. &lt;i&gt;(Rompilo per
-farlo schiudere!)&lt;/i&gt;</itIT>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca un_Khelos 20/20. &lt;i&gt;(¡Cáscalo para que_salga!)&lt;/i&gt;.</esES>
+		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un Khelos_20/20.
+&lt;i&gt;(¡Rómpelo para que_eclosione!).&lt;/i&gt;</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un_Khelos_20/20. &lt;i&gt;(Brisez_la_coquille pour le faire éclore_!)&lt;/i&gt;</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Khelos 20/20. &lt;i&gt;(Rompilo per farlo schiudere!)&lt;/i&gt;</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
-&lt;b&gt;挑発&lt;/b&gt;を持つ20/20の
-「ケーロス」を1体
-召喚する。
+20/20の「ケーロス」を
+1体召喚する。
 ___&lt;i&gt;（破壊すると孵化する！）&lt;/i&gt;</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; &lt;b&gt;도발&lt;/b&gt; 능력이 있는 20/20 켈로스를 소환합니다. &lt;i&gt;(깨서 부화시키세요!)&lt;/i&gt;</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij Khelosa_20/20 z_&lt;b&gt;Prowokacją&lt;/b&gt;. &lt;i&gt;(Rozbij, aby się wykluł!)&lt;/i&gt;</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt;
-Evoque um Khelos
-20/20 com &lt;b&gt;Provocar&lt;/b&gt;.
-&lt;i&gt;(Quebre para chocar!)&lt;/i&gt;</ptBR>
-		<ruRU>[x]&lt;b&gt;Предсмертный хрип:&lt;/b&gt;
- призывает кхелоса 20/20
-_с &lt;b&gt;«Провокацией»&lt;/b&gt;. &lt;i&gt;(Разбейте,__
-_чтобы вылупился зверь!)&lt;/i&gt;</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt;_เรียก[b]เคลอส_20/20_ที่มี_&lt;b&gt;ยั่วยุ&lt;/b&gt; &lt;i&gt;(ทำไข่แตกเพื่อฟัก!)&lt;/i&gt;</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤
-一只20/20并具有&lt;b&gt;嘲讽&lt;/b&gt;的凯洛斯。&lt;i&gt;（破壳即可孵化！）&lt;/i&gt;</zhCN>
-		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一個有&lt;b&gt;嘲諷&lt;/b&gt;的20/20凱洛斯
+		<koKR>[x]&lt;b&gt;죽음의 메아리&lt;/b&gt;: 20/20
+켈로스를 소환합니다.
+&lt;i&gt;(깨서 부화시키세요!)&lt;/i&gt;</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij_Khelosa_20/20. &lt;i&gt;(Rozbij,_aby_się_wykluł!)&lt;/i&gt;</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Khelos 20/20.
+&lt;i&gt;(Quebre_para_chocar!)&lt;/i&gt;</ptBR>
+		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает кхелоса 20/20. &lt;i&gt;(Разбейте, чтобы вылупился зверь!)&lt;/i&gt;</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt; เรียกเคลอส_20/20 &lt;i&gt;(ทำไข่แตกเพื่อฟัก!)&lt;/i&gt;</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;召唤一只20/20的凯洛斯。&lt;i&gt;（破壳即可孵化！）&lt;/i&gt;</zhCN>
+		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;召喚一個20/20的凱洛斯
 &lt;i&gt;(打破以孵化！)&lt;/i&gt;</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Vlad Botos</Tag>
@@ -359423,7 +359419,6 @@ _чтобы вылупился зверь!)&lt;/i&gt;</ruRU>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="217" name="DEATHRATTLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<ReferencedTag enumID="190" name="TAUNT" type="Int" value="1"/>
 </Entity>
 <Entity CardID="DINO_411" ID="118496" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -454243,7 +454238,7 @@ ___3ダメージを与える。</jaJP>
 наносит 3_ед._урона вашему герою.</ruRU>
 		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;&amp; สร้างความเสียหาย 3_แต้มให้ฮีโร่ของคุณ</thTH>
 		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;&amp;对你的英雄造成3点伤害。</zhCN>
-		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;&amp;抽一張牌，對你的英雄造成3點傷害</zhTW>
+		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;&amp;對你的英雄造成3點傷害</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Wichtel können einfach nicht verstehen, warum Ihr es nicht so toll findet, in Brand gesteckt zu werden.</deDE>
@@ -480796,28 +480791,33 @@ w przygodzie Naxxramas.</plPL>
 		<zhTW>重生</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Vernichtet einen Diener und belebt ihn dann mit vollem Leben wieder.</deDE>
-		<enUS>Destroy a minion,
-then return it to life with full Health.</enUS>
-		<esES>Destruye a un esbirro y lo devuelve a la vida con toda su salud.</esES>
-		<esMX>Destruye un esbirro y luego devuélvelo a la vida con toda la Salud.</esMX>
-		<frFR>Détruit un serviteur, puis le ramène à la vie avec tous ses PV.</frFR>
-		<itIT>Distrugge un servitore e lo riporta in vita con la Salute al massimo.</itIT>
-		<jaJP>ミニオン1体を
-破壊した後
+		<deDE>Vernichtet einen nicht-&lt;b&gt;legendären&lt;/b&gt; Diener und belebt ihn dann mit vollem Leben wieder.</deDE>
+		<enUS>[x]Destroy a
+non-&lt;b&gt;Legendary&lt;/b&gt; minion,
+then return it to life
+with full Health.</enUS>
+		<esES>Destruye a un esbirro &lt;b&gt;no_legendario&lt;/b&gt;
+y lo devuelve a la vida con_toda su salud.</esES>
+		<esMX>Destruye un esbirro no &lt;b&gt;Legendario&lt;/b&gt; y luego devuélvelo a la vida con toda la Salud.</esMX>
+		<frFR>Détruit un serviteur non &lt;b&gt;légendaire&lt;/b&gt;, puis le_ramène à la vie avec tous ses PV.</frFR>
+		<itIT>Distrugge un servitore non &lt;b&gt;Leggendario&lt;/b&gt; e poi lo riporta in vita con la Salute al massimo.</itIT>
+		<jaJP>[x]&lt;b&gt;レジェンド&lt;/b&gt;ではないミニオン
+1体を破壊した後
 そのミニオンを
 体力が最大の状態で
 復活させる。</jaJP>
-		<koKR>하수인을 처치하고, 그 하수인을 최대 생명력으로 다시 소환합니다.</koKR>
-		<plPL>Zniszcz stronnika, a następnie przywróć
-go do życia z pełnym zdrowiem.</plPL>
-		<ptBR>Destrua um lacaio, depois ressuscite-o com a Vida completa.</ptBR>
-		<ruRU>[x]Уничтожает существо,
-а затем возрождает его
-с полным здоровьем.</ruRU>
-		<thTH>ทำลายมินเนี่ยนหนึ่งตัว จากนั้นชุบชีวิตมัน[b]พร้อมพลังชีวิตเต็ม</thTH>
-		<zhCN>消灭一个随从，然后将其复活，并具有所有生命值。</zhCN>
-		<zhTW>摧毀一個手下，再將其復活並使生命值恢復全滿</zhTW>
+		<koKR>[x]&lt;b&gt;전설&lt;/b&gt; 하수인이 아닌 하수인을
+처치하고, 그 하수인을 최대
+생명력으로 다시 소환합니다.</koKR>
+		<plPL>Zniszcz nie&lt;b&gt;legendarnego&lt;/b&gt; stronnika, a_następnie przywróć_go do_życia z_pełnym_zdrowiem.</plPL>
+		<ptBR>Destrua um lacaio que não é &lt;b&gt;Lendário&lt;/b&gt;, depois ressuscite-o com a Vida completa.</ptBR>
+		<ruRU>[x]Уничтожает &lt;b&gt;нелегендарное&lt;/b&gt;
+существо, а затем возрождает
+его с полным здоровьем.</ruRU>
+		<thTH>ทำลายมินเนี่ยนที่ไม่ใช่ระดับ &lt;b&gt;ตำนาน&lt;/b&gt; หนึ่งตัว จากนั้นชุบ[b]ชีวิตมันพร้อมพลังชีวิตเต็ม</thTH>
+		<zhCN>消灭一个非&lt;b&gt;传说&lt;/b&gt;随从，然后将其复活，并具有所有生命值。</zhCN>
+		<zhTW>摧毀一個非&lt;b&gt;傳說&lt;/b&gt;
+手下，再將其復活並使生命值恢復全滿</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Wie geboren werden, nur ist man dabei schon erwachsen und war gerade eben noch mausetot.</deDE>
@@ -610515,7 +610515,7 @@ __random Mage &lt;b&gt;Secrets&lt;/b&gt;.</enUS>
 		<zhTW>歡迎來到達拉然，在這裡所有法術都是捏造的，而且分數一點都不重要！</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Alex Stone</Tag>
-	<Tag enumID="45" name="HEALTH" type="Int" value="4"/>
+	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
 	<Tag enumID="47" name="ATK" type="Int" value="4"/>
 	<Tag enumID="48" name="COST" type="Int" value="5"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1988"/>
@@ -611321,6 +611321,7 @@ __распределяет 5 ед. урона между_
 	<Tag enumID="251" name="AttackVisualType" type="Int" value="8"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
+	<Tag enumID="4546" name="1" type="Int" value="1"/>
 </Entity>
 <Entity CardID="JAIL_384" ID="126002" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -613766,8 +613767,8 @@ seus outros lacaios. Compre um card e restaure 1 de Mana para cada lacaio destru
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">AJ Nazzaro</Tag>
 	<Tag enumID="45" name="HEALTH" type="Int" value="3"/>
-	<Tag enumID="47" name="ATK" type="Int" value="5"/>
-	<Tag enumID="48" name="COST" type="Int" value="5"/>
+	<Tag enumID="47" name="ATK" type="Int" value="6"/>
+	<Tag enumID="48" name="COST" type="Int" value="6"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1988"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="1"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="4"/>
@@ -667513,26 +667514,26 @@ ___3ダメージを与える。</jaJP>
 		<zhTW>狗頭人幻術師</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft
-eine Kopie (1/1) eines Dieners aus Eurer Hand herbei.</deDE>
-		<enUS>&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a 1/1 copy of a minion from your hand.</enUS>
-		<esES>&lt;b&gt;Último aliento:&lt;/b&gt; Invoca una copia 1/1 de un esbirro de tu mano.</esES>
-		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca una copia 1/1 de un esbirro de tu mano.</esMX>
-		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque une copie_1/1 d’un serviteur de votre main.</frFR>
-		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca una copia 1/1 di un servitore nella tua mano.</itIT>
+		<deDE>&lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft einen Diener aus Eurer Hand herbei. Setzt seine Werte auf 1/1.</deDE>
+		<enUS>&lt;b&gt;Deathrattle:&lt;/b&gt; Summon a minion from your hand. Set its stats to 1/1.</enUS>
+		<esES>&lt;b&gt;Último aliento:&lt;/b&gt;
+Invoca un esbirro de tu mano. Establece sus estadísticas en 1/1.</esES>
+		<esMX>&lt;b&gt;Estertor:&lt;/b&gt; invoca un esbirro de tu mano. Establece sus estadísticas en 1/1.</esMX>
+		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt; invoque un serviteur de votre main et porte ses caractéristiques à 1/1.</frFR>
+		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un servitore dalla tua mano. Imposta le sue statistiche a 1/1.</itIT>
 		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;
 自分の手札からミニオン
-1体の1/1のコピーを
-1体召喚する。</jaJP>
-		<koKR>&lt;b&gt;죽음의 메아리:&lt;/b&gt; 내 손에 있는 하수인을 복사하여 1/1 하수인으로 소환합니다.</koKR>
-		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij kopię 1/1 stronnika z twojej ręki.</plPL>
-		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque uma cópia 1/1 de um lacaio da sua mão.</ptBR>
-		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает 1/1 копию случайного_существа из вашей руки.</ruRU>
-		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt; เรียกร่าง[b]ก๊อปปี้ 1/1 ของมินเนี่ยน[b]หนึ่งตัวจากมือคุณ</thTH>
-		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;从你的手牌中召唤一个随从的
-1/1复制。</zhCN>
-		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;從你手中召
-喚一個手下的1/1分身</zhTW>
+1体を召喚する。
+その攻撃力・体力を
+1/1にする。</jaJP>
+		<koKR>&lt;b&gt;죽음의 메아리&lt;/b&gt;: 내 손에 있는 하수인을 소환합니다.
+그 하수인의 능력치가 1/1이 됩니다.</koKR>
+		<plPL>&lt;b&gt;Agonia:&lt;/b&gt; Przyzwij stronnika z_twojej_ręki. Ustaw_jego statystyki_na_1/1.</plPL>
+		<ptBR>&lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um lacaio da sua mão. Mude os atributos dele para 1/1.</ptBR>
+		<ruRU>&lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает существо из вашей руки. Его характеристики становятся равны 1/1.</ruRU>
+		<thTH>&lt;b&gt;เสียงสุดท้าย:&lt;/b&gt; เรียกมินเนี่ยน[b]หนึ่งตัวจากมือคุณ เปลี่ยน[b]ค่าพลังของมันเป็น_1/1</thTH>
+		<zhCN>&lt;b&gt;亡语：&lt;/b&gt;从你的手牌中召唤一个随从，将其属性值变为1/1。</zhCN>
+		<zhTW>&lt;b&gt;死亡之聲：&lt;/b&gt;從你的手中召喚一個手下，將其體質改為1/1</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Er kann aus absolut allem eine Kerze machen.</deDE>
@@ -689571,34 +689572,42 @@ Silver Hand Recruits
 		<zhTW>頑強的救星</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Nachdem dieser Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren hat:&amp; Verleiht Euren Rekruten der Silbernen Hand +1_Leben in diesem Spiel.</deDE>
+		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Verleiht Euren Rekruten der Silbernen Hand +1_Leben in diesem Spiel, nachdem dieser Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren hat.</deDE>
 		<enUS>[x]&lt;b&gt;Divine Shield&lt;/b&gt;
-After this loses &lt;b&gt;Divine Shield&lt;/b&gt;,&amp;
+After this loses &lt;b&gt;Divine Shield&lt;/b&gt;,
 give your Silver Hand Recruits
 +1 Health this game.</enUS>
-		<esES>&lt;b&gt;Escudo divino&lt;/b&gt; Después de que pierda su &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +1 p. de salud esta partida a tus reclutas Mano de Plata.</esES>
+		<esES>&lt;b&gt;Escudo divino&lt;/b&gt;
+Después de que pierda su &lt;b&gt;Escudo_divino&lt;/b&gt;, otorga +1 p.
+de salud esta partida a tus reclutas Mano de Plata.</esES>
 		<esMX>&lt;b&gt;Escudo divino&lt;/b&gt;
-Después de que este esbirro pierde &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +1 de Salud a tus Reclutas de la Mano de Plata en esta partida.</esMX>
+Después de que este esbirro pierde &lt;b&gt;Escudo divino&lt;/b&gt;, otorga +1 de Salud a tus Reclutas de la Mano de Plata en esta partida.</esMX>
 		<frFR>&lt;b&gt;Bouclier divin&lt;/b&gt;
-Une fois que ce serviteur a perdu &lt;b&gt;Bouclier divin&lt;/b&gt;,&amp; donne +1_PV à vos recrues de la Main d’argent pendant cette partie.</frFR>
-		<itIT>&lt;b&gt;Scudo Divino&lt;/b&gt;. Dopo che questo servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;,&amp; +1 Salute alle tue Reclute Mano d'Argento in questa partita.</itIT>
-		<jaJP>[x]&lt;b&gt;聖なる盾&lt;/b&gt;。
-これが&lt;b&gt;聖なる盾&lt;/b&gt;を失った後、
-&amp;この対戦中、味方の
+Une fois que ce serviteur a perdu &lt;b&gt;Bouclier divin&lt;/b&gt;, donne +1_PV à vos recrues de la Main d’argent pendant cette partie.</frFR>
+		<itIT>[x]&lt;b&gt;Scudo Divino&lt;/b&gt;. Dopo che questo
+servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;,
++1 Salute alle tue Reclute Mano
+ d'Argento in questa partita.</itIT>
+		<jaJP>[x]&lt;b&gt;聖なる盾&lt;/b&gt;
+この対戦中、これが&lt;b&gt;聖なる盾&lt;/b&gt;を
+失った後、味方の
 「シルバーハンド新兵」全てに
 体力+1を付与する。</jaJP>
-		<koKR>&lt;b&gt;천상의 보호막&lt;/b&gt;, 이 하수인이 &lt;b&gt;천상의 보호막&lt;/b&gt;을 잃은 후,&amp; 내 은빛 성기사단 신병들에게 이번 게임 동안 생명력을 +1 부여합니다.</koKR>
-		<plPL>&lt;b&gt;Boska_tarcza&lt;/b&gt;
-Gdy straci_&lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_wszystkim twoim Rekrutom_Srebrnej_Dłoni +1_do_zdrowia w_tej_grze.</plPL>
-		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que este lacaio perder &lt;b&gt;Escudo Divino&lt;/b&gt;,&amp; conceda +1 de Vida aos seus Recrutas do Punho de Prata nesta partida.</ptBR>
+		<koKR>[x]&lt;b&gt;천상의 보호막&lt;/b&gt;
+이 하수인이 &lt;b&gt;천상의 보호막&lt;/b&gt;을
+잃은 후에, 내 은빛 성기사단
+신병들에게 이번 게임 동안
+생명력을 +1 부여합니다.</koKR>
+		<plPL>&lt;b&gt;Boska tarcza&lt;/b&gt;
+Gdy straci_&lt;b&gt;Boską_tarczę&lt;/b&gt;, daj_wszystkim_twoim Rekrutom_Srebrnej_Dłoni +1_do_zdrowia w_tej_grze.</plPL>
+		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que este lacaio perder &lt;b&gt;Escudo Divino&lt;/b&gt;, conceda +1 de Vida aos seus Recrutas do Punho de Prata nesta partida.</ptBR>
 		<ruRU>&lt;b&gt;Божественный щит&lt;/b&gt;
-После того как это существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;,&amp; все ваши [x]паладины-рекруты в этом матче
+После того как это существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;, все ваши [x]паладины-рекруты в этом матче
 получают +1 к здоровью.</ruRU>
-		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;
-หลังจากมินเนี่ยนตัวนี้เสีย_&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;&amp; มอบพลังชีวิต_+1_ให้นักรบ[b]ซิลเวอร์แฮนด์ของคุณในเกมนี้</thTH>
-		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;。在本随从失去&lt;b&gt;圣盾&lt;/b&gt;后，&amp;在本局对战中，使你的白银之手新兵获得+1生命值。</zhCN>
+		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt; หลังจากมินเนี่ยนตัวนี้เสีย_&lt;b&gt;โล่[b]ศักดิ์สิทธิ์&lt;/b&gt;_มอบพลังชีวิต_+1_ให้นักรบ[b]ซิลเวอร์แฮนด์ของคุณในเกมนี้</thTH>
+		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;。在本随从失去&lt;b&gt;圣盾&lt;/b&gt;后，在本局对战中，使你的白银之手新兵获得+1生命值。</zhCN>
 		<zhTW>&lt;b&gt;聖盾術&lt;/b&gt;
-在此手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，&amp;本賽局中賦予你的白銀之手新兵+1生命值</zhTW>
+在此手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，本賽局中賦予你的白銀之手新兵+1生命值</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Glückwunsch. Ihr werdet gerade gerettet. Bitte leistet keinen Widerstand.</deDE>
@@ -689629,7 +689638,6 @@ Gdy straci_&lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_wszystkim twoim Rekrutom_
 	<Tag enumID="203" name="RARITY" type="Int" value="4"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="1824" name="MINI_SET" type="Int" value="1"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="MEND_801e" ID="123628" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -700649,7 +700657,7 @@ lacaio, cause 1 de dano a
 		<enUS>At the start of your turn,&amp; destroy ALL minions.</enUS>
 		<esES>Al comienzo de tu turno,&amp; destruye a todos los esbirros.</esES>
 		<esMX>Al comienzo de tu turno,&amp; destruye TODOS los esbirros.</esMX>
-		<frFR>À la fin de votre tour,&amp; détruit TOUS les serviteurs.</frFR>
+		<frFR>Au début de votre tour,&amp; détruit TOUS les serviteurs.</frFR>
 		<itIT>All'inizio del tuo turno,&amp; distrugge TUTTI i servitori.</itIT>
 		<jaJP>[x]自分のターンの開始時、
 &amp;全てのミニオンを
@@ -770617,28 +770625,28 @@ Se repite por cada diablillo que controles.</esES>
 		<zhTW>神秘訪客</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Verringert die Kosten von Karten, die Ihr von Eurem Gegner kopiert habt, um (3).</deDE>
-		<enUS>&lt;b&gt;Battlecry:&lt;/b&gt; Reduce the Cost of cards copied from your opponent by (3).</enUS>
+		<deDE>&lt;b&gt;Kampfschrei:&lt;/b&gt; Verringert die Kosten von Karten, die Ihr von Eurem Gegner kopiert habt, um (2).</deDE>
+		<enUS>&lt;b&gt;Battlecry:&lt;/b&gt; Reduce the Cost of cards copied from your opponent by (2).</enUS>
 		<esES>[x]&lt;b&gt;Grito de batalla:&lt;/b&gt; Reduce
 el coste de las cartas
 copiadas a tu oponente
-en (3) cristales.</esES>
-		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; reduce en (3) el costo de las cartas que se copiaron de tu adversario.</esMX>
-		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; réduit le coût_des cartes copiées chez votre adversaire de (3)_|4(cristal,cristaux).</frFR>
+en (2) cristales.</esES>
+		<esMX>&lt;b&gt;Grito de batalla:&lt;/b&gt; reduce en (2) el costo de las cartas que se copiaron de tu adversario.</esMX>
+		<frFR>&lt;b&gt;Cri de guerre_:&lt;/b&gt; réduit le coût_des cartes copiées chez votre adversaire de (2)_|4(cristal,cristaux).</frFR>
 		<itIT>[x]&lt;b&gt;Grido di Battaglia:&lt;/b&gt; riduce
-di (3) il costo delle carte
+di (2) il costo delle carte
 copiate dall'avversario.</itIT>
 		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;
 相手からコピーした
 カード全ての
-____コストを（3）減らす。_</jaJP>
-		<koKR>&lt;b&gt;전투의 함성:&lt;/b&gt; 상대편에게서 복사해온 카드들의 비용이 (3) 감소합니다.</koKR>
-		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zmniejsz koszt kart skopiowanych od_przeciwnika_o_(3).</plPL>
-		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt; Reduza em (3) o Custo dos cards copiados_do_oponente.</ptBR>
-		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; уменьшает стоимость карт, скопированных у противника, на (3).</ruRU>
-		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt; ลดค่าร่ายของ[b]การ์ดทั้งหมดที่คุณก๊อปปี้มา[b]จากคู่ต่อสู้ลง_(3)</thTH>
-		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;使你从对手处复制的卡牌的法力值消耗减少（3）点。</zhCN>
-		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;從對手複製而來的牌消耗降低(3)</zhTW>
+____コストを（2）減らす。_</jaJP>
+		<koKR>&lt;b&gt;전투의 함성&lt;/b&gt;: 상대편에게서 복사해온 카드들의 비용이 (2) 감소합니다.</koKR>
+		<plPL>&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zmniejsz koszt kart skopiowanych od_przeciwnika_o_(2).</plPL>
+		<ptBR>&lt;b&gt;Grito de Guerra:&lt;/b&gt; Reduza em (2) o Custo dos cards copiados_do_oponente.</ptBR>
+		<ruRU>&lt;b&gt;Боевой клич:&lt;/b&gt; уменьшает стоимость карт, скопированных у противника, на (2).</ruRU>
+		<thTH>&lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;_ลดค่าร่ายของ[b]การ์ดทั้งหมดที่คุณก๊อปปี้มา[b]จากคู่ต่อสู้ลง_(2)</thTH>
+		<zhCN>&lt;b&gt;战吼：&lt;/b&gt;使你从对手处复制的卡牌的法力值消耗减少（2）点。</zhCN>
+		<zhTW>&lt;b&gt;戰吼：&lt;/b&gt;從對手複製而來的牌消耗減少(2)</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Dave, wir sehen doch, dass der Brief gefälscht ist_– das ist deine Handschrift. Und nimm die blöde Kapuze ab, das ist echt peinlich.</deDE>
@@ -770685,21 +770693,21 @@ ____コストを（3）減らす。_</jaJP>
 		<zhTW>讀心</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Kostet (3) weniger.</deDE>
-		<enUS>Costs (3) less.</enUS>
+		<deDE>Kostet (2)_weniger.</deDE>
+		<enUS>Costs (2) less.</enUS>
 		<esES>Cuesta
-(3) cristales menos.</esES>
-		<esMX>Cuesta (3) menos.</esMX>
-		<frFR>Coûte (3)_|4(cristal,cristaux) de_moins.</frFR>
-		<itIT>Costa (3) in meno.</itIT>
-		<jaJP>コスト（3）減少。</jaJP>
-		<koKR>비용 (3) 감소</koKR>
-		<plPL>Kosztuje (3) mniej.</plPL>
-		<ptBR>Custa (3) a menos.</ptBR>
-		<ruRU>Стоит на (3) меньше.</ruRU>
-		<thTH>ค่าร่ายลดลง (3)</thTH>
-		<zhCN>法力值消耗减少（3）点。</zhCN>
-		<zhTW>消耗減少(3)</zhTW>
+(2) cristales menos.</esES>
+		<esMX>Cuesta (2) menos.</esMX>
+		<frFR>Coûte (2)_|4(cristal,cristaux) de moins.</frFR>
+		<itIT>Costa (2) in meno.</itIT>
+		<jaJP>コスト（2）減少。</jaJP>
+		<koKR>비용 (2) 감소</koKR>
+		<plPL>Kosztuje (2) mniej.</plPL>
+		<ptBR>Custa (2) a menos.</ptBR>
+		<ruRU>Стоит на (2) меньше.</ruRU>
+		<thTH>ค่าร่ายลดลง (2)</thTH>
+		<zhCN>法力值消耗减少（2）点。</zhCN>
+		<zhTW>消耗減少(2)</zhTW>
 	</Tag>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1691"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="6"/>
@@ -790610,24 +790618,28 @@ de tu mazo para obtener
 		<zhTW>死亡侍僧</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Nachdem ein befreundeter Untoter gestorben ist:&amp; Zieht eine Karte.</deDE>
-		<enUS>After a friendly Undead dies,&amp; draw a card.</enUS>
-		<esES>Después de que muera un no-muerto amistoso,&amp; roba una carta.</esES>
-		<esMX>Después de que un No-muerto aliado muere,&amp; roba una carta.</esMX>
-		<frFR>Une fois qu’un Mort-vivant allié meurt,&amp; vous piochez une carte.</frFR>
-		<itIT>Dopo che è morto un tuo Non Morto,&amp; pesca una carta.</itIT>
+		<deDE>Zieht eine Karte, nachdem ein befreundeter Untoter gestorben ist.</deDE>
+		<enUS>After a friendly Undead dies, draw a card.</enUS>
+		<esES>Después de que muera
+un no-muerto amistoso, roba una carta.</esES>
+		<esMX>Después de que un
+No-muerto aliado muere, roba una carta.</esMX>
+		<frFR>Vous piochez une carte une fois qu’un Mort-vivant allié_meurt.</frFR>
+		<itIT>[x]Dopo che è morto un
+tuo Non Morto,
+pesca una carta.</itIT>
 		<jaJP>[x]味方のアンデッドが
-死亡した後、
-__&amp;カードを1枚引く。</jaJP>
-		<koKR>아군 언데드가 죽은 후에,&amp; 카드를 뽑습니다.</koKR>
-		<plPL>Gdy zginie przyjazny_Nieumarły,&amp; dobierz_kartę.</plPL>
-		<ptBR>Depois que um Morto-Vivo aliado morrer,&amp; compre um card.</ptBR>
+死亡した後
+カードを1枚引く。</jaJP>
+		<koKR>아군 언데드가 죽은 후에, 카드를 뽑습니다.</koKR>
+		<plPL>Gdy zginie przyjazny_Nieumarły, dobierz_kartę.</plPL>
+		<ptBR>Depois que um Morto-Vivo aliado morrer, compre um_card.</ptBR>
 		<ruRU>[x]После того как ваше
-существо-нежить погибает,&amp;
+существо-нежить погибает,
 вы берете карту.</ruRU>
-		<thTH>หลังจากอันเดดฝ่ายคุณ[b]ตาย&amp;_จั่วการ์ดหนึ่งใบ</thTH>
-		<zhCN>在一个友方亡灵死亡后，&amp;抽一张牌。</zhCN>
-		<zhTW>在友方不死族死亡後，&amp;抽一張牌</zhTW>
+		<thTH>หลังจากอันเดดฝ่ายคุณ[b]ตาย_จั่วการ์ดหนึ่งใบ</thTH>
+		<zhCN>在一个友方亡灵死亡后，抽一张牌。</zhCN>
+		<zhTW>在友方不死族死亡後，抽一張牌</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Ich sehe tote Diener. Eine ganze MASSE toter Diener.</deDE>
@@ -790656,7 +790668,6 @@ __&amp;カードを1枚引く。</jaJP>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="4"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="RLK_122" ID="80090" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -917493,35 +917504,35 @@ Kosztuje (1) mniej za każdą kartę dobraną w_tej turze.</plPL>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
 		<deDE>[x]&lt;b&gt;Questreihe:&lt;/b&gt;
-Zieht 4 Karten in einem Zug.
+Zieht 5_Karten in einem Zug.
 &lt;b&gt;Belohnung:&lt;/b&gt;
 Verringert die Kosten der
 gezogenen Karten um (1).</deDE>
-		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 4 cards in one turn. &lt;b&gt;Reward:&lt;/b&gt; Reduce the Cost of the cards drawn by (1).</enUS>
-		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba 4 cartas en un turno.
-&lt;b&gt;Recompensa:&lt;/b&gt; Reduce
-en (1) cristal el coste de
-las cartas robadas.</esES>
-		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 4 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; reduce en (1) el costo de las cartas robadas.</esMX>
-		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 4_cartes en un tour.
+		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 5 cards in one turn. &lt;b&gt;Reward:&lt;/b&gt; Reduce the Cost of the cards drawn by (1).</enUS>
+		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba 5 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduce
+en (1) cristal el coste de las cartas robadas.</esES>
+		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 5 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; reduce en (1) el costo de las cartas robadas.</esMX>
+		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 5_cartes en un tour.
 &lt;b&gt;Récompense_:&lt;/b&gt; réduit le coût des cartes piochées de (1)_|4(cristal,cristaux).</frFR>
-		<itIT>&lt;b&gt;Serie di Missioni:&lt;/b&gt; pesca 4 carte in un turno. &lt;b&gt;Ricompensa:&lt;/b&gt; riduce di (1) il costo delle carte pescate.</itIT>
+		<itIT>&lt;b&gt;Serie di Missioni:&lt;/b&gt; pesca 5 carte in un turno. &lt;b&gt;Ricompensa:&lt;/b&gt; riduce di (1) il costo delle carte pescate.</itIT>
 		<jaJP>[x]&lt;b&gt;連続クエスト:&lt;/b&gt;
 1ターン中に
-カードを4枚引く。
-&lt;b&gt;報酬:&lt;/b&gt;_引いた4枚のカード
-のコストが（1）減る。</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트 전개:&lt;/b&gt; 한 턴에 카드를
-4장 뽑아야 합니다.
-&lt;b&gt;보상:&lt;/b&gt; 뽑은 카드들의 비용이
+カードを5枚引く。
+&lt;b&gt;報酬:&lt;/b&gt;_引いたカード全ての
+コストが（1）減る。</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트 전개&lt;/b&gt;: 한 턴에 카드를
+5장 뽑아야 합니다.
+&lt;b&gt;보상&lt;/b&gt;: 뽑은 카드들의 비용이
 (1) 감소합니다.</koKR>
-		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 4_karty w_jednej turze. &lt;b&gt;Nagroda:&lt;/b&gt; Zmniejsz koszt dobranych kart_o_(1).</plPL>
-		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 4 cards num turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduza em (1) o Custo dos cards comprados.</ptBR>
-		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 4 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; уменьшает стоимость взятых карт на (1).</ruRU>
-		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt; จั่วการ์ด 4 ใบในเทิร์นเดียว &lt;b&gt;รางวัล:&lt;/b&gt; ลดค่าร่ายของ[b]การ์ดเหล่านั้นลง (1)</thTH>
-		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽四张牌。&lt;b&gt;奖励：&lt;/b&gt;使抽到的牌法力值消耗减少（1）点。</zhCN>
-		<zhTW>&lt;b&gt;任務線：&lt;/b&gt;一回合抽出4張牌
-&lt;b&gt;獎勵：&lt;/b&gt;抽出的卡牌消耗降低(1)</zhTW>
+		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 5_kart w_jednej_turze.
+&lt;b&gt;Nagroda:&lt;/b&gt; Zmniejsz_koszt dobranych_kart_o_(1).</plPL>
+		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 5 cards num só turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduza em (1) o Custo dos cards comprados.</ptBR>
+		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 5 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; уменьшает стоимость взятых карт на (1).</ruRU>
+		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt; จั่วการ์ด_5_ใบในเทิร์นเดียว &lt;b&gt;รางวัล:&lt;/b&gt;_ลดค่าร่ายของ[b]การ์ดเหล่านั้นลง_(1)</thTH>
+		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽五张牌。&lt;b&gt;奖励：&lt;/b&gt;使抽到的牌法力值消耗减少（1）点。</zhCN>
+		<zhTW>&lt;b&gt;任務線：&lt;/b&gt;一回合抽出5張牌
+&lt;b&gt;獎勵：&lt;/b&gt;抽出的卡牌
+消耗減少(1)</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Endlich. Die letzte Hearthstone-Karte.</deDE>
@@ -917547,7 +917558,7 @@ las cartas robadas.</esES>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
-	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="4"/>
+	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="5"/>
 	<Tag enumID="676" name="DONT_PICK_FROM_SUBSETS" type="Int" value="1"/>
 	<Tag enumID="839" name="1" type="Int" value="1"/>
 	<Tag enumID="1089" name="QUEST_REWARD_DATABASE_ID" type="Int" value="64376"/>
@@ -917573,36 +917584,32 @@ las cartas robadas.</esES>
 		<zhTW>累積力量</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>[x]&lt;b&gt;Questreihe:&lt;/b&gt;
-Zieht 5 Karten in einem Zug.
-&lt;b&gt;Belohnung:&lt;/b&gt;
-Verringert die Kosten der
-gezogenen Karten um (1).</deDE>
-		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 5 cards in one turn. &lt;b&gt;Reward:&lt;/b&gt; Reduce the Cost of the cards drawn by (1).</enUS>
-		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba 5 cartas en un turno.
-&lt;b&gt;Recompensa:&lt;/b&gt; Reduce
-en (1) cristal el coste de
-las cartas robadas.</esES>
-		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 5 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; reduce en (1) el costo de las cartas robadas.</esMX>
-		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 5_cartes en un tour.
+		<deDE>&lt;b&gt;Questreihe:&lt;/b&gt; Zieht 6 Karten in einem Zug. &lt;b&gt;Belohnung:&lt;/b&gt; Verringert die Kosten der gezogenen Karten um (1).</deDE>
+		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 6 cards in one turn. &lt;b&gt;Reward:&lt;/b&gt; Reduce the Cost of the cards drawn by (1).</enUS>
+		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba 6 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduce
+en (1) cristal el coste de las cartas robadas.</esES>
+		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 6 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; reduce en (1) el costo de las cartas robadas.</esMX>
+		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 6_cartes en un tour.
 &lt;b&gt;Récompense_:&lt;/b&gt; réduit le coût des cartes piochées de (1)_|4(cristal,cristaux).</frFR>
-		<itIT>&lt;b&gt;Serie di Missioni:&lt;/b&gt; pesca 5 carte in un turno. &lt;b&gt;Ricompensa:&lt;/b&gt; riduce di (1) il costo delle carte pescate.</itIT>
+		<itIT>&lt;b&gt;Serie di Missioni:&lt;/b&gt; pesca 6 carte in un turno. &lt;b&gt;Ricompensa:&lt;/b&gt; riduce di (1) il costo delle carte pescate.</itIT>
 		<jaJP>[x]&lt;b&gt;連続クエスト:&lt;/b&gt;
 1ターン中に
-カードを5枚引く。
-&lt;b&gt;報酬:&lt;/b&gt;_引いた5枚のカード
-のコストが（1）減る。</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트 전개:&lt;/b&gt; 한 턴에 카드를
-5장 뽑아야 합니다.
-&lt;b&gt;보상:&lt;/b&gt; 뽑은 카드들의 비용이
+カードを6枚引く。
+&lt;b&gt;報酬:&lt;/b&gt;_引いたカード全ての
+コストが（1）減る。</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트 전개&lt;/b&gt;: 한 턴에 카드를
+6장 뽑아야 합니다.
+&lt;b&gt;보상&lt;/b&gt;: 뽑은 카드들의 비용이
 (1) 감소합니다.</koKR>
-		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 5_kart w_jednej turze. &lt;b&gt;Nagroda:&lt;/b&gt; Zmniejsz koszt dobranych kart_o_(1).</plPL>
-		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 5 cards num turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduza em (1) o Custo dos cards comprados.</ptBR>
-		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 5 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; уменьшает стоимость взятых карт на (1).</ruRU>
-		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt; จั่วการ์ด 5 ใบในเทิร์นเดียว &lt;b&gt;รางวัล:&lt;/b&gt; ลดค่าร่ายของ[b]การ์ดเหล่านั้นลง (1)</thTH>
-		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽五张牌。&lt;b&gt;奖励：&lt;/b&gt;使抽到的牌法力值消耗减少（1）点。</zhCN>
-		<zhTW>&lt;b&gt;任務線：&lt;/b&gt;一回合抽出5張牌
-&lt;b&gt;獎勵：&lt;/b&gt;抽出的卡牌消耗降低(1)</zhTW>
+		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 6_kart w_jednej_turze.
+&lt;b&gt;Nagroda:&lt;/b&gt; Zmniejsz_koszt dobranych_kart_o_(1).</plPL>
+		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 6 cards num só turno. &lt;b&gt;Recompensa:&lt;/b&gt; Reduza em (1) o Custo dos cards comprados.</ptBR>
+		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 6 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; уменьшает стоимость взятых карт на (1).</ruRU>
+		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt; จั่วการ์ด_6_ใบในเทิร์นเดียว &lt;b&gt;รางวัล:&lt;/b&gt;_ลดค่าร่ายของ[b]การ์ดเหล่านั้นลง_(1)</thTH>
+		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽六张牌。&lt;b&gt;奖励：&lt;/b&gt;使抽到的牌法力值消耗减少（1）点。</zhCN>
+		<zhTW>&lt;b&gt;任務線：&lt;/b&gt;一回合抽出6張牌
+&lt;b&gt;獎勵：&lt;/b&gt;抽出的卡牌
+消耗減少(1)</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Zoltan Boros</Tag>
 	<Tag enumID="48" name="COST" type="Int" value="1"/>
@@ -917611,7 +917618,7 @@ las cartas robadas.</esES>
 	<Tag enumID="199" name="CLASS" type="Int" value="14"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
-	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="5"/>
+	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="6"/>
 	<Tag enumID="684" name="HIDE_COST" type="Int" value="1"/>
 	<Tag enumID="1089" name="QUEST_REWARD_DATABASE_ID" type="Int" value="65243"/>
 	<Tag enumID="1725" name="QUESTLINE" type="Int" value="1"/>
@@ -917647,38 +917654,31 @@ las cartas robadas.</esES>
 		<zhTW>關閉傳送門</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>[x]&lt;b&gt;Questreihe:&lt;/b&gt;
-Zieht 5 Karten in einem Zug.
-&lt;b&gt;Belohnung:&lt;/b&gt;
-Dämonentöter Kurtrus</deDE>
-		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 5 cards in one turn.
+		<deDE>&lt;b&gt;Questreihe:&lt;/b&gt; Zieht 6 Karten in einem Zug. &lt;b&gt;Belohnung:&lt;/b&gt; Dämonentöter Kurtrus.</deDE>
+		<enUS>&lt;b&gt;Questline:&lt;/b&gt; Draw 6 cards in one turn.
 &lt;b&gt;Reward:&lt;/b&gt; Demonslayer Kurtrus.</enUS>
-		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba
-5 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Matademonios Kurtrus.</esES>
-		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 5 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Kurtrus destripademonios.</esMX>
-		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 5_cartes en un tour.
+		<esES>&lt;b&gt;Cadena:&lt;/b&gt; Roba 6 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Matademonios_Kurtrus.</esES>
+		<esMX>&lt;b&gt;Serie de misiones:&lt;/b&gt; roba 6 cartas en un turno. &lt;b&gt;Recompensa:&lt;/b&gt; Kurtrus destripademonios.</esMX>
+		<frFR>&lt;b&gt;Suite de quêtes_:&lt;/b&gt; piocher 6_cartes en un tour.
 &lt;b&gt;Récompense_:&lt;/b&gt; Tueur de démons Kurtrus.</frFR>
-		<itIT>[x]&lt;b&gt;Serie di Missioni:&lt;/b&gt;
-pesca 5 carte in un
-turno. &lt;b&gt;Ricompensa:&lt;/b&gt;
-Stroncademoni Kurtrus.</itIT>
+		<itIT>&lt;b&gt;Serie di Missioni:&lt;/b&gt; pesca 6 carte in un turno. &lt;b&gt;Ricompensa:&lt;/b&gt; Stroncademoni Kurtrus.</itIT>
 		<jaJP>[x]&lt;b&gt;連続クエスト:&lt;/b&gt;
 1ターン中に
-カードを5枚引く。
-&lt;b&gt;報酬:&lt;/b&gt;_デーモン
-スレイヤー・カートラス</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트 전개:&lt;/b&gt; 한 턴에 카드를
-5장 뽑아야 합니다.
-&lt;b&gt;보상:&lt;/b&gt; 악마학살자 쿨트러스</koKR>
-		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 5_kart w_jednej turze.
-&lt;b&gt;Nagroda:&lt;/b&gt; Kurtrus Demonobójca.</plPL>
-		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 5 cards num turno. &lt;b&gt;Recompensa:&lt;/b&gt; Kurtrus Matademônios.</ptBR>
-		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 5 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; убийца демонов Куртрус.</ruRU>
-		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt; จั่วการ์ด 5_ใบในเทิร์นเดียว &lt;b&gt;รางวัล:&lt;/b&gt; ดีมอนสเลเยอร์เคอร์ทรัส</thTH>
-		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽五张牌。
+カードを6枚引く。
+&lt;b&gt;報酬:&lt;/b&gt;_「デーモン
+スレイヤー・カートラス」</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트 전개&lt;/b&gt;: 한 턴에 카드를
+6장 뽑아야 합니다.
+&lt;b&gt;보상&lt;/b&gt;: 악마학살자 쿨트러스</koKR>
+		<plPL>&lt;b&gt;Seria zadań:&lt;/b&gt; Dobierz 6_kart w_jednej_turze.
+&lt;b&gt;Nagroda:&lt;/b&gt; Kurtrus_Demonobójca.</plPL>
+		<ptBR>&lt;b&gt;Série de Missões:&lt;/b&gt; Compre 6 cards num só turno. &lt;b&gt;Recompensa:&lt;/b&gt; Kurtrus Matademônios.</ptBR>
+		<ruRU>&lt;b&gt;Цепочка заданий:&lt;/b&gt; возьмите 6 карт за один ход. &lt;b&gt;Награда:&lt;/b&gt; убийца демонов Куртрус.</ruRU>
+		<thTH>&lt;b&gt;เควสต์ต่อเนื่อง:&lt;/b&gt;_จั่วการ์ด 6_ใบในเทิร์นเดียว_&lt;b&gt;รางวัล:&lt;/b&gt; ดีมอนสเลเยอร์เคอร์ทรัส</thTH>
+		<zhCN>&lt;b&gt;任务线：&lt;/b&gt;在一回合中抽六张牌。
 &lt;b&gt;奖励：&lt;/b&gt;屠魔者库尔特鲁斯。</zhCN>
 		<zhTW>&lt;b&gt;任務線：&lt;/b&gt;一回合
-抽出5張牌
+抽出6張牌
 &lt;b&gt;獎勵：&lt;/b&gt;屠魔者克圖斯</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Zoltan Boros</Tag>
@@ -917688,7 +917688,7 @@ Stroncademoni Kurtrus.</itIT>
 	<Tag enumID="199" name="CLASS" type="Int" value="14"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
-	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="5"/>
+	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="6"/>
 	<Tag enumID="684" name="HIDE_COST" type="Int" value="1"/>
 	<Tag enumID="1089" name="QUEST_REWARD_DATABASE_ID" type="Int" value="67541"/>
 	<Tag enumID="1725" name="QUESTLINE" type="Int" value="1"/>
@@ -918450,32 +918450,37 @@ Cause $1 de dano a todos os lacaios inimigos.</ptBR>
 		<zhTW>大領主弗塔根</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Nachdem ein befreundeter Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren hat:&amp; Verleiht einem Diener auf Eurer Hand +5/+5.</deDE>
+		<deDE>&lt;b&gt;Gottesschild&lt;/b&gt;. Verleiht einem Diener auf Eurer Hand +5/+5, nachdem ein befreundeter Diener &lt;b&gt;Gottesschild&lt;/b&gt; verloren_hat.</deDE>
 		<enUS>[x]&lt;b&gt;Divine Shield&lt;/b&gt;
 After a friendly minion loses
-&lt;b&gt;Divine Shield&lt;/b&gt;,&amp; give a minion
+&lt;b&gt;Divine Shield&lt;/b&gt;, give a minion
 __in your hand +5/+5.</enUS>
-		<esES>&lt;b&gt;Escudo divino&lt;/b&gt; Después de que un esbirro amistoso pierda su &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +5/+5 a un esbirro de tu mano.</esES>
+		<esES>[x]&lt;b&gt;Escudo divino&lt;/b&gt;
+Después de que un esbirro amistoso
+pierda su &lt;b&gt;Escudo divino&lt;/b&gt;, otorga
++5 /+5 a un esbirro de tu mano.</esES>
 		<esMX>&lt;b&gt;Escudo divino&lt;/b&gt;
-Después de que un esbirro aliado pierde &lt;b&gt;Escudo divino&lt;/b&gt;,&amp; otorga +5/+5 a un esbirro de tu mano.</esMX>
+Después de que un esbirro aliado pierde &lt;b&gt;Escudo divino&lt;/b&gt;, otorga +5/+5 a un esbirro de tu_mano.</esMX>
 		<frFR>&lt;b&gt;Bouclier divin&lt;/b&gt;
-Une fois qu’un serviteur allié a perdu &lt;b&gt;Bouclier divin&lt;/b&gt;,&amp; donne +5/+5 à un serviteur de votre main.</frFR>
-		<itIT>&lt;b&gt;Scudo Divino:&lt;/b&gt; dopo che un tuo servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;,&amp; +5/+5 a un servitore nella tua mano.</itIT>
-		<jaJP>[x]&lt;b&gt;聖なる盾&lt;/b&gt;。
+Une fois qu’un serviteur allié a_perdu &lt;b&gt;Bouclier divin&lt;/b&gt;, donne +5/+5 à un serviteur de votre main.</frFR>
+		<itIT>&lt;b&gt;Scudo Divino:&lt;/b&gt; dopo che un tuo servitore ha perso &lt;b&gt;Scudo Divino&lt;/b&gt;, +5/+5 a un servitore nella tua mano.</itIT>
+		<jaJP>[x]&lt;b&gt;聖なる盾&lt;/b&gt;
 味方のミニオンが
-&lt;b&gt;聖なる盾&lt;/b&gt;を失った後、
-&amp;自分の手札のミニオン
-____1体に+5/+5を付与する。_</jaJP>
-		<koKR>&lt;b&gt;천상의 보호막&lt;/b&gt;, 아군 하수인이 &lt;b&gt;천상의 보호막&lt;/b&gt;을 잃은 후에,&amp; 내 손에 있는 하수인에게 +5/+5를 부여합니다.</koKR>
-		<plPL>&lt;b&gt;Boska_tarcza&lt;/b&gt;
-Gdy przyjazny_stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_stronnikowi w_twojej_ręce_+5/+5.</plPL>
-		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que um lacaio aliado perder &lt;b&gt;Escudo Divino&lt;/b&gt;,&amp; conceda +5/+5 a um lacaio da sua mão.</ptBR>
+&lt;b&gt;聖なる盾&lt;/b&gt;を失った後
+自分の手札のミニオン
+______1体に+5/+5を付与する。__</jaJP>
+		<koKR>&lt;b&gt;천상의 보호막&lt;/b&gt;, 아군 하수인이 &lt;b&gt;천상의_보호막&lt;/b&gt;을 잃은 후에, 내 손에 있는 하수인에게 +5/+5를 부여합니다.</koKR>
+		<plPL>&lt;b&gt;Boska tarcza&lt;/b&gt;
+Gdy przyjazny stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;, daj_stronnikowi w_twojej_ręce_+5/+5.</plPL>
+		<ptBR>&lt;b&gt;Escudo Divino&lt;/b&gt;. Depois que um lacaio aliado perder &lt;b&gt;Escudo Divino&lt;/b&gt;, conceda +5/+5 a um lacaio da sua mão.</ptBR>
 		<ruRU>&lt;b&gt;Божественный щит&lt;/b&gt;
-После того как ваше существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;,&amp; существо у вас в руке получает +5/+5.</ruRU>
-		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt; หลังจากมินเนี่ยนฝ่ายคุณเสีย &lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;&amp;_มอบ_+5/+5 ให้มินเนี่ยนหนึ่งใบในมือคุณ</thTH>
-		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;。在一个友方随从失去&lt;b&gt;圣盾&lt;/b&gt;后，&amp;使你手牌中的一张随从牌获得+5/+5。</zhCN>
+После того как ваше существо теряет &lt;b&gt;«Божественный щит»&lt;/b&gt;, существо у вас в руке получает +5/+5.</ruRU>
+		<thTH>&lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt; หลังจากมินเนี่ยนฝ่ายคุณเสีย &lt;b&gt;โล่ศักดิ์สิทธิ์&lt;/b&gt;_มอบ_+5/+5_ให้[b]มินเนี่ยนหนึ่งใบในมือคุณ</thTH>
+		<zhCN>&lt;b&gt;圣盾&lt;/b&gt;
+在一个友方随从失去&lt;b&gt;圣盾&lt;/b&gt;后，使你手牌中的一张随从牌获得+5/+5。</zhCN>
 		<zhTW>&lt;b&gt;聖盾術&lt;/b&gt;
-在友方手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，&amp;賦予你手中一個手下+5/+5</zhTW>
+在友方手下失去&lt;b&gt;聖盾術&lt;/b&gt;後，賦予你手中
+一個手下+5/+5</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>„Mein Glaube und mein Mut werden mich schützen. Und durch meine Ehre und mein Opfer wird sich ein anderer an meiner statt erheben.“</deDE>
@@ -918506,7 +918511,6 @@ Gdy przyjazny_stronnik straci &lt;b&gt;Boską_tarczę&lt;/b&gt;,&amp; daj_stronn
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="4"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="SW_047e" ID="64547" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -990449,7 +990453,7 @@ nella tua mano.</itIT>
 		<zhTW>他真的是我的另一半耶。</zhTW>
 	</Tag>
 	<Tag enumID="342" name="ARTISTNAME" type="String">Slawomir Maniak</Tag>
-	<Tag enumID="48" name="COST" type="Int" value="5"/>
+	<Tag enumID="48" name="COST" type="Int" value="7"/>
 	<Tag enumID="183" name="CARD_SET" type="Int" value="1957"/>
 	<Tag enumID="199" name="CLASS" type="Int" value="9"/>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
@@ -1001568,28 +1001572,33 @@ tu oponente.</esES>
 		<zhTW>青銅龍士兵</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Spott&lt;/b&gt;. &lt;b&gt;Kampfschrei:&lt;/b&gt;&amp; Verdoppelt das Leben dieses Dieners.</deDE>
+		<deDE>&lt;b&gt;Spott&lt;/b&gt;. &lt;b&gt;Kampfschrei:&lt;/b&gt; Verdoppelt das Leben dieses Dieners.</deDE>
 		<enUS>&lt;b&gt;Taunt&lt;/b&gt;
-&lt;b&gt;Battlecry:&lt;/b&gt;&amp; Double this minion's Health.</enUS>
-		<esES>&lt;b&gt;Provocar&lt;/b&gt;, &lt;b&gt;Grito de batalla:&lt;/b&gt;&amp; Duplica la salud de este esbirro.</esES>
+&lt;b&gt;Battlecry:&lt;/b&gt; Double this minion's Health.</enUS>
+		<esES>&lt;b&gt;Provocar&lt;/b&gt;
+&lt;b&gt;Grito de batalla:&lt;/b&gt;
+Duplica la salud
+de este esbirro.</esES>
 		<esMX>&lt;b&gt;Provocación&lt;/b&gt;
-&lt;b&gt;Grito de batalla:&lt;/b&gt;&amp; duplica la_Salud de este_esbirro.</esMX>
+&lt;b&gt;Grito de batalla:&lt;/b&gt; duplica la_Salud de este_esbirro.</esMX>
 		<frFR>&lt;b&gt;Provocation&lt;/b&gt;
-&lt;b&gt;Cri de guerre_:&lt;/b&gt;&amp; double les PV de ce serviteur.</frFR>
-		<itIT>&lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Grido di Battaglia:&lt;/b&gt;&amp; raddoppia la Salute di questo servitore.</itIT>
-		<jaJP>[x]&lt;b&gt;挑発&lt;/b&gt;、&lt;b&gt;雄叫び:&lt;/b&gt;&amp;
-このミニオンの
-体力を
+&lt;b&gt;Cri de guerre_:&lt;/b&gt; double les PV de ce serviteur.</frFR>
+		<itIT>&lt;b&gt;Provocazione&lt;/b&gt;.
+&lt;b&gt;Grido di Battaglia:&lt;/b&gt; raddoppia la Salute di questo servitore.</itIT>
+		<jaJP>[x]&lt;b&gt;挑発&lt;/b&gt;、&lt;b&gt;雄叫び:&lt;/b&gt;
+このミニオンの体力を
 2倍にする。</jaJP>
-		<koKR>&lt;b&gt;도발&lt;/b&gt;, &lt;b&gt;전투의 함성&lt;/b&gt;:&amp; 이 하수인의 생명력이 2배가 됩니다.</koKR>
+		<koKR>&lt;b&gt;도발&lt;/b&gt;, &lt;b&gt;전투의 함성&lt;/b&gt;:
+이 하수인의 생명력이 2배가 됩니다.</koKR>
 		<plPL>&lt;b&gt;Prowokacja&lt;/b&gt;
-&lt;b&gt;Okrzyk bojowy:&lt;/b&gt;&amp; podwój zdrowie_tego_stronnika.</plPL>
-		<ptBR>&lt;b&gt;Provocar&lt;/b&gt;. &lt;b&gt;Grito de Guerra:&lt;/b&gt;&amp; Dobre a Vida deste lacaio.</ptBR>
-		<ruRU>&lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Боевой клич:&lt;/b&gt;&amp; удваивает здоровье этого_существа.</ruRU>
-		<thTH>&lt;b&gt;ยั่วยุ&lt;/b&gt; &lt;b&gt;คำรามสู้ศึก:&lt;/b&gt;&amp; เพิ่มพลังชีวิตของมินเนี่ยน[b]ตัวนี้เป็นสองเท่า</thTH>
-		<zhCN>&lt;b&gt;嘲讽&lt;/b&gt;。&lt;b&gt;战吼：&lt;/b&gt;&amp;本随从的生命值翻倍。</zhCN>
+&lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Podwój_zdrowie tego_stronnika.</plPL>
+		<ptBR>&lt;b&gt;Provocar&lt;/b&gt;
+&lt;b&gt;Grito de Guerra:&lt;/b&gt; Dobre a Vida deste lacaio.</ptBR>
+		<ruRU>&lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Боевой клич:&lt;/b&gt; удваивает здоровье этого_существа.</ruRU>
+		<thTH>&lt;b&gt;ยั่วยุ&lt;/b&gt; &lt;b&gt;คำรามสู้ศึก:&lt;/b&gt; เพิ่ม[b]พลังชีวิตของมินเนี่ยน[b]ตัวนี้เป็นสองเท่า</thTH>
+		<zhCN>&lt;b&gt;嘲讽&lt;/b&gt;。&lt;b&gt;战吼：&lt;/b&gt;本随从的生命值翻倍。</zhCN>
 		<zhTW>&lt;b&gt;嘲諷&lt;/b&gt;
-&lt;b&gt;戰吼：&lt;/b&gt;&amp;此手下的
+&lt;b&gt;戰吼：&lt;/b&gt;此手下的
 生命值加倍</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
@@ -1001621,9 +1001630,6 @@ tu oponente.</esES>
 	<Tag enumID="218" name="BATTLECRY" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
 	<Tag enumID="2589" name="HAS_SIGNATURE_QUALITY" type="Int" value="1"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
-	<Tag enumID="4548" name="1" type="Int" value="1"/>
-	<Tag enumID="4930" name="1" type="Int" value="1"/>
 </Entity>
 <Entity CardID="TIME_720e" ID="121744" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -1007328,27 +1007334,32 @@ otorga +2/+2 a tus otros esbirros
 		<zhTW>疾風翻書者</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Nachdem Ihr einen Elementar herbeigerufen habt:&amp; Fügt einem zufälligen Feind 3_Schaden zu.</deDE>
+		<deDE>Fügt einem zufälligen Feind 3_Schaden zu, nachdem Ihr einen Elementar herbeigerufen habt.</deDE>
 		<enUS>[x]After you summon an
-Elemental,&amp; deal 3 damage
+Elemental, deal 3 damage
 to a random enemy.</enUS>
-		<esES>Después de que invoques un elemental,&amp; inflige 3 p. de daño a un enemigo aleatorio.</esES>
-		<esMX>Después de que invocas un Elemental,&amp; inflige 3 de daño a un enemigo aleatorio.</esMX>
-		<frFR>Une fois que vous avez invoqué un Élémentaire,&amp; inflige 3_points de dégâts à un personnage adverse aléatoire.</frFR>
-		<itIT>Dopo che è stato evocato un Elementale sotto il tuo controllo,&amp; infligge 3 danni a un nemico casuale.</itIT>
+		<esES>Después de que invoques un elemental, inflige
+3 p. de daño a un enemigo aleatorio.</esES>
+		<esMX>Después de que invocas
+un Elemental, inflige 3 de daño_a_un_enemigo_aleatorio.</esMX>
+		<frFR>Une fois que vous avez invoqué un Élémentaire, inflige 3_points de dégâts à un personnage adverse aléatoire.</frFR>
+		<itIT>Dopo che è stato evocato un Elementale sotto il tuo controllo, infligge 3 danni a un nemico casuale.</itIT>
 		<jaJP>[x]自分がエレメンタルを
-召喚した後、
-&amp;ランダムな敵1体に
-_____3ダメージを与える。_</jaJP>
-		<koKR>내가 정령을 소환한 후에,&amp; 무작위 적에게 피해를 3 줍니다.</koKR>
-		<plPL>Gdy przyzwiesz Żywiołaka,&amp; zadaj 3_pkt. obrażeń losowemu_wrogowi.</plPL>
-		<ptBR>Depois que você evocar um Elemental,&amp; cause 3 de dano a um inimigo aleatório.</ptBR>
+召喚した後
+ランダムな敵1体に
+_______3ダメージを与える。__</jaJP>
+		<koKR>내가 정령을 소환한 후에, 무작위 적에게 피해를 3 줍니다.</koKR>
+		<plPL>Gdy przyzwiesz Żywiołaka, zadaj 3_pkt._obrażeń losowemu_wrogowi.</plPL>
+		<ptBR>Depois que você evocar
+um Elemental, cause 3
+de dano a um lacaio_aleatório.</ptBR>
 		<ruRU>После того как вы призываете
-элементаля,&amp; наносит 3 ед. урона
+элементаля, наносит 3 ед. урона
 случайному противнику.</ruRU>
-		<thTH>หลังจากคุณเรียกวิญญาณ[b]ธาตุ&amp;_สุ่มสร้างความเสียหาย 3_แต้มให้ศัตรูหนึ่งตัว</thTH>
-		<zhCN>在你召唤一个元素后，&amp;随机对一个敌人造成3点伤害。</zhCN>
-		<zhTW>在你召喚元素後，&amp;對一個隨機敵人造成3點傷害</zhTW>
+		<thTH>หลังจากคุณเรียกวิญญาณ[b]ธาตุ_สุ่มสร้างความเสียหาย 3_แต้มให้ศัตรูหนึ่งตัว</thTH>
+		<zhCN>在你召唤一个元素后，随机对一个敌人造成3点伤害。</zhCN>
+		<zhTW>在你召喚元素後，對一個隨機敵人造成
+3點傷害</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Die Geschichte wird euch umpusten.</deDE>
@@ -1007377,7 +1007388,6 @@ _____3ダメージを与える。_</jaJP>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="4"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="1"/>
 	<Tag enumID="321" name="COLLECTIBLE" type="Int" value="1"/>
-	<Tag enumID="4533" name="CRAFTABLE_OUTPUT_POWER" type="Int" value="1"/>
 </Entity>
 <Entity CardID="TLC_221" ID="117532" version="2">
 	<Tag enumID="185" name="CARDNAME" type="LocString">
@@ -1010126,7 +1010136,7 @@ atacar e matar outro lacaio, receba uma cópia dele.</ptBR>
 		<esMX>&lt;b&gt;Estertor:&lt;/b&gt;&amp; inflige 2 de daño dividido aleatoriamente entre todos los enemigos.</esMX>
 		<frFR>&lt;b&gt;Râle d’agonie_:&lt;/b&gt;&amp; inflige 2_points de dégâts répartis de façon aléatoire entre les adversaires.</frFR>
 		<itIT>&lt;b&gt;Rantolo di Morte:&lt;/b&gt;&amp; infligge 2 danni suddivisi casualmente tra i nemici.</itIT>
-		<jaJP>[x]&lt;b&gt;雄叫び:&lt;/b&gt;&amp;
+		<jaJP>[x]&lt;b&gt;断末魔:&lt;/b&gt;&amp;
 合計2ダメージを
 全ての敵に
 ランダムに振り分ける。</jaJP>
@@ -1020932,50 +1020942,42 @@ de coste 4 y le otorga &lt;b&gt;Provocar&lt;/b&gt;.
 		<zhTW>光暗均衡</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>[x]&lt;b&gt;Quest:&lt;/b&gt; Wirkt 4 Heiligzauber.
-&lt;b&gt;Belohnung:&lt;/b&gt; Odem des Lebens.
-&lt;b&gt;Quest:&lt;/b&gt; Wirkt 4 Schattenzauber.
-&lt;b&gt;Belohnung:&lt;/b&gt; Berührung des Todes.</deDE>
-		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 4 Holy spells
+		<deDE>&lt;b&gt;Quest:&lt;/b&gt; Wirkt 6 Heiligzauber. &lt;b&gt;Belohnung:&lt;/b&gt; Odem des Lebens. &lt;b&gt;Quest:&lt;/b&gt; Wirkt 6 Schattenzauber. &lt;b&gt;Belohnung:&lt;/b&gt; Berührung des Todes.</deDE>
+		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 6 Holy spells.
 &lt;b&gt;Reward:&lt;/b&gt; Life's Breath.
-&lt;b&gt;Quest:&lt;/b&gt; Cast 4 Shadow spells.
+&lt;b&gt;Quest:&lt;/b&gt; Cast 6 Shadow spells.
 &lt;b&gt;Reward:&lt;/b&gt; Death's Touch.</enUS>
-		<esES>&lt;b&gt;Misión:&lt;/b&gt; Lanza 4 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt;
-Hálito Vital. &lt;b&gt;Misión:&lt;/b&gt; Lanza 4_hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque Mortal.</esES>
-		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 4 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt; Aliento de_vida. &lt;b&gt;Misión:&lt;/b&gt; lanza 4 hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque de la muerte.</esMX>
-		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer_4_sorts_du_sacré.
+		<esES>&lt;b&gt;Misión:&lt;/b&gt; Lanza 6 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt; Hálito Vital.
+&lt;b&gt;Misión:&lt;/b&gt; Lanza 6_hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque Mortal.</esES>
+		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 6 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt; Aliento de vida. &lt;b&gt;Misión:&lt;/b&gt; lanza 6 hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque de la muerte.</esMX>
+		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer_6_sorts_du_sacré.
 &lt;b&gt;Récompense_:&lt;/b&gt; Souffle de vie.
-&lt;b&gt;Quête_:&lt;/b&gt; lancer 4_sorts d’ombre.
+&lt;b&gt;Quête_:&lt;/b&gt; lancer 6_sorts d’ombre.
 &lt;b&gt;Récompense_:&lt;/b&gt; Toucher de la mort.</frFR>
-		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia
-4 Magie Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale. &lt;b&gt;Missione:&lt;/b&gt; lancia
-4 Magie d'Ombra. &lt;b&gt;Ricompensa:&lt;/b&gt; Tocco di Morte.</itIT>
+		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia 6 Magie Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale. &lt;b&gt;Missione:&lt;/b&gt; lancia 6 Magie d'Ombra. &lt;b&gt;Ricompensa:&lt;/b&gt; Tocco di Morte.</itIT>
 		<jaJP>[x]&lt;b&gt;クエスト:&lt;/b&gt;
-神聖呪文を合計4回使う。
+神聖呪文を合計6回使う。
 &lt;b&gt;報酬:&lt;/b&gt;_生命の息吹
 &lt;b&gt;クエスト:&lt;/b&gt;
-影呪文を合計4回使う。
-&lt;b&gt;報酬:&lt;/b&gt;
-「死の一触ソレトス」</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트:&lt;/b&gt; 신성 주문 4개 시전
-&lt;b&gt;보상:&lt;/b&gt; 생명의 숨결
-&lt;b&gt;퀘스트:&lt;/b&gt; 암흑 주문 4개 시전
-&lt;b&gt;보상:&lt;/b&gt; 죽음의 손길</koKR>
-		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt;_Rzuć_4_zaklęcia_Świętości. &lt;b&gt;Nagroda:&lt;/b&gt; Tchnienie Życia. &lt;b&gt;Zadanie:&lt;/b&gt;_Rzuć 4 zaklęcia Cienia. &lt;b&gt;Nagroda:&lt;/b&gt; Dotyk Śmierci.</plPL>
-		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 4 feitiços Sagrados.
-&lt;b&gt;Recompensa:&lt;/b&gt; Sopro de Vida.
-&lt;b&gt;Missão:&lt;/b&gt; Lance 4 feitiços de Sombra.
-&lt;b&gt;Recompensa:&lt;/b&gt;_Toque_da_Morte.</ptBR>
-		<ruRU>[x]&lt;b&gt;Задача:&lt;/b&gt; примените 4
-заклинания Света. &lt;b&gt;Награда:&lt;/b&gt;
-«Дыхание жизни». &lt;b&gt;Задача:&lt;/b&gt;
-примените 4 заклинания Тьмы.
- &lt;b&gt;Награда:&lt;/b&gt; «Касание Смерти».</ruRU>
-		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์ศักดิ์สิทธิ์ 4_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt;_ลมหายใจของชีวิต &lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์ความมืด 4_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt;_สัมผัสมรณะ</thTH>
-		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放4个神圣法术。&lt;b&gt;奖励：&lt;/b&gt;生命之息。&lt;b&gt;任务：&lt;/b&gt;施放4个暗影法术。&lt;b&gt;奖励：&lt;/b&gt;死亡之触。</zhCN>
-		<zhTW>[x]&lt;b&gt;任務：&lt;/b&gt;施放4個神聖法術
+影呪文を合計6回使う。
+&lt;b&gt;報酬:&lt;/b&gt;_死の一触</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트&lt;/b&gt;: 신성 주문 6개 시전
+&lt;b&gt;보상&lt;/b&gt;: 생명의 숨결
+&lt;b&gt;퀘스트&lt;/b&gt;: 암흑 주문 6개 시전
+&lt;b&gt;보상&lt;/b&gt;: 죽음의 손길</koKR>
+		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_6_zaklęć_Świętości. &lt;b&gt;Nagroda:&lt;/b&gt; Tchnienie_Życia.
+&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_6_zaklęć_Cienia. &lt;b&gt;Nagroda:&lt;/b&gt; Dotyk_Śmierci.</plPL>
+		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 6 feitiços_Sagrados.
+&lt;b&gt;Recompensa:&lt;/b&gt; Sopro de Vida. &lt;b&gt;Missão:&lt;/b&gt; Lance 6 feitiços de Sombra. &lt;b&gt;Recompensa:&lt;/b&gt;_Toque_da_Morte.</ptBR>
+		<ruRU>[x]&lt;b&gt;Задача:&lt;/b&gt; примените 6 заклинаний
+Света. &lt;b&gt;Награда:&lt;/b&gt; «Дыхание жизни».
+&lt;b&gt;Задача: &lt;/b&gt;примените 6 заклинаний
+Тьмы. &lt;b&gt;Награда: &lt;/b&gt;«Касание Смерти».</ruRU>
+		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์ศักดิ์สิทธิ์ 6_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt;_ลมหายใจของชีวิต &lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์ความมืด 6_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt;_สัมผัสมรณะ</thTH>
+		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放6个神圣法术。&lt;b&gt;奖励：&lt;/b&gt;生命之息。&lt;b&gt;任务：&lt;/b&gt;施放6个暗影法术。&lt;b&gt;奖励：&lt;/b&gt;死亡之触。</zhCN>
+		<zhTW>[x]&lt;b&gt;任務：&lt;/b&gt;施放6個神聖法術
 &lt;b&gt;獎勵：&lt;/b&gt;生命之息
-&lt;b&gt;任務：&lt;/b&gt;施放4個暗影法術
+&lt;b&gt;任務：&lt;/b&gt;施放6個暗影法術
 &lt;b&gt;獎勵：&lt;/b&gt;死亡之觸</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
@@ -1021028,37 +1021030,33 @@ Hálito Vital. &lt;b&gt;Misión:&lt;/b&gt; Lanza 4_hechizos de las Sombras. &lt;
 		<zhTW>淨化暗影</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Quest:&lt;/b&gt;
-Wirkt 4_Heiligzauber.
-&lt;b&gt;Belohnung:&lt;/b&gt; Odem
-des Lebens.</deDE>
-		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 4 Holy spells.
+		<deDE>&lt;b&gt;Quest:&lt;/b&gt; Wirkt 6_Heiligzauber. &lt;b&gt;Belohnung:&lt;/b&gt; Odem des Lebens.</deDE>
+		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 6 Holy spells.
 &lt;b&gt;Reward:&lt;/b&gt; Life's Breath.</enUS>
-		<esES>&lt;b&gt;Misión:&lt;/b&gt; Lanza
-4 hechizos Sagrados.
-&lt;b&gt;Recompensa:&lt;/b&gt; Hálito Vital.</esES>
-		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 4 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt; Aliento de_vida.</esMX>
-		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer 4_sorts du sacré.
+		<esES>&lt;b&gt;Misión:&lt;/b&gt;
+Lanza 6 hechizos Sagrados.
+&lt;b&gt;Recompensa:&lt;/b&gt;
+Hálito Vital.</esES>
+		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 6 hechizos Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt; Aliento_de_vida.</esMX>
+		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer 6_sorts du sacré.
 &lt;b&gt;Récompense_:&lt;/b&gt;
 Souffle de_vie.</frFR>
-		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia_4_Magie
-Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale.</itIT>
+		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia 6 Magie Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale.</itIT>
 		<jaJP>[x]&lt;b&gt;クエスト:&lt;/b&gt;
-神聖呪文を合計4回使う。
-&lt;b&gt;報酬:&lt;/b&gt;
-「生命の息吹ソレトス」</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트:&lt;/b&gt; 신성 주문을
-4개 시전해야 합니다.
-&lt;b&gt;보상:&lt;/b&gt; 생명의 숨결</koKR>
-		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_4_zaklęcia_Świętości. &lt;b&gt;Nagroda:&lt;/b&gt; Tchnienie_Życia.</plPL>
-		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 4 feitiços Sagrados.
-&lt;b&gt;Recompensa:&lt;/b&gt; Sopro_de_Vida.</ptBR>
+神聖呪文を合計6回使う。
+&lt;b&gt;報酬:&lt;/b&gt;_生命の息吹</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트&lt;/b&gt;: 신성 주문을
+6개 시전해야 합니다.
+&lt;b&gt;보상&lt;/b&gt;: 생명의 숨결</koKR>
+		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_6_zaklęć_Świętości. &lt;b&gt;Nagroda:&lt;/b&gt; Tchnienie_Życia.</plPL>
+		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 6 feitiços Sagrados. &lt;b&gt;Recompensa:&lt;/b&gt;
+Sopro de Vida.</ptBR>
 		<ruRU>[x]&lt;b&gt;Задача:&lt;/b&gt; примените
-4 заклинания Света.
- &lt;b&gt;Награда:&lt;/b&gt; «Дыхание Жизни».</ruRU>
-		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์_[b]ศักดิ์สิทธิ์_4_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt; ลมหายใจของชีวิต</thTH>
-		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放4个神圣法术。&lt;b&gt;奖励：&lt;/b&gt;生命之息。</zhCN>
-		<zhTW>&lt;b&gt;任務：&lt;/b&gt;施放4個
+6 заклинаний Света.
+&lt;b&gt;Награда:&lt;/b&gt; «Дыхание Жизни».</ruRU>
+		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์_[b]ศักดิ์สิทธิ์_6_ใบ_&lt;b&gt;รางวัล:&lt;/b&gt; ลมหายใจของชีวิต</thTH>
+		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放6个神圣法术。&lt;b&gt;奖励：&lt;/b&gt;生命之息。</zhCN>
+		<zhTW>&lt;b&gt;任務：&lt;/b&gt;施放6個
 神聖法術
 &lt;b&gt;獎勵：&lt;/b&gt;生命之息</zhTW>
 	</Tag>
@@ -1021069,7 +1021067,7 @@ Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale.</itIT>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="462" name="QUEST" type="Int" value="1"/>
-	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="4"/>
+	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="6"/>
 	<Tag enumID="676" name="DONT_PICK_FROM_SUBSETS" type="Int" value="1"/>
 	<Tag enumID="1089" name="QUEST_REWARD_DATABASE_ID" type="Int" value="118551"/>
 	<Tag enumID="2519" name="BACON_EVOLUTION_CARD_ID" type="Int" value="119879"/>
@@ -1021093,36 +1021091,33 @@ Sacre. &lt;b&gt;Ricompensa:&lt;/b&gt; Respiro Vitale.</itIT>
 		<zhTW>腐化聖光</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>&lt;b&gt;Quest:&lt;/b&gt; Wirkt 4_Schattenzauber.
-&lt;b&gt;Belohnung:&lt;/b&gt; Berührung des Todes.</deDE>
-		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 4 Shadow spells.
+		<deDE>&lt;b&gt;Quest:&lt;/b&gt; Wirkt 6_Schattenzauber. &lt;b&gt;Belohnung:&lt;/b&gt; Berührung des Todes.</deDE>
+		<enUS>[x]&lt;b&gt;Quest:&lt;/b&gt; Cast 6 Shadow spells.
 &lt;b&gt;Reward:&lt;/b&gt; Death's Touch.</enUS>
-		<esES>[x]&lt;b&gt;Misión:&lt;/b&gt; Lanza
-4 hechizos de las Sombras.
-&lt;b&gt;Recompensa:&lt;/b&gt; Toque Mortal.</esES>
-		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 4 hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque de la muerte.</esMX>
-		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer 4_sorts d’ombre.
+		<esES>&lt;b&gt;Misión:&lt;/b&gt;
+Lanza 6_hechizos de las Sombras.
+&lt;b&gt;Recompensa:&lt;/b&gt;
+Toque Mortal.</esES>
+		<esMX>&lt;b&gt;Misión:&lt;/b&gt; lanza 6 hechizos de las Sombras. &lt;b&gt;Recompensa:&lt;/b&gt; Toque de_la_muerte.</esMX>
+		<frFR>&lt;b&gt;Quête_:&lt;/b&gt; lancer 6_sorts d’ombre.
 &lt;b&gt;Récompense_:&lt;/b&gt;
 Toucher de la mort.</frFR>
-		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia
-4 Magie d'Ombra. &lt;b&gt;Ricompensa:&lt;/b&gt; Tocco
-di Morte.</itIT>
+		<itIT>&lt;b&gt;Missione:&lt;/b&gt; lancia 6 Magie d'Ombra. &lt;b&gt;Ricompensa:&lt;/b&gt; Tocco di Morte.</itIT>
 		<jaJP>[x]&lt;b&gt;クエスト:&lt;/b&gt;
-影呪文を合計4回使う。
-&lt;b&gt;報酬:&lt;/b&gt;
-「死の一触ソレトス」</jaJP>
-		<koKR>[x]&lt;b&gt;퀘스트:&lt;/b&gt; 암흑 주문을
-4개 시전해야 합니다.
-&lt;b&gt;보상:&lt;/b&gt; 죽음의 손길</koKR>
-		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_4_zaklęcia_Cienia. &lt;b&gt;Nagroda:&lt;/b&gt; Dotyk Śmierci.</plPL>
-		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 4 feitiços de Sombra.
-&lt;b&gt;Recompensa:&lt;/b&gt; Toque_da_Morte.</ptBR>
+影呪文を合計6回使う。
+&lt;b&gt;報酬:&lt;/b&gt;_死の一触</jaJP>
+		<koKR>[x]&lt;b&gt;퀘스트&lt;/b&gt;: 암흑 주문을
+6개 시전해야 합니다.
+&lt;b&gt;보상&lt;/b&gt;: 죽음의 손길</koKR>
+		<plPL>&lt;b&gt;Zadanie:&lt;/b&gt; Rzuć_6_zaklęć_Cienia. &lt;b&gt;Nagroda:&lt;/b&gt; Dotyk_Śmierci.</plPL>
+		<ptBR>&lt;b&gt;Missão:&lt;/b&gt; Lance 6 feitiços de Sombra. &lt;b&gt;Recompensa:&lt;/b&gt;
+Toque da Morte.</ptBR>
 		<ruRU>[x]&lt;b&gt;Задача:&lt;/b&gt; примените
-4 заклинания Тьмы.
+6 заклинаний Тьмы.
 &lt;b&gt;Награда:&lt;/b&gt; «Касание Смерти».</ruRU>
-		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์[b]ความมืด_4_ใบ &lt;b&gt;รางวัล:&lt;/b&gt;_สัมผัสมรณะ</thTH>
-		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放4个暗影法术。&lt;b&gt;奖励：&lt;/b&gt;死亡之触。</zhCN>
-		<zhTW>&lt;b&gt;任務：&lt;/b&gt;施放4個
+		<thTH>&lt;b&gt;เควสต์:&lt;/b&gt;_ร่ายเวทมนตร์[b]ความมืด_6_ใบ &lt;b&gt;รางวัล:&lt;/b&gt;_สัมผัสมรณะ</thTH>
+		<zhCN>&lt;b&gt;任务：&lt;/b&gt;施放6个暗影法术。&lt;b&gt;奖励：&lt;/b&gt;死亡之触。</zhCN>
+		<zhTW>&lt;b&gt;任務：&lt;/b&gt;施放6個
 暗影法術
 &lt;b&gt;獎勵：&lt;/b&gt;死亡之觸</zhTW>
 	</Tag>
@@ -1021133,7 +1021128,7 @@ di Morte.</itIT>
 	<Tag enumID="202" name="CARDTYPE" type="Int" value="5"/>
 	<Tag enumID="203" name="RARITY" type="Int" value="5"/>
 	<Tag enumID="462" name="QUEST" type="Int" value="1"/>
-	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="4"/>
+	<Tag enumID="535" name="QUEST_PROGRESS_TOTAL" type="Int" value="6"/>
 	<Tag enumID="676" name="DONT_PICK_FROM_SUBSETS" type="Int" value="1"/>
 	<Tag enumID="1089" name="QUEST_REWARD_DATABASE_ID" type="Int" value="118552"/>
 	<Tag enumID="2519" name="BACON_EVOLUTION_CARD_ID" type="Int" value="119879"/>
@@ -1235443,27 +1235438,33 @@ na polu bitwy.</plPL>
 		<zhTW>重生</zhTW>
 	</Tag>
 	<Tag enumID="184" name="CARDTEXT" type="LocString">
-		<deDE>Vernichtet einen Diener und belebt ihn dann mit vollem Leben wieder.</deDE>
-		<enUS>Destroy a minion,
-then return it to life with full Health.</enUS>
-		<esES>Destruye a un esbirro y lo devuelve a la vida con toda su salud.</esES>
-		<esMX>Destruye un esbirro y luego devuélvelo a la vida con toda la Salud.</esMX>
-		<frFR>Détruit un serviteur, puis le ramène à la vie avec tous ses PV.</frFR>
-		<itIT>Distrugge un servitore e lo riporta in vita con la Salute al massimo.</itIT>
-		<jaJP>ミニオン1体を
-破壊した後
-それを体力最大の
-状態で復活させる。</jaJP>
-		<koKR>하수인을 처치하고, 그 하수인을 최대 생명력으로 다시 소환합니다.</koKR>
-		<plPL>Zniszcz stronnika, a_następnie przywróć
-go do życia z_pełnym zdrowiem.</plPL>
-		<ptBR>Destrua um lacaio, depois ressuscite-o com a Vida completa.</ptBR>
-		<ruRU>[x]Уничтожает существо,
-а затем возрождает его
-с полным здоровьем.</ruRU>
-		<thTH>ทำลายมินเนี่ยนหนึ่งตัว จากนั้นชุบชีวิตมัน[b]พร้อมพลังชีวิตเต็ม</thTH>
-		<zhCN>消灭一个随从，然后将其复活，并具有所有生命值。</zhCN>
-		<zhTW>摧毀一個手下，再將其復活並使生命值恢復全滿</zhTW>
+		<deDE>Vernichtet einen nicht-&lt;b&gt;legendären&lt;/b&gt; Diener und belebt ihn dann mit vollem Leben wieder.</deDE>
+		<enUS>[x]Destroy a
+non-&lt;b&gt;Legendary&lt;/b&gt; minion,
+then return it to life
+with full Health.</enUS>
+		<esES>Destruye a un esbirro &lt;b&gt;no_legendario&lt;/b&gt;
+y lo devuelve a la vida con_toda su salud.</esES>
+		<esMX>Destruye un esbirro no &lt;b&gt;Legendario&lt;/b&gt; y luego devuélvelo a la vida con toda la Salud.</esMX>
+		<frFR>Détruit un serviteur non &lt;b&gt;légendaire&lt;/b&gt;, puis le_ramène à la vie avec tous ses PV.</frFR>
+		<itIT>Distrugge un servitore non &lt;b&gt;Leggendario&lt;/b&gt; e poi lo riporta in vita con la Salute al massimo.</itIT>
+		<jaJP>[x]&lt;b&gt;レジェンド&lt;/b&gt;ではないミニオン
+1体を破壊した後
+そのミニオンを
+体力が最大の状態で
+復活させる。</jaJP>
+		<koKR>[x]&lt;b&gt;전설&lt;/b&gt; 하수인이 아닌 하수인을
+처치하고, 그 하수인을 최대
+생명력으로 다시 소환합니다.</koKR>
+		<plPL>Zniszcz nie&lt;b&gt;legendarnego&lt;/b&gt; stronnika, a_następnie przywróć_go do_życia z_pełnym_zdrowiem.</plPL>
+		<ptBR>Destrua um lacaio que não é &lt;b&gt;Lendário&lt;/b&gt;, depois ressuscite-o com a Vida completa.</ptBR>
+		<ruRU>[x]Уничтожает &lt;b&gt;нелегендарное&lt;/b&gt;
+существо, а затем возрождает
+его с полным здоровьем.</ruRU>
+		<thTH>ทำลายมินเนี่ยนที่ไม่ใช่ระดับ &lt;b&gt;ตำนาน&lt;/b&gt; หนึ่งตัว จากนั้นชุบ[b]ชีวิตมันพร้อมพลังชีวิตเต็ม</thTH>
+		<zhCN>消灭一个非&lt;b&gt;传说&lt;/b&gt;随从，然后将其复活，并具有所有生命值。</zhCN>
+		<zhTW>摧毀一個非&lt;b&gt;傳說&lt;/b&gt;
+手下，再將其復活並使生命值恢復全滿</zhTW>
 	</Tag>
 	<Tag enumID="351" name="FLAVORTEXT" type="LocString">
 		<deDE>Wie geboren werden, nur ist man dabei schon erwachsen und war gerade eben noch mausetot.</deDE>

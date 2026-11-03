@@ -750,7 +750,7 @@ GLOBAL_KEYWORD_BACON_ACTIVATE_TEXT	Raz na turę kliknij, by wydać X szt. złota
 GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP	Aktywacja (X)	
 GLOBAL_KEYWORD_BACON_ACTIVATE_TOOLTIP_TEXT	Raz na turę kliknij, by wydać X szt. złota i wyzwolić efekt.	
 GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS	Dodatkowe słowa kluczowe	
-GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT	Prowokacja, Boska tarcza, Odrodzenie, Jad, Furia wichru, Ukrycie	
+GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT	Prowokacja, Boska_tarcza, Odrodzenie, Jad, Furia_wichru, Ukrycie	
 GLOBAL_KEYWORD_BACON_BOUNTY	Zlecenie	
 GLOBAL_KEYWORD_BACON_BOUNTY_TEXT	Zaklęcie z Karczmy z Poziomu 3 jest dostępne, gdy w poczekalni są Piraci.	
 GLOBAL_KEYWORD_BACON_BUDDY	Towarzysz	

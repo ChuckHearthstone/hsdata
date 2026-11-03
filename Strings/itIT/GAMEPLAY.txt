@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Fuori da questa partita:
 GAMEPLAY_TOOLTIP_BLOOD	Sangue	
 GAMEPLAY_TOOLTIP_CORPSES	Cadaveri	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Risorsa ottenuta quando un tuo servitore muore.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Infligge 7 danni suddivisi casualmente tra i nemici.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Infligge 6 danni suddivisi casualmente tra i nemici.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Ira di C'thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	+2/+3 a due altri tuoi servitori casuali.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	+2/+2 ad altri due tuoi servitori casuali.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Dominio di C'thun	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Furto Vitale</b>.\nInfligge 5 danni a un servitore nemico.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Sguardo di C'thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Evoca due Fanatici 2/3 con <b>Provocazione</b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Evoca due Fanatici 2/2 con <b>Provocazione</b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Servi di C'thun	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Hai ancora {0} |4(carta,carte).	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Hai un portale infinito di Demoni.	

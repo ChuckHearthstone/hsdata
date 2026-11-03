@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	No en esta partida:
 GAMEPLAY_TOOLTIP_BLOOD	Sangre	
 GAMEPLAY_TOOLTIP_CORPSES	Cadáveres	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Recurso obtenido cuando muere un esbirro amistoso.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Inflige 7 p. de daño que se reparte aleatoriamente entre los enemigos.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Inflige 6 p. de daño que se reparte aleatoriamente entre los enemigos.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Cólera de C'Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Otorga +2/+3 a otros dos esbirros amistosos aleatorios.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Otorga +2/+2 a otros dos esbirros amistosos aleatorios.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Dominio de C'Thun	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Robo de vida</b>.\nInflige 5 p. de daño a un esbirro enemigo.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Mirada de C'Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Invoca a dos fanáticos 2/3 con </b>Provocar<b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Invoca a dos fanáticos 2/2 con </b>Provocar<b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Siervos de C'Thun	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Tienes {0} |4(carta,cartas) en el mazo.	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Tienes un portal de demonios interminable.	

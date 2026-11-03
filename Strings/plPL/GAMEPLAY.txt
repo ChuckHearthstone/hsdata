@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Poza tą grą:
 GAMEPLAY_TOOLTIP_BLOOD	Krew	
 GAMEPLAY_TOOLTIP_CORPSES	Trupy	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Zasoby otrzymywane po śmierci przyjaznego stronnika.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Rozdziel losowo 7_pkt._obrażeń między_wrogów.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Rozdziel losowo 6_pkt._obrażeń między_wrogów.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Gniew C'Thuna	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Daj_dwóm_innym losowym przyjaznym stronnikom_+2/+3.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Daj_dwóm_innym losowym przyjaznym stronnikom_+2/+2.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Domena C’Thuna	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Kradzież życia</b>\nZadaj 5_pkt. obrażeń wrogiemu_stronnikowi.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Spojrzenie C'Thuna	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Przyzwij dwie Fanatyczki_2/3 z_<b>Prowokacją</b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Przyzwij dwie Fanatyczki_2/2 z_<b>Prowokacją</b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Sługi Cֹ’Thuna	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Masz {0} |4(kartę,karty,kart) w talii.	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Masz niekończący się portal Demonów.	

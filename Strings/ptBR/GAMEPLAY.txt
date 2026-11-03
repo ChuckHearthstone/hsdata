@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Não está na partida:
 GAMEPLAY_TOOLTIP_BLOOD	Sangue	
 GAMEPLAY_TOOLTIP_CORPSES	Cadáveres	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Recurso obtido quando um lacaio aliado morre.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Cause 7 de dano dividido aleatoriamente entre inimigos.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Cause 6 de dano dividido aleatoriamente entre inimigos.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Ira de C'Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Conceda +2/+3 a dois outros lacaios aliados aleatórios.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Conceda +2/+2 a dois outros lacaios aliados aleatórios.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Domínio de C'Thun	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Roubar Vida</b>.\nCause 5 de dano a um lacaio inimigo.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Olhar de C'Thun	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Evoque dois Fanáticos 2/3 com </b>Provocar<b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Evoque dois Fanáticos 2/2 com </b>Provocar<b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Servos de C'Thun	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Você tem {0} |4(card,cards) no seu deck.	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	Você tem um portal infinito de Demônios.	

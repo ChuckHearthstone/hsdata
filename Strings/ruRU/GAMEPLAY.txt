@@ -498,13 +498,13 @@ GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Не представлены:
 GAMEPLAY_TOOLTIP_BLOOD	Кровь	
 GAMEPLAY_TOOLTIP_CORPSES	Трупы	
 GAMEPLAY_TOOLTIP_CORPSES_DESCRIPTION	Ресурс накапливается, когда погибает дружественное существо.	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Наносит 7 ед. урона, случайно распределяемого между противниками.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_CARD_TEXT	Наносит 6 ед. урона, случайно распределяемого между противниками.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_1_NAME	Гнев К'Туна	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Два других ваших случайных существа получают +2/+3.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_CARD_TEXT	Два других ваших случайных существа получают +2/+2.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_2_NAME	Власть К'Туна	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_CARD_TEXT	<b>Похищение жизни</b>.\nНаносит 5 ед. урона существу противника.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_3_NAME	Взор К'Туна	
-GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Призывает двух фанатиков 2/3 с </b>«Провокацией»<b>.	
+GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_CARD_TEXT	Призывает двух фанатиков 2/2 с </b>«Провокацией»<b>.	
 GAMEPLAY_TOOLTIP_CTHUN_ABILITY_4_NAME	Слуги К'Туна	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	В вашей колоде {0} |4(карта,карты,карт).	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION_DEMON_PORTAL_FRIENDLY	У вас есть портал, бесконечно извергающий демонов.	
